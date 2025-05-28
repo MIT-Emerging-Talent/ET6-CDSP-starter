@@ -36,7 +36,8 @@
 
 ## Purpose
 
-We strive to create an inclusive environment where every member feels valued, informed, and empowered to contribute.
+We strive to create an inclusive environment where every member feels valued,
+informed, and empowered to contribute.
 
 ---
 
@@ -62,10 +63,11 @@ We strive to create an inclusive environment where every member feels valued, in
 
 ## Meeting Protocol
 
-- **Agenda:** Prepared and shared by the Facilitator at least 24 hours in advance.  
-- **Punctuality:** Meetings start and end on time; all time zones are respected.  
-- **Preparation:** Review agenda and any pre-read materials before each session.  
-- **Documentation:** Scribe records minutes and action items; distributed within 24 hours.  
+- **Agenda:** Prepared and shared by the Facilitator at least 24 hours in advance.
+- **Punctuality:** Meetings start and end on time; all time zones are respected.
+- **Preparation:** Review agenda and any pre-read materials before each session.
+- **Documentation:** Scribe records minutes and action items; distributed
+ within 24 hours.
 - **Focus:** Stay on topic; note off-topic items for future discussion.
 
 ---
@@ -104,7 +106,7 @@ We strive to create an inclusive environment where every member feels valued, in
 - Clearly state objectives and criteria before starting a debate.  
 - Use structured approaches (e.g., pros/cons lists, voting) for key decisions.  
 - Debate ideas, not individuals; remain respectful at all times.  
-- Seek consensus when possible; be prepared to move forward with majority support.  
+- Seek consensus when possible; be prepared to move forward with majority support.
 - Document decisions and rationale for future reference.
 
 ---
@@ -130,11 +132,15 @@ We strive to create an inclusive environment where every member feels valued, in
 ## Schedule & Deliverables
 
 - Establish clear deadlines and milestones at the start of each project phase.
-- Select session times collaboratively, ensuring they accommodate all members’ time zones.
+- Select session times collaboratively, ensuring they accommodate all members’
+ time zones.
 - Rotate responsibility for recording meetings and coordinating scheduling polls.
-- Use shared tools (e.g., team calendar, Doodle) to coordinate dates; confirm availability at least 48 hours in advance.
-- Schedule regular progress checkpoints (e.g., weekly or biweekly) to review tasks and adjust timelines.
-- **Attendance Goal:** Hold at least two sessions per week so every member can attend at least one.
+- Use shared tools (e.g., team calendar, Doodle) to coordinate dates; confirm
+availability at least 48 hours in advance.
+- Schedule regular progress checkpoints (e.g., weekly or biweekly) to review tasks
+and adjust timelines.
+- **Attendance Goal:** Hold at least two sessions per week so every member can
+attend at least one.
 
 ---
 
@@ -200,5 +206,7 @@ We strive to create an inclusive environment where every member feels valued, in
 
 ## Summary of Norms
 
-Our group strives to maintain trust, foster clear communication, and uphold respect in all interactions. By committing to adaptability, inclusivity, and shared accountability, we aim to create an environment where everyone feels valued and empowered to succeed.
-
+Our group strives to maintain trust, foster clear communication, and uphold
+respect in all interactions. By committing to adaptability, inclusivity, and
+ shared accountability, we aim to create an environment where everyone feels
+ valued and empowered to succeed.
