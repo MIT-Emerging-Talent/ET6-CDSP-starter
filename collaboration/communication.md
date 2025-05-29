@@ -13,17 +13,32 @@
 
 ## Communication Schedule
 
-| Day | How | The topic of discussion | | --- | :-: | ----------------------- |
-| | | |
+<!-- markdownlint-disable MD013 MD004 -->
+
+| **Day**   | **How**      | **Topic of Discussion**                  | **Link**                                      |
+|-----------|--------------|------------------------------------------|----------------------------------------------|
 
 ## Communication Channels
 
-how often will we get in touch on each channel, and what we will discuss there:
+| **Channel**  | **How often**       | **Discussed there**                |
+|--------------|---------------------|-------------------------------------|
+| Slack        | Everyday            | Meeting links, Important Announcements |
+| GitHub       | Everyday            | On Project Board and Discussions   |
+| Video Calls  | Twice a week        | Everything                         |
 
-- **Issues**:
-- **Pull Requests**:
-- **Slack/Discord**:
-- **Video Calls**:
++ **Our team also commits to being active and responsive on Slack:**  
+  - To support those without daily computer access.  
+  - Also, to stay in touch between meetings.  
+
++ **Issues:**
+  - **Occurrence:** Whenever necessary  
+  - **Topic:** Tracking Tasks and documentation  
+    - Adding tag labels: Documentation, Task, Error, Bug, etc.  
+
++ **Pull Requests:**
+  - **Occurrence:** Notifying team through Slack
+  - **Topic:**  Reviewing codes and documentation  
+    - Ensuring at least one team member approves before merging
 
 ---
 
@@ -31,14 +46,19 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ### Availability for calling/messaging
 
-| Day    | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |     |
-| ------ | :----: | :-----: | :-------: | :------: | :----: | :------: | :----: | --- |
+| Day    | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
+| ------ | :----: | :-----: | :-------: | :------: | :----: | :------: | :----: |
+| _name_ |        |         |           |   Ghyath |        |          | Ghyath |
+| _name_ |        |         |           |    Tamir |Tamir   |   Tamir  |        |
+| _name_ |        |         |           |          |        |          |        |
+| _name_ |        |         |           |          |        |          |        |
+| _name_ |        |         |           |          |        |          |        |
 | _name_ |        |         |           |          |        |          |        |
 
 ### How many hours everyone has per day
 
-- name: _5h_;
-- name: _6h_;
+- Ghyath Ibrahim: _2h_;
+- Tamir Salih: _2h_;
 - name: _5h_;
 - name: _4h_;
 - name: _3h_;
