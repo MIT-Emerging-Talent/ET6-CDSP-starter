@@ -19,7 +19,7 @@ Internal involuntary constraints arise from unavoidable limitations within
  the team or organization.
 
 - **Varying Levels in Programming**: The team has varying levels of
-- programming expertise. Prioritizing tasks that align with team
+ programming expertise. Prioritizing tasks that align with team
  members’ learning goals or strengths to foster growth while
  ensuring quality output.
 - **Time Availability**: Team members may have limited hours
