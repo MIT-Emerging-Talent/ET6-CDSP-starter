@@ -34,7 +34,6 @@ how often will we get in touch on each channel, and what we will discuss there:
 | Day    | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
 | ------ | :----: | :-----: | :-------: | :------: | :----: | :------: | :----: |
 | Ava    |  ✔️    |✔️      |✔️         |✔️|        ❌|    ❌      |  ✔️      |
-| Ava    |  ✔️    |✔️      |✔️         |✔️|        ❌|    ❌      |  ✔️      |
 
 ### How many hours everyone has per day
 
