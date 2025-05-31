@@ -24,7 +24,7 @@ These are challenges from within the team that we can't fully control:
 - 🧑‍💻 Varying **skill levels** in programming and Git/GitHub usage.
 - 🕰️ Limited **working hours** due to personal or professional commitments.
 - 🌎 **Different time zones** can make real-time collaboration harder.
-- 👶 Some teammates have **families and children** which can affect availability and schedule flexibility.
+- 👶 Some teammates have families, so flexibility is important.
 
 ---
 
@@ -38,7 +38,7 @@ These are rules we choose to follow as a team to stay productive and aligned:
 - 🗂️ We will keep our **project board updated** to show progress and responsibilities.
 - 🧹 Avoid large PRs to make the **review process smoother**.
 - 💬 We will communicate regularly and respectfully on **Slack**.
-- 🤝 Everyone agrees to **support and review** each other's work for quality and team spirit!
+- 🤝 Everyone agrees to support and review each other's work for quality.
 
 ---
 
