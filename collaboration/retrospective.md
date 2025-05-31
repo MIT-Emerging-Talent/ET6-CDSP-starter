@@ -8,7 +8,7 @@
 
 - Missing scheduled meetings or not notifying the team in advance.  
 - Delaying responses to team inquiries or surveys, which can block progress.  
-- Assuming others will follow up—everyone should take initiative when possible.  
+- Assuming others will follow up everyone should take initiative when possible.  
 - Overlooking the importance of documenting small but important decisions.  
 - Neglecting structured notetaking during meetings.  
 
