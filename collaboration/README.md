@@ -1,7 +1,7 @@
 # Collaboration
 
 <!-- group norms summary -->
-Our group values open communication, empathy, and proactive support.
+Our group values open communication, empathy, and proactive support.  
 These norms help us collaborate effectively across time zones and cultures.
 <!-- group norms list -->
 ## Social Norms
