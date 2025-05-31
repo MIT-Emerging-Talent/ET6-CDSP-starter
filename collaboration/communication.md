@@ -1,54 +1,69 @@
-<!--
-    this template is for inspiration, feel free to change it however you like!
+# 🗣 Communication
 
-    Careful! be sure to protect your privacy when filling out this document
-        everything you write here will be public
-        so share only what you are comfortable sharing online
-        you can share the rest in confidence with you group by another channel
--->
-
-# Communication
+Let's stay connected, respectful, and collaborative throughout our group journey.
+This file outlines how we'll communicate, when we're available, and how we’ll
+support each other when someone’s stuck. Let's make teamwork fun and effective! 🌟
 
 ---
 
-## Communication Schedule
+## 📅 Communication Schedule
 
-| Day | How | The topic of discussion | | --- | :-: | ----------------------- |
-| | | |
-
-## Communication Channels
-
-how often will we get in touch on each channel, and what we will discuss there:
-
-- **Issues**:
-- **Pull Requests**:
-- **Slack/Discord**:
-- **Video Calls**:
+| Day      | Method   | Topic of Discussion                   |
+|----------|----------|----------------------------------------|
+| Friday   | Zoom     | Weekly sync-up, task check-in & goals |
+| Daily    | Slack    | Quick updates, blockers, reminders     |
+| Weekly   | GitHub   | Issues, PRs, and collaboration review  |
 
 ---
 
-## Availability
+## 📢 Communication Channels
 
-### Availability for calling/messaging
+How often we’ll use each platform and what for:
 
-| Day    | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |     |
-| ------ | :----: | :-----: | :-------: | :------: | :----: | :------: | :----: | --- |
-| _name_ |        |         |           |          |        |          |        |
+- **GitHub Issues**:  
+  For assigning and discussing tasks.
 
-### How many hours everyone has per day
+- **Pull Requests (PRs)**:  
+  Share work for review. Everyone gives and receives helpful feedback. 🔍
 
-- name: _5h_;
-- name: _6h_;
-- name: _5h_;
-- name: _4h_;
-- name: _3h_;
+- **Slack**:  
+  Main channel for quick updates, casual communication, and clarifications. 💬
 
-## Asking for Help
+- **Zoom Video Calls**:  
+  Weekly calls every **Friday or Saturday at 3PM EST**. Link shared on Slack. 🎥
 
-There's a fine line between confidently learning from your mistakes, and
-stubbornly getting no where. Here is a general guide for when to ask for help
-based on how long you've been stuck on the same problem:
+---
 
-1. _0 -> 30 min_: Try on your own
-1. _30 -> 60 min_: Ask your group for help
-1. _60+ min_: Tag your coaches in Slack or GitHub
+## ⏰ Availability
+
+### Who’s around when?
+
+We’re a flexible, global team! Here’s when we’re *generally* available:
+
+- **Aseel** – Afternoons & Evenings (Mon, Tue, Thu, Fri, Sat) – 6 hrs/day
+- **Alaa** – Late Afternoons (Mon–Fri), some weekends – 4–5 hrs/day
+- **Justina** – Most Weekdays , not Saturday  – 6 hrs/day
+- **Geehan** – Weekdays & Sunday – 4 hrs/day
+- **Rouaa** – Weekdays (esp. Tue, Thu, Fri, Sat) – 4 hrs/day
+
+*Note: If your schedule changes, give a heads-up on Slack or in our Zoom meeting!*
+
+---
+
+## 🆘 Asking for Help
+
+Getting stuck is part of the journey. Here's our guide for solving problems:
+
+1. **0–30 minutes** → Try solving it yourself. Use VSCode tools, research, docs.
+2. **30–60 minutes** → Ask the team on Slack or open a GitHub issue.  
+3. **60+ minutes** → Tag a coach or mentor for deeper support. 💡
+
+Be kind when asking for help, and generous when someone else needs you! 🤝
+
+---
+
+## 🧠 A Fun Note
+
+We believe good communication is the *superpower* of every great team!  
+So whether it's syncing tasks, asking for help, or just sharing memes on Slack —
+let’s keep the energy positive, open, and inclusive. 🧃🎧🌍
