@@ -35,7 +35,7 @@ How often will we get in touch on each channel, and what we will discuss there:
 
 | Day    | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
 |--------|:------:|:-------:|:---------:|:--------:|:------:|:--------:|:------:|
-| Ammar  |   ✅   |   ✅    |    ✅     |    ✅    |   ❌   |    ✅    |   ✅   |
+| Ammar  |   12–3PM   |   12–3PM    |    12–3PM     |    12–3PM    |   ❌   |    12–3PM    |   12–3PM   |
 | Banu   | 12–4PM |  2–4PM  |   2–4PM   |  12–4PM  | 12–4PM | 12–4PM   | 12–4PM |
 | Amro   |   ❌   |  9–3PM  |    ❌     |  9–3PM   |  9–3PM |  9–3PM   |  9–3PM |
 | Azza   | 3–5AM, 12–2PM | 3–5AM, 12–2PM | 3–5AM, 12–2PM | 3–5AM, 12–2PM | ❌ | 5–7AM | 3–5AM, 12–2PM |
