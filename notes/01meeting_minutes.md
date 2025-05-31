@@ -40,19 +40,20 @@ Communication file
 
 **Action Items**  
   *What needs to be done?*  
-[ ] Communication file  
-Communication: Mohamed Saeed  
-Social Norms: Maria  
-Learning Goals: Abdallah  
-Constraints: Ahd  
+[ ] Collaboration file  
+
++ Communication: Mohamed Saeed  
++ Social Norms: Maria  
++ Learning Goals: Abdallah  
++ Constraints: Ahd  
 
 [ ] Documents will be send related to the following topics:  
 Goals, Communication and Constraints  
-*Contibute your answers on Slack*  
+*Contribute your answers on Slack*  
 
 ### Follow up
 
-[BRANCH PROTECTION RULES](<https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/settings/branches>)
+[Branch Protection Rules](<https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/settings/branches>)
 
 ### Other notes
 
@@ -61,6 +62,5 @@ Any major ones will be discussed.
 
 ### Next meeting
 
-Thursday 7th June 2025
+Thursday 7th June 2025  
 12 EST “appropriate for everyone”  
-Thursday 7th June 2025
