@@ -10,7 +10,7 @@ safe space for everyone to **grow and contribute**.
 These norms aren’t just rules—they’re a commitment to making sure  
 every member feels **valued, heard, and empowered** to do their best.  
 By focusing on **reliability** (doing what we say), **inclusivity**  
-(listening to everyone’s ideas), and **kindness** (in all interactions),  
+(listening to everyone’s ideas), and kindness (in all interactions),  
 we’re building a **strong, positive team**.  
 This foundation will help us handle challenges, adapt when needed,  
 and celebrate our successes **together**.
