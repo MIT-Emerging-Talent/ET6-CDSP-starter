@@ -1,6 +1,6 @@
 <!-- This template is for inspiration. Feel free to change it however you like! -->
 
-# Retrospective – Milestone 1
+# Retrospective: Milestone 1
 
 ---
 
@@ -10,7 +10,6 @@
 - Delaying responses to team inquiries or surveys, which can block progress.  
 - Assuming others will follow up—everyone should take initiative when possible.  
 - Overlooking the importance of documenting small but important decisions.  
-- Leaving certain members out of early-stage planning or role discussions.  
 - Neglecting structured notetaking during meetings.  
 
 ---
