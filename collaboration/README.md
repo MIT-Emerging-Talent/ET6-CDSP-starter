@@ -28,13 +28,11 @@ and flexible as the project evolves. 🚀
 
 ## Group Norms 📜
 
-As a team, we are committed to working collaboratively, respectfully, and efficiently.
-Our group norms are designed to ensure **clear communication**, **equal
-contribution**, **accountability**, and a **supportive environment** where all
-members can thrive and deliver high-quality work. These norms will guide our interactions,
-help us resolve conflicts, and keep our project on track:
-
----
+To support the documents above and ensure smooth teamwork, we have established
+a set of shared norms. These norms guide how we collaborate each day by encouraging
+clear communication, mutual respect, and shared ownership. They help us navigate
+challenges, stay on track, and create a supportive environment where everyone
+can do their best work.
 
 ### 1. Respectful Communication 🤝
 
