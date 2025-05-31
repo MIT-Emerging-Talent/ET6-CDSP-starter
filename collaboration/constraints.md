@@ -1,34 +1,67 @@
-<!-- this template is for inspiration, feel free to change it however you like! -->
+# 🚧 Project Constraints – CSDP Team 15
 
-# Constraints
+Boundaries defined to align with MIT Emerging Talent requirements and team dynamics. Updated per syllabus guidelines for Milestone 0.
 
-Some boundaries around our project.
+---
 
-## External
+## 🌍 External Constraints
 
-<!--
-  constraints coming from the outside that your team has no control over:
-  - project deadlines
-  - number of unit tests required to pass a code review
-  - technologies (sometimes a client will tell you what to use)
-  - power or connectivity
-  - ...
--->
+Imposed by program structure and resources.
 
-## Internal: Involuntary
+- **Program Deadlines**: Strict adherence to milestones:
+  - M0: Jun 2 • M1: Jun 16 • M2: Jun 30
+  - M3: Jul 21 • M4: Aug 11 • M5: Aug 25
+- **Platform Requirements**: 
+  - GitHub for all code/documentation
+  - Google Colab for cloud-based analysis
+- **Workshop Attendance**: Minimum 2 members present at each workshop
+- **Time Commitment**: 8+ hours/week per member:
+  - 1.5h workshops • 1.5h team syncs • 5h async work
+- **Data Ethics**: Strict compliance with MIT IRB guidelines for human data
+- **Resource Limits**: No paid APIs/compute without prior approval
 
-<!--
-  constraints that come from within your team, and you have no control over:
-  - each of your individual skill levels
-  - amount of time available to work on the project
--->
+---
 
-## Internal: Voluntary
+## 🧷 Internal Constraints: Involuntary
 
-<!--
-  constraints that your team decided on to help scope the project. they may include:
-  - coding style & conventions
-  - agree on a code review checklist for the project repository
-  - the number of hours you want to spend working
-  - only using the colors black and white
--->
+Emerging from team composition.
+
+- **Time Zones**: Members across EST/PST/IST (limited overlap windows)
+- **Skill Distribution**: 
+  - 2 members new to Python
+  - Limited deep learning experience
+  - Varying Git proficiency
+- **Tool Familiarity**: Mixed experience with:
+  - Jupyter • Pandas • Data visualization tools
+- **Bandwidth Constraints**: 3 members taking summer courses
+
+---
+
+## ✋ Internal Constraints: Voluntary
+
+Self-imposed for quality and collaboration.
+
+- **Scope Discipline**: 
+  - No ML unless essential to research question
+  - Maximum 3 core features in MVP
+- **Communication Protocol**:
+  - Daily Slack updates • Bi-weekly Zoom retrospectives
+  - 48h response time for blockers
+- **Documentation Standards**:
+  - All code requires README explanations
+  - Decisions logged in `/project_journal`
+- **Task Ownership**: 
+  - No member handles >1 critical path task
+  - Pair programming for skill transfer
+- **Inclusion Rule**: 
+  - Technical decisions require consensus
+  - Rotating meeting facilitators
+- **Learning Commitment**: 
+  - Weekly skill-sharing sessions
+  - Documented study plans in `/learning_logs`
+
+---
+
+> **Defined per Milestone 0 requirements**  
+> Aligned with MIT Emerging Talent values:  
+> *"Process over product, collaboration over complexity"*
