@@ -38,7 +38,8 @@ How often will we get in touch on each channel, and what we will discuss there:
 | Ammar  |   ✅   |   ✅    |    ✅     |    ✅    |   ❌   |    ✅    |   ✅   |
 | Banu   | 12–4PM |  2–4PM  |   2–4PM   |  12–4PM  | 12–4PM | 12–4PM   | 12–4PM |
 | Amro   |   ❌   |  9–3PM  |    ❌     |  9–3PM   |  9–3PM |  9–3PM   |  9–3PM |
-| Azza   | 3–5AM, 12–2PM | 3–5AM, 12–2PM | 3–5AM, 12–2PM | 3–5AM, 12–2PM | 5–7AM | 5–7AM | 3–5AM, 12–2PM |
+| Azza   | 3–5AM, 12–2PM | 3–5AM, 12–2PM | 3–5AM, 12–2PM | 3–5AM, 12–2PM | ❌ | 5–7AM | 3–5AM, 12–2PM |
+|Muhammad| 12–2PM | 12–2PM | 12–2PM | 12–2PM | ❌ | ❌  | 12–2PM |
 
 > Note: Times are in EST. Availability may vary slightly due to personal commitments.
 
@@ -48,6 +49,7 @@ How often will we get in touch on each channel, and what we will discuss there:
 - Banu: _2–3h_
 - Amro: _2–3h_
 - Azza: _2-3h and Emergency_
+- Muhammamd: 2h
 
 ---
 
