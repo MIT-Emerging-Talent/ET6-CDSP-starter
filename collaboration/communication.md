@@ -13,17 +13,30 @@
 
 ## Communication Schedule
 
-| Day | How | The topic of discussion | | --- | :-: | ----------------------- |
-| | | |
+| Day      | How       | Topic of Discussion         |
+|----------|-----------|------------------------------|
+| Mondays  | Video Call | Weekly planning & blockers   |
+| Daily    | Slack      | Quick updates & coordination |
+| As needed| Issues     | Task tracking & documentation|
+| PR-based | GitHub PRs | Code reviews & feedback      |
 
 ## Communication Channels
 
 how often will we get in touch on each channel, and what we will discuss there:
 
-- **Issues**:
-- **Pull Requests**:
-- **Slack/Discord**:
-- **Video Calls**:
+- **Issues**: Used continuously to track tasks, bugs, planning, and team
+contributions. Each task should have
+its own issue with clear acceptance criteria and format.
+
+- **Pull Requests**: Created whenever a task is ready for review.
+Used for technical discussion,
+code/doc review, and decisions on whether something is ready to merge.
+Reviewed within 1–2 days of opening.
+
+- **Slack/WhatsApp**: Used daily for quick check-ins, informal updates, and coordination.
+  Also used for reminders or schedule updates.
+
+- **Video Calls**: Weekly
 
 ---
 
