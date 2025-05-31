@@ -1,6 +1,7 @@
 # 🚧 Project Constraints – CSDP Team 15
 
-Boundaries defined to align with MIT Emerging Talent requirements and team dynamics. Updated per syllabus guidelines for Milestone 0.
+Boundaries defined to align with MIT Emerging Talent requirements and team dynamics.
+Updated per syllabus guidelines for Milestone 0.
 
 ---
 
@@ -11,7 +12,7 @@ Imposed by program structure and resources.
 - **Program Deadlines**: Strict adherence to milestones:
   - M0: Jun 2 • M1: Jun 16 • M2: Jun 30
   - M3: Jul 21 • M4: Aug 11 • M5: Aug 25
-- **Platform Requirements**: 
+- **Platform Requirements**:
   - GitHub for all code/documentation
   - Google Colab for cloud-based analysis
 - **Workshop Attendance**: Minimum 2 members present at each workshop
@@ -27,7 +28,7 @@ Imposed by program structure and resources.
 Emerging from team composition.
 
 - **Time Zones**: Members across EST/PST/IST (limited overlap windows)
-- **Skill Distribution**: 
+- **Skill Distribution**:
   - 2 members new to Python
   - Limited deep learning experience
   - Varying Git proficiency
@@ -41,7 +42,7 @@ Emerging from team composition.
 
 Self-imposed for quality and collaboration.
 
-- **Scope Discipline**: 
+- **Scope Discipline**:
   - No ML unless essential to research question
   - Maximum 3 core features in MVP
 - **Communication Protocol**:
@@ -50,13 +51,13 @@ Self-imposed for quality and collaboration.
 - **Documentation Standards**:
   - All code requires README explanations
   - Decisions logged in `/project_journal`
-- **Task Ownership**: 
+- **Task Ownership**:
   - No member handles >1 critical path task
   - Pair programming for skill transfer
-- **Inclusion Rule**: 
+- **Inclusion Rule**:
   - Technical decisions require consensus
   - Rotating meeting facilitators
-- **Learning Commitment**: 
+- **Learning Commitment**:
   - Weekly skill-sharing sessions
   - Documented study plans in `/learning_logs`
 
