@@ -50,3 +50,8 @@ never get lost.
 - Proactively request and give feedback on both code and documentation:
 - Aim for at least one constructive code review comment per teammate each week
 - Iterate on your own work based on their suggestions
+
+### Louis Kervens Learning goals
+
+- I want to learn Data Science
+  
