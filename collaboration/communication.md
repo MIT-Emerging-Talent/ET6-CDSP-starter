@@ -10,38 +10,65 @@
 # Communication
 
 ---
+<!-- markdownlint-disable MD013 -->
 
 ## Communication Schedule
 
-| Day | How | The topic of discussion | | --- | :-: | ----------------------- |
-| | | |
+| Day         | How                  | Topic                                                   |
+|-------------|----------------------|---------------------------------------------------------|
+| **Monday**    | Zoom + Slack         | - Workshop recap & objectives for the week & Assign roles for upcoming deliverables |
+| **Tuesday**   | Slack thread         | - Asynchronous progress updates  & Blockers & quick Q&A |
+| **Wednesday** | Zoom meeting         | - Mid-week team sync: review completed tasks, adjust plan  & Update GitHub issues & milestones |
+| **Thursday**  | Slack thread         | - Domain-expert or mentor check-in (if needed)  & Share resources & clarify technical questions |
+| **Friday**    | Email + GitHub issue | - Weekly summary & retrospective highlights  & Publish meeting minutes & update README |
+| **Saturday**  | Personal doc / Git   | - Self-study log entries  & Push individual work to repo |
+| **Sunday**    | Slack + Calendar     | - Finalize next week’s agenda & meeting time  & Confirm workshop attendance |
+
+<!-- markdownlint-enable MD013 -->
 
 ## Communication Channels
 
 how often will we get in touch on each channel, and what we will discuss there:
 
-- **Issues**:
-- **Pull Requests**:
-- **Slack/Discord**:
-- **Video Calls**:
+- **Issues**: For bugs, task tracking and more
+- **Pull Requests**: For code review and adding content to the main repo
+- **Slack/WhatsApp**: Daily communication with team
+- **Video Calls**: Weekly on any online meeting platform
 
 ---
 
-## Availability
+## Team Availability Schedule
 
-### Availability for calling/messaging
+This document outlines each team member’s weekly availability to help us plan
+meetings and collaborate effectively.
 
-| Day    | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |     |
-| ------ | :----: | :-----: | :-------: | :------: | :----: | :------: | :----: | --- |
-| _name_ |        |         |           |          |        |          |        |
+---
+<!-- markdownlint-disable MD013 -->
+
+## Weekly Availability
+
+| Team Member   | Monday    | Tuesday   | Wednesday | Thursday  | Friday    | Saturday  | Sunday    |
+| ------------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
+| Olumide       | 4 - 7 PM  | 4 - 7 PM  | 4 - 7 PM  | 4 - 7 PM  | 4 - 7 PM  | 7AM - 7PM | 7AM - 7PM |
+| Oleksandr     |           |           |           |           |           |           |           |
+| Ibrahim       |           |           |           |           |           |           |           |
+| Anna          |           |           |           |           |           |           |           |
+| Louis         |           |           |           |           |           |           |           |
+| Dorcas        |           |           |           |           |           |           |           |
+
+<!-- markdownlint-enable MD013 -->
 
 ### How many hours everyone has per day
 
-- name: _5h_;
+- Olumide: _3h_;
 - name: _6h_;
 - name: _5h_;
 - name: _4h_;
 - name: _3h_;
+
+### Extra time if needed
+
+- Olumide: Tuesday, Wednesday => 5:00 AM - 7:00 AM.
 
 ## Asking for Help
 
@@ -52,3 +79,10 @@ based on how long you've been stuck on the same problem:
 1. _0 -> 30 min_: Try on your own
 1. _30 -> 60 min_: Ask your group for help
 1. _60+ min_: Tag your coaches in Slack or GitHub
+
+## Note
+
+- This just a living document, feel free to add, delete and adjust content
+- Please document everything so everyone can understand
+- Communicate at all times
+- Always ask why don't just do
