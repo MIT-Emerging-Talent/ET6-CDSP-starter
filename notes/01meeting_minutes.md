@@ -40,20 +40,20 @@ Communication file
 
 **Action Items**  
   *What needs to be done?*  
-[ ] Collaboration file  
+**Collaboration file**
 
 + Communication: Mohamed Saeed  
 + Social Norms: Maria  
 + Learning Goals: Abdallah  
 + Constraints: Ahd  
 
-[ ] Documents will be send related to the following topics:  
-Goals, Communication and Constraints  
-*Contribute your answers on Slack*  
-
 ### Follow up
 
-[Branch Protection Rules](<https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/settings/branches>)
++ [Branch Protection Rules](<https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/settings/branches>)
+
++ **Documents will be send related to the following topics:**
+Goals, Communication and Constraints  
+*Contribute your answers on Slack*  
 
 ### Other notes
 
