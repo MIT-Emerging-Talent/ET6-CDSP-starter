@@ -7,6 +7,9 @@ the shared group norms that guide how we work together as a team.
 
 ## Files Included 🗃️
 
+- [**README.md**](README.md)  
+  Contains an introduction of the collaboration process and group norms.
+
 - [**communication.md**](communication.md)  
   Details how and when we communicate, including preferred channels, weekly check-ins,
   availability, and when to ask for help.
