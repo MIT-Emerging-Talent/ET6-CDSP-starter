@@ -1,5 +1,31 @@
 # Collaboration
 
+This folder contains key documents that support our team's collaboration, planning,
+and continuous improvement. Each file is designed to help us stay aligned, communicate
+effectively, and reflect on our progress throughout the project. It also includes
+the shared group norms that guide how we work together as a team.
+
+## Files Included 🗃️
+
+- [**communication.md**](communication.md)  
+  Details how and when we communicate, including preferred channels, weekly check-ins,
+  availability, and when to ask for help.
+
+- [**constraints.md**](constraints.md)  
+  Lists any known limitations such as deadlines, availability, scope boundaries,
+  or technical issues.
+
+- [**learning_goals.md**](learning_goals.md)  
+  Defines what each team member hopes to learn during the project, both technically
+  and collaboratively.
+
+- [**retrospective.md**](retrospective.md)  
+  A place for team reflection at several points in the project, such as what went
+  well, what didn't, and how to do it differently next time.
+
+Keeping these documents up to date helps us stay transparent, focused, goal-oriented,
+and flexible as the project evolves. 🚀
+
 ## Group Norms 📜
 
 As a team, we are committed to working collaboratively, respectfully, and efficiently.
