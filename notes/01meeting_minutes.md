@@ -16,7 +16,7 @@ Communication file
 + **Naming Branches**: snake case and small case  
 *make it short and simple and clear*
 
-+ **Dont rely on just Githb for the project board**
++ **Dont rely on just Github for the project board**
   Make sure to notify us on Slack Group
 
 + **Deadlines**: Buffer of two days before real submission to discuss  
@@ -29,26 +29,26 @@ Communication file
 ### Key discussions
 
 *Communication:*  
-• **Google Meet:** Every Thursday with max 1hr
-• **Slack:** Main tool and for detailed discussions,
-  project related conversations and responses
-• **Google Docs:** For collaborative writing and sharing responses and views
-• **Github** For issuues and documentation
- **Time for meetings:** 12EST "appropriate for everyone"  
+• **Google Meet:** Every Thursday with max 1hr  
+• **Slack:** Main tool and for detailed discussions,  
+  project related conversations and responses  
+• **Google Docs:** For collaborative writing and sharing responses and views  
+• **Github** For issues and documentation  
+ **Time for meetings:** 12EST "appropriate for everyone"
 
 ### Decision made  
 
 **Action Items**  
   *What needs to be done?*  
-[ ] Communication file
-Communication: Mohamed Saeed
-Social Norms: Maria
-Learning Goals: Abdallah
-Constraints: Ahd
+[ ] Communication file  
+Communication: Mohamed Saeed  
+Social Norms: Maria  
+Learning Goals: Abdallah  
+Constraints: Ahd  
 
-[ ] Documents will be send related to the following topics:
-Goals, Communication and Constraints
-*Contibute your answers on Slack*
+[ ] Documents will be send related to the following topics:  
+Goals, Communication and Constraints  
+*Contibute your answers on Slack*  
 
 ### Follow up
 
