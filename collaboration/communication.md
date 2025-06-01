@@ -1,54 +1,49 @@
-<!--
-    this template is for inspiration, feel free to change it however you like!
-
-    Careful! be sure to protect your privacy when filling out this document
-        everything you write here will be public
-        so share only what you are comfortable sharing online
-        you can share the rest in confidence with you group by another channel
--->
-
 # Communication
-
----
 
 ## Communication Schedule
 
-| Day | How | The topic of discussion | | --- | :-: | ----------------------- |
-| | | |
+Subject to communication via WhatsApp, but preferable at the beginnings of the Milestones.
+
+**Day:** Beginnings of the Milestones  
+**Method (How):** Zoom  
+**Topic of Discussion:** How to get it done
 
 ## Communication Channels
 
-how often will we get in touch on each channel, and what we will discuss there:
+Define how often you will communicate through each of the following channels, and what types of discussions they are for:
 
-- **Issues**:
-- **Pull Requests**:
-- **Slack/Discord**:
-- **Video Calls**:
-
----
+- **GitHub Issues:** To track tasks and meeting agendas.  
+- **Pull Requests:** To review and get feedback on completed work before merging.  
+- **Slack:** For questions and updates.  
+- **Zoom Calls:** For updates, in-depth conversations and discussions.  
+- **WhatsApp:** Primary channel for day-to-day team communication and urgent messages.
 
 ## Availability
 
-### Availability for calling/messaging
+### Messaging/Calling Availability
 
-| Day    | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |     |
-| ------ | :----: | :-----: | :-------: | :------: | :----: | :------: | :----: | --- |
-| _name_ |        |         |           |          |        |          |        |
+| Name       | Monday    | Tuesday   | Wednesday | Thursday  | Friday    | Saturday      | Sunday        |
+|------------|-----------|-----------|-----------|-----------|-----------|---------------|---------------|
+| Jawid      | 9am-2pm   | 9am-2pm   | 9am-2pm   | 9am-2pm   | 9am-2pm   | 9am-12:30pm   | 9am-12:30pm   |
+| Rumiya     | 11am-5pm  | 11am-5pm  | 11am-5pm  | 11am-5pm  | 11am-5pm  | -             | -             |
+| Alemayehu  | 9am-2pm*  | 9am-2pm   | 11am-5pm  | 11am-5pm  | NA        | 11am-5pm      | 9am-2pm       |
+| Razan      | 8am-11am  | 8am-11am  | 8am-11am  | 8am-11am  | -         | 8am-11am      | -             |
+| Omnia      | 9am-12pm  | 9am-12pm  | 9am-12pm  | 9am-12pm  | 9am-12pm  | Not available | Not available |
 
-### How many hours everyone has per day
+\* PST Time
 
-- name: _5h_;
-- name: _6h_;
-- name: _5h_;
-- name: _4h_;
-- name: _3h_;
+## Daily Availability (Hours per Day)
 
-## Asking for Help
+- **Jawid:** 5 hours  
+- **Rumiya:** 3 hours  
+- **Alemayehu:** 4 hours  
+- **Razan:** 2 hours  
+- **Omnia:** 3 hours
 
-There's a fine line between confidently learning from your mistakes, and
-stubbornly getting no where. Here is a general guide for when to ask for help
-based on how long you've been stuck on the same problem:
+## Asking for Help Guidelines
 
-1. _0 -> 30 min_: Try on your own
-1. _30 -> 60 min_: Ask your group for help
-1. _60+ min_: Tag your coaches in Slack or GitHub
+To avoid getting stuck for too long, follow this rule of thumb:
+
+- **0–30 minutes:** Try to solve the problem on your own.  
+- **30–60 minutes:** Ask your team members for help.  
+- **60+ minutes:** Reach out to a coach on Slack or GitHub.
