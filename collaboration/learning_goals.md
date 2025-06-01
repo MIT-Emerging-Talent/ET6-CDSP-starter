@@ -51,7 +51,35 @@ never get lost.
 - Aim for at least one constructive code review comment per teammate each week
 - Iterate on your own work based on their suggestions
 
-### Louis Kervens Learning goals
+## Louis Kervens Learning goals
 
-- I want to learn Data Science
-  
+- ### Strengthen commitment, cultivate consistency
+
+- Dedicate time for independent research
+- Use MIT' personal agency resources effectively
+- Prioritize consistent participation
+- Strengthen understanding through review
+
+### Enhance Collaborative Coding Practices
+
+- Master GitHub workflows: pull requests, branching, and code reviews  
+- Write clear, meaningful commit messages  
+- Resolve merge conflicts with confidence and communicate changes effectively  
+
+### Level Up Technical Communication
+
+- Maintain clean, commented notebooks and scripts  
+- Use Markdown cells to explain thought process and decisions  
+- Create visual summaries (charts, diagrams) to support analysis  
+
+### Promote Reproducible Workflows
+
+- Build pipelines for data loading, cleaning, and modeling  
+- Keep code modular with reusable functions  
+- Use versioned notebooks/scripts and save experiment results consistently  
+
+### Apply Data Science to Real-World Contexts
+
+- Explore datasets related to policy or education  
+- Ask thoughtful, structured questions to guide analysis  
+- Document findings clearly for both technical and non-technical audiences
