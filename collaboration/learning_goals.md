@@ -1,4 +1,3 @@
-
 # Learning Goals
 
 ## Collective Learning Goals
@@ -31,7 +30,7 @@ As a diverse team of emerging data scientists, we aim to:
    - Improve our ability to communicate findings clearly to technical and
   non-technical audiences.  
    - Use visualizations, storytelling, and structured reporting
-   to present solutions with real-world impact.
+  to present solutions with real-world impact.
 
 ## Individual Learning Goals
 
