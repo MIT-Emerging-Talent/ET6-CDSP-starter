@@ -57,3 +57,23 @@ based on how long you've been stuck on the same problem:
 1. _0 -> 30 min_: Try on your own
 1. _30 -> 60 min_: Ask your group for help
 1. _60+ min_: Tag your coaches in Slack or GitHub
+
+## Ridwan Ayinde
+
+- Monday: _2h_;
+- Tuesday: _2h_;
+- Wednesday: _2h_;
+- Thursday: _2h_;
+- Friday: _2h_;
+- Saturday: _3h_;
+- Sunday: _3h_;
+
+## Communication_Channels
+
+I will prefer to communicate more on slack and when we
+have something very important to discuss, I will prefer
+we do a video call.
+
+## Asking_for_Help
+
+I like to ask for help whenever I am lost.
