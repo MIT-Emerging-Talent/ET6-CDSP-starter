@@ -98,6 +98,8 @@ Data that describes qualities or characteristics of what you want to study.
 - **Analysis**: Trend analysis, seasonal decomposition, forecasting
 - **Real-world example**: Monthly sales figures over several years
 
+## Classification by data type
+
 ## Classification by Structure
 
 ### Structured Data
