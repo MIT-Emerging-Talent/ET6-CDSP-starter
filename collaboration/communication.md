@@ -49,7 +49,7 @@ How often will we get in touch on each channel, and what we will discuss there:
 - Banu: _2–3h_
 - Amro: _2–3h_
 - Azza: _2-3h and Emergency_
-- Muhammamd: 2h
+- Muhammad: 2h
 
 ---
 
