@@ -1,0 +1,1 @@
+Hi, this is a test file created to verify if branch protection rules are functioning correctly.
