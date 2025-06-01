@@ -69,6 +69,7 @@ meetings and collaborate effectively.
 ### Extra time if needed
 
 - Olumide: Tuesday, Wednesday => 5:00 AM - 7:00 AM.
+- Louis: Tuesday, Wednesday, Friday => 4:00 PM - 7:00 PM.
 
 ## Asking for Help
 
