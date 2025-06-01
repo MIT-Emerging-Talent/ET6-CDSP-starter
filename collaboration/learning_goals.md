@@ -43,5 +43,3 @@ and ensure equitable participation.
 -Member5
 
 -Member6
-
--Member7
