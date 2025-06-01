@@ -47,3 +47,10 @@ the data science field.
 
 * Enhance debugging and troubleshooting skills to boost overall efficiency.
 * Work on solving problems faster without compromising on code quality.
+
+### Viktoriya Haiduk
+
+* Improve my ability to identify and frame real-world
+problems using data-driven thinking.
+* Strengthen my collaboration skills by actively contributing to team
+discussions and decision-making throughout the entire project lifecycle.
