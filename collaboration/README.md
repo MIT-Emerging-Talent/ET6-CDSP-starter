@@ -69,9 +69,13 @@ agreement.
 
 ### 7. Use of GitHub 🔀
 
-All code is pushed to GitHub with meaningful commit messages.
+All code is pushed to GitHub with meaningful commit messages.  
 Pull requests are used for all major changes and must be reviewed by at least
-two team member.
+two team member.  
+We also use GitHub Project Boards to organize tasks, track
+progress, and ensure transparency. Each task is represented as a card and moves
+through stages like _To Do, In Progress,_ and _Done_. Team members are responsible
+for updating the status of their tasks regularly.
 
 ### 8. Code Quality and Documentation 🧑‍💻
 
