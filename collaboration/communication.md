@@ -47,7 +47,7 @@ Reviewed within 1–2 days of opening.
 | Day    | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
 | ------ | :----: | :-----: | :-------: | :------: | :----: | :------: | :----: |
 | Ava    |  ✔️    |✔️      |✔️         |✔️|        ❌|    ❌      |  ✔️      |
-| Ava    |  ✔️    |✔️      |✔️         |✔️|        ✔️|    ✔️      |  ❌      |
+| Muhammet Isik   |  ✔️    |✔️      |✔️         |✔️|        ✔️|    ✔️   |  ❌|
 
 ### How many hours everyone has per day
 
