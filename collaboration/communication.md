@@ -22,8 +22,8 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 - **Issues**:
 - **Pull Requests**:
-- **Slack/Discord**:
-- **Video Calls**:
+- **Slack/Discord**:Slack - everytime
+- **Video Calls**:Ones or twice a week.
 
 ---
 
@@ -33,11 +33,11 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 | Day    | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |     |
 | ------ | :----: | :-----: | :-------: | :------: | :----: | :------: | :----: | --- |
-| _name_ |        |         |           |          |        |          |        |
+| Ozgur  | 14:00  | 14:00   | 14:00     |  14:00   | 14:00  |          |        |
 
 ### How many hours everyone has per day
 
-- name: _5h_;
+- Ozgur: _3h_;
 - name: _6h_;
 - name: _5h_;
 - name: _4h_;
