@@ -26,16 +26,16 @@ how often will we get in touch on each channel, and what we will discuss there:
   - Provide clear, actionable comments when discussing challenges or asking for clarification.
 - **Pull Requests**:
   - Once we finish our assigned tasks, we’ll open a pull request.
-  This is where we review each other’s code to catch any mistakes,
-  suggest improvements, and make sure everything works properly before merging
-  into the main branch.
+This is where we review each other’s code to catch any mistakes,
+suggest improvements, and make sure everything works properly before merging
+into the main branch.
 - **Slack/Discord**:
   - Slack channel will be our group’s primary communication channel.
-  It will be used to share announcements, updates and regular group project
-  related communication.
+It will be used to share announcements, updates and regular group project
+related communication.
 - **Video Calls**:
-  - We will have weekly check-in video calls over Google Meet to check on the
-  progress of our tasks at hand.
+  - We will have weekly check-in video calls over Google Meet to
+check on the progress of our tasks at hand.
 
 ---
 
