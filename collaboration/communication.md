@@ -36,7 +36,7 @@
 
 ## ⏰ Availability
 
-### 📞 Availability for calling/messaging
+### 📞 Availability for calling/messaging 
 > *All times listed in EST*
 
 | Team Member | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
