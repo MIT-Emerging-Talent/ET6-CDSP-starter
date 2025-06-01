@@ -42,7 +42,7 @@ Below is an overview of different kinds of dataset you will encounter:
 5. [Classification by Access Type](#classification-by-access-type)
 6. [Classification by Purpose](#classification-by-purpose)
 7. [Classification by Format](#classification-by-format)
-
+## Classificatio by Data Type
 ### Quantitative (Numerical) Data
 
 Data that represents quantities and can represented as numbers.
