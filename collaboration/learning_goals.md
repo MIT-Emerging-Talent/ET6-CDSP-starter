@@ -82,8 +82,7 @@ into actionable data science problems
 and exploratory data analysis  
 - Develop stronger project management and collaboration skills within a remote,
 team-based setting  
-- Apply data science methods to support decision-making and
-problem-solving in underserved communities  
+- Apply data science methods to support decision-making and problem-solving
 - Strengthen communication skills to present insights clearly
 to technical and non-technical audiences  
 - Gain practical experience integrating engineering logic with data thinking
