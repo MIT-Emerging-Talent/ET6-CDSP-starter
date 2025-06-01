@@ -1,20 +1,33 @@
-🧠 Data Strikers: Team Norms & Collaboration Guide
+# 🌟 Data Strikers 🌟
+
+## Team Norms & Collaboration Guide
+
 “Precision in Analysis, Teamwork in Play”
 
-We are Data Strikers — a team of passionate data science learners brought together by our shared enthusiasm for sports analytics, particularly football. Our collaboration is built on trust, communication, and the drive to turn real-world problems into data-driven insights. This guide outlines the norms we collectively follow to ensure a supportive, productive, and inclusive team environment.
+We are Data Strikers — a team of passionate data science learners brought together
+by our shared enthusiasm for sports analytics, particularly football.
+Our collaboration is built on trust, communication, and the drive to turn real-world
+problems into data-driven insights.
+This guide outlines the norms we collectively follow to ensure a supportive,
+productive, and inclusive team environment.
 
 🌟 Core Values
-Respect & Inclusion: Every voice matters. We create a safe and open environment for diverse ideas, mental health concerns, and personal challenges.
+Respect & Inclusion: Every voice matters. We create a safe and open environment
+for diverse ideas, mental health concerns, and personal challenges.
 
-Trust & Accountability: We show up for each other, follow through on our commitments, and own our responsibilities.
+Trust & Accountability: We show up for each other, follow through on our
+commitments, and own our responsibilities.
 
-Transparency: We share our work early and often, keep communication open, and document everything clearly.
+Transparency: We share our work early and often, keep communication open, and
+document everything clearly.
 
-Growth-Oriented: We value feedback, rotate leadership, and actively teach and learn from each other.
+Growth-Oriented: We value feedback, rotate leadership, and actively teach and
+learn from each other.
 
 📋 Group Norms
 🤝 Collaboration
-Divide tasks based on strengths and interests, but rotate roles to ensure learning and fairness.
+Divide tasks based on strengths and interests, but rotate roles to ensure
+learning and fairness.
 
 Use GitHub to document work — including early drafts and rough ideas.
 
@@ -65,7 +78,9 @@ Recognize both individual and group contributions.
 Maintain a positive and motivating environment.
 
 🔄 Continuous Improvement
-This document lives in our /group_study folder and will evolve with our team. We’ll revisit it regularly to reflect on what’s working, what’s not, and how we can grow together.
+This document lives in our /group_study folder and will evolve with our team.
+We’ll revisit it regularly to reflect on what’s working, what’s not,
+and how we can grow together.
 
 We’re not just building a data project — we’re building a great team.
 Let’s support each other, stay curious, and make this an experience we’re proud of.
