@@ -54,4 +54,25 @@ never get lost.
 ### Louis Kervens Learning goals
 
 - I want to learn Data Science
-  
+
+### Anna Shumylina Learning goals
+
+- **Ensure Clear Documentation**  
+  Maintain well-structured READMEs and comments to support project clarity and onboarding.
+
+- **Develop Clean, Modular Code**  
+  Write readable, reusable Python code following consistent style and best practices.
+
+- **Reinforce Data Science Fundamentals**  
+  Apply key concepts such as exploratory data analysis and basic statistics
+throughout the project.
+
+- **Foster Effective Collaboration**  
+  Communicate proactively, coordinate with teammates, and contribute to
+a supportive group dynamic.
+
+- **Communicate Insights Clearly**  
+  Translate technical findings into concise, accessible summaries or visualizations.
+
+- **Engage in Constructive Feedback**  
+  Provide meaningful code reviews and iterate based on team feedback.
