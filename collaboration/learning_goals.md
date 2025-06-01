@@ -36,7 +36,15 @@ and ensure equitable participation.
 
 5-Implement good coding practices.
 
--Member3
+-BanuÖzyılmaz
+
+1-Be a Supportive Team Member and Be a Supportive Team Member
+
+2-learn how to work well with people from different backgrounds,
+being open to new ideas and perspectives.
+
+3-It’s important for me to communicate clearly and respectfully
+so we can collaborate smoothly as a team.
 
 -Member4
 
