@@ -26,7 +26,6 @@ Our goal is to stay aligned, support each other, and build something great—tog
 | Power or Internet Issues | We may face outages; flexibility and communication are key.|
 | Tool Access              | We’re limited to free/public tools like GitHub and Kaggle, which may have restricted features.|
 | Data Availability        | Only open-access datasets are allowed; we cannot use licensed or proprietary data.|
-| Technology Requirements  | We must use certain technologies as per external requirements or scope (if any). |
 
 ---
 
