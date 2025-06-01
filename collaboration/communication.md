@@ -53,7 +53,7 @@ meetings and collaborate effectively.
 | Oleksandr     |           |           |           |           |           |           |           |
 | Ibrahim       |           |           |           |           |           |           |           |
 | Anna          |           |           |           |           |           |           |           |
-| Louis         | 6 - 8 PM  | 6 - 8 PM  |  6 - 8 PM | 6 - 8 PM  | 6 - 8 PM  | 6 - 8 PM  | 6 - 8 PM  |
+| Louis         | 6 - 9 PM  | 6 - 9 PM  |  6 - 9 PM | 6 - 9 PM  | 6 - 9 PM  | 6 - 9 PM  | 6 - 9 PM  |
 | Dorcas        |           |           |           |           |           |           |           |
 
 <!-- markdownlint-enable MD013 -->
