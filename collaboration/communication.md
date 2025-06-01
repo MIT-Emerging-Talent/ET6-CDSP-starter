@@ -53,7 +53,7 @@ meetings and collaborate effectively.
 | Oleksandr     |           |           |           |           |           |           |           |
 | Ibrahim       |           |           |           |           |           |           |           |
 | Anna          |           |           |           |           |           |           |           |
-| Louis         |           |           |           |           |           |           |           |
+| Louis         | 6 - 8 PM  | 6 - 8 PM  |  6 - 8 PM | 6 - 8 PM  | 6 - 8 PM  | 6 - 8 PM  | 6 - 8 PM  |
 | Dorcas        |           |           |           |           |           |           |           |
 
 <!-- markdownlint-enable MD013 -->
@@ -63,7 +63,7 @@ meetings and collaborate effectively.
 - Olumide: _3h_;
 - name: _6h_;
 - name: _5h_;
-- name: _4h_;
+- Louis : _4h_;
 - name: _3h_;
 
 ### Extra time if needed
