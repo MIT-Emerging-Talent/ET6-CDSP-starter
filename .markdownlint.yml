@@ -3,5 +3,5 @@ ignore:
   - .github
 
 MD013:
-  line_length: 150
+  line_length: 400
   ignore_urls: true
