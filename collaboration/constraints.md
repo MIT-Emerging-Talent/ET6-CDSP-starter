@@ -2,8 +2,6 @@
 
 # Constraints
 
-Some boundaries around our project.
-
 ## External
 
 <!--
@@ -14,6 +12,8 @@ Some boundaries around our project.
   - power or connectivity
   - ...
 -->
+- power or connectivity.
+- project deadlines.
 
 ## Internal: Involuntary
 
@@ -22,6 +22,8 @@ Some boundaries around our project.
   - each of your individual skill levels
   - amount of time available to work on the project
 -->
+- other commitments.
+- familiarity with the technology needed.
 
 ## Internal: Voluntary
 
@@ -32,3 +34,6 @@ Some boundaries around our project.
   - the number of hours you want to spend working
   - only using the colors black and white
 -->
+- miscommunication.
+- flexiblity.
+- if there is any confilicts it will be solved by voting.

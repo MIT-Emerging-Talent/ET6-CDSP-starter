@@ -15,19 +15,23 @@
 
 <!-- markdownlint-disable MD013 MD004 -->
 
-| **Day**   | **How**      | **Topic of Discussion**                  | **Link**                                      |
-|-----------|--------------|------------------------------------------|----------------------------------------------|
+| **Day**   | **How**      | **Topic of Discussion**                  | time        |duration|
+|--------------|---------------------|-------------------------------------|-----|---|
+|Sunday   |video call|follow up meeting                             |4:00pm UTC|2h|
+|During The Week|Video Call|Important things |schedule on slack|30m-1h|
+|Everyday|Texting|general topics|anytime|---|
 
 ## Communication Channels
 
 | **Channel**  | **How often**       | **Discussed there**                |
 |--------------|---------------------|-------------------------------------|
-| Slack        | Everyday            | Meeting links, Important Announcements |
+| Slack        | Everyday            | Everything                         |
 | GitHub       | Everyday            | On Project Board and Discussions   |
 | Video Calls  | Twice a week        | Everything                         |
+| WhatsApp     | Everyday            | communication                         |
 
 + **Our team also commits to being active and responsive on Slack:**  
-  - To support those without daily computer access.  
+  - To support those without daily availability .  
   - Also, to stay in touch between meetings.  
 
 + **Issues:**
@@ -48,20 +52,19 @@
 
 | Day    | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
 | ------ | :----: | :-----: | :-------: | :------: | :----: | :------: | :----: |
-| _name_ |        |         |           |   Ghyath |        |          | Ghyath |
-| _name_ |        |         |           |    Tamir |Tamir   |   Tamir  |        |
-| _name_ |        |         |           |          |        |          |        |
-| _name_ |        |         |           |          |        |          |        |
-| _name_ |        |         |           |          |        |          |        |
-| _name_ |        |         |           |          |        |          |        |
+| Ghyath |        |         |           |   2h      |        |          | 5h     |
+| Tamir |        |         |           |    2h |2h   |   2h  |        |
+| lukmon |        |         |           |     2h    |  2h   |           | 3h    |
+| yool | 2h       |  2h      |         |          |        |    2h  |  3h   |
+| Nimatallahi |        |         |           |          |  2h  |   2h   | 2h |
 
 ### How many hours everyone has per day
 
 - Ghyath Ibrahim: _2h_;
 - Tamir Salih: _2h_;
-- name: _5h_;
-- name: _4h_;
-- name: _3h_;
+- lukmon: _2h_;
+- yool: _2h_;
+- Nimatallahi: _2h_;
 
 ## Asking for Help
 
