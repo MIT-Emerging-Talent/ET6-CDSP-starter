@@ -24,7 +24,17 @@ and ensure equitable participation.
 
 4-Conflict Resolution: Address challenges constructively by adapting to diverse viewpoints.
 
--Member2
+-AzzaOmer
+
+1-Navigate and manage conflicts in group settings to strengthen collaboration.
+
+2-Build relationships that support professional growth within and outside the team.
+
+3-Strengthen team connections for future opportunities and collaborations.
+
+4-Apply the full data science lifecycle in a real project .
+
+5-Implement good coding practices.
 
 -Member3
 
