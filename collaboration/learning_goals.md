@@ -46,7 +46,11 @@ being open to new ideas and perspectives.
 3-It’s important for me to communicate clearly and respectfully
 so we can collaborate smoothly as a team.
 
--Member4
+-MuhammadShahroz
+
+1-Aim to work supportively and openly with teammates from diverse backgrounds,
+
+2-ensuring clear and respectful communication.
 
 -Member5
 
