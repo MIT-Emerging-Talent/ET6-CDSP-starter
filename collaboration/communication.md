@@ -33,12 +33,12 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 | Day    | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |     |
 | ------ | :----: | :-----: | :-------: | :------: | :----: | :------: | :----: | --- |
-| _name_ |        |         |           |          |        |          |        |
+| _Martha_ | ✔       |         |   ✔        |          | ✔       |          |        |
 
 ### How many hours everyone has per day
 
 - name: _5h_;
-- name: _6h_;
+- Martha:_3h_;
 - name: _5h_;
 - name: _4h_;
 - name: _3h_;
