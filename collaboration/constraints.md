@@ -1,7 +1,9 @@
 # 🚧 Project Constraints – CSDP Team 15
 
-Boundaries defined to align with MIT Emerging Talent requirements and team dynamics.
-Updated per syllabus guidelines for Milestone 0.
+**Boundaries of This Project**  
+This project will be guided by the domain, scope, and goals defined in our group work. It is shaped by external requirements from the MIT Emerging Talent program (including milestone deadlines), and internal decisions we've made as a team about time, skills, and project direction. These boundaries help us stay focused, manage expectations, and collaborate effectively. We will revisit these boundaries if project direction or external expectations change.
+
+*Updated per Milestone 0 syllabus guidelines for cross-cultural collaboration and constraint definition.*
 
 ---
 
