@@ -2,6 +2,5 @@ ignore:
   - venv
   - .github
 
-MD013:
-  line_length: 400
-  ignore_urls: true
+MD051: false   # disables invalid link fragments rule
+MD040: false   # disables fenced code language rule
