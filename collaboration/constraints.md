@@ -1,34 +1,18 @@
-<!-- this template is for inspiration, feel free to change it however you like! -->
+## Constraints
+Some boundaries around our project. They will be updated as we progress on the project.
 
-# Constraints
+### External
+- Meet deadlines for each milestone  
+- Use only **Python**  
+- **Slack** is the main communication messenger  
 
-Some boundaries around our project.
+### Internal: Involuntary
+- Team members come from diverse academic and professional backgrounds, which may result in different perspectives and approaches to problem-solving.  
+- Due to other commitments, team members have limited availability.  
+- Communication may be asynchronous due to time zone differences, potentially leading to delays in responses and coordination.  
 
-## External
-
-<!--
-  constraints coming from the outside that your team has no control over:
-  - project deadlines
-  - number of unit tests required to pass a code review
-  - technologies (sometimes a client will tell you what to use)
-  - power or connectivity
-  - ...
--->
-
-## Internal: Involuntary
-
-<!--
-  constraints that come from within your team, and you have no control over:
-  - each of your individual skill levels
-  - amount of time available to work on the project
--->
-
-## Internal: Voluntary
-
-<!--
-  constraints that your team decided on to help scope the project. they may include:
-  - coding style & conventions
-  - agree on a code review checklist for the project repository
-  - the number of hours you want to spend working
-  - only using the colors black and white
--->
+### Internal: Voluntary
+- Pull requests will be merged with at least **one approval**  
+- We will have **one group call per week**  
+- At least **two team members attend the weekly CDSP sessions** and update the other members  
+- Provide **constructive and clear feedback** during code reviews, especially if you have questions or suggestions for improvement  
