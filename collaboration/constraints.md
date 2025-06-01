@@ -18,49 +18,39 @@ Our goal is to stay aligned, support each other, and build something great—tog
 
 ---
 
-## 🌍 1. External Constraints
+## 🌍 External Constraints
 
-*Things out of our control, but not out of our awareness.*
-
-| 🧱 Constraint           | 💬 What It MeansIt                                                     |
-| --------------------------- | ------------------------------------------------------------------------------------------- |
-| Project Deadlines       | Timelines set by the project supervisor must be
-adhered to.                 |
-| Internet & Power Issues | Unexpected outages may slow us down—we’ll stay
- flexible and keep each other informed.       |
-| Tool Limitations        |Limited to free/public platforms
-(e.g., GitHub, Kaggle), which may restrict features.  |
-| Data Restrictions       |Only open-access datasets are allowed, licensed or
-private data is excluded.    |
+| 🔹 Constraint            | 💬 Description                               |
+| ------------------------ | ------------------------------------------------------------------------------|
+| Project Deadlines        | Timelines are set by our supervisor and must be respected.|
+| Power or Internet Issues | We may face outages; flexibility and communication are key.|
+| Tool Access              | We’re limited to free/public tools like GitHub and Kaggle, which may have restricted features.|
+| Data Availability        | Only open-access datasets are allowed; we cannot use licensed or proprietary data.|
+| Technology Requirements  | We must use certain technologies as per external requirements or scope (if any). |
 
 ---
 
-## 👥 2. Internal Constraints – Involuntary
+## 👥 Internal: Involuntary Constraints
 
-*These depend on our personal situations. We didn’t choose them, but we can
-manage them!*
-
-|   🧱 Constraint          | 💬 What It Means & How We Handle It                                                              |
-| -------------------------- | ---------------------------------------------------------------------------------------------------- |
-| Different Skill Levels | Team members have varying familiarity with GitHub,Data Analysis, ML, etc.—we support peer learning and mentorship. |
-| Time Availability |The amount of time available to work on the project may vary from person to person.                        |
-| Other Commitments      | Academic, work, or personal commitments that limit availability—we communicate early and plan around it.         |
-| Unexpected Life Stuff  | Emergencies, health, or tech issues may arise—we stay transparent and adjust when needed.            |
+| 🔹 Constraint          | 💬 Description                |
+| ---------------------- | ------------------------------------------------------------------------------|
+| Different Skill Levels | We all come from diverse technical backgrounds—mentorship and peer learning are essential.|
+| Time Availability      | Team members may have different amounts of time due to work, school, or personal life.|
+| Other Commitments      | Workload from other responsibilities may impact participation.|
+| Unexpected Life Events | Illness, travel, or tech issues can arise; we’ll stay transparent and adapt together.|
 
 ---
 
-## 🤝 3. Internal Constraints – Voluntary
+## 🤝 Internal: Voluntary Constraints
 
-*These are team choices that keep us organized and thriving!*
-
-| 💡 Constraint           | 💬 How We Handle It                                                   |
-| --------------------------- | ------------------------------------------------------------------------- |
-| Meeting Schedule        | Two sync calls per week help us connect, plan, and
-stay on track.         |
-| Async Daily Updates     | Quick Slack updates to share progress or blockers.                        |
-| Decision-Making Process | Majority vote rules, with every decision clearly documented.              |
-| Communication Tools     | Slack, Google Meet, and GitHub are our go-to tools for staying connected. |
-| Version Control         | GitHub ensures our work is clean, trackable, and collaboration-friendly.  |
+| 🔹 Constraint              | 💬 Description                                  |
+| -------------------------- | -----------------------------------------------------------------|
+| Coding Style & Conventions | We agree to follow consistent formatting and naming practices.|
+| Code Reviews               | All contributions should be reviewed by at least one other teammate before merging. |
+| Meeting Rhythm             | We hold two synchronous meetings weekly, plus async Slack updates.|
+| Decision-Making            | Team decisions are made by majority vote and documented.|
+| Version Control            | All work is tracked via GitHub with clear commit messages and branches.|
+| Work Hours                 | We commit to a balanced workload that respects each member’s availability.|
 
 ---
 
