@@ -93,7 +93,7 @@ personally focusing on:
 
 ## 🌟 Final Note
 
-We’re not just doing a project — we’re growing together. Let’s keep asking
+We’re not just doing a project, we’re growing together. Let’s keep asking
 questions, helping each other, and staying curious all the way through!
 
 > “Alone we can do so little; together we can do so much.” — Helen Keller
