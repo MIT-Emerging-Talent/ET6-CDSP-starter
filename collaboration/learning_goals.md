@@ -89,10 +89,27 @@
 
 ### Mohammed Elfadil Rabie Hussien
 
-1. **Improve My Data Cleaning and Wrangling Skills**
+1. **Improve Collaboration Using GitHub**
 
-   Learn techniques to handle missing data, outliers,
-   and inconsistencies in real-world datasets to prepare data for analysis.
+   Strengthen my ability to work collaboratively in a team environment
+   by improving my use of GitHub for version control,
+   issue tracking, and managing collaborative workflows.
+
+2. **Enhance Data Analysis Skills**
+
+   Deepen my understanding of analyzing real-world data
+   by applying statistical methods
+   and exploring data distributions, trends, and outliers.
+
+3. **Develop Data Visualization Techniques**
+
+   Improve my ability to visualize patterns in data using tools like Matplotlib, Seaborn, or Plotly to create clear and insightful visual representations.
+
+4. **Build and Evaluate a Machine Learning Model**
+
+   Design, train, and evaluate a machine learning model
+   to make predictions on real data,
+   focusing on model performance and practical application
 
 ### Mohammad Ziadah
 
@@ -104,6 +121,7 @@
 ### Svitlana Musiienko
 
 1. **Improve My Data Cleaning and Wrangling Skills**
+
    Learn techniques to handle missing data, outliers,
    and inconsistencies in real-world datasets to prepare data for analysis.
    
