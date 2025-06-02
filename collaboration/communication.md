@@ -64,7 +64,8 @@
 
 ## 🆘 Asking for Help
 
-> *There's a fine line between confidently learning from your mistakes, and stubbornly getting nowhere.*
+> *There's a fine line between confidently learning from your mistakes,  
+> and stubbornly getting nowhere.*
 
 **Here is our structured approach for when to escalate issues:**
 
