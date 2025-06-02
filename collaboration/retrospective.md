@@ -1,6 +1,6 @@
 <!-- this template is for inspiration, feel free to change it however you like! -->
 
-# Cross-Cultural Collaboration Project Retrospective
+# Cross-Cultural Collaboration Milestone Retrospective
 
 This document summarizes the retrospective of our project's initial milestone:
 establishing effective cross-cultural collaboration. It highlights key learnings,

@@ -32,9 +32,9 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ### Availability for calling/messaging
 
-| Day    | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |     |
-| ------ | :----: | :-----: | :-------: | :------: | :----: | :------: | :----: | --- |
-| _name_ |        |         |           |          |        |          |        |     |
+| Day    | Mon | Tue | Wed | Thu | Fri | Sat | Sun | Notes |
+|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:-----:|
+| _name_ |     |     |     |     |     |     |     |       |
 
 ### How many hours everyone has per day
 
