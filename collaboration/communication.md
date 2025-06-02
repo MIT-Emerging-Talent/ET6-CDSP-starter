@@ -35,37 +35,16 @@ channels, and what types of discussions they are for:
 ---
 
 ## Availability
-
+<!-- markdownlint-disable MD013 -->
 ### Messaging/Calling Availability
 
-**Jawid**  
-Monday: 9am - 2pm  
-Tuesday: 9am - 2pm  
-Wednesday: 9am - 2pm  
-Thursday: 9am - 2pm  
-Friday: 9am - 2pm  
-Saturday: 9am - 12:30pm  
-Sunday: 9am - 12:30pm
-
-**Rumiya**  
-Monday - Friday: 11am - 5pm
-
-**Alemayehu**  
-Monday: 9am - 2pm (PST)  
-Tuesday: 9am - 2pm  
-Wednesday: 11am - 5pm  
-Thursday: 11am - 5pm  
-Friday: NA  
-Saturday: 11am - 5pm  
-Sunday: 9am - 2pm
-
-**Razan**  
-Monday - Thursday: 8am - 11am  
-Saturday: 8am - 11am
-
-**Omnia**  
-Monday - Friday: 9am - 12pm  
-Saturday - Sunday: Not available
+| Name         | Monday             | Tuesday            | Wednesday          | Thursday           | Friday            | Saturday           | Sunday             |
+|--------------|--------------------|---------------------|---------------------|---------------------|--------------------|---------------------|---------------------|
+| **Jawid**     | 9am - 2pm          | 9am - 2pm           | 9am - 2pm           | 9am - 2pm           | 9am - 2pm          | 9am - 12:30pm        | 9am - 12:30pm        |
+| **Rumiya**    | 11am - 5pm         | 11am - 5pm          | 11am - 5pm          | 11am - 5pm          | 11am - 5pm         | Not available        | Not available        |
+| **Alemayehu** | 9am - 2pm (PST)    | 9am - 2pm           | 11am - 5pm          | 11am - 5pm          | Not available      | 11am - 5pm           | 9am - 2pm            |
+| **Razan**     | 8am - 11am         | 8am - 11am          | 8am - 11am          | 8am - 11am          | Not available      | 8am - 11am           | Not available        |
+| **Omnia**     | 9am - 12pm         | 9am - 12pm          | 9am - 12pm          | 9am - 12pm          | 9am - 12pm         | Not available        | Not available        |
 
 ---
 
