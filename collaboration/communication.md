@@ -15,32 +15,28 @@
 
 | Day    | How | The topic of discussion |
 | :----: | :-: | ----------------------: |
-|        |     |                         |
+| June 2nd | Google Meet  | Respecting deadlines, collaboration |
 
 ## Communication Channels
 
 How often we will get in touch on each channel, and what we will discuss there:
 
-- **Issues**:
-- **Pull Requests**:
-- **Slack/Discord**:
-- **Video Calls**:
+- **Issues**: To be discussed
+- **Pull Requests**: Every day
+- **Slack/Discord**: Every day
+- **Video Calls**: Every 3 days
 
 ## Availability
 
 ### Availability for calling/messaging
 
-| Day     | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
+| Day     | Mon | Tue | Wed | Thu | Fri| Sat | Sun |
 |--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| _name_ |     |     |     |     |     |     |     |
+| Alona |5-8 PM EST|5-8 PM EST|3-8 PM|5-8 PM EST|5-8 PM EST|No|9 AM-8 PM EST|
 
 ### How many hours everyone has per day
 
-- name: _5h_
-- name: _6h_
-- name: _5h_
-- name: _4h_
-- name: _3h_
+- Alona: _3h_
 
 ## Asking for Help
 
