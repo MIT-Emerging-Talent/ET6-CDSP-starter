@@ -32,24 +32,15 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ### Availability for calling/messaging
 
-| Day | Monday | Tuesday | Wednesday | Thursday |
-Friday | Saturday | Sunday | |
-| -------------------- | :--------: | :--------: | :--------: | :--------: |
-:--------: | :------: | :--------: | --- |
-| _name_ | | | | |
-| | |
-| Khadija al Ramlawi | | | | |
-| | |
-| Nelson Fodjo Kamdoum | | | | |
-| | |
-| Olubusayo Solola | | | | |
-| | |
-| Sara Sahin | | | | |
-| | |
-| Shayma Mohamed | | | | |
-| | |
-| Yevheniia Rudenko | 12pm - 4pm | 12pm - 4pm | 12pm - 4pm | 12pm - 4pm |
-12pm - 4pm | - | 12pm - 4pm |
+| Day                  |   Monday   |  Tuesday   | Wednesday  |  Thursday  |   Friday   | Saturday |   Sunday   |     |
+| -------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | :------: | :--------: | --- |
+| _name_               |            |            |            |            |            |          |            |
+| Khadija al Ramlawi   |            |            |            |            |            |          |            |
+| Nelson Fodjo Kamdoum |            |            |            |            |            |          |            |
+| Olubusayo Solola     |            |            |            |            |            |          |            |
+| Sara Sahin           |            |            |            |            |            |          |            |
+| Shayma Mohamed       |            |            |            |            |            |          |            |
+| Yevheniia Rudenko    | 12pm - 4pm | 12pm - 4pm | 12pm - 4pm | 12pm - 4pm | 12pm - 4pm |    -     | 12pm - 4pm |
 
 ### How many hours everyone has per day
 
