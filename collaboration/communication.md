@@ -52,7 +52,7 @@ meetings and collaborate effectively.
 | Olumide       | 4 - 7 PM  | 4 - 7 PM  | 4 - 7 PM  | 4 - 7 PM  | 4 - 7 PM  | 7AM - 7PM | 7AM - 7PM |
 | Oleksandr     |           |           |           |           |           |           |           |
 | Ibrahim       |           |           |           |           |           |           |           |
-| Anna          |           |           |           |           |           |           |           |
+| Anna          |           | 6 - 8 PM  |           | 6 - 8 PM  | 6 - 8 PM  | 10AM - 6PM| 10AM - 6PM|
 | Louis         |           |           |           |           |           |           |           |
 | Dorcas        |           |           |           |           |           |           |           |
 
@@ -61,7 +61,7 @@ meetings and collaborate effectively.
 ### How many hours everyone has per day
 
 - Olumide: _3h_;
-- name: _6h_;
+- Anna: _2-4h_;
 - name: _5h_;
 - name: _4h_;
 - name: _3h_;
@@ -69,6 +69,7 @@ meetings and collaborate effectively.
 ### Extra time if needed
 
 - Olumide: Tuesday, Wednesday => 5:00 AM - 7:00 AM.
+- Anna: Monday, Wednesday => 7:00-9:00 PM
 
 ## Asking for Help
 
