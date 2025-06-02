@@ -8,7 +8,7 @@ designed to help you do **reproducible** research. If your research process is
 well organized, others should be able to clone it, run all scripts (without
 errors!), and evaluate your conclusions for themselves.
 
-```
+```markdown
 /
 ├── README.md                   # Project overview and main findings
 ├── /collaboration/             # Team norms, strategies, and retrospectives
