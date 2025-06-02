@@ -10,13 +10,14 @@ Subject to communication via WhatsApp, but preferable at the beginnings of the M
 
 ## Communication Channels
 
-Define how often you will communicate through each of the following channels, and what types of discussions they are for:
+Define how often you will communicate through each of the following channels, and
+what types of discussions they are for:
 
 - **GitHub Issues:** To track tasks and meeting agendas.
 - **Pull Requests:** To review and get feedback on completed work before merging.
 - **Slack:** For questions and updates.
 - **Zoom Calls:** For updates, in-depth conversations and discussions.
-- **WhatsApp:** Primary channel for day-to-day team communication and urgent messages.
+- **WhatsApp:** Primary channel for day to day team communication and urgent messages.
 
 ## Availability
 
