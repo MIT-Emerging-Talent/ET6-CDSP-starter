@@ -1,31 +1,58 @@
 <!-- this template is for inspiration, feel free to change it however you like! -->
 
-# Retrospective
+# Cross-Cultural Collaboration Project Retrospective
 
-## Stop Doing
+This document summarizes the retrospective of our project's initial milestone:
+establishing effective cross-cultural collaboration. It highlights key learnings,
+ challenges, and successes we've experienced in the early stages of our project.
 
-## Continue Doing
+---
 
-## Start Doing
+## Key Achievements
+
+* **Team Engagement & Support:** The team demonstrated strong engagement,
+  actively helping and supporting one another throughout the milestone.
+* **Collaborative Spirit:** We maintained a positive and welcoming collaborative
+  spirit, which was especially helpful for new members.
+* **Effective Communication Channels:** Using tools like WhatsApp helped us stay
+  connected and push work forward.
+
+---
+
+## Challenges Faced
+
+* **Planning Gaps:** Some project aspects lacked thorough planning, leading to
+  unforeseen gaps and hiccups.
+* **Timeline Crunch:** Work often wrapped up too close to deadlines, leaving
+  little time for proper review and refinement.
+* **Meeting Alignment:** Relying on just one meeting made it tough to stay
+  perfectly aligned, leading to last-minute pressure.
+* **Collaboration & Project Management:** We noticed areas where we could
+  improve how we collaborate on documents and manage our projects more smoothly.
+
+---
 
 ## Lessons Learned
 
----
-
-## Strategy vs. Board
-
-### What parts of your plan went as expected?
-
-### What parts of your plan did not work out?
-
-### Did you need to add things that weren't in your strategy?
-
-### Or remove extra steps?
+* **Planning Impact:** Better and more thorough upfront planning is crucial for
+  smoother task execution and overall project flow.
+* **Communication is Key:** Consistent, proactive communication and effective
+  time management are vital for smoother collaboration and avoiding last-minute pressure.
+* **Tool Value:** Structured tools and clear ways of working (like for document
+  sharing and project management) are super important for efficient teamwork.
 
 ---
 
-## Individual Rerospectives
+## Action Plan & Next Steps
 
-### Name
+Based on our retrospective, we have identified the following actionable
+improvements to solidify our collaboration processes and improve our
+communication effectiveness for the next milestone. We will also focus on
+building stronger relationships within the team.
 
-<!-- reflect on your contributions, challenges and progress in this milestone -->
+| Area               | Improvement Goal                                         | Action Step                                                              |
+| :----------------- | :------------------------------------------------------- | :----------------------------------------------------------------------- |
+| **Planning** | Enhance thoroughness and foresight                       | Implement enhanced planning strategies for all future milestones.        |
+| **Deadlines** | Ensure timely completion with review buffer              | Aim for earlier task completion with buffer time for review and refinement. |
+| **Communication** | Improve alignment and proactive information sharing      | Schedule more regular check-ins or meetings to ensure continuous alignment. |
+| **Technical Workflow** | Standardize and optimize collaboration tools             | Establish clearer protocols for version control (Git) and document collaboration. |
