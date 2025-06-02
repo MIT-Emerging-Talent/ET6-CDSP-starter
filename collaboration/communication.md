@@ -1,6 +1,7 @@
 # Communication Plan
 
 ## Communication Schedule
+
 A clear communication schedule ensures everyone stays aligned and informed throughout the project.
 
 ## Communication Channels
@@ -47,3 +48,4 @@ To maintain momentum while promoting independent problem-solving, here is a reco
 - **0–30 minutes**: Attempt to solve the problem independently.
 - **30–60 minutes**: Consult with team members for support.
 - **60+ minutes**: Reach out to mentors or coaches via Slack or GitHub for guidance.
+  
