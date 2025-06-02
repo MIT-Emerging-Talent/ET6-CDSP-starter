@@ -18,6 +18,7 @@
 | Tuesday | Video Call | Weekly sync / planning                       |
 | Friday  | Video Call | Progress check-in / issue resolution         |
 
+
 ## Communication Channels
 
 How often we will get in touch on each channel, and what we will discuss there:
@@ -58,6 +59,7 @@ How often we will get in touch on each channel, and what we will discuss there:
 - María Alejandra Cedeño: _4 h / day_
 - Eman Alfalouji: _TBD_
 - Mohamed Assaf: _TBD_
+
 
 ## Asking for Help
 
