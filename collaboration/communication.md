@@ -36,6 +36,8 @@ We should establish clear norms on when to close issues and accept PRs.
 
 ### Availability for calling/messaging
 <!-- markdownlint-disable MD013 -->
+<!-- Table lines exceed the recommended line length, but splitting them would break the table structure and hurt readability. Keeping them as-is for clarity. -->
+
 | Day    | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
 |--------|:------:|:-------:|:---------:|:--------:|:------:|:--------:|:------:|
 | Ammar  |   12–3PM   |   12–3PM    |    12–3PM     |    12–3PM    |   ❌   |    12–3PM    |   12–3PM   |
