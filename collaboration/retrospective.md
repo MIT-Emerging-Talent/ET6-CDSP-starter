@@ -1,31 +1,36 @@
-<!-- this template is for inspiration, feel free to change it however you like! -->
+# Retrospective for Milestone 0
 
-# Retrospective
+> “The only real mistake is the one from which we learn nothing.”  
+> — Henry Ford
 
-## Stop Doing
+## ✅ What Went Well
 
-## Continue Doing
+- **Helping Each Other**: When one got stuck, someone else stepped in.  
+  That teamwork made a huge difference.
 
-## Start Doing
+## ⚠️ What Can Be Better
 
-## Lessons Learned
+- **Be More Prepared**: Let’s come to meetings ready—review the board,  
+  check PRs, and know what’s next.
+
+- **Use the Project Board**: It's our map. We need to update it regularly  
+  and use labels clearly.
+
+- **Set Clear Deadlines**: Having a timeline keeps us all on track and  
+  reduces last-minute stress.
+
+## 🚀 Next Steps
+
+- **Know the Deliverables**: Before each meeting, let’s be clear about  
+  what’s due and what’s done.
+
+- **Define Roles Early**: Decide who’s doing what from the beginning.
+
+- **Be Honest About Skills**: If someone needs help, say so early—  
+  we’ll figure it out together.
 
 ---
 
-## Strategy vs. Board
+### 🎉 Team Name
 
-### What parts of your plan went as expected?
-
-### What parts of your plan did not work out?
-
-### Did you need to add things that weren't in your strategy?
-
-### Or remove extra steps?
-
----
-
-## Individual Rerospectives
-
-### Name
-
-<!-- reflect on your contributions, challenges and progress in this milestone -->
+We are **DataCure** — curing data challenges one step at a time! 🚀📊
