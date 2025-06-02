@@ -7,47 +7,77 @@
         you can share the rest in confidence with you group by another channel
 -->
 
-# Communication
+# 📢 Communication Plan
 
 ---
 
-## Communication Schedule
+## 🗓 Communication Schedule
 
-| Day    | How | The topic of discussion |
-| :----: | :-: | ----------------------: |
-|        |     |                         |
+| Day     | Method              | Topic of Discussion                          |
+|---------|---------------------|----------------------------------------------|
+| Monday  | Slack Stand-up       | Weekly progress updates and blockers         |
+| Friday  | Group Call           | In-depth status review and planning          |
+| Sunday  | GitHub Issue Triage  | Assign tasks for the next sprint             |
 
-## Communication Channels
+---
 
-How often we will get in touch on each channel, and what we will discuss there:
+## 📬 Communication Channels
 
-- **Issues**:
-- **Pull Requests**:
-- **Slack/Discord**:
-- **Video Calls**:
+### Issues
 
-## Availability
+- **Frequency:** Anytime someone has a new task or blocker  
+- **Discussion:** Task description, due dates, and status updates
+(e.g., "Assigned to," "In Progress," "Done").
 
-### Availability for calling/messaging
+### Pull Requests
 
-| Day     | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
-|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| _name_ |     |     |     |     |     |     |     |
+- **Frequency:** When code, fix, or documentation is ready for review  
+- **Discussion:** Code feedback, lint/CI errors, merge approvals, and change explanations.
 
-### How many hours everyone has per day
+### Slack/Discord
 
-- name: _5h_
-- name: _6h_
-- name: _5h_
-- name: _4h_
-- name: _3h_
+- **Frequency:** Daily — 9 AM stand-up and as needed for urgent issues  
+- **Discussion:** Quick questions, clarifications, or time-sensitive issues
+(e.g., CI failure, data not loading).
 
-## Asking for Help
+### Video Calls
 
-There's a fine line between confidently learning from your mistakes and
-stubbornly getting nowhere. Here is a general guide for when to ask for help
-based on how long you’ve been stuck on the same problem:
+- **Frequency:** Weekly (scheduled at least two days in advance)  
+- **Discussion:** Progress reviews, milestone planning,
+screen-sharing demos, and resolving blockers.
 
-1. _0 → 30 min_: Try on your own
-2. _30 → 60 min_: Ask your group for help
-3. _60+ min_: Tag your coaches in Slack, WhatsApp or GitHub
+---
+
+## 📅 Availability
+
+### Team Members' Daily Availability for Calls/Messages
+
+| Day       | Chrismy | Aziz | Fevzi | Malak | Sadam | Huda |
+|-----------|:-------:|:----:|:-----:|:-----:|:-----:|:----:|
+| Monday    | ✓       | ✓    |       | ✓     | ✓     | ✓    |
+| Tuesday   | ✓       | ✓    |       | ✓     | ✓     |      |
+| Wednesday | ✓       | ✓    |       | ✓     | ✓     |      |
+| Thursday  | ✓       | ✓    |       | ✓     | ✓     | ✓    |
+| Friday    | ✓       | ✓    |       | ✓     | ✓     | ✓    |
+| Saturday  | ✓       | ✓    |       | ✓     | ✓     |      |
+| Sunday    | ✓       | ✓    |       | ✓     | ✓     |      |
+
+---
+
+## ⏱ Daily Hours Available
+
+- **Chrismy**: 5 hours/day  
+- **Aziz Azizi**: 3 hours/day  
+- **Sadam Husen**: 2–3 hours/day  
+- **Huda**: 2 hours/day  
+- **Malak**: 1–2 hours/day  
+
+---
+
+## 🆘 Asking for Help Guide
+
+Use this guide to know when to ask for help based on how long you're stuck:
+
+- **0–30 min**: Try solving it yourself
+- **30–60 min**: Ask your group for help
+- **60+ min**: Tag your coaches on Slack or GitHub
