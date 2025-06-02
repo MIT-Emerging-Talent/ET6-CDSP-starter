@@ -1,7 +1,7 @@
 # 🌿 Team GreenFrontier
 
 Welcome to the collaboration space for **Team GreenFrontier** – Group 02 of the
- MIT Emerging Talent CDSP program.
+MIT Emerging Talent program __CDSP.
 
 We are a team of aspiring data scientists working together to build strong
  collaboration skills, grow through shared learning, and prepare for
@@ -22,4 +22,4 @@ Safiya Hashimi
 
 Mervil Pierre Kenley
 
-Mithchell
+Mithchell Lawensky Cenatus
