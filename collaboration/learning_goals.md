@@ -1,6 +1,6 @@
-## Learning Goals
+# Learning Goals
 
-### Collective Goals
+## Collective Goals
 
 - **Deepen knowledge in data science**  
   - Work on a project addressing real-world issues to apply data science concepts in practice.
