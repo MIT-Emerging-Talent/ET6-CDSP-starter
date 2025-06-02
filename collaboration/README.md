@@ -3,7 +3,7 @@
 ## Group Norms
 
 1. **Inclusive Participation**  
-   → Our goal is inclusive participation and thoughtful engagement with each person’s ideas.
+   → Our goal is inclusive participation and thoughtful engagement.
 
 2. **Constructive Feedback**  
    → Feedback is meant to improve the work, not to judge individuals.
@@ -18,10 +18,11 @@
    → We expect our leader(s) to help the team stay aligned while valuing all input.
 
 6. **Building Trust**  
-   → Cognitive trust through accountability and transparency; affective trust through empathy and connection.
+   → Cognitive trust through accountability and transparency.
+   Affective trust through empathy and connection.
 
 7. **Conflict Resolution**  
-   → When trust is damaged, we aim to restore it through honesty, accountability, and consistent actions.
+   → We aim to restore damaged trust through accountability and consistent actions.
 
 8. **Purpose-Driven Communication**  
    → Use discussion to explore ideas and debate to make decisions.
@@ -36,5 +37,8 @@
 
 ## Summary
 
-Our group values open communication, mutual respect, and shared accountability.  
-We aim to create a supportive environment where every voice is heard, tasks are completed with care, and trust is built through empathy, consistency, and collaboration.
+Our group values open communication, mutual respect, and accountability.  
+We aim to create a supportive environment where:
+every voice is heard,
+tasks are completed with care,
+and trust is built through empathy, consistency, and collaboration.
