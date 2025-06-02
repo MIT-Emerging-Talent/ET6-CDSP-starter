@@ -20,7 +20,7 @@
 
 ## Communication Channels
 
-how often will we get in touch on each channel, and what we will discuss there:
+How often we will get in touch on each channel, and what we will discuss there:
 
 - **Issues**:  
   - Updated whenever a new task or bug arises.  
@@ -39,19 +39,17 @@ how often will we get in touch on each channel, and what we will discuss there:
   - Every Tuesday (10:00 AM EST): full-team planning and backlog review.  
   - Every Friday (10:00 AM EST): progress review, demo in progress, and next steps.
 
----
-
 ## Availability
 
 ### Availability for calling/messaging
 
-| Day         | Monday       | Tuesday      | Wednesday    | Thursday     | Friday       | Saturday | Sunday |
+| Day | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
 |-------------|:------------:|:------------:|:------------:|:------------:|:------------:|:--------:|:------:|
-| Mohamed Elnageeb        | - | 5 h (9 AM – 2 PM EST)  | -  | - | 5 h (9 AM – 2 PM EST)  |          |        |
-| Zeinab Mohammed         | - | 4 h (10 AM – 2 PM EST) | - | - | 4 h (10 AM – 2 PM EST) |          |        |
-| María Alejandra Cedeño  | -  | 4 h (1 PM – 5 PM EST)  | - | - | 4 h (1 PM – 5 PM EST)  |          |        |
-| Eman Alfalouji          | TBD                    | TBD                    | TBD                    | TBD                    | TBD                    |          |        |
-| Mohamed Assaf           | TBD                    | TBD                    | TBD                    | TBD                    | TBD                    |          |        |
+| Mohamed | - | 5 h (9 AM – 2 PM EST)  | -  | - | 5 h (9 AM – 2 PM EST)  | | |
+| Zeinab | - | 4 h (10 AM – 2 PM EST) | - | - | 4 h (10 AM – 2 PM EST) | | |
+| María | -  | 4 h (1 PM – 5 PM EST)  | - | - | 4 h (1 PM – 5 PM EST)  | | |
+| Eman | TBD | TBD | TBD | TBD | TBD |  |  |
+| Mohamed  | TBD | TBD | TBD | TBD | TBD |  |  |
 
 ### How many hours everyone has per day
 
@@ -63,10 +61,10 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ## Asking for Help
 
-There's a fine line between confidently learning from your mistakes, and
-stubbornly getting no where. Here is a general guide for when to ask for help
-based on how long you've been stuck on the same problem:
+There's a fine line between confidently learning from your mistakes and
+stubbornly getting nowhere. Here is a general guide for when to ask for help
+based on how long you’ve been stuck on the same problem:
 
-1. _0 → 30 min_: Try on your own  
-2. _30 → 60 min_: Ask your group for help  
-3. _60+ min_: Tag your coaches in Slack or GitHub
+1. _0 → 30 min_: Try on your own
+2. _30 → 60 min_: Ask your group for help
+3. _60+ min_: Tag your coaches in Slack, WhatsApp or GitHub
