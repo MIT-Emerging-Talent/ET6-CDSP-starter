@@ -1,54 +1,49 @@
-<!--
-    this template is for inspiration, feel free to change it however you like!
-
-    Careful! be sure to protect your privacy when filling out this document
-        everything you write here will be public
-        so share only what you are comfortable sharing online
-        you can share the rest in confidence with you group by another channel
--->
-
-# Communication
-
----
+# Communication Plan
 
 ## Communication Schedule
-
-| Day | How | The topic of discussion | | --- | :-: | ----------------------- |
-| | | |
+A clear communication schedule ensures everyone stays aligned and informed throughout the project.
 
 ## Communication Channels
 
-how often will we get in touch on each channel, and what we will discuss there:
+Outlined below is how and when each communication channel will be used:
 
-- **Issues**:
-- **Pull Requests**:
-- **Slack/Discord**:
-- **Video Calls**:
+- **GitHub Issues**: Used to manage to-do lists and track tasks.
+- **Pull Requests**: For reviewing and discussing code changes before they are merged.
+- **Slack/Discord**: For real-time communication including scheduling meetings, sharing ideas, and discussing limited-scope items.
+- **Video Calls**: Reserved for deeper discussions, brainstorming sessions, and resolving complex issues.
 
 ---
 
-## Availability
+## Team Availability
 
-### Availability for calling/messaging
+### Availability for Calls and Messaging
 
-| Day    | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |     |
-| ------ | :----: | :-----: | :-------: | :------: | :----: | :------: | :----: | --- |
-| _name_ |        |         |           |          |        |          |        |
+| **Team Member** | **Monday**   | **Tuesday**      | **Wednesday**    | **Thursday**     | **Friday**        | **Saturday**      | **Sunday** |
+|-----------------|--------------|------------------|------------------|------------------|-------------------|-------------------|------------|
+| **Solara**      | 10–12 EST    | 10–12 EST             |10–12 EST               | 10–12 EST                 | 10–12 EST         | -                 | -          |
+| **Reem**        | 10–12 EST    | 10–12 EST             |10–12 EST               | 10–12 EST                 | 10–12             | -                 | -          |
+| **Ana**         | 10–12 EST    | 10–12 EST             |10–12 EST               | 10–12 EST                 | 10–12 EST         |                   |            |
+| **Aseel**       | 10–12 EST    | 10–12 EST             |10–12 EST               | 10–12 EST                 | 10–12 EST         |                   |            |
+| **Safaa**       | 10–12 EST    | 12:30–3 EST      | 12:30–3 EST      | Not Available    | 12:30–3 EST       | 12:30–3 EST       |            |
 
-### How many hours everyone has per day
+---
 
-- name: _5h_;
-- name: _6h_;
-- name: _5h_;
-- name: _4h_;
-- name: _3h_;
+### Estimated Daily Working Hours per Team Member
 
-## Asking for Help
+| **Team Member** | **Available Hours/Day** |
+|-----------------|-------------------------|
+| **Solara**      | 2 hours                 |
+| **Reem**        | 3–4 hours               |
+| **Ana**         | 3 hours                 |
+| **Aseel**       | 4 hours                 |
+| **Safaa**       | 3 hours                 |
 
-There's a fine line between confidently learning from your mistakes, and
-stubbornly getting no where. Here is a general guide for when to ask for help
-based on how long you've been stuck on the same problem:
+---
 
-1. _0 -> 30 min_: Try on your own
-1. _30 -> 60 min_: Ask your group for help
-1. _60+ min_: Tag your coaches in Slack or GitHub
+## Guidelines for Asking for Help
+
+To maintain momentum while promoting independent problem-solving, here is a recommended approach for requesting assistance:
+
+- **0–30 minutes**: Attempt to solve the problem independently.
+- **30–60 minutes**: Consult with team members for support.
+- **60+ minutes**: Reach out to mentors or coaches via Slack or GitHub for guidance.
