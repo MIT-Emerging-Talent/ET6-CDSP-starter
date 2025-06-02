@@ -53,6 +53,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 | Eman | TBD | TBD | TBD | TBD | TBD |          |        |
 | Mohamed Assaf | TBD | TBD | TBD | TBD | TBD |          |        |
 
+
 ### How many hours everyone has per day
 
 - Mohamed Elnageeb: _5 h / day_
