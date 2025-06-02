@@ -13,17 +13,18 @@
 
 ## Communication Schedule
 
-| Day | How | The topic of discussion | | --- | :-: | ----------------------- |
-| | | |
+| Day        | How        | The topic of discussion     |
+| ---------- | ---------- | --------------------------- |
+| 31.05.2025 | Video call | Finalisation of group norms |
 
 ## Communication Channels
 
 how often will we get in touch on each channel, and what we will discuss there:
 
-- **Issues**:
-- **Pull Requests**:
-- **Slack/Discord**:
-- **Video Calls**:
+- **Issues**: Asynchronous, to discuss and track tasks.
+- **Pull Requests**: Asynchronous, to review and merge code changes.
+- **Slack/Discord**: Asynchronous, for general communication and updates.
+- **Video Calls**: Weekly, with additional calls as needed.
 
 ---
 
