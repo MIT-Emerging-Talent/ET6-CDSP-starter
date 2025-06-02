@@ -10,7 +10,7 @@ We are a team of aspiring data scientists working together to build strong
 
 Stay tuned for updates as we define and begin our project journey!
 
-## The team member comprises of
+## The team member comprises
 
 Mohamed Tilal
 
