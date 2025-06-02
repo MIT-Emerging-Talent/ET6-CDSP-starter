@@ -20,7 +20,7 @@ branching strategies, merge conflict resolution, and collaborative workflows.
 
 - Master advanced programming concepts like object-oriented principles.
 - Learn new DSs and algorithms.
-- Develop better pattern recognition for when to use specific data 
+- Develop better pattern recognition for when to use specific data
 structures or algorithms
 - Learn to program faster, to be more a more efficient developer.
 
