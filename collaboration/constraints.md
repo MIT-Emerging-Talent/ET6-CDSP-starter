@@ -4,16 +4,35 @@
 
 Some boundaries around our project.
 
-## External
+## 1. External
 
-<!--
-  constraints coming from the outside that your team has no control over:
-  - project deadlines
-  - number of unit tests required to pass a code review
-  - technologies (sometimes a client will tell you what to use)
-  - power or connectivity
-  - ...
--->
+Constraints coming from the outside that our team has no control over:
+
+### 1.1. Project deadlines & milestones
+
+> 1. The project must be completed within the assigned timeline.
+> 2. The project is divided into milestones, each will have a deadline that we are
+> required to meet it.
+> 3. TODO: find the deadlines.
+
+### 1.2. Dataset availability
+
+> We are limited to publicly available or client-provided datasets.
+
+### 1.3. Data privacy & compliance
+
+> We must adhere to data privacy laws (e.g., GDPR)
+  and avoid using any personally identifiable information (PII) unless **anonymized**.
+
+### 1.4. Hardware limitations
+
+> We are using our personal laptops with limited processing power and memory
+  (e.g., no access to GPUs or high-performance computing).
+
+### 1.5. Internet connectivity
+
+> The project may be affected by slow or unstable internet connections when
+ downloading data or accessing cloud services.
 
 ## Internal: Involuntary
 
