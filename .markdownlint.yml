@@ -1,7 +1,3 @@
 ignore:
   - venv
   - .github
-
-rules:
-  MD051: false  # disables invalid link fragments rule
-  MD040: false  # disables fenced code language rule

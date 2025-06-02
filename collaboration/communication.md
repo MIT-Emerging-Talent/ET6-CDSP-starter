@@ -15,9 +15,9 @@
 
 Subject to communication via WhatsApp, but preferable at the beginnings of the Milestones.
 
-**Day:** Beginnings of the Milestones  
-**Method (How):** Zoom  
-**Topic of Discussion:** How to get it done                      |
+| Day                      | How  | Topic of Discussion    |
+|--------------------------|------|-------------------------|
+| Beginnings of Milestones | Zoom | How to get it done      |
 
 ---
 
@@ -37,20 +37,22 @@ How often will we get in touch on each channel, and what we will discuss there:
 ---
 
 ## Availability
-<!-- markdownlint-disable MD013 -->
+
 ### Messaging/Calling Availability
 
-| Name         | Monday             | Tuesday            | Wednesday          | Thursday           | Friday            | Saturday           | Sunday             |
-|--------------|--------------------|---------------------|---------------------|---------------------|--------------------|---------------------|---------------------|
-| **Jawid**     | 9am - 2pm          | 9am - 2pm           | 9am - 2pm           | 9am - 2pm           | 9am - 2pm          | 9am - 12:30pm        | 9am - 12:30pm        |
-| **Rumiya**    | 11am - 5pm         | 11am - 5pm          | 11am - 5pm          | 11am - 5pm          | 11am - 5pm         | Not available        | Not available        |
-| **Alemayehu** | 9am - 2pm (PST)    | 9am - 2pm           | 11am - 5pm          | 11am - 5pm          | Not available      | 11am - 5pm           | 9am - 2pm            |
-| **Razan**     | 8am - 11am         | 8am - 11am          | 8am - 11am          | 8am - 11am          | Not available      | 8am - 11am           | Not available        |
-| **Omnia**     | 9am - 12pm         | 9am - 12pm          | 9am - 12pm          | 9am - 12pm          | 9am - 12pm         | Not available        | Not available        |
+<!-- markdownlint-disable MD013 -->
+
+| Name         | Monday           | Tuesday          | Wednesday        | Thursday         | Friday          | Saturday         | Sunday           |
+|--------------|------------------|------------------|------------------|------------------|------------------|------------------|------------------|
+| **Jawid**     | 9am - 2pm        | 9am - 2pm        | 9am - 2pm        | 9am - 2pm        | 9am - 2pm        | 9am - 12:30pm     | 9am - 12:30pm     |
+| **Rumiya**    | 11am - 5pm       | 11am - 5pm       | 11am - 5pm       | 11am - 5pm       | 11am - 5pm       | Not available     | Not available     |
+| **Alemayehu** | 9am - 2pm (PST)  | 9am - 2pm        | 11am - 5pm       | 11am - 5pm       | Not available     | 11am - 5pm        | 9am - 2pm         |
+| **Razan**     | 8am - 11am       | 8am - 11am       | 8am - 11am       | 8am - 11am       | Not available     | 8am - 11am        | Not available     |
+| **Omnia**     | 9am - 12pm       | 9am - 12pm       | 9am - 12pm       | 9am - 12pm       | 9am - 12pm       | Not available     | Not available     |
 
 ---
 
-### How many hours everyone has per day
+### Daily Availability (Hours per Day)
 
 - **Jawid:** 5h  
 - **Rumiya:** 3h  
@@ -65,6 +67,6 @@ There's a fine line between confidently learning from your mistakes and
 stubbornly getting nowhere. Here is a general guide for when to ask for help
 based on how long you've been stuck on the same problem:
 
-1. _0 → 30 min_: Try on your own .
-2. _30 → 60 min_: Ask your group for help  
-3. _60+ min_: Tag your coaches in Slack or GitHub  
+1. _0 → 30 min_: Try to solve the problem on your own.  
+2. _30 → 60 min_: Ask your team members for help.  
+3. _60+ min_: Reach out to a coach on Slack or GitHub.
