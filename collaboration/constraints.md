@@ -1,4 +1,6 @@
-# 🎯 Constraints – The Ground Rules for Our Game Plan ⚽
+# 🎯 Constraints
+
+## The Ground Rules for Our Game Plan ⚽
 
 > _“Great teams aren’t great because they’re perfect. They’re great because they
 > understand their limits and play to their strengths.”_
