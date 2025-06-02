@@ -5,6 +5,7 @@ To ensure smooth collaboration and realistic planning, we have identified both e
 ---
 
 ## External Constraints
+
 These are factors beyond our direct control:
 
 - **Technology Limitations** – The type of technology available to us may influence implementation and outcomes.  
@@ -19,6 +20,7 @@ These are factors beyond our direct control:
 ## Internal Constraints
 
 ### Involuntary Constraints
+
 These are limitations stemming from personal or professional responsibilities:
 
 - **Solara** – Balancing two part-time jobs, which significantly reduce her available working hours.  
@@ -27,6 +29,7 @@ These are limitations stemming from personal or professional responsibilities:
 - **Safaa** – Managing both professional responsibilities and family commitments.
 
 ### Voluntary Constraints
+
 These are additional activities or responsibilities the team members have chosen to undertake:
 
 - **Solara** – Preparing for an upcoming exam, which limits her capacity during study periods.  
