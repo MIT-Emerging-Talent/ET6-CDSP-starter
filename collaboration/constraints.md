@@ -4,7 +4,7 @@
 This project will be guided by the domain, scope, and goals defined in our  
 group work. It is shaped by external requirements from the MIT Emerging Talent  
 program (including milestone deadlines), and internal decisions we've made as  
-a team about time, skills, and project direction. These boundaries help us  
+a team about time, skills, and project direction. These boundaries help us stay  
 stay focused, manage expectations, and collaborate effectively. We will revisit  
 these boundaries if project direction or external expectations change.
 
