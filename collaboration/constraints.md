@@ -91,8 +91,9 @@ Tasks will be assigned based on individual skill levels,
 
 ### 🤝 Collaboration Experience
 
-We’ll start building our rhythm by:
+With backgrounds in Electrical energy, Energy Engineering and Architecture.  
+Our preferred topic is:  
+**Renewable Energy and Sustainability**
 
-+ Sharing and dividing workflows (e.g., cleaning, modeling, visualization)  
-+ Communicating asynchronously across time zones  
-+ Practicing version control and reviewing each other's work
+As a team; Learning to work with Jupyter Notebook and
+ libraries like Matplotlib and Pandas.
