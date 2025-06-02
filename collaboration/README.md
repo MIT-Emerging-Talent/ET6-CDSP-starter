@@ -38,7 +38,7 @@
 ## Summary
 
 Our group values open communication, mutual respect, and accountability.  
-We aim to create a supportive environment where:
-every voice is heard,
-tasks are completed with care,
-and trust is built through empathy, consistency, and collaboration.
+We aim to create a supportive environment where:  
+- every voice is heard,  
+- tasks are completed with care,  
+- and trust is built through empathy, consistency, and collaboration.
