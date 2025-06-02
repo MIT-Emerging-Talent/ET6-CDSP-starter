@@ -24,9 +24,17 @@
 - Develop domain research abilities: conducting literature reviews
   and summarizing findings
 
-### Aziz
+### Aziz [Github](<https://github.com/Azizsin7>)
 
-(Add individual learning goals here)
+- Improve Coding Skills: Enhance proficiency in Python programming languages.
+- Enhance Problem-Solving: Improve problem-solving abilities by practicing
+  coding challenges.
+- Master Data Collection & Analysis: Develop strong skills in gathering,
+  cleaning, and analyzing data to extract meaningful insights.
+- Enhance Communication, Teamwork, and Project Management: Improve these skills
+  for better collaboration with peers.
+- Improve Documentation: Focus on writing clear and comprehensive documentation
+  for my code and projects.
 
 ### Fevzi
 
