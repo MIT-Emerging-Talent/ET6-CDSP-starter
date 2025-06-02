@@ -1,8 +1,10 @@
+<!-- markdownlint-disable MD013 -->
 # Communication Plan
 
 ## Communication Schedule
 
-A clear communication schedule ensures everyone stays aligned and informed throughout the project.
+A clear communication schedule ensures everyone stays aligned and informed throughout the
+project.
 
 ## Communication Channels
 
@@ -10,7 +12,8 @@ Outlined below is how and when each communication channel will be used:
 
 - **GitHub Issues**: Used to manage to-do lists and track tasks.
 - **Pull Requests**: For reviewing and discussing code changes before they are merged.
-- **Slack/Discord**: For real-time communication including scheduling meetings, sharing ideas, and discussing limited-scope items.
+- **Slack/Discord**: For real-time communication including scheduling meetings, sharing
+- ideas, and discussing limited-scope items.
 - **Video Calls**: Reserved for deeper discussions, brainstorming sessions, and resolving complex issues.
 
 ---
@@ -49,3 +52,4 @@ To maintain momentum while promoting independent problem-solving, here is a reco
 - **30–60 minutes**: Consult with team members for support.
 - **60+ minutes**: Reach out to mentors or coaches via Slack or GitHub for guidance.
   
+  <!-- markdownlint-enable MD013 -->

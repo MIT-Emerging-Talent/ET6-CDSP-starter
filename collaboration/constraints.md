@@ -1,3 +1,4 @@
+<!-- markdownlint-disable MD013 -->
 # Constraints
 
 To ensure smooth collaboration and realistic planning, we have identified both external and internal constraints that may impact the progress of our project.
@@ -35,3 +36,4 @@ These are additional activities or responsibilities the team members have chosen
 - **Solara** – Preparing for an upcoming exam, which limits her capacity during study periods.  
 - **Aseel** – Participating in an Android app development program, which requires a portion of her time and focus.  
 -->
+<!-- markdownlint-enable MD013 -->
