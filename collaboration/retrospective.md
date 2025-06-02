@@ -50,9 +50,12 @@ improvements to solidify our collaboration processes and improve our
 communication effectiveness for the next milestone. We will also focus on
 building stronger relationships within the team.
 
-| Area               | Improvement Goal                                         | Action Step                                                              |
-| :----------------- | :------------------------------------------------------- | :----------------------------------------------------------------------- |
-| **Planning** | Enhance thoroughness and foresight                       | Implement enhanced planning strategies for all future milestones.        |
-| **Deadlines** | Ensure timely completion with review buffer              | Aim for earlier task completion with buffer time for review and refinement. |
-| **Communication** | Improve alignment and proactive information sharing      | Schedule more regular check-ins or meetings to ensure continuous alignment. |
-| **Technical Workflow** | Standardize and optimize collaboration tools             | Establish clearer protocols for version control (Git) and document collaboration. |
+* **Planning:** We'll implement **enhanced planning strategies** for all future
+  milestones to ensure thoroughness and foresight from the start.
+* **Deadlines:** We aim for **earlier task completion** with built-in buffer
+  time for proper review and refinement before deadlines.
+* **Communication:** We'll **schedule more regular check-ins or meetings** to
+  improve alignment and encourage proactive information sharing across the team.
+* **Technical Workflow:** We'll work to **establish clearer protocols for our
+  document collaboration and project management tools** to standardize and
+  optimize our technical workflow.
