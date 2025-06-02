@@ -59,6 +59,7 @@ How often will we get in touch on each channel, and what we will discuss there:
 - **Alemayehu:** 4h  
 - **Razan:** 2h  
 - **Omnia:** 3h
+  
 ---
 
 ## Asking for Help
