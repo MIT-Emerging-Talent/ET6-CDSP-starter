@@ -16,7 +16,8 @@
 
 ## Start Doing
 
-- Encouraging full participation from all members in both discussions and task execution.  
+- Encouraging full participation from all members in both
+discussions and task execution.  
 - Scheduling regular review sessions to stay aligned with project goals.
 
 ## Lessons Learned
