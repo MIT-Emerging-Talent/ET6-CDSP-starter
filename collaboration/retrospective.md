@@ -74,7 +74,7 @@ from the start of each phase.
   Lack of activit on slack caused that I didn't know what is best of the team.
 
   The team didn't start the work until the end of the milestone
-   so I hadsome time problems.
+   so I had some time problems.
 - **What I Learned:**  
   I realized the importance of organizing our workflow more effectively and
   assigning tasks based on each member’s strengths and skills.
