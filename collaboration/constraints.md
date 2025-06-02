@@ -36,11 +36,37 @@ Constraints coming from the outside that our team has no control over:
 
 ## Internal: Involuntary
 
+## 2. Internal: Involuntary
+
 <!--
   constraints that come from within your team, and you have no control over:
   - each of your individual skill levels
   - amount of time available to work on the project
 -->
+### 2.1. Team Skill Set
+
+> The collective expertise and experience of the team members in specific areas (e.g.,\
+machine learning algorithms,  data engineering, domain knowledge, specific tools)
+> inherently limit the project's scope and complexity.\
+> A lack of expertise in a critical area might necessitate simplification
+> or external help.
+
+### 2.2. Time Availability
+
+> The total person-hours the team can realistically commit to the project,
+> considering other responsibilities,holidays, and potential   unforeseen absences,
+> acts as a fundamental constraint on the amount of work that can be accomplished.
+
+### 2.3. Team Size and Structure
+
+> The number of people on the team and how they are organized can impact
+> communication overhead, coordination efforts, and the ability to parallelize tasks.
+
+### 2.4. Prior Knowledge and Context
+
+> The team's existing understanding of the problem domain, the data, and relevant
+> prior work can influence the project's starting point and pace.\
+> Gaps in knowledge may require additional time for research and learning.
 
 ## Internal: Voluntary
 
