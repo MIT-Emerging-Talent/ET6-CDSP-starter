@@ -14,8 +14,9 @@ adaptable, we support one another in reaching our shared goals.
 ## Group Agreements (Intention-Based)
 
 - We intend to communicate openly and respectfully to ensure everyone
- feels safe, heard, and valued. This means avoiding strong language and personal
- remarks; all feedback should be courteous and focused on the work — not on individuals.
+ feels safe, heard, and valued. This means avoiding strong language and
+ personal remarks; all feedback should be courteous and focused
+ on the work — not on individuals.
 - We intend to collaborate with equity and shared responsibility, recognizing
 that consistent participation strengthens the group.
 This means we will stay present, communicate our
