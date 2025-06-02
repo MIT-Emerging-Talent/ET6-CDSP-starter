@@ -15,11 +15,11 @@
 ## 3- Communication & Collaboration Tools
 
 - We use GitHub, Google Drive, and other shared platforms.  
-- Members may have different levels of access, experience, or internet stability.  
-- Clear and simple communication is essential due to language and platform differences.
+- Members may have different levels of access or experience.  
+- Clear and simple communication is essential due to language differences.
 
 ## 4- Technical Learning & Deadline Pressure
 
-- Skill levels vary across the team; we encourage shared learning and peer support.  
-- We hold short help sessions when needed (e.g. for GitHub or project tools).  
-- Strict deadlines are fixed by the course, so we set internal checkpoints and backup plans to stay on track.
+- Skill levels vary; we encourage shared learning and peer support.  
+- We hold short help sessions when needed (e.g. for GitHub).  
+- Strict course deadlines require internal checkpoints and backup plans.
