@@ -7,7 +7,6 @@
 Before we kick off our project like pros, let’s talk about the real stuff —
 the limits we might face along the way. Think of this as our **offside line**:
 it keeps us in check, but also helps us play smarter, not harder.
-
 While we're dreaming big with **Data Strikers**, we're also grounded in reality.
 Our team comes from diverse backgrounds, time zones, and commitments — and that’s
 exactly what makes us stronger, more creative, and more resourceful.
@@ -18,7 +17,7 @@ Here's a summary of the constraints that shape how we work and what we can deliv
 
 ## 🌍 External Constraints
 
-_Things we can’t control but must work around._
+### Things we can’t control but must work around
 
 - 📚 University exams across multiple members — academic life is in full swing!
 - 🌐 Occasional internet issues (life of a remote team!)
@@ -31,7 +30,7 @@ _Things we can’t control but must work around._
 
 ## 💼 Internal Constraints – Involuntary
 
-_Things within us that are not always under our control._
+### Things within us that are not always under our control
 
 - 🛠️ Ongoing commitments to other projects
 - 📉 Skill gaps in some tools (but hey, we’re fast learners!)
@@ -44,7 +43,7 @@ _Things within us that are not always under our control._
 
 ## 🚀 Internal Constraints – Voluntary
 
-_Choices we’ve made to work smarter and healthier._
+### Choices we’ve made to work smarter and healthier
 
 - 🧘 Balancing project work with well-being and life
 - 📖 Choosing to learn tools/tech the right way vs. rushing through
@@ -56,12 +55,12 @@ _Choices we’ve made to work smarter and healthier._
 
 ## 💡 Final Thoughts: Constraints = Creativity Boosters
 
-Rather than obstacles, we see constraints as **creative boundaries**
+Rather than obstacles, we see constraints as **creative boundaries**  
 that help us focus on what's essential. They push us to:
 
-- Prioritize smartly  
-- Plan realistically  
-- Support each other’s pace  
+- Prioritize smartly
+- Plan realistically
+- Support each other’s pace
 - Celebrate progress, not perfection
 
 So if you ever see us working asynchronously, taking our time to learn,
