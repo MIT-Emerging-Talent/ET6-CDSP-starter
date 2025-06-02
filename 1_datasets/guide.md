@@ -35,20 +35,13 @@ one. The kind of data you choose impacts:
 
 Below is an overview of different kinds of dataset you will encounter:
 
-<<<<<<< Collaboration-README
-1. [Classification by Data Type]
-(#classification-by-data-type)
-=======
 1. [Classification by Data Type](#quantitative-numerical-data)
->>>>>>> main
 2. [Classification by Structure](#classification-by-structure)
 3. [Classification by Collection Method](#classification-by-collection-method)
 4. [Classification by Size and Complexity](#classification-by-size-and-complexity)
 5. [Classification by Access Type](#classification-by-access-type)
 6. [Classification by Purpose](#classification-by-purpose)
 7. [Classification by Format](#classification-by-format)
-
-## Classification by Data Type
 
 ### Quantitative (Numerical) Data
 
