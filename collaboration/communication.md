@@ -37,14 +37,14 @@
 ## ⏰ Availability
 
 ### 📞 Availability for calling/messaging
->
-> *All times listed in EST*
+
+*All times listed in EST*
 
 | Team Member | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
 | ----------- | :----: | :-----: | :-------: | :------: | :----: | :------: | :----: |
 | **Ahmed** | *TBD* | *TBD* | *TBD* | *TBD* | *TBD* | *TBD* | *TBD* |
 | **Charm** | 11AM-2PM | 11AM-2PM | 11AM-2PM | 11AM-2PM | 11AM-2PM | 11AM-2PM | 11AM-2PM |
-| **Dadi** | 11PM-3AM | 11PM-3AM | 11PM-3AM | 11PM-3AM | 11PM-3AM | 11PM-3AM | 11PM-3AM |
+| **Dadi** | 11AM-3PM | 11AM-3PM | 11AM-3PM | 11AM-3PM | 11AM-3PM | 11AM-3PM | 11AM-3PM |
 | **Hassan** | 11AM-1PM | 11AM-1PM | 11AM-1PM | 11AM-1PM | 11AM-1PM | 11AM-1PM | 11AM-1PM |
 | **Madiha** | 10AM-2PM | 10AM-2PM | 10AM-2PM | 10AM-2PM | 10AM-2PM | 8AM-1PM | 8AM-1PM |
 | **Saleem** | 11AM-1PM | 11AM-1PM | 11AM-1PM | 11AM-1PM | 11AM-1PM | 11AM-1PM | 11AM-1PM |
@@ -71,11 +71,9 @@
 1. **0 → 30 min**: 🔍 *Try on your own*
    - Research documentation, stack traces, and similar issues
    - Experiment with different approaches
-
 2. **30 → 60 min**: 👥 *Ask your group for help*
    - Post in team chat with context and what you've tried
    - Schedule a quick pair programming session
-
 3. **60+ min**: 🏃‍♂️ *Tag your coaches in Slack or GitHub*
    - Create detailed issue with reproduction steps
    - Include relevant code snippets and error messages
