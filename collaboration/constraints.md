@@ -14,6 +14,7 @@
 -->
 - power or connectivity.
 - project deadlines.
+- dependency on workshop schedules and milestone timelines.
 
 ## Internal: Involuntary
 
@@ -24,6 +25,7 @@
 -->
 - other commitments.
 - familiarity with the technology needed.
+- varying availability across time zones.
 
 ## Internal: Voluntary
 
@@ -37,3 +39,5 @@
 - miscommunication.
 - flexiblity.
 - if there is any confilicts it will be solved by voting.
+- maintain clear documentation for all contributions.
+- stick to defined coding conventions for consistency.
