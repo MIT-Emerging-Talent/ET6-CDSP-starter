@@ -1,34 +1,45 @@
-<!-- this template is for inspiration, feel free to change it however you like! -->
+# ⚠️ Project Constraints
 
-# Constraints
+Welcome to the boundaries that guide and shape our project 🚀  
+These help us stay focused, organized, and collaborative as a team 🧠💪
 
-Some boundaries around our project.
+---
 
-## External
+## 🌍 External Constraints
 
-<!--
-  constraints coming from the outside that your team has no control over:
-  - project deadlines
-  - number of unit tests required to pass a code review
-  - technologies (sometimes a client will tell you what to use)
-  - power or connectivity
-  - ...
--->
+These are outside our control but affect our work:
 
-## Internal: Involuntary
+- ⏰ We must meet all **project deadlines** set by the CDSP program.
+- 💻 We're required to use **GitHub** for team collaboration and version control.
+- 📝 We need to provide **clear documentation** and follow **review checklists**.
+- 🌐 Our work depends on stable **internet connectivity**.
+- 📅 All tasks must be completed within the **official timeline** of the program.
 
-<!--
-  constraints that come from within your team, and you have no control over:
-  - each of your individual skill levels
-  - amount of time available to work on the project
--->
+---
 
-## Internal: Voluntary
+## 🧩 Internal Constraints – Involuntary
 
-<!--
-  constraints that your team decided on to help scope the project. they may include:
-  - coding style & conventions
-  - agree on a code review checklist for the project repository
-  - the number of hours you want to spend working
-  - only using the colors black and white
--->
+These are challenges from within the team that we can't fully control:
+
+- 🧑‍💻 Varying **skill levels** in programming and Git/GitHub usage.
+- 🕰️ Limited **working hours** due to personal or professional commitments.
+- 🌎 **Different time zones** can make real-time collaboration harder.
+- 👶 Some teammates have families, so flexibility is important.
+
+---
+
+## ✨ Internal Constraints – Voluntary
+
+These are rules we choose to follow as a team to stay productive and aligned:
+
+- 🧼 We will follow **PEP8** coding style for Python to keep our code clean.
+- 🌱 Each **branch** should implement only one focused change or feature.
+- 📤 Every change must go through a **Pull Request (PR)** and be reviewed.
+- 🗂️ We will keep our **project board updated** to show progress and responsibilities.
+- 🧹 Avoid large PRs to make the **review process smoother**.
+- 💬 We will communicate regularly and respectfully on **Slack**.
+- 🤝 Everyone agrees to support and review each other's work for quality.
+
+---
+
+🎉 Let’s keep these constraints in mind as we build something amazing together! 🙌💙
