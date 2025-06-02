@@ -23,3 +23,13 @@
 - Improve problem-solving skills
 
 - Gain practical experience on a real data science project
+
+### Zeinab Mohmmed **[(Gmail)](<mailto:zeinbwahid98@gmail.com>)**
+
+- Strengthen my technical skills, especially in GitHub, Python, and Data Science.
+  
+- Improve my time management and become more organized.
+
+- Learn from others through sharing and exchanging knowledge.
+
+- Apply what I’ve learned in real projects and keep learning from my mistakes.
