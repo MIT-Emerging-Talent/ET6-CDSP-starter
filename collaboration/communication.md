@@ -35,6 +35,7 @@ We should establish clear norms on when to close issues and accept PRs.
 ## Availability
 
 ### Availability for calling/messaging
+
 <!-- markdownlint-disable MD013 -->
 <!-- Table lines exceed the recommended line length, but splitting them would break the table structure and hurt readability. Keeping them as-is for clarity. -->
 
@@ -48,6 +49,7 @@ We should establish clear norms on when to close issues and accept PRs.
 
 > Note: Times are in EST. Availability may vary slightly due to personal commitments.
 <!-- markdownlint-disable MD013 -->
+
 ### How many hours everyone has per day
 
 - Ammar: _2h_
