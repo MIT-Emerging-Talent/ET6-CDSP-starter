@@ -65,18 +65,18 @@
 
 ### Alemayehu Desta
 
-**What went well for you personally at this milestone**  
+#### What went well for you personally at this milestone
 
 - Team members are supportive, and my first group experience helped me to easily
-  be onboard for the data science collaboration project from early on.  
+  be onboard for the data science collaboration project from early on.
 
-**What was challenging for you**  
+#### What was challenging for you
 
 - I found out my time zone is a little different than other members of the group,
-  and I missed the first video meeting.  
+  and I missed the first video meeting.
 
-**What will you do differently in the next milestone**  
+#### What will you do differently in the next milestone
 
 - I will proactively participate in the group meetings and continue to communicate
   using the communication channels the group has set up.  
-- I will contact group members for any questions and help in times of need.  
+- I will contact group members for any questions and help in times of need.
