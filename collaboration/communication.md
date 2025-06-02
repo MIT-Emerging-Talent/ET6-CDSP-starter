@@ -23,7 +23,10 @@
 
 How often will we get in touch on each channel, and what we will discuss there:
 
-- **Issues and Pull Requests**: Used for task-specific discussions and reviewing submitted code. Helps in learning how to manage GitHub collaboration. We should establish clear norms on when to close issues and accept PRs.
+- **Issues and Pull Requests**: Used for task-specific discussions
+and reviewing submitted code.
+Helps in learning how to manage GitHub collaboration.
+We should establish clear norms on when to close issues and accept PRs.
 - **Slack**: Preferred for daily communication, quick questions, and coordination.
 - **Video Calls**: Held on Google Meet. Used for meetings. Weekly or as needed.
 
@@ -32,7 +35,7 @@ How often will we get in touch on each channel, and what we will discuss there:
 ## Availability
 
 ### Availability for calling/messaging
-
+<!-- markdownlint-disable MD013 -->
 | Day    | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
 |--------|:------:|:-------:|:---------:|:--------:|:------:|:--------:|:------:|
 | Ammar  |   12–3PM   |   12–3PM    |    12–3PM     |    12–3PM    |   ❌   |    12–3PM    |   12–3PM   |
@@ -42,7 +45,7 @@ How often will we get in touch on each channel, and what we will discuss there:
 |Muhammad| 12–2PM | 12–2PM | 12–2PM | 12–2PM | ❌ | ❌  | 12–2PM |
 
 > Note: Times are in EST. Availability may vary slightly due to personal commitments.
-
+<!-- markdownlint-disable MD013 -->
 ### How many hours everyone has per day
 
 - Ammar: _2h_
@@ -55,7 +58,10 @@ How often will we get in touch on each channel, and what we will discuss there:
 
 ## Asking for Help
 
-There's a fine line between confidently learning from your mistakes, and stubbornly getting nowhere. Here is a general guide for when to ask for help based on how long you've been stuck on the same problem:
+There's a fine line between confidently learning from your mistakes,
+and stubbornly getting nowhere.
+Here is a general guide for when to ask for help
+based on how long you've been stuck on the same problem:
 
 1. _0 → 30 min_: Try on your own  
 2. _30 → 60 min_: Ask your group for help  
