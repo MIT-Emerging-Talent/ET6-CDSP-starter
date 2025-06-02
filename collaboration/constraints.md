@@ -21,7 +21,7 @@ Our goal is to stay aligned, support each other, and build something great—tog
 ## 🌍 External Constraints
 
 | 🔹 Constraint            | 💬 Description                               |
-| ------------------------ | ------------------------------------------------------------------------------|
+| ------------------------ | -----------------------------------------------------------------------|
 | Project Deadlines        | Timelines are set by our supervisor and must be respected.|
 | Power or Internet Issues | We may face outages; flexibility and communication are key.|
 | Tool Access              | We’re limited to free/public tools like GitHub and Kaggle, which may have restricted features.|
