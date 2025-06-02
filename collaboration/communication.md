@@ -36,13 +36,14 @@
 
 ## ⏰ Availability
 
-### 📞 Availability for calling/messaging 
+### 📞 Availability for calling/messaging
+>
 > *All times listed in EST*
 
 | Team Member | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
 | ----------- | :----: | :-----: | :-------: | :------: | :----: | :------: | :----: |
 | **Ahmed** | *TBD* | *TBD* | *TBD* | *TBD* | *TBD* | *TBD* | *TBD* |
-| **Charm** | *TBD* | *TBD* | *TBD* | *TBD* | *TBD* | *TBD* | *TBD* |
+| **Charm** | 11AM-2PM | 11AM-2PM | 11AM-2PM | 11AM-2PM | 11AM-2PM | 11AM-2PM | 11AM-2PM |
 | **Dadi** | 11PM-3AM | 11PM-3AM | 11PM-3AM | 11PM-3AM | 11PM-3AM | 11PM-3AM | 11PM-3AM |
 | **Hassan** | 11AM-1PM | 11AM-1PM | 11AM-1PM | 11AM-1PM | 11AM-1PM | 11AM-1PM | 11AM-1PM |
 | **Madiha** | 10AM-2PM | 10AM-2PM | 10AM-2PM | 10AM-2PM | 10AM-2PM | 8AM-1PM | 8AM-1PM |
@@ -51,7 +52,7 @@
 ### ⏱️ Daily Commitment Hours
 
 - **Ahmed**: *To be determined*
-- **Charm**: *To be determined*  
+- **Charm**: ~4 hours per day  
 - **Dadi**: ~4 hours per day
 - **Hassan**: 2-3 hours per day
 - **Madiha**: ~4.5 hours per day
