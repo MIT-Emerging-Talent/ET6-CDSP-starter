@@ -1,34 +1,25 @@
-<!-- this template is for inspiration, feel free to change it however you like! -->
-
 # Constraints
 
-Some boundaries around our project.
+## 1- Team Distribution & Availability
 
-## External
+- Team members are in multiple time zones, limiting real-time coordination.
+- Meetings need flexible scheduling to include everyone.
+- We accommodate different availability while maintaining progress.
 
-<!--
-  constraints coming from the outside that your team has no control over:
-  - project deadlines
-  - number of unit tests required to pass a code review
-  - technologies (sometimes a client will tell you what to use)
-  - power or connectivity
-  - ...
--->
+## 2- Commitments & Workload Balance
 
-## Internal: Involuntary
+- Members have other responsibilities (university, jobs, personal).
+- Project time is limited, requiring efficient work.
+- We adjust responsibilities if delays occur.
 
-<!--
-  constraints that come from within your team, and you have no control over:
-  - each of your individual skill levels
-  - amount of time available to work on the project
--->
+## 3- Communication & Collaboration Tools
 
-## Internal: Voluntary
+- We use GitHub, Google Drive, and shared platforms.
+- Members have varying access and experience levels.
+- Clear communication is essential across languages.
 
-<!--
-  constraints that your team decided on to help scope the project. they may include:
-  - coding style & conventions
-  - agree on a code review checklist for the project repository
-  - the number of hours you want to spend working
-  - only using the colors black and white
--->
+## 4- Technical Learning & Deadline Pressure
+
+- Skill levels vary; we encourage peer learning.
+- Short help sessions are available when needed.
+- Course deadlines require checkpoints and backups.
