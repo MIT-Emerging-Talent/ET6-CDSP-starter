@@ -20,15 +20,11 @@
 
 ## 📊 About Our Project
 
-Welcome to **DataCents** - where numbers tell stories and algorithms predict  
-fortunes! 🎯
+Welcome to **DataCents** - where numbers tell stories and algorithms predict fortunes! 🎯
 
 ## 🔍 What is DataCents?
 
-> **DataCents** is a team of data wizards is on a quest to transform the  
-> cryptic language of financial markets into clear, actionable insights.  
-> We're not just crunching numbers; we're crafting the future of financial  
-> decision-making, one algorithm at a time. 💡🌍
+> **DataCents** is a team of data wizards is on a quest to transform the cryptic language of financial markets into clear, actionable insights. We're not just crunching numbers; we're crafting the future of financial decision-making, one algorithm at a time. 💡🌍
 
 ### 🎯 Our Mission
 
@@ -157,8 +153,7 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
-Navigate to the `4_data_analysis` directory to begin exploring our financial  
-data analysis.
+Navigate to the `4_data_analysis` directory to begin exploring our financial data analysis.
 
 ## 📈 Project Progress
 
@@ -172,13 +167,11 @@ data analysis.
 
 ## 🤝 Contributing
 
-We welcome contributions! Please see our [CONTRIBUTING.md](CONTRIBUTING.md)  
-for guidelines.
+We welcome contributions! Please see our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE)  
-file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
@@ -186,7 +179,6 @@ file for details.
   <img src="https://img.shields.io/badge/Quote-Finance%20%26%20Data-blue?style=for-the-badge" alt="Quote"/>
 </div>
 
-> *"The goal is to turn data into information, and information into insight."*  
-> *- Carly Fiorina*
+> *"The goal is to turn data into information, and information into insight." - Carly Fiorina*
 
 Join us as we make sense — and DataCents — out of information.
