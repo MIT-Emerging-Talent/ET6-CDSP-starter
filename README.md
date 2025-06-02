@@ -174,7 +174,7 @@ conda activate datacents
 pip install -r requirements.txt
 ```
 
-2. Start exploring
+1. Start exploring
 
 ```bash
 # Launch Jupyter Notebook
