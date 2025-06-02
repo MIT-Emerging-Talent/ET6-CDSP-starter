@@ -1,34 +1,24 @@
-<!-- this template is for inspiration, feel free to change it however you like! -->
-
 # Constraints
 
 Some boundaries around our project.
 
+This document will be updated as the project evolves. Each team member is welcome
+to contribute by adding any constraints they encounter or agree on during the work.
+
 ## External
 
-<!--
-  constraints coming from the outside that your team has no control over:
-  - project deadlines
-  - number of unit tests required to pass a code review
-  - technologies (sometimes a client will tell you what to use)
-  - power or connectivity
-  - ...
--->
+Constraints coming from outside the team that we have no control over:
+
+- (To be added as we identify them)
 
 ## Internal: Involuntary
 
-<!--
-  constraints that come from within your team, and you have no control over:
-  - each of your individual skill levels
-  - amount of time available to work on the project
--->
+Constraints from within the team that we can’t change:
+
+- (To be added by team members based on availability, skills, etc.)
 
 ## Internal: Voluntary
 
-<!--
-  constraints that your team decided on to help scope the project. they may include:
-  - coding style & conventions
-  - agree on a code review checklist for the project repository
-  - the number of hours you want to spend working
-  - only using the colors black and white
--->
+Constraints we decide on as a team to guide our work and scope:
+
+- (To be added and refined as we move forward)
