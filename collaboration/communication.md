@@ -31,14 +31,15 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ### Availability for calling/messaging
 
-| Day    | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |     |
-| ------ | :----: | :-----: | :-------: | :------: | :----: | :------: | :----: | --- |
-| Ozgur  | 14:00  | 14:00   | 14:00     |  14:00   | 14:00  |          |        |
+| Day    | Monday    | Tuesday   | Wednesday | Thursday  | Friday    | Saturday | Sunday |     |
+| ------ | :----:    | :-----:   | :-------: | :------:  | :----:    | :------: | :----: | --- |
+| Ozgur  | 14pm-19pm | 14pm-19pm | 14pm-19pm | 14pm-19pm | 14pm-19pm |          |        |     |
+|M.Elfadil| 2am-4pm  | 2am-4pm   | 2am-4pm   | 2am-4pm   | 2am-4pm   | 2am-4pm  | 2am-4pm|     |
 
 ### How many hours everyone has per day
 
-- Ozgur: _3h_;
-- name: _6h_;
+- Ozgur: _5h_;
+- M.Elfadil: _6h_;
 - name: _5h_;
 - name: _4h_;
 - name: _3h_;
