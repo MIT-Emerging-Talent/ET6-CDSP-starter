@@ -52,6 +52,11 @@ so we can collaborate smoothly as a team.
 
 2-ensuring clear and respectful communication.
 
--Member5
+-AmmarIbrahim
+
+1-Learn how to work effectively as part of a team.
+
+2-communicating efficiently and putting in effort for the team’s
+success—not just individual progress.
 
 -Member6
