@@ -32,8 +32,8 @@ fortunes! 🎯
 ## 🔍 What is DataCents?
 
 > **DataCents** is a team of data wizards is on a quest to transform the  
-> cryptic language of financial markets into clear, actionable insights. We're  
-> not just crunching numbers; we're crafting the future of financial  
+> cryptic language of financial markets into clear, actionable insights.  
+> We're not just crunching numbers; we're crafting the future of financial  
 > decision-making, one algorithm at a time. 💡🌍
 
 ### 🎯 Our Mission
@@ -212,7 +212,7 @@ file for details.
        alt="Quote"/>
 </div>
 
-> *"The goal is to turn data into information, and information into insight."  
-> - Carly Fiorina*
+> *"The goal is to turn data into information, and information into insight."*  
+> *- Carly Fiorina*
 
 Join us as we make sense — and DataCents — out of information.
