@@ -19,7 +19,8 @@
 | **Monday** | 🎥 Google Meet | Weekly planning & sprint review |
 | **Friday** | 🎥 Google Meet | Progress updates & week wrap-up |
 
-> 💡 **Pro Tip**: We create GitHub issues beforehand to outline meeting agendas and ensure productive discussions.
+> 💡 **Pro Tip**: We create GitHub issues beforehand to outline meeting  
+> agendas and ensure productive discussions.
 
 ---
 
@@ -27,10 +28,11 @@
 
 **How often will we get in touch on each channel, and what we will discuss there:**
 
-- **📋 Issues**: Daily monitoring for bug reports, feature requests, and task assignments
-- **🔄 Pull Requests**: Real-time code reviews and collaborative development discussions  
-- **💬 Slack/WhatsApp**: Casual check-ins, quick questions, and informal team bonding
-- **🎥 Video Calls**: Bi-weekly structured meetings (Mon/Fri) and ad-hoc problem-solving sessions
+- **📋 Issues**: Daily monitoring for bug reports, feature requests, and  
+  task assignments
+- **🔄 Pull Requests**: Real-time code reviews and collaborative development  
+- **💬 Slack/WhatsApp**: Casual check-ins, quick questions, and team bonding
+- **🎥 Video Calls**: Bi-weekly structured meetings (Mon/Fri) and ad-hoc sessions
 
 ---
 
@@ -38,16 +40,16 @@
 
 ### 📞 Availability for calling/messaging
 
-*All times listed in EST*
+#### All times listed in EST
 
-| Team Member | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
-| ----------- | :----: | :-----: | :-------: | :------: | :----: | :------: | :----: |
+| Member | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
+| ------ | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | **Ahmed** | *TBD* | *TBD* | *TBD* | *TBD* | *TBD* | *TBD* | *TBD* |
-| **Charm** | 11AM-2PM | 11AM-2PM | 11AM-2PM | 11AM-2PM | 11AM-2PM | 11AM-2PM | 11AM-2PM |
-| **Dadi** | 11AM-3PM | 11AM-3PM | 11AM-3PM | 11AM-3PM | 11AM-3PM | 11AM-3PM | 11AM-3PM |
-| **Hassan** | 11AM-1PM | 11AM-1PM | 11AM-1PM | 11AM-1PM | 11AM-1PM | 11AM-1PM | 11AM-1PM |
-| **Madiha** | 10AM-2PM | 10AM-2PM | 10AM-2PM | 10AM-2PM | 10AM-2PM | 8AM-1PM | 8AM-1PM |
-| **Saleem** | 11AM-1PM | 11AM-1PM | 11AM-1PM | 11AM-1PM | 11AM-1PM | 11AM-1PM | 11AM-1PM |
+| **Charm** | 11-2PM | 11-2PM | 11-2PM | 11-2PM | 11-2PM | 11-2PM | 11-2PM |
+| **Dadi** | 11-3PM | 11-3PM | 11-3PM | 11-3PM | 11-3PM | 11-3PM | 11-3PM |
+| **Hassan** | 11-1PM | 11-1PM | 11-1PM | 11-1PM | 11-1PM | 11-1PM | 11-1PM |
+| **Madiha** | 10-2PM | 10-2PM | 10-2PM | 10-2PM | 10-2PM | 8-1PM | 8-1PM |
+| **Saleem** | 11-1PM | 11-1PM | 11-1PM | 11-1PM | 11-1PM | 11-1PM | 11-1PM |
 
 ### ⏱️ Daily Commitment Hours
 
@@ -85,10 +87,11 @@
 **Our commitment to excellence:**
 
 - **🔄 Transparency**: Keep everyone informed of blockers and progress
-- **⚡ Responsiveness**: Acknowledge messages within 24 hours during available times  
+- **⚡ Responsiveness**: Acknowledge messages within 24 hours during available  
+  times  
 - **🤝 Support**: No question is too small - we grow together
 - **📊 Accountability**: Regular updates on commitments and deliverables
 
 ---
 
-*Last updated: Team formation - Ready to build something amazing! 🚀*
+**Last updated**: Team formation - Ready to build something amazing! 🚀
