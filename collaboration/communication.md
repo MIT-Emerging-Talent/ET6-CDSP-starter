@@ -18,9 +18,10 @@
 | Tuesday | Video Call | Weekly sync / planning                       |
 | Friday  | Video Call | Progress check-in / issue resolution         |
 
+
 ## Communication Channels
 
-how often will we get in touch on each channel, and what we will discuss there:
+How often we will get in touch on each channel, and what we will discuss there:
 
 - **Issues**:  
   - Updated whenever a new task or bug arises.  
@@ -38,8 +39,6 @@ how often will we get in touch on each channel, and what we will discuss there:
 - **Video Calls**:  
   - Every Tuesday (10:00 AM EST): full-team planning and backlog review.  
   - Every Friday (10:00 AM EST): progress review, demo in progress, and next steps.
-
----
 
 ## Availability
 
@@ -61,12 +60,15 @@ how often will we get in touch on each channel, and what we will discuss there:
 - Eman Alfalouji: _TBD_
 - Mohamed Assaf: _TBD_
 
+
 ## Asking for Help
 
-There's a fine line between confidently learning from your mistakes, and
-stubbornly getting no where. Here is a general guide for when to ask for help
-based on how long you've been stuck on the same problem:
+There's a fine line between confidently learning from your mistakes and
+stubbornly getting nowhere. Here is a general guide for when to ask for help
+based on how long you’ve been stuck on the same problem:
 
-1. _0 → 30 min_: Try on your own  
-2. _30 → 60 min_: Ask your group for help  
-3. _60+ min_: Tag your coaches in Slack or GitHub
+
+1. _0 → 30 min_: Try on your own
+2. _30 → 60 min_: Ask your group for help
+3. _60+ min_: Tag your coaches in Slack, WhatsApp or GitHub
+
