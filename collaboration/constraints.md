@@ -1,34 +1,25 @@
-<!-- this template is for inspiration, feel free to change it however you like! -->
+#  Constraints
 
-# Constraints
+## 1- Team Distribution & Availability
 
-Some boundaries around our project.
+- Team members are spread across multiple time zones, limiting real-time coordination.  
+- Meetings and collaboration require flexible scheduling to include everyone.  
+- We accommodate different availability levels while maintaining progress.
 
-## External
+## 2- Commitments & Workload Balance
 
-<!--
-  constraints coming from the outside that your team has no control over:
-  - project deadlines
-  - number of unit tests required to pass a code review
-  - technologies (sometimes a client will tell you what to use)
-  - power or connectivity
-  - ...
--->
+- Members have other responsibilities (e.g. university, jobs, personal).  
+- Time for this project is limited, so we aim to work efficiently.  
+- If delays occur, we offer support and adjust responsibilities as needed.
 
-## Internal: Involuntary
+## 3- Communication & Collaboration Tools
 
-<!--
-  constraints that come from within your team, and you have no control over:
-  - each of your individual skill levels
-  - amount of time available to work on the project
--->
+- We use GitHub, Google Drive, and other shared platforms.  
+- Members may have different levels of access, experience, or internet stability.  
+- Clear and simple communication is essential due to language and platform differences.
 
-## Internal: Voluntary
+## 4- Technical Learning & Deadline Pressure
 
-<!--
-  constraints that your team decided on to help scope the project. they may include:
-  - coding style & conventions
-  - agree on a code review checklist for the project repository
-  - the number of hours you want to spend working
-  - only using the colors black and white
--->
+- Skill levels vary across the team; we encourage shared learning and peer support.  
+- We hold short help sessions when needed (e.g. for GitHub or project tools).  
+- Strict deadlines are fixed by the course, so we set internal checkpoints and backup plans to stay on track.
