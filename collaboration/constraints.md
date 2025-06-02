@@ -4,20 +4,17 @@
 > understand their limits and play to their strengths.”_
 > – Data Strikers Philosophy
 
-Before we kick off our project like pros, let’s talk about the real stuff —
+Before we kick off our project like pros, let’s talk about the real stuff
 the limits we might face along the way. Think of this as our **offside line**:
 it keeps us in check, but also helps us play smarter, not harder.
 While we're dreaming big with **Data Strikers**, we're also grounded in reality.
-Our team comes from diverse backgrounds, time zones, and commitments — and that’s
+Our team comes from diverse backgrounds, time zones, commitments and that’s
 exactly what makes us stronger, more creative, and more resourceful.
-
 Here's a summary of the constraints that shape how we work and what we can deliver.
 
 ---
 
 ## 🌍 External Constraints
-
-### Things we can’t control but must work around
 
 - 📚 University exams across multiple members — academic life is in full swing!
 - 🌐 Occasional internet issues (life of a remote team!)
@@ -30,8 +27,6 @@ Here's a summary of the constraints that shape how we work and what we can deliv
 
 ## 💼 Internal Constraints – Involuntary
 
-### Things within us that are not always under our control
-
 - 🛠️ Ongoing commitments to other projects
 - 📉 Skill gaps in some tools (but hey, we’re fast learners!)
 - 📆 Changing availability based on fluctuating workloads
@@ -42,8 +37,6 @@ Here's a summary of the constraints that shape how we work and what we can deliv
 ---
 
 ## 🚀 Internal Constraints – Voluntary
-
-### Choices we’ve made to work smarter and healthier
 
 - 🧘 Balancing project work with well-being and life
 - 📖 Choosing to learn tools/tech the right way vs. rushing through
@@ -67,4 +60,4 @@ So if you ever see us working asynchronously, taking our time to learn,
 or pausing to breathe — that’s just our secret formula for delivering
 something meaningful and sustainable. 💪
 
-Let’s go, **Data Strikers**! 💥
+Let’s go, **Data Strikers**!💥
