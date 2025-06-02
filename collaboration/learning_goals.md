@@ -42,4 +42,4 @@
 
 ### Sadam
 
-(Add individual learning goals here)
+(Add individual learning goals here.)
