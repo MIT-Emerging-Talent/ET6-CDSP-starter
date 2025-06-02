@@ -68,12 +68,122 @@ machine learning algorithms,  data engineering, domain knowledge, specific tools
 > prior work can influence the project's starting point and pace.\
 > Gaps in knowledge may require additional time for research and learning.
 
-## Internal: Voluntary
+## 3. Internal: Voluntary
 
-<!--
-  constraints that your team decided on to help scope the project. they may include:
-  - coding style & conventions
-  - agree on a code review checklist for the project repository
-  - the number of hours you want to spend working
-  - only using the colors black and white
--->
+### 3.1. Coding Standards and Style Guides
+
+**To ensure consistency and maintainability in our project code.**\
+**We should agree on setting up the following constraints:**
+
+> 1. Coding conventions.
+> 2. Documentation standards.
+> 3. Version control practices (e.g., Git workflow)
+
+### 3.2. Development Methodology
+
+> We will have the following approch options:
+> **[ Agile, Scrum, Kanban]**
+
+### 3.3. Code Review Process
+
+> Implementing mandatory code reviews with
+a defined checklist ensures code quality but adds time to the development cycle.
+
+### 3.4. Scope Limitations
+
+> Deliberately deciding *not* to pursue certain features, analyses, or model complexities,
+even if technically feasible, to ensure focus and timely completion of core objectives.
+
+### 3.5. Testing Strategy
+
+Defining the required level of unit testing, integration testing,
+or validation procedures beyond any external requirements.
+
+### 3.6. Technology stack
+
+> We are required to use specific tools such as Python,\
+> Jupyter Notebooks, google colab, and libraries like pandas, matplotlib,
+  scikit-learn, or TensorFlow.
+
+| **Framework / Tool** | **Intended Usage** |
+| -------------------- | -----------------------------------|
+| **Python**                  | Primary programming language            |
+| **Google Colab**            | Cloud-based environment for development |
+| **pandas**                  | Data manipulation and preprocessing |
+| **NumPy**                   | Numerical computing and array operations|
+| **scikit-learn**            | Building and evaluating machine learning models|
+| **Matplotlib**              | Data visualization and EDA|
+| **TensorFlow / PyTorch**    | (If needed) Deep learning model development |
+| **SQL (e.g., SQLite/MySQL)**| Data querying and manipulation from relational databases|
+| **Git + GitHub**            | Version control, collaboration, and code repo managment|
+| **OpenCV / PIL**            | Image processing (if working with visual data) |
+| **scipy.stats / statsmodels** | Statistical analysis and hypothesis testing|
+| **MLflow** | Experiment tracking and model management  |
+
+### 3.7. Submission requirements
+
+```json
+{
+  "milestones": [
+    {
+      "name": "0_domain_study",
+      "deliverables": [
+        "Domain background report summarizing context and goals",
+        "List of key questions or hypotheses to guide the project",
+        "Initial stakeholder requirements (if applicable)"
+      ]
+    },
+    {
+      "name": "1_datasets",
+      "deliverables": [
+        "Dataset inventory (sources, size, format, licenses)",
+        "Data collection script(s) or links to datasets",
+        "Data dictionary describing features/columns",
+        "Assessment of data quality and limitations"
+      ]
+    },
+    {
+      "name": "2_data_preparation",
+      "deliverables": [
+        "Cleaned and preprocessed dataset file (e.g., CSV or parquet)",
+        "Data cleaning notebook or script (handling missing values, encoding, scaling)",
+        "Updated data dictionary reflecting changes"
+      ]
+    },
+    {
+      "name": "3_data_exploration",
+      "deliverables": [
+        "Exploratory Data Analysis (EDA) notebook with visualizations and statistics",
+        "Summary of insights, correlations, and anomalies",
+        "Initial hypothesis validation (if applicable)"
+      ]
+    },
+    {
+      "name": "4_data_analysis",
+      "deliverables": [
+        "Modeling notebook(s) or pipeline script",
+        "Model performance report (e.g., accuracy, precision, recall, RMSE)",
+        "Feature importance or model interpretability analysis",
+        "Experiment tracking records or logs (e.g., MLflow)"
+      ]
+    },
+    {
+      "name": "5_communication_strategy",
+      "deliverables": [
+        "Draft of data story (key insights and visuals)",
+        "Slide deck outline or wireframe for final presentation",
+        "Plan for communicating results to technical and non-technical audiences"
+      ]
+    },
+    {
+      "name": "6_final_presentation",
+      "deliverables": [
+        "Final slide deck or report",
+        "Live or recorded presentation",
+        "GitHub repository with documentation and code",
+        "Optional: Dashboard or web app showcasing results"
+      ]
+    }
+  ]
+}
+```
