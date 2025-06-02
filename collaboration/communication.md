@@ -1,55 +1,141 @@
-<!--
-    this template is for inspiration, feel free to change it however you like!
+# 🌟 CDSP Group 24 – Project Kickoff & Strategic Alignment
 
-    Careful! be sure to protect your privacy when filling out this document
-        everything you write here will be public
-        so share only what you are comfortable sharing online
-        you can share the rest in confidence with you group by another channel
--->
-
-# Communication
+**📅 Date**: Thursday, May 29  
+**🕙 Time**: 10:00 – 11:00 AM EST
 
 ---
 
-## Communication Schedule
+## 🎯 Purpose & Direction
 
-| Day | How | The topic of discussion |
-| --- | :-: | ----------------------- |
-|     |     |                         |
+As we launch our data-driven initiative under the CDSP Group 24 umbrella, this
+first team meeting is designed to establish strong collaborative foundations,
+assign clear responsibilities, and align on deliverables for our initial milestone.
 
-## Communication Channels
-
-how often will we get in touch on each channel, and what we will discuss there:
-
-- **Issues**:
-- **Pull Requests**:
-- **Slack/Discord**:
-- **Video Calls**:
+This meeting will serve not just as a planning session, but as a pivotal moment
+to foster ownership, transparency, and momentum across the team.
 
 ---
 
-## Availability
+## 🗂️ Agenda & Strategic Focus
 
-### Availability for calling/messaging
+### ✅ Finalizing Group Norms
 
-| Day    | Mon | Tue | Wed | Thu | Fri | Sat | Sun | Notes |
-|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:-----:|
-| _name_ |     |     |     |     |     |     |     |       |
+We will consolidate our group norms into a clear, actionable format that reflects
+our values of trust, accountability, flexibility, and inclusivity. These will
+be finalized and formally integrated into the project’s README.
 
-### How many hours everyone has per day
+### 📁 Repository Overview
 
-- name: _5h_;
-- name: _6h_;
-- name: _5h_;
-- name: _4h_;
-- name: _3h_;
+A brief walkthrough of the current repository status will be shared, highlighting
+technical setup, organizational structure, and upcoming improvements.
 
-## Asking for Help
+### 🚀 Task Allocation: First Milestone
 
-There's a fine line between confidently learning from your mistakes, and
-stubbornly getting nowhere. Here is a general guide for when to ask for help
-based on how long you've been stuck on the same problem:
+We will distribute key deliverables based on team expertise and availability.
+These include:
 
-1. _0 -> 30 min_: Try on your own  
-2. _30 -> 60 min_: Ask your group for help  
-3. _60+ min_: Tag your coaches in Slack or GitHub
+- Defining our **Project Learning Objectives**
+- Outlining **Communication Practices**
+- Detailing **Project Constraints**
+- Drafting the **Main README** with a clear team identity
+- Integrating finalized **Group Norms** into documentation
+- Conducting a **Retrospective** to support continuous improvement
+
+---
+
+## 👥 Assigned Responsibilities
+
+| Member      | Responsibility                                      |
+| ----------- | --------------------------------------------------- |
+| **Omnia**   | Craft and submit **Learning Objectives**            |
+| **Jola**    | Draft and finalize **Group Norms**                  |
+| **Robel**   | Define and document **Communication Practices**     |
+| **Omer**    | Identify and summarize **Project Constraints**      |
+| **Muqadsa** | Lead the **Retrospective** and capture key insights |
+| **Karim**   | Compile and present the full **README File**        |
+
+---
+
+## 🔍 Peer Review Schedule
+
+To ensure accountability and knowledge sharing, each member will provide
+structured feedback on a peer’s work:
+
+| Reviewer    | Reviews Work From            |
+| ----------- | ---------------------------- |
+| **Omnia**   | Muqadsa                      |
+| **Jola**    | Omnia                        |
+| **Robel**   | Jola                         |
+| **Omer**    | Robel                        |
+| **Muqadsa** | Omer                         |
+| **Karim**   | Jola _(supporting reviewer)_ |
+
+💡 Reviews should emphasize clarity, completeness, and alignment with project
+goals. Constructive feedback will strengthen our shared output.
+
+---
+
+## 📅 Weekly Availability Overview
+
+This schedule ensures that collaboration aligns with our global time zones and
+personal bandwidth. All times are expressed in each member’s local time.
+<!-- markdownlint-disable MD013 -->
+| Name        | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday | Hours per Day | Notes                 |
+| ----------- | ------ | ------- | --------- | -------- | ------ | -------- | ------ | ------------- | --------------------- |
+| **Karim**   | ✅     | ✅      | ✅        | ✅       | ✅     | ✅       | ✅     | 3–5 hours     |                       |
+| **Jola**    | ✅     | ✅      | ✅        | ✅       | ❌     | ✅       | ✅     | 3–5 hours     |                       |
+| **Robel**   | ✅     | ✅      | ✅        | ✅       | ✅     | ✅       | ✅     | 6–8 hours     |                       |
+| **Omer**    | ❌     | ✅      | ✅        | ✅       | ✅     | ✅       | ❌     | 3–5 hours     |                       |
+| **Omnia**   | ✅     | ✅      | ✅        | ✅       | ✅     | ✅       | ✅     | 3–4 hours     |                       |
+| **Muqadsa** | ✅     | ❌      | ✅        | ✅       | ❌     | ✅       | ✅     | 3–4 hours     | 14 hrs ahead – Sydney |
+<!-- markdownlint-enable MD013 -->
+---
+
+## 📡 Communication Channels
+
+We will maintain communication across several platforms, each serving a specific
+collaborative function:
+
+- **Issues** _(as needed)_:  
+  Used for outlining tasks, setting meeting agendas, and tracking progress through
+  the project board.
+- **Pull Requests** _(as needed)_:  
+  For reviewing code contributions, leaving comments, and collaborating on
+  technical implementation.
+
+- **Slack** _(as needed)_:  
+  For important announcements, updates, and project-wide communication.
+
+- **WhatsApp** _(daily)_:  
+  For fast-paced updates, daily support, coordination, and informal check-ins.
+
+- **Google Meet** _(weekly or as needed)_:  
+  For scheduled video calls, screen-sharing sessions, retrospectives, and deeper
+   planning discussions.
+
+---
+
+## 🧭 Looking Ahead: Topics for Next Meeting
+
+To ensure steady progress and group cohesion, we will address the following in our
+**next meeting**:
+
+- 📝 **Choosing a Final Project Title**  
+  A strong, relevant, and persuasive project name that captures both our mission
+  and identity.
+
+- ⏳ **Defining Deadlines for Deliverables**  
+  Setting realistic timeframes to align efforts and ensure timely delivery of each
+  task.
+
+- 🛠️ **Initial Feedback & Iteration Plan**  
+  Reviewing early drafts of submitted tasks and planning for structured improvements.
+
+- 📊 **Clarifying Analytical Direction**  
+  Discussing our data-driven approach and how it supports social and economic inclusion
+  goals.
+
+---
+
+Let’s continue building a culture of action, clarity, and purpose. With momentum
+and collaboration, **CDSP Group 24** is ready to lead by example.
