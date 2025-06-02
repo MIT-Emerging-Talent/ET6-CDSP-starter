@@ -45,13 +45,15 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ### Availability for calling/messaging
 
+<!-- here I have ignored the MD013 line length check as the table has to have more then 80 characters in a line  -->
+
 | Day         | Monday       | Tuesday      | Wednesday    | Thursday     | Friday       | Saturday | Sunday |
 |-------------|:------------:|:------------:|:------------:|:------------:|:------------:|:--------:|:------:|
 | Mohamed Elnageeb        | - | 5 h (9 AM – 2 PM EST)  | -  | - | 5 h (9 AM – 2 PM EST)  |          |        |
 | Zeinab Mohammed         | - | 4 h (10 AM – 2 PM EST) | - | - | 4 h (10 AM – 2 PM EST) |          |        |
 | María Alejandra Cedeño  | -  | 4 h (1 PM – 5 PM EST)  | - | - | 4 h (1 PM – 5 PM EST)  |          |        |
-| Eman Alfalouji          | TBD                    | TBD                    | TBD                    | TBD                    | TBD                    |          |        |
-| Mohamed Assaf           | TBD                    | TBD                    | TBD                    | TBD                    | TBD                    |          |        |
+| Eman Alfalouji          | TBD | TBD | TBD | TBD | TBD |          |        |
+| Mohamed Assaf           | TBD | TBD | TBD | TBD | TBD |          |        |
 
 ### How many hours everyone has per day
 
