@@ -16,10 +16,12 @@ Some boundaries around our project.
 -->
 
 - *Deadlines Set by MIT-ET*  
-  The schedule and priorities of the project are largely influenced by deadlines established by MIT-ET.
+  The schedule and priorities of the project are largely influenced by
+  deadlines established by MIT-ET.
 
 - *Organizational Requirements*  
-  MIT-ET enforces specific tools, workflows, and approval processes that the team must adhere to.
+  MIT-ET enforces specific tools, workflows, and approval processes that
+  the team must adhere to.
 
 ## Internal: Involuntary
 
@@ -30,16 +32,21 @@ Some boundaries around our project.
 -->
 
 - *Differences in Skill Levels*  
-  Team members have varying levels of experience in Python, programming, and collaboration tools, requiring additional time for knowledge sharing and onboarding.
+  Team members have varying levels of experience in Python, programming, and
+  collaboration tools, requiring additional time for knowledge sharing and
+  onboarding.
 
 - *Limited Availability*  
-  Some members manage full-time jobs or family responsibilities, reducing their availability for meetings, reviews, or coding sessions.
+  Some members manage full-time jobs or family responsibilities,
+  reducing their availability for meetings, reviews, or coding sessions.
 
 - *Unexpected Disruptions*  
-  Personal issues or emergencies may occasionally hinder participation or delay deliverables.
+  Personal issues or emergencies may occasionally hinder
+   participation or delay deliverables.
 
 - *Workload Imbalance*  
-  Uneven contribution may occur, with some members needing to take on extra tasks due to others' limited availability.
+  Uneven contribution may occur, with some members needing to take on
+  extra tasks due to others' limited availability.
 
 ## Internal: Voluntary
 
@@ -52,16 +59,21 @@ Some boundaries around our project.
 -->
 
 - *Agreed-Upon Coding Standards*  
-  The team has chosen to follow consistent coding conventions to improve readability and maintainability.
+  The team has chosen to follow consistent coding conventions
+  to improve readability and maintainability.
 
 - *Standardized Git Workflow*  
-  A version control strategy recommended by MIT-ET has been adopted to ensure consistency and traceability.
+  A version control strategy recommended by MIT-ET has been
+  adopted to ensure consistency and traceability.
 
 - *Task Prioritization Approach*  
-  The group aligns on priorities, sets milestones, and commits to internal deadlines.
+  The group aligns on priorities, sets milestones, and commits
+  to internal deadlines.
 
 - *Commit Message Format*  
-  Members use a unified format for commit messages to maintain clarity and track changes effectively.
+  Members use a unified format for commit messages
+  to maintain clarity and track changes effectively.
 
 - *Mandatory Peer Code Reviews*  
-  All pull requests must be reviewed and approved by at least one or two members before merging into the main branch.
+  All pull requests must be reviewed and approved by at least
+  one or two members before merging into the main branch.
