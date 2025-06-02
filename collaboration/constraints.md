@@ -1,20 +1,22 @@
-
 # 🎯 Constraints – The Ground Rules for Our Game Plan ⚽
 
 > _“Great teams aren’t great because they’re perfect. They’re great because they
-> understand their limits and play to their strengths.”_ – Data Strikers Philosophy
-> Before we kick off our project like pros, let’s talk about the real stuff —
+> understand their limits and play to their strengths.”_
+> – Data Strikers Philosophy
+
+Before we kick off our project like pros, let’s talk about the real stuff —
 the limits we might face along the way. Think of this as our **offside line**:
 it keeps us in check, but also helps us play smarter, not harder.
 
 While we're dreaming big with **Data Strikers**, we're also grounded in reality.
-Our team comes from diverse backgrounds, time zones, and commitments and that’s
- exactly what makes us stronger, more creative, and more resourceful.
- Here's a summary of the constraints that shape how we work and what we can deliver.
+Our team comes from diverse backgrounds, time zones, and commitments — and that’s
+exactly what makes us stronger, more creative, and more resourceful.
+
+Here's a summary of the constraints that shape how we work and what we can deliver.
 
 ---
 
-## 🌍 External Constraints  
+## 🌍 External Constraints
 
 _Things we can’t control but must work around._
 
@@ -27,7 +29,7 @@ _Things we can’t control but must work around._
 
 ---
 
-## 💼 Internal Constraints – Involuntary  
+## 💼 Internal Constraints – Involuntary
 
 _Things within us that are not always under our control._
 
@@ -40,7 +42,7 @@ _Things within us that are not always under our control._
 
 ---
 
-## 🚀 Internal Constraints – Voluntary  
+## 🚀 Internal Constraints – Voluntary
 
 _Choices we’ve made to work smarter and healthier._
 
@@ -60,7 +62,7 @@ that help us focus on what's essential. They push us to:
 - Prioritize smartly  
 - Plan realistically  
 - Support each other’s pace  
-- Celebrate progress, not perfection  
+- Celebrate progress, not perfection
 
 So if you ever see us working asynchronously, taking our time to learn,
 or pausing to breathe — that’s just our secret formula for delivering
