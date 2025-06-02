@@ -84,25 +84,54 @@
 
 1. **Deepen My Understanding of Python for Data Science**
 
-  Focus on strengthening my ability to write clean, efficient Python code,
-  using libraries like pandas, NumPy, and scikit-learn.
+   Focus on strengthening my ability to write clean, efficient Python code,
+   using libraries like pandas, NumPy, and scikit-learn.
 
 ### Mohammed Elfadil Rabie Hussien
 
-1. **Improve My Data Cleaning and Wrangling Skills**
+1. **Improve Collaboration Using GitHub**
 
-   Learn techniques to handle missing data, outliers,
-   and inconsistencies in real-world datasets to prepare data for analysis.
+   Strengthen my ability to work collaboratively in a team environment
+   by improving my use of GitHub for version control,
+   issue tracking, and managing collaborative workflows.
+
+2. **Enhance Data Analysis Skills**
+
+   Deepen my understanding of analyzing real-world data
+   by applying statistical methods
+   and exploring data distributions, trends, and outliers.
+
+3. **Develop Data Visualization Techniques**
+
+   Improve my ability to visualize patterns in data using tools like Matplotlib, Seaborn, or Plotly to create clear and insightful visual representations.
+
+4. **Build and Evaluate a Machine Learning Model**
+
+   Design, train, and evaluate a machine learning model
+   to make predictions on real data,
+   focusing on model performance and practical application
 
 ### Mohammad Ziadah
 
-1. **Gain Proficiency with Data Visualization Tools**
+1. **Collaborate Using GitHub**
 
-   Learn to create compelling data visuals using librarie,
-   such as matplotlib and seaborn to communicate key insights.
+   Effectively use GitHub for version control,
+   branching, pull requests, and issue tracking in a team setting.
+
+2. **Improve Problem-Solving Skills**
+
+   Tackle coding and research challenges by applying logical thinking
+   and collaborating with teammates.
+
+3. **Manage Time and Tasks**
+
+   Break down goals into manageable tasks
+   and meet deadlines through better planning and prioritization.
 
 ### Svitlana Musiienko
 
 1. **Improve My Data Cleaning and Wrangling Skills**
+
    Learn techniques to handle missing data, outliers,
    and inconsistencies in real-world datasets to prepare data for analysis.
+   
