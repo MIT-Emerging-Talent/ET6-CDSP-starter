@@ -2,24 +2,26 @@
 
 <div align="center">
   
-  <img src="https://img.shields.io/badge/DataCents-Finance%20Analytics-2196F3?style=for-the-badge&logo=python&logoColor=white"  
-       alt="DataCents Logo"/>
-  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge"  
+  <img src="https://img.shields.io/badge/DataCents-Finance%20Analytics-2196F3?
+       style=for-the-badge&logo=python&logoColor=white" alt="DataCents Logo"/>
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge"
        alt="MIT License"/>
   
   <br/>
   
-  <img src="https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white"  
-       alt="Python"/>
-  <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter&logoColor=white"  
-       alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"  
-       alt="Git"/>
+  <img src="https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-
+       badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-
+       the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&
+       logo=git&logoColor=white" alt="Git"/>
   
   <br/>
   <br/>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2196F3&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+DataCents!;Where+Data+Meets+Finance"  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&
+       size=40&pause=1000&color=2196F3&center=true&vCenter=true&width=600&
+       height=100&lines=Welcome+to+DataCents!;Where+Data+Meets+Finance"
        alt="Typing SVG" />
   
 </div>
@@ -39,8 +41,8 @@ fortunes! 🎯
 ### 🎯 Our Mission
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"  
-       alt="Project Status"/>
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-
+       badge" alt="Project Status"/>
 </div>
 
 We're on a mission to:
@@ -53,71 +55,71 @@ We're on a mission to:
   <table>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/Team%20Member-1-blue?style=for-the-badge"  
-             alt="Team Member 1"/>
+        <img src="https://img.shields.io/badge/Team%20Member-1-blue?style=for-
+             the-badge" alt="Team Member 1"/>
         <br/>
         <b>Noorelsalam Almakki</b>
         <br/>
         <a href="https://github.com/NoorelsalamAlmakki">
-          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  
-               alt="GitHub"/>
+          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-
+               badge&logo=github&logoColor=white" alt="GitHub"/>
         </a>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/Team%20Member-2-blue?style=for-the-badge"  
-             alt="Team Member 2"/>
+        <img src="https://img.shields.io/badge/Team%20Member-2-blue?style=for-
+             the-badge" alt="Team Member 2"/>
         <br/>
         <b>Madiha Maikzada</b>
         <br/>
         <a href="https://github.com/MadiMalik">
-          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  
-               alt="GitHub"/>
+          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-
+               badge&logo=github&logoColor=white" alt="GitHub"/>
         </a>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/Team%20Member-3-blue?style=for-the-badge"  
-             alt="Team Member 3"/>
+        <img src="https://img.shields.io/badge/Team%20Member-3-blue?style=for-
+             the-badge" alt="Team Member 3"/>
         <br/>
         <b>Myint Myat Zaw</b>
         <br/>
         <a href="https://github.com/MyatCharm">
-          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  
-               alt="GitHub"/>
+          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-
+               badge&logo=github&logoColor=white" alt="GitHub"/>
         </a>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/Team%20Member-4-blue?style=for-the-badge"  
-             alt="Team Member 4"/>
+        <img src="https://img.shields.io/badge/Team%20Member-4-blue?style=for-
+             the-badge" alt="Team Member 4"/>
         <br/>
         <b>Ahmed Hussein</b>
         <br/>
         <a href="https://github.com/AhmedKhalifa7">
-          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  
-               alt="GitHub"/>
+          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-
+               badge&logo=github&logoColor=white" alt="GitHub"/>
         </a>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/Team%20Member-5-blue?style=for-the-badge"  
-             alt="Team Member 5"/>
+        <img src="https://img.shields.io/badge/Team%20Member-5-blue?style=for-
+             the-badge" alt="Team Member 5"/>
         <br/>
         <b>Al-Hassan Sabeeh</b>
         <br/>
         <a href="https://github.com/AlhassenSabeeh">
-          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  
-               alt="GitHub"/>
+          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-
+               badge&logo=github&logoColor=white" alt="GitHub"/>
         </a>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/Team%20Member-6-blue?style=for-the-badge"  
-             alt="Team Member 6"/>
+        <img src="https://img.shields.io/badge/Team%20Member-6-blue?style=for-
+             the-badge" alt="Team Member 6"/>
         <br/>
         <b>Dadi Ishimwe</b>
         <br/>
         <a href="https://github.com/dadishimwe">
-          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  
-               alt="GitHub"/>
+          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-
+               badge&logo=github&logoColor=white" alt="GitHub"/>
         </a>
       </td>
     </tr>
@@ -133,16 +135,16 @@ Our project delves into the fascinating world of finance, exploring:
 ## 🛠️ Technical Stack
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  
-       alt="Python"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"  
-       alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"  
-       alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"  
-       alt="Scikit Learn"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"  
-       alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&
+       logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&
+       logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&
+       logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-
+       badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-
+       badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
 </div>
 
 ## 📁 Project Structure
@@ -187,8 +189,8 @@ data analysis.
 ## 📈 Project Progress
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Progress-5%25-blue?style=for-the-badge"  
-       alt="Project Progress"/>
+  <img src="https://img.shields.io/badge/Progress-5%25-blue?style=for-the-
+       badge" alt="Project Progress"/>
 </div>
 
 ## 📈 Key Findings
@@ -208,11 +210,12 @@ file for details.
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Quote-Finance%20%26%20Data-blue?style=for-the-badge"  
-       alt="Quote"/>
+  <img src="https://img.shields.io/badge/Quote-Finance%20%26%20Data-blue?
+       style=for-the-badge" alt="Quote"/>
 </div>
 
-> *"The goal is to turn data into information, and information into insight."*  
+> *"The goal is to turn data into information, and information into insight."*
+
 > *- Carly Fiorina*
 
 Join us as we make sense — and DataCents — out of information.
