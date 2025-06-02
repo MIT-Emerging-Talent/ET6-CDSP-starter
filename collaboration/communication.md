@@ -33,16 +33,22 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 | Day    | Monday    | Tuesday   | Wednesday | Thursday  | Friday    | Saturday | Sunday |     |
 | ------ | :----:    | :-----:   | :-------: | :------:  | :----:    | :------: | :----: | --- |
-| Ozgur  | 14pm-19pm | 14pm-19pm | 14pm-19pm | 14pm-19pm | 14pm-19pm |          |        |     |
+| Ozgur  | 2pm-7pm   | 2pm-7pm   | 2pm-7pm   | 2pm-7pm   | 2pm-7pm   |          |        |     |
 |M.Elfadil| 2am-4pm  | 2am-4pm   | 2am-4pm   | 2am-4pm   | 2am-4pm   | 2am-4pm  | 2am-4pm|     |
+|Mukuna   | 10am-11am| 10am-11am | 10am-11am | 10am-11am | 10am-11am | 8am-11am |        |     |
+|M.Ziadah | 3pm-4pm 10-11am | 3pm-4pm 10-11am |3pm-4pm 10-11am | 3pm-4pm 10-11am  |3pm-4pm 10-11am | 3pm-4pm 10-11am  | 3pm-4pm 10-11am |     |
+|Svitlana | 11am-8pm| 11am-8pm   | 11am-8pm   | 11am-8pm | 11am-8pm   | 11am-3pm |        |     |
+|Hasan    |         |            |            |           |           |          |        |     |
+
 
 ### How many hours everyone has per day
 
 - Ozgur: _5h_;
 - M.Elfadil: _6h_;
-- name: _5h_;
-- name: _4h_;
-- name: _3h_;
+- Mukuna: _2h_;
+- M.Ziadah: _4h_;
+- Svitlana: _9h_;
+- Hasan: _4h_;
 
 ## Asking for Help
 
