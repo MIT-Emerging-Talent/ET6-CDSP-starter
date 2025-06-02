@@ -32,6 +32,8 @@ channels, and what types of discussions they are for:
 - **Zoom Calls:** For updates, in-depth conversations and discussions.
 - **WhatsApp:** Primary channel for day-to-day team communication and urgent messages.
 
+How often will we get in touch on each channel, and what we will discuss there:
+
 ---
 
 ## Availability
@@ -55,7 +57,6 @@ channels, and what types of discussions they are for:
 - **Alemayehu:** 4h  
 - **Razan:** 2h  
 - **Omnia:** 3h
-
 ---
 
 ## Asking for Help
