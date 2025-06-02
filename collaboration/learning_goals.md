@@ -84,8 +84,8 @@
 
 1. **Deepen My Understanding of Python for Data Science**
 
-  Focus on strengthening my ability to write clean, efficient Python code,
-  using libraries like pandas, NumPy, and scikit-learn.
+   Focus on strengthening my ability to write clean, efficient Python code,
+   using libraries like pandas, NumPy, and scikit-learn.
 
 ### Mohammed Elfadil Rabie Hussien
 
@@ -113,10 +113,20 @@
 
 ### Mohammad Ziadah
 
-1. **Gain Proficiency with Data Visualization Tools**
+1. **Collaborate Using GitHub**
 
-   Learn to create compelling data visuals using librarie,
-   such as matplotlib and seaborn to communicate key insights.
+   Effectively use GitHub for version control,
+   branching, pull requests, and issue tracking in a team setting.
+
+2. **Improve Problem-Solving Skills**
+
+   Tackle coding and research challenges by applying logical thinking
+   and collaborating with teammates.
+
+3. **Manage Time and Tasks**
+
+   Break down goals into manageable tasks
+   and meet deadlines through better planning and prioritization.
 
 ### Svitlana Musiienko
 
