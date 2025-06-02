@@ -12,7 +12,7 @@ These are factors beyond our direct control:
 - **Availability** – Variability in team members’ schedules may limit synchronous collaboration.  
 - **Project Deadline** – A fixed deadline requires efficient time management and prioritization.  
 - **Electricity and Internet Connectivity** – Inconsistent access to power and reliable internet may hinder communication and workflow.  
-- **Conflict-Related Challenges** – Ongoing war-related circumstances in certain regions may disrupt regular participation.
+- **Conflict-Related Challenges** – Ongoing war-related circumstances in certain regions may disrupt regular participation
 
 ---
 
