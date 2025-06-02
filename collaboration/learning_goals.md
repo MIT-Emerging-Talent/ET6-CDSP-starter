@@ -22,7 +22,7 @@ never get lost.
 
 - Write clean, modular Python scripts and jupyter notebooks
 - Break tasks into well-named functions
-- Follow consistent style (docstrings, naming, formatting)
+- Follow consistent style (docstring, naming, formatting)
 - Automate simple workflows (data loading, cleaning)
 
 **Deepen Data-Science Fundamentals:**
@@ -51,9 +51,9 @@ never get lost.
 - Aim for at least one constructive code review comment per teammate each week
 - Iterate on your own work based on their suggestions
 
-## Louis Kervens Learning goals
+## Louis Kervens' Learning goals
 
-- ### Strengthen commitment, cultivate consistency
+### Strengthen commitment, cultivate consistency
 
 - Dedicate time for independent research
 - Use MIT' personal agency resources effectively
@@ -83,7 +83,6 @@ never get lost.
 - Explore datasets related to policy or education  
 - Ask thoughtful, structured questions to guide analysis  
 - Document findings clearly for both technical and non-technical audiences
-- I want to learn Data Science
 
 ### Anna Shumylina Learning goals
 
@@ -106,3 +105,4 @@ a supportive group dynamic.
 
 - **Engage in Constructive Feedback**  
   Provide meaningful code reviews and iterate based on team feedback.
+
