@@ -69,7 +69,7 @@ collaboratively to achieve our project objectives.
 - **Weekly Team Meetings**
 
   We’ll meet every **Wednesday at 10:00 AM EST via Google Meet** to sync up,
-  track progress, and resolve any blockers.
+  track progress, and resolve any blockers. All meetings should have a clear agenda.
 
 - **Dedicated Working Hours**
 
@@ -92,3 +92,8 @@ collaboratively to achieve our project objectives.
   Workload will be distributed fairly, based on each member’s skills,
   interests, and availability. We’ll stay flexible and support each other where
   needed.
+
+- **Pull Requests**
+
+  A pull request must receive at least one approval and pass all continuous
+  integration (CI) checks before it can be merged.
