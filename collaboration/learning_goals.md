@@ -11,3 +11,5 @@ As Team GreenFrontier, our shared goals for these exercises are:
 - Build confidence in tackling coding problems as a team.
 
 ## Individual
+<!--every member can write his own name and then
+his learning goals and objectives anytime --!>
