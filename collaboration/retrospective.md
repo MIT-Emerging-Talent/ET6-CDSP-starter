@@ -65,18 +65,40 @@
 
 ### Alemayehu Desta
 
-#### What went well for you personally at this milestone
-
 - Team members are supportive, and my first group experience helped me to easily
   be onboard for the data science collaboration project from early on.
-
-#### What was challenging for you
-
 - I found out my time zone is a little different than other members of the group,
   and I missed the first video meeting.
-
-#### What will you do differently in the next milestone
-
 - I will proactively participate in the group meetings and continue to communicate
   using the communication channels the group has set up.  
 - I will contact group members for any questions and help in times of need.
+
+### Omnia
+
+- Milestone went well overall thanks to a supportive team, with seamless  
+  coordination on GitHub.  
+- However, working asynchronously across different time zones made it challenging
+  to agree on meeting times, and starting late led to rushing near the deadline.
+- In the next milestone, I’ll aim to start earlier to allow smoother planning and
+  avoid last-minute pressure.
+
+### Razan Ibrahim
+
+- This milestone deepened my understanding of collaboration and communication  
+  within a cross-cultural team.  
+- Coordinating meetings across different time zones was challenging, but by staying
+  flexible and effectively using asynchronous communication, we stayed organized
+  and achieved our goals.
+
+### Jawid Mohseni
+
+- During this milestone, I had a positive experience collaborating with my team.
+- Everyone was supportive, and I felt encouraged to contribute ideas and ask  
+  questions.  
+- I made sure to ask for help from my team whenever I felt I needed it.  
+- However, I faced some challenges with certain technical aspects of the project,
+  particularly around using Git and resolving markdown CI errors.  
+- To improve, I plan to review technical tasks more thoroughly and seek help sooner
+  when I'm stuck.  
+- I’ll also pay closer attention to formatting and CI guidelines before pushing any
+  updates.
