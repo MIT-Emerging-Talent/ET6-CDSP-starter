@@ -37,7 +37,8 @@ Some boundaries around our project.
 
 - Our project must be completed by the final submission deadline provided by
   MIT Emerging Talent.
-- We must use GitHub for version control and collaboration.
+- Some team members have limited experience using GitHub, which may slow down
+  collaboration and version control at the beginning of the project.
 - We are expected to follow the markdown formatting and project structure
   guidelines already provided in the template.
 - Internet connectivity is sometimes inconsistent for team members in different
@@ -46,8 +47,8 @@ Some boundaries around our project.
 ## Internal: Involuntary_
 
 - Some team members do not have access to data and good internet connectivity.
-- We’re in different time zones, so we’ll rely on async communication such as slack
-  and sometimes live meetings when crucial.
+- We’re in different time zones, so we’ll rely on asynchronous (async) communication
+  such as slack and sometimes live meetings when crucial.
 
 ## Internal: Voluntary_
 
