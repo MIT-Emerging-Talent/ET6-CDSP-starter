@@ -126,7 +126,7 @@ installed and are signed into your GitHub account.
    **Using SSH**:
 
    ```bash
-   git clone git@github.com:MIT-Emerging-Talent/ET6-foundations-group-04.git
+   git clone git@github.com:MIT-Emerging-Talent/ET6-CDSP-group-16-repo.git
    ```
 
 ### Run the Tests ✨
@@ -136,7 +136,7 @@ installed and are signed into your GitHub account.
 2. Navigate to the project directory:
 
    ```bash
-   cd ET6-foundations-group-04
+   cd ET6-CDSP-group-16
    ```
 
 3. Run the tests using:
