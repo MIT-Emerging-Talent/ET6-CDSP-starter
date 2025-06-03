@@ -1,9 +1,9 @@
 # Our Group Learning Goals
 
 As a capable and committed team working on our group project, we aim to grow
-together — not just as individuals, but as collaborators. These are the learning
-goals we’ve set for ourselves as we prepare to build a meaningful and impactful
-project:
+together — not just as individuals, but as collaborators. These are the
+learning goals we’ve set for ourselves as we prepare to build a meaningful and
+impactful project:
 
 ## 1. Improve Team Collaboration
 
@@ -18,8 +18,8 @@ project:
 - Stay open to learning new tools or libraries based on the needs of the
   project  
 - Focus on writing clear, modular code that can adapt as our project evolves  
-- Collaborate effectively using Git and GitHub to avoid conflicts and keep
-  our codebase organized  
+- Collaborate effectively using Git and GitHub to avoid conflicts and keep our
+  codebase organized  
 
 ## 3. Work in a Flexible and Reflective Way
 
@@ -39,5 +39,6 @@ project:
 - Encourage everyone to take initiative and share ideas  
 - Share helpful resources, tools, and learning opportunities  
 - Build a team culture based on respect, growth, and mutual support
+
 
 
