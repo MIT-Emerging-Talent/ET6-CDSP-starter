@@ -102,3 +102,19 @@
   when I'm stuck.  
 - I’ll also pay closer attention to formatting and CI guidelines before pushing any
   updates.
+
+### Rumiya
+
+- This milestone was a valuable learning experience for me, especially in  
+  understanding how to collaborate effectively in a diverse, remote team  
+  setting. I appreciated the supportive nature of our group, which made it  
+  easier to contribute and learn from others.
+
+- One challenge I faced was keeping up with tasks while balancing other  
+  commitments, which sometimes affected my availability. Despite that, I  
+  tried to stay engaged through asynchronous communication and made sure to  
+  follow updates on GitHub and our group chat.
+
+- For the next milestone, I aim to manage my time more effectively and  
+  participate more actively in discussions and planning. I’m excited to  
+  continue growing my skills and contributing to our shared goals.
