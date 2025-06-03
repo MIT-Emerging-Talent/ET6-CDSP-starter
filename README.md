@@ -5,11 +5,15 @@
 ![Focus](https://img.shields.io/badge/focus-health_and_tech-purple.svg)
 
 **The Girl Code** 
-is a multidisciplinary team of women committed to building tech solutions with a social impact. 
-Our project bridges technical skills, critical thinking, effective communication, 
-and empathy to address health-related challenges in innovative and meaningful ways.
+is a multidisciplinary team of women 
+committed to building tech solutions with a social impact. 
+Our project bridges technical skills, critical thinking, 
+effective communication, 
+and empathy to address health-related challenges 
+in innovative and meaningful ways.
 
-We believe in the power of collaboration, mutual respect, and ethical development. 
+We believe in the power of collaboration, mutual respect, 
+and ethical development. 
 We aim to use technology as a tool for well-being, 
 creating tools that make a real difference in people’s lives.
 
