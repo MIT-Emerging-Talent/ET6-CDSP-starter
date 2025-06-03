@@ -13,17 +13,30 @@
 
 ## Communication Schedule
 
-| Day | How | The topic of discussion | | --- | :-: | ----------------------- |
-| | | |
+| Day       | How           | Topic of Discussion           |
+| --------- | ------------- | -----------------------------|
+| Monday    | Slack         | Daily quick updates, questions|
+| Tuesday   | Slack         | Daily quick updates, questions|
+| Wednesday | Slack         | Daily quick updates, questions|
+| Thursday  | Slack         | Daily quick updates, questions|
+| Friday    | Slack         | Daily quick updates, questions|
+| Saturday  | Google Meet   | Weekly sync, screen sharing, live discussions |
+| Sunday    | Slack         | Asynchronous updates, file sharing |
+
+---
 
 ## Communication Channels
 
-how often will we get in touch on each channel, and what we will discuss there:
+How often we will get in touch on each channel, and what we will discuss there:
 
-- **Issues**:
-- **Pull Requests**:
-- **Slack/Discord**:
-- **Video Calls**:
+- **Issues**: Used on GitHub to track bugs, feature requests, and project tasks.
+Updated as needed.
+- **Pull Requests**: For code review and collaboration on GitHub.
+Reviewed promptly to keep progress smooth.
+- **Slack**: Daily communication for quick questions, sharing files, and
+    informal coordination.
+- **Video Calls**: Scheduled on Google Meet for synchronous discussions, screen
+sharing, and resolving blockers (only on Saturdays - This can change).
 
 ---
 
@@ -31,24 +44,30 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ### Availability for calling/messaging
 
-| Day    | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |     |
-| ------ | :----: | :-----: | :-------: | :------: | :----: | :------: | :----: | --- |
-| _name_ |        |         |           |          |        |          |        |
+| Day       |Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday|
+| --------- |:----:|:-----:|:-------:|:------:|:----:|:------:|:----:|
+| Clement   |      |       |         |        |      |    ✓   |   ✓   |
+| Emre      |      |       |         |        |      |        |      |
+| Sukhrob   |      |  ✓    |    ✓    |    ✓   |   ✓  |    ✓   |      |
+| Ahmed     |      |       |         |        |      |        |      |
+| Anas      |      |       |         |        |      |        |      |
 
 ### How many hours everyone has per day
 
-- name: _5h_;
-- name: _6h_;
-- name: _5h_;
-- name: _4h_;
-- name: _3h_;
+- Clement: 2h
+- Emre: _to be filled_
+- Sukhrob: 2h
+- Ahmed: _to be filled_
+- Anas: _to be filled_
+
+---
 
 ## Asking for Help
 
 There's a fine line between confidently learning from your mistakes, and
-stubbornly getting no where. Here is a general guide for when to ask for help
+stubbornly getting nowhere. Here is a general guide for when to ask for help
 based on how long you've been stuck on the same problem:
 
-1. _0 -> 30 min_: Try on your own
-1. _30 -> 60 min_: Ask your group for help
-1. _60+ min_: Tag your coaches in Slack or GitHub
+1. **0 -> 30 min**: Try on your own.
+2. **30 -> 60 min**: Ask your group for help.
+3. **60+ min**: Tag your coaches in Slack or GitHub.
