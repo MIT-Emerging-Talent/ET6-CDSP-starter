@@ -36,7 +36,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 | -------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | :------: | :--------: | --- |
 | _name_               |            |            |            |            |            |          |            |
 | Khadija al Ramlawi   |            |            |            |            |            |          |            |
-| Nelson Fodjo Kamdoum |            |            |            |            |            |          |            |
+| Nelson Fodjo Kamdoum | 12pm - 4pm | 12pm - 4pm | 12pm - 4pm | 12pm - 4pm | 12pm - 4pm |    -     | 12pm - 4pm |
 | Olubusayo Solola     |            |            |            |            |            |          |            |
 | Sara Sahin           |            |            |            |            |            |          |            |
 | Shayma Mohamed       |            |            |            |            |            |          |            |
@@ -45,7 +45,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 ### How many hours everyone has per day
 
 - Khadija al Ramlawi: \_\_;
-- Nelson Fodjo Kamdoum: \_\_;
+- Nelson Fodjo Kamdoum: ~4h;
 - Olubusayo Solola: \_\_;
 - Sara Sahin: \_\_;
 - Shayma Mohamed: \_\_;
