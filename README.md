@@ -9,22 +9,24 @@
   
   <img src="https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>  
   
-  <br/>
-  <br/>
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2196F3&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+DataCents!;Where+Data+Meets+Finance" alt="Typing SVG" />
-  
+  \
+  \
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2196F3&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+DataCents!;Where+Data+Meets+Finance)
 </div>
 
 ## 📊 About Our Project
 
-Welcome to **DataCents** - where numbers tell stories and algorithms predict fortunes! 🎯
+Welcome to **DataCents** - where numbers tell stories and algorithms
+predict fortunes! 🎯
 
 ## 🔍 What is DataCents?
 
-> **DataCents** is a team of data wizards is on a quest to transform the cryptic language of financial markets into clear, actionable insights. We're not just crunching numbers; we're crafting the future of financial decision-making, one algorithm at a time. 💡🌍
+> **DataCents** is a team of data wizards is on a quest to transform the cryptic
+language of financial markets into clear, actionable insights. We're not just
+crunching numbers; we're crafting the future of financial decision-making, one
+algorithm at a time. 💡🌍
 
 ### 🎯 Our Mission
 
@@ -34,7 +36,7 @@ Welcome to **DataCents** - where numbers tell stories and algorithms predict for
 
 We're on a mission to:
 
-*[To be updated as project progresses]*
+**[Mission details to be updated as project progresses]**
 
 ## 👥 Meet the Team
 
@@ -105,17 +107,15 @@ We're on a mission to:
 
 Our project delves into the fascinating world of finance, exploring:
 
-*[To be updated as project progresses]*
+**[Research areas to be updated as project progresses]**
 
 ## 🛠️ Technical Stack
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 
 ## 📁 Project Structure
 
@@ -131,27 +131,30 @@ Our repository is organized into key sections:
 
 ## 🚀 Getting Started
 
-```bash
-# Clone the repository
-git clone https://github.com/your-org/DataCents.git
-cd DataCents
+1. Clone and setup
 
-# Create environment
-conda env create -f environment.yml
-conda activate datacents
+    ```bash
+    # Clone the repository
+    git clone https://github.com/your-org/DataCents.git
+    cd DataCents
 
-# Or install manually
-pip install -r requirements.txt
-```
+    # Create environment
+    conda env create -f environment.yml
+    conda activate datacents
+
+    # Or install manually
+    pip install -r requirements.txt
+    ```
 
 2. Start exploring
 
-```bash
-# Launch Jupyter Notebook
-jupyter notebook
-```
+    ```bash
+    # Launch Jupyter Notebook
+    jupyter notebook
+    ```
 
-Navigate to the `4_data_analysis` directory to begin exploring our financial data analysis.
+Navigate to the `4_data_analysis` directory to begin exploring our financial
+data analysis.
 
 ## 📈 Project Progress
 
@@ -161,7 +164,7 @@ Navigate to the `4_data_analysis` directory to begin exploring our financial dat
 
 ## 📈 Key Findings
 
-*[To be updated as project progresses]*
+**[Key findings to be updated as project progresses]**
 
 ## 🤝 Contributing
 
@@ -169,7 +172,8 @@ We welcome contributions! Please see our [CONTRIBUTING.md](CONTRIBUTING.md) for 
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
+for details.
 
 ---
 
@@ -177,6 +181,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   <img src="https://img.shields.io/badge/Quote-Finance%20%26%20Data-blue?style=for-the-badge" alt="Quote"/>
 </div>
 
->*"The goal is to turn data into information, and information into insight." - Carly Fiorina*
+> *"The goal is to turn data into information, and information into insight." -
+Carly Fiorina*
 
 Join us as we make sense — and DataCents — out of information.
