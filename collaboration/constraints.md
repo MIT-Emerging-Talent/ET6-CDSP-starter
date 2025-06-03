@@ -55,6 +55,6 @@ Some boundaries around our project.
 - We will write clean, well-commented code and follow PEP8 (Python style guide).
 - We’ll use pull requests for all contributions and ensure at least one team
     member reviews any major changes before merging.
--We’ve agreed to not focus on anything not related to climate.
+-We have agreed to not focus on anything not related to climate.
 - We'll use only black-and-white charts unless a color palette is
   approved by the group.
