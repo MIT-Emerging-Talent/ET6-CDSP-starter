@@ -48,7 +48,7 @@ we will use them for:
 | Vika   |9am–11am|9am–11am|9am–11am |9am–11am|9am–11am|9am–11am|9am–11am|
 | Salem  |9am-5pm|11pm-3pm|1pm-4pm|9am-11am|2pm-5pm|10am-2pm|10am-3pm|
 | Raneem |9am–11am|9am–11am|9am–11am |9am–11am|9am–11am|9am–11am|9am–11am|
-| Norbert|–       |–       |–        |–       |–       |–       |–       |
+| Norbert|9am–11am|9am–11am|9am–11am |9am–11am|9am–11am|9am–11am|9am–11am|
 | Wour   |9am–11am|9am–11am|9am–11am |9am–11am|9am–11am|9am–11am|9am–11am|
 
 *Note: “–” indicates no fixed availability.*
