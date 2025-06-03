@@ -25,7 +25,6 @@ Use this template to:
 ---
 
 ## Directory Structure
-
 ```text
 /
 ├── README.md                   # Project overview and main instructions
@@ -102,7 +101,7 @@ but they're just suggestions! Your group should find a system that works for you
 ## 4. Data Analysis
 
 - Use `/4_data_analysis` for scripts and notebooks that actually analyze your
-  data to answer your research question. Don’t try to cram everything into one
+  data to answer your research question. Don't try to cram everything into one
   file — you can have many scripts/notebooks in here as long as they are clearly
   named. It's expected that your research findings and conclusions will be the
   result of many smaller analyses, trying to fit everything into a single
@@ -126,11 +125,11 @@ but they're just suggestions! Your group should find a system that works for you
 - Use `/5_communication_strategy` for planning and drafting your communication
   artefact. That includes audience research, message development, and assets
   like images or scripts.
-- You don’t need to store the final artefact here if that doesn’t make sense For
+- You don't need to store the final artefact here if that doesn't make sense For
   example, in cohort 6 a group created an instagram account and meme campaign as
   their communication strategy! You can't push that to a folder on GitHub.
-- In `/5_communication_strategy/README.md`, summarize your strategy: who you’re
-  reaching, what you’re saying, and why.
+- In `/5_communication_strategy/README.md`, summarize your strategy: who you're
+  reaching, what you're saying, and why.
 - In the main `README.md`, include a summary of your communication strategy and
   a link (if possible) to your final artefact.
 - Create a retrospective for this milestone in `/collaboration` using the
@@ -142,7 +141,7 @@ but they're just suggestions! Your group should find a system that works for you
 
 - Use `/6_final_presentation` to store slides, scripts, or notes from preparing
   your final presentation.
-- In `/6_final_presentation/README.md`, list what’s in the folder and link to
+- In `/6_final_presentation/README.md`, list what's in the folder and link to
   your actual presentation.
 - Create a retrospective for this milestone in `/collaboration` using the
   template.
@@ -151,13 +150,13 @@ but they're just suggestions! Your group should find a system that works for you
 
 ## General Tips
 
-- Keep README files updated as you go. They’re for humans. Future-you is a
+- Keep README files updated as you go. They're for humans. Future-you is a
   human.
 - Reproducibility is key. Someone else should be able to run your pipeline
   without tweaking your code or guessing what goes where.
-- Use clear, consistent file names — you don’t want to waste time figuring out
+- Use clear, consistent file names — you don't want to waste time figuring out
   what `final_final_revised3.ipynb` was supposed to do.
-- Document your work as you’re doing it. Waiting until the end = pain.
+- Document your work as you're doing it. Waiting until the end = pain.
 - Cross-reference when needed. ("This analysis uses the cleaned data from
   `/2_data_preparation/clean_survey_data.py`.")
 - Commit early and often. Write commit messages that your teammates (and your
