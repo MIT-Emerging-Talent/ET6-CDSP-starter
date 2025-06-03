@@ -68,11 +68,9 @@
 ### What parts of your plan went as expected?
 
 - All solutions and reviews were submitted on time, which avoided last-minute  
-  issues.
-
+  issues.  
 - Everyone picked up foundational Git and GitHub skills, along with an  
-  introduction to testing and review workflows.
-
+  introduction to testing and review workflows.  
 - Most team members didn’t need to change their plans—just focus on executing  
   them better.
 
@@ -97,4 +95,3 @@
 ### [Your Name Here]
 
 <!-- reflect on your contributions, challenges and progress in this milestone -->
-
