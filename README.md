@@ -44,7 +44,7 @@ communication of findings to drive actionable insights.
 ├── 4_data_analysis/                   # Advanced analysis and modeling
 ├── 5_communication_strategy/          # Communication strategy for research findings
 ├── 6_final_presentation/              # Final deliverables and presentations
-├── collaboration/                      # Team collaboration documents
+├── collaboration/                     # Team collaboration documents
 ├── notes/                             # Team notes on project process and learnings
 └── requirements.txt                   # Project dependencies
 ```
@@ -53,7 +53,7 @@ communication of findings to drive actionable insights.
 
 | Name | GitHub |
 |------|--------|
-| Jola Moses | @jola-ds |
+| Jola-Moses | @jola-ds |
 | Karim Makie | @KarimMakki |
 | Muqadsa Tahir | @MuqadsaT |
 | Omer Dafaalla | @omerdafaalla |
