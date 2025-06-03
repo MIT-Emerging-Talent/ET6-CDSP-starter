@@ -103,4 +103,14 @@ I actively contributed to code development, GitHub task
 clearer, documented code. I look forward to bringing more structure and technical
 leadership to future milestones.
 
+### Norbert Ndayisenga
+
+I contributed by reviewing teammates’ solutions, attending meetings, and  
+helping others navigate GitHub. One challenge I faced was balancing my  
+availability with project deadlines, but team support helped me stay on  
+track. I learned the importance of consistent communication and documenting  
+clearly in pull requests. This milestone gave me a solid introduction to  
+team collaboration in a developer workflow, and I look forward to applying  
+these lessons in the next phase.
+
 <!-- reflect on your contributions, challenges and progress in this milestone -->
