@@ -35,4 +35,5 @@ structures or algorithms
 
 - Deeply understand the meaning of data analysis.
 - Get the gist of data collection and data processing.
-- Improve in python programming with the aim to master advanced algorithms and techniques.g
+- Improve in python programming with the aim to master advanced algorithms and techniques.
+- Be a part of a project that solves a real problem.
