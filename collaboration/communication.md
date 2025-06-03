@@ -33,10 +33,15 @@ Our group will **check in twice a week** until the project deadline
 - **Issues**: Bug tracking, task management  
   ([GitHub Issues Guide]  
   (<https://mitemergingtalent.slack.com/files/U03PC2VR746/F0862S5644E/creating-issues-from-repository.mp4>))
+
 - **Pull Requests**: Code reviews and discussions
+
 - **Slack**: Daily communication, quick updates, screenshots, etc.
+
 - **Video Calls**: Weekly check-ins, deep discussions
+
 - **Project Board**: Visual tracking of tasks and to-do lists
+
 ---
 
 ## Availability
@@ -46,11 +51,17 @@ Our group will **check in twice a week** until the project deadline
 ### Time Available Per Day
 
 - **Mohamed Tilal**: _5h_
+
 - **Mervil Pierre Kenley**: _6h_
+
 - **Mithchell Cenatus**: _5h_
+
 - **Ridwan Ayinde**: _5h_
+
 - **Sufiya Hashimi**: _5h_
+
 - **Said Ibraim**: _5h_
+
 ---
 
 ## Asking for Help
