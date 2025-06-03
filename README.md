@@ -34,7 +34,7 @@ Welcome to **DataCents** - where numbers tell stories and algorithms predict for
 
 We're on a mission to:
 
-*[To be updated as project progresses]*
+**[Mission details to be updated as project progresses]**
 
 ## 👥 Meet the Team
 
@@ -105,7 +105,7 @@ We're on a mission to:
 
 Our project delves into the fascinating world of finance, exploring:
 
-*[To be updated as project progresses]*
+**[Research areas to be updated as project progresses]**
 
 ## 🛠️ Technical Stack
 
@@ -130,6 +130,8 @@ Our repository is organized into key sections:
 - `/6_final_presentation/` - Final project presentation
 
 ## 🚀 Getting Started
+
+1. Clone and setup
 
 ```bash
 # Clone the repository
@@ -161,7 +163,7 @@ Navigate to the `4_data_analysis` directory to begin exploring our financial dat
 
 ## 📈 Key Findings
 
-*[To be updated as project progresses]*
+**[Key findings to be updated as project progresses]**
 
 ## 🤝 Contributing
 
@@ -177,6 +179,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   <img src="https://img.shields.io/badge/Quote-Finance%20%26%20Data-blue?style=for-the-badge" alt="Quote"/>
 </div>
 
->*"The goal is to turn data into information, and information into insight." - Carly Fiorina*
+> *"The goal is to turn data into information, and information into insight." - Carly Fiorina*
 
 Join us as we make sense — and DataCents — out of information.
