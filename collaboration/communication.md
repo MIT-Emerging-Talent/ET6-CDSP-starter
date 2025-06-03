@@ -49,12 +49,12 @@ How often we will get in touch on each channel, and what we will discuss there:
 
 ### How many hours everyone has per day
 
-- **AHD**: _ _h_
-- **MARIIA**: _ _h_
-- **MOHAMED SAEED**: _ _h_
-- **ABDALLAH**: _ _h_
+- **AHD**: h
+- **MARIIA**: h
+- **MOHAMED SAEED**: h
+- **ABDALLAH**: h
 - **MOHAMED ALTAYEB**: 4 - 2 h (depending on power and connectivity)
-- **ANYAK**: _ _h_
+- **ANYAK**: h
 
 ## Asking for Help
 
