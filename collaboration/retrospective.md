@@ -57,3 +57,8 @@
 - Good organizational work was done.
 - Collaborated willingly with other members.
 - There are opportunities for growth in time management.
+
+### Asia
+
+- I can improve my GitHub skills.
+- Collaboration on tasks saved us a lot of time.
