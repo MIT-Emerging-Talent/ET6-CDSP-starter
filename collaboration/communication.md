@@ -48,7 +48,7 @@ sharing, and resolving blockers (only on Saturdays - This can change).
 | --------- |:----:|:-----:|:-------:|:------:|:----:|:------:|:----:|
 | Clement   |      |       |         |        |      |    ✓   |   ✓   |
 | Emre      |      |       |         |        |      |        |      |
-| Sukhrob   |      |       |         |        |      |        |      |
+| Sukhrob   |      |  ✓    |    ✓    |    ✓   |   ✓  |    ✓   |      |
 | Ahmed     |      |       |         |        |   ✓   |    ✓    |  ✓    |
 | Anas      |      |       |         |        |      |        |      |
 
@@ -56,8 +56,9 @@ sharing, and resolving blockers (only on Saturdays - This can change).
 
 - Clement: 2h
 - Emre: _to be filled_
-- Sukhrob: _to be filled_
+- Sukhrob: 2h
 - Ahmed: _1h_
+
 - Anas: _to be filled_
 
 ---
