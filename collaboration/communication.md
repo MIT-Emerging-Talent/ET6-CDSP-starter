@@ -37,14 +37,11 @@ Our group will **check in twice a week** until the project deadline
 - **Slack**: Daily communication, quick updates, screenshots, etc.
 - **Video Calls**: Weekly check-ins, deep discussions
 - **Project Board**: Visual tracking of tasks and to-do lists
-
 ---
 
 ## Availability
 
 ### Weekly Availability for Calls/Messaging
-
-
 
 ### Time Available Per Day
 
@@ -54,11 +51,9 @@ Our group will **check in twice a week** until the project deadline
 - **Ridwan Ayinde**: _5h_
 - **Sufiya Hashimi**: _5h_
 - **Said Ibraim**: _5h_
-
 ---
 
 ## Asking for Help
 
 There’s a fine line between confidently **learning from mistakes** and stubbornly
 getting **nowhere**. Here’s when to ask for help:
-
