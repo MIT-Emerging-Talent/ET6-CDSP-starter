@@ -1,79 +1,64 @@
 <!--
-    this template is for inspiration, feel free to change it however you like!
+  This template is for inspiration—feel free to change it however you like!
 
-    Careful! be sure to protect your privacy when filling out this document
-        everything you write here will be public
-        so share only what you are comfortable sharing online
-        you can share the rest in confidence with you group by another channel
+  Careful! Be sure to protect your privacy when filling out this document.
+  Everything you write here will be public, so share only what you're
+  comfortable sharing online.
+  You can share the rest in confidence with your group by another channel.
 -->
 
-# Communication
+# Communication for Group GreenFrontier
 
 ---
 
 ## Communication Schedule
 
-| Day | How | The topic of discussion | | --- | :-: | ----------------------- |
-| | | |
+<!-- markdownlint-disable MD013 -->
+| Day       | How         | Topic of Discussion         |
+|-----------|-------------|-----------------------------|
+| Monday    | Slack       | Weekend progress updates    |
+| Tuesday   | Slack       | Prep for video call         |
+| Wednesday | Zoom Call   | Midweek check-in            |
+| Thursday  | Slack       | Progress updates            |
+| Friday    | Slack       | Prep for video call         |
+| Saturday  | Video Call  | Code review, code help      |
+| Sunday    | Nothing     | Rest day                    |
+<!-- markdownlint-enable MD013 -->
 
 ## Communication Channels
 
-how often will we get in touch on each channel, and what we will discuss there:
+Our group will **check in twice a week** until the project deadline  
+(**August 25th**).
 
-- **Issues**:
-- **Pull Requests**:
-- **Slack/Discord**:
-- **Video Calls**:
+- **Issues**: Bug tracking, task management  
+  ([GitHub Issues Guide]  
+  (<https://mitemergingtalent.slack.com/files/U03PC2VR746/F0862S5644E/creating-issues-from-repository.mp4>))
+- **Pull Requests**: Code reviews and discussions
+- **Slack**: Daily communication, quick updates, screenshots, etc.
+- **Video Calls**: Weekly check-ins, deep discussions
+- **Project Board**: Visual tracking of tasks and to-do lists
 
 ---
 
 ## Availability
 
-### Availability for calling/messaging
+### Weekly Availability for Calls/Messaging
 
-| Day    | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
-| ------ | :----: | :-----: | :-------: | :------: | :----: | :------: |
-| _name_ |        |         |           |          |        |          |
 
-Sunday | ---
-:----: |
 
-       |
+### Time Available Per Day
 
-### How many hours everyone has per day
+- **Mohamed Tilal**: _5h_
+- **Mervil Pierre Kenley**: _6h_
+- **Mithchell Cenatus**: _5h_
+- **Ridwan Ayinde**: _5h_
+- **Sufiya Hashimi**: _5h_
+- **Said Ibraim**: _5h_
 
-- name: _5h_;
-- name: _6h_;
-- name: _5h_;
-- name: _4h_;
-- name: _3h_;
+---
 
 ## Asking for Help
 
-There's a fine line between confidently learning from your mistakes, and
-stubbornly getting no where. Here is a general guide for when to ask for help
-based on how long you've been stuck on the same problem:
+There’s a fine line between confidently **learning from mistakes** and stubbornly
+getting **nowhere**. Here’s when to ask for help:
 
-1. _0 -> 30 min_: Try on your own
-1. _30 -> 60 min_: Ask your group for help
-1. _60+ min_: Tag your coaches in Slack or GitHub
-
-## Ridwan Ayinde
-
-- Monday: _2h_;
-- Tuesday: _2h_;
-- Wednesday: _2h_;
-- Thursday: _2h_;
-- Friday: _2h_;
-- Saturday: _3h_;
-- Sunday: _3h_;
-
-## Communication_Channels
-
-I will prefer to communicate more on slack and when we
-have something very important to discuss, I will prefer
-we do a video call.
-
-## Asking_for_Help
-
-I like to ask for help whenever I am lost.
