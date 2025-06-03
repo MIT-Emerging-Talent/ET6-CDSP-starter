@@ -32,3 +32,29 @@ Some boundaries around our project.
   - the number of hours you want to spend working
   - only using the colors black and white
 -->
+
+## External_
+
+- Our project must be completed by the final submission deadline provided by
+  MIT Emerging Talent.
+- Some team members have limited experience using GitHub, which may slow down
+  collaboration and version control at the beginning of the project.
+- We are expected to follow the markdown formatting and project structure
+  guidelines already provided in the template.
+- Internet connectivity is sometimes inconsistent for team members in different
+  locations, so all tools used must be lightweight and offline-friendly where possible.
+
+## Internal: Involuntary_
+
+- Some team members do not have access to data and good internet connectivity.
+- We’re in different time zones, so we’ll rely on asynchronous (async) communication
+  such as slack and sometimes live meetings when crucial.
+
+## Internal: Voluntary_
+
+- We will write clean, well-commented code and follow PEP8 (Python style guide).
+- We’ll use pull requests for all contributions and ensure at least one team
+    member reviews any major changes before merging.
+-We’ve agreed to not focus on anything not related to climate.
+- We'll use only black-and-white charts unless a color palette is
+  approved by the group.
