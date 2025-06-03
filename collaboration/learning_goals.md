@@ -12,4 +12,4 @@ As Team GreenFrontier, our shared goals for these exercises are:
 
 ## Individual
 <!--every member can write his own name and then
-his learning goals and objectives anytime --!>
+ his learning goals and objectives anytime --!>
