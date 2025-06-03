@@ -37,3 +37,10 @@ structures or algorithms
 - Get the gist of data collection and data processing.
 - Improve in python programming with the aim to master advanced algorithms and techniques.
 - Be a part of a project that solves a real problem.
+
+### Ahd 
+
+- Apply foundational DS skills from data wrangling, visualization and basic modeling.
+- Learn a systematic and goal-oriented approach in question formulation.
+- Implement Algorithms learned in 6.002x to solve problems.
+- Practice more complete, readable, and documented solutions.
