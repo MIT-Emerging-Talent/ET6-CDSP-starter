@@ -1,16 +1,36 @@
-# ET6 CDSP Starter: Guide
+# ET6 CDSP Starter
 
-This repository is here to help guide you through the
-[Collaborative Data Science Project (CDSP)](https://docs.google.com/document/d/1TaoVVqJD5EqmBGLw6_qzph8EZnuL6uhY/edit?usp=sharing&ouid=100638458423869369523&rtpof=true&sd=true).
+This repository provides a template and guidelines for the
+**Emerging Talent 6 Collaborative Data Science Project (CDSP)**. It is
+designed to support a reproducible workflow so that anyone can clone,
+run, and verify your analysis from start to finish.
 
-This repository's structure roughly follows the CDSP milestones. It's also
-designed to help you do **reproducible** research. If your research process is
-well organized, others should be able to clone it, run all scripts (without
-errors!), and evaluate your conclusions for themselves.
+---
 
-```plaintext
+## Project Overview
+
+The CDSP is a six‐milestone initiative where teams work together to
+identify a research question, collect and analyze data, and communicate
+findings. This repository’s structure follows those milestones and
+encourages best practices in collaboration, version control, and
+documentation.
+
+Use this template to:
+
+- Organize your files and code in a clear, consistent folder structure
+- Maintain reproducibility so others can run your pipeline without issues
+- Document team norms, communication plans, and milestone retrospectives
+- Track tasks, issues, and pull requests through GitHub’s project boards
+
+---
+
+## Directory Structure
+
+```text
+
 /
-├── README.md                   # Project overview and main findings
+├── README.md                   # Project overview and main instructions
+├── guide.md                    # Detailed guide on using this template
 ├── /collaboration/             # Team norms, strategies, and retrospectives
 ├── /notes/                     # Shared resources and learning materials
 ├── /0_domain_study/            # Domain research and background
@@ -20,6 +40,7 @@ errors!), and evaluate your conclusions for themselves.
 ├── /4_data_analysis/           # Scripts for in-depth analysis
 ├── /5_communication_strategy/  # Materials for communicating findings
 └── /6_final_presentation/      # Final presentation materials
+
 ```
 
 Below are some suggestions on how to use the folders/files in this repository,
