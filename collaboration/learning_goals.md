@@ -30,3 +30,9 @@ structures or algorithms
 - Learn how to get the most meaningful data from each situation.
 - Improve my abilities with Python and working with new libraries.
 - Improve my abilities to work in a team.
+
+### Mohamed Saeed
+
+- Deeply understand the meaning of data analysis.
+- Get the gist of data collection and data processing.
+- Improve in python programming with the aim to master advanced algorithms and techniques.g
