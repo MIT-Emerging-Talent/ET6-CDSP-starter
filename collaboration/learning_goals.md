@@ -19,3 +19,9 @@ design appropriate methodologies to address them.
  contributing to open-source projects confidently.
 - Improve collaboration skills by participating in group
   projects, sharing ideas clearly, and communicating with the team.
+
+### Asia
+
+- I can improve my GitHub skills.
+- Managing my time to meet deadlines.
+- Gaining more knowledge and confidence dealing with different people.
