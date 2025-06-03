@@ -22,8 +22,8 @@
   extra solutions for others to review. Keeping this cooperative attitude  
   will help us succeed as we continue the program.
 
-- 🔍 **Regular code reviews using GitHub:** We now recognize the value of using  
-  GitHub to communicate about code. Everyone is working on improving this  
+- 🔍 **Regular code reviews using GitHub:** We now recognize the value of using
+   GitHub to communicate about code. Everyone is working on improving this  
   skill to manage code more effectively.
 
 - 🗓️ **Regular Check-ins:** Our meetings helped maintain clarity and kept  
@@ -35,8 +35,8 @@
   tasks, which led to unnecessary time pressure. Setting clear deadlines in  
   the future will help avoid this and allow room to fix any late-stage issues.
 
-- 🏷️ **Organized Project Board and Label Usage:** We need to make better use of  
-  the GitHub project board and labels for clearer task tracking. We also  
+- 🏷️ **Organized Project Board and Label Usage:** We need to make better use of
+ the GitHub project board and labels for clearer task tracking. We also  
   need to be more descriptive in pull request and issue summaries—even if  
   the tasks seem simple.
 
@@ -94,9 +94,12 @@
 
 ### Wuor Bhang
 
-During this milestone, I actively contributed to code development, GitHub task coordination, and peer support.
-My key challenge was ensuring all team members stayed aligned on the workflow, especially when managing
-Git conflicts. I’ve grown in my ability to coordinate tasks, support others with Git, and write
+During this milestone,
+
+I actively contributed to code development, GitHub task
+ coordination, and peer support. My key challenge was ensuring all team members
+  stayed aligned on the workflow, especially when managing Git conflicts.
+   I’ve grown in my ability to coordinate tasks, support others with Git, and write
 clearer, documented code. I look forward to bringing more structure and technical
 leadership to future milestones.
 
