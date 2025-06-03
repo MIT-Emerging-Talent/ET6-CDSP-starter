@@ -66,3 +66,27 @@ science project.
 debugging, cloud computing, and testing.
 * Strengthen soft skills, including presentation, communication,
 and teamwork by working alongside dedicated and skilled data scientists.
+
+### Norbert Ndayisenga
+
+* Contribute actively to group discussions, coding challenges, and project development.
+* Leverage teamwork experiences to support inclusive innovation across Africa.
+* Collaborate with a diverse team of peers on real-world technical projects.
+* Learn to work effectively within a high-performing, multidisciplinary team.
+* Gain exposure to different perspectives and problem-solving approaches.
+* Apply new knowledge to develop scalable tech solutions for my community.
+* Build leadership and communication skills in a collaborative environment.
+
+### Abel Mesfin Teka
+
+* I aim to collaboratively apply the end-to-end data science
+workflow—from framing research questions and collecting data
+to analysis and communicating results—while learning how to adapt methodologies
+across different domains.
+* I seek to strengthen my problem-solving and debugging abilities by working
+on real-world challenges in a diverse, international team,
+while enhancing my efficiency and code quality through iterative feedback and documentation.
+* I want to improve both my technical and soft skills by actively
+contributing to team planning, communication, and project execution,
+while managing asynchronous workflows and gaining hands-on experience
+in data-driven impact.
