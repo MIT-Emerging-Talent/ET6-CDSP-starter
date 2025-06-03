@@ -65,3 +65,6 @@
 * **Alexander Andom**
 
   * Strengthen Exploratory Data Analysis (EDA) Skills
+  * Improve Git & GitHub Proficiency
+  * Master Data Cleaning with Python: Develop the ability to clean,
+   format, and preprocess real-world datasets using Python.
