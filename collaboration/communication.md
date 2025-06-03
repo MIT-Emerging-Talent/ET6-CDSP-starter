@@ -16,7 +16,7 @@
 | Day      | How       | Topic of Discussion         |
 |----------|-----------|------------------------------|
 | Mondays  | Video Call | Weekly planning & blockers   |
-| Daily    | Slack      | Quick updates & coordination |
+| Daily    | Slack/WhatsApp   | Quick updates & coordination |
 | As needed| Issues     | Task tracking & documentation|
 | PR-based | GitHub PRs | Code reviews & feedback      |
 
