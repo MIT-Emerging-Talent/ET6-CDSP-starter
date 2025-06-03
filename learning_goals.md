@@ -4,7 +4,6 @@ As a capable and committed team working on our group project, we aim to grow
 together — not just as individuals, but as collaborators. These are the
 learning goals we’ve set for ourselves as we prepare to build a meaningful and
 impactful project:
-
 ## 1. Improve Team Collaboration
 
 - Communicate clearly, respectfully, and consistently  
