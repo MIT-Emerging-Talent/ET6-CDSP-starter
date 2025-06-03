@@ -16,7 +16,7 @@
 | Day        | How        | The topic of discussion     |
 | ---------- | ---------- | --------------------------- |
 | 31.05.2025 | Video call | Finalisation of group norms |
-
+| 03.06.2025 | Video call | Brainstorming Session       |
 ## Communication Channels
 
 how often will we get in touch on each channel, and what we will discuss there:
@@ -35,7 +35,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 | Day                  |   Monday   |  Tuesday   | Wednesday  |  Thursday  |   Friday   | Saturday |   Sunday   |     |
 | -------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | :------: | :--------: | --- |
 | _name_               |            |            |            |            |            |          |            |
-| Khadija al Ramlawi   |            |            |            |            |            |          |            |
+| Khadija al Ramlawi   | 9AM - 2 PM | 9AM - 2 PM | 9AM - 2 PM | 9AM - 2 PM | 9AM - 2 PM |          | 9AM - 2 PM |
 | Nelson Fodjo Kamdoum | 12pm - 4pm | 12pm - 4pm | 12pm - 4pm | 12pm - 4pm | 12pm - 4pm |    -     | 12pm - 4pm |
 | Olubusayo Solola     |            |            |            |            |            |          |            |
 | Sara Sahin           |            |            |            |            |            |          |            |
@@ -44,7 +44,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ### How many hours everyone has per day
 
-- Khadija al Ramlawi: \_\_;
+- Khadija al Ramlawi: ~5h;
 - Nelson Fodjo Kamdoum: ~4h;
 - Olubusayo Solola: \_\_;
 - Sara Sahin: \_\_;
