@@ -35,7 +35,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 | Day                  |   Monday   |  Tuesday   | Wednesday  |  Thursday  |   Friday   | Saturday |   Sunday   |     |
 | -------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | :------: | :--------: | --- |
 | _name_               |            |            |            |            |            |          |            |
-| Khadija al Ramlawi   | 9AM - 2 PM | 9AM - 2 PM | 9AM - 2 PM | 9AM - 2 PM | 9AM - 2 PM |          | 9AM - 2 PM |
+| Khadija Al Ramlawi   | 9AM - 2 PM | 9AM - 2 PM | 9AM - 2 PM | 9AM - 2 PM | 9AM - 2 PM |          | 9AM - 2 PM |
 | Nelson Fodjo Kamdoum | 12pm - 4pm | 12pm - 4pm | 12pm - 4pm | 12pm - 4pm | 12pm - 4pm |    -     | 12pm - 4pm |
 | Olubusayo Solola     |            |            |            |            |            |          |            |
 | Sara Sahin           |            |            |            |            |            |          |            |
