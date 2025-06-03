@@ -4,9 +4,14 @@
 ![Team](https://img.shields.io/badge/team-all_women-ff69b4.svg)
 ![Focus](https://img.shields.io/badge/focus-health_and_tech-purple.svg)
 
-**The Girl Code** is a multidisciplinary team of women committed to building tech solutions with a social impact. Our project bridges technical skills, critical thinking, effective communication, and empathy to address health-related challenges in innovative and meaningful ways.
+**The Girl Code** 
+is a multidisciplinary team of women committed to building tech solutions with a social impact. 
+Our project bridges technical skills, critical thinking, effective communication, 
+and empathy to address health-related challenges in innovative and meaningful ways.
 
-We believe in the power of collaboration, mutual respect, and ethical development. We aim to use technology as a tool for well-being, creating tools that make a real difference in people’s lives.
+We believe in the power of collaboration, mutual respect, and ethical development. 
+We aim to use technology as a tool for well-being, 
+creating tools that make a real difference in people’s lives.
 
 ---
 
@@ -15,31 +20,34 @@ We believe in the power of collaboration, mutual respect, and ethical developmen
 > *Note: This section will be completed as we define the problem, conduct research, and move forward with planning.*
 
 ### 📌 Problem Statement
+
 *Placeholder: A problem-statement based on our personal experiences.*
 
 ### 📚 Domain Research
+
 Find our literature review and research documents in the `0_domain_research` folder.
 
 ### 🧠 Understanding of the Problem Domain
+
 *Placeholder: Our team’s current understanding of the problem space (bonus points for systems thinking!).*
 
 ### ❓ Research Question
+
 *Placeholder: A clear, actionable research question shaped by real-world constraints and context.*
 
 ### 🗂️ Planning Documents
+
 This will include:
+
 - Group norms
 - Learning goals
 - Constraints
 - Communication plan
 
-
 ---
 
 ## 👩‍💻 Meet the Team 👑
-
 ---
-
 <!-- markdownlint-disable MD033 -->
 <table>
    <thead>
