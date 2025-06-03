@@ -63,6 +63,9 @@ discussions and decision-making throughout the entire project lifecycle.
 ### Salem Amassi
 
 * Collaborate directly with an international team to gain practical, hands-on experience.
+* Develop End-to-End Data Science Workflow Proficiency Gain hands-on experience
+ across the full lifecycle of a data science project — from data
+ acquisition and preparation to modeling, evaluation, and communication.
 * Engage in both synchronous and asynchronous workflows, learning how to navigate
 and manage each effectively.
 * Contribute to a high-impact, well-documented, and thoroughly implemented data
