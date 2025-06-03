@@ -38,8 +38,6 @@ Reviewed promptly to keep progress smooth.
 - **Video Calls**: Scheduled on Google Meet for synchronous discussions, screen
 sharing, and resolving blockers (only on Saturdays - This can change).
 
----
-
 ## Availability
 
 ### Availability for calling/messaging
