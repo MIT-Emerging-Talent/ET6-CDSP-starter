@@ -42,7 +42,6 @@ How often will we get in touch on each channel, and what we will discuss there:
 
 <!-- markdownlint-disable MD013 -->
 
-
 | Name         | Monday           | Tuesday          | Wednesday        | Thursday         | Friday          | Saturday         | Sunday           |
 |--------------|------------------|------------------|------------------|------------------|------------------|------------------|------------------|
 | **Jawid**     | 9am - 2pm        | 9am - 2pm        | 9am - 2pm        | 9am - 2pm        | 9am - 2pm        | 9am - 12:30pm     | 9am - 12:30pm     |
@@ -55,12 +54,12 @@ How often will we get in touch on each channel, and what we will discuss there:
 
 ### Daily Availability (Hours per Day)
 
-- **Jawid:** 5h  
-- **Rumiya:** 3h  
-- **Alemayehu:** 4h  
-- **Razan:** 2h  
+- **Jawid:** 5h
+- **Rumiya:** 3h
+- **Alemayehu:** 4h
+- **Razan:** 2h
 - **Omnia:** 3h
-  
+
 ---
 
 ## Asking for Help
@@ -69,6 +68,6 @@ There's a fine line between confidently learning from your mistakes and
 stubbornly getting nowhere. Here is a general guide for when to ask for help
 based on how long you've been stuck on the same problem:
 
-1. _0 → 30 min_: Try to solve the problem on your own.  
-2. _30 → 60 min_: Ask your team members for help.  
+1. _0 → 30 min_: Try to solve the problem on your own.
+2. _30 → 60 min_: Ask your team members for help.
 3. _60+ min_: Reach out to a coach on Slack or GitHub.
