@@ -9,6 +9,7 @@ well organized, others should be able to clone it, run all scripts (without
 errors!), and evaluate your conclusions for themselves.
 
 ```bash
+
 /
 ├── README.md                   # Project overview and main findings
 ├── /collaboration/             # Team norms, strategies, and retrospectives
