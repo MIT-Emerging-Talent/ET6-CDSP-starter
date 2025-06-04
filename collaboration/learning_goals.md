@@ -38,9 +38,19 @@ structures or algorithms
 - Improve in python programming with the aim to master advanced algorithms and techniques.
 - Be a part of a project that solves a real problem.
 
-### Ahd 
+### Ahd
 
 - Apply foundational DS skills from data wrangling, visualization and basic modeling.
 - Learn a systematic and goal-oriented approach in question formulation.
 - Implement Algorithms learned in 6.002x to solve problems.
 - Practice more complete, readable, and documented solutions.
+
+### Mariia Ermishina
+
+- Strengthen my programming foundation and gain more confidence in real  
+  projects.  
+- Learn to use Git and GitHub more effectively for collaboration and version  
+  control.  
+- Improve my problem-solving skills using Python, especially in data analysis.  
+- Get more comfortable with Jupyter Notebook and data visualization tools.  
+- Become a confident and contributing member of the team.
