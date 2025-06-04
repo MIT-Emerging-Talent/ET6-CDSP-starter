@@ -82,11 +82,13 @@ to the tasks due to other personal commitments.
 
 3.Did you need to add things that weren't in your strategy?
 
- ...
+- Yes, we needed to create a more detailed schedule that includes task assignments
+ for each person and clear deadlines. This would help improve task ownership and
+ keep everyone aligned.
   
 4.Or remove extra steps?
 
-...  
+- There weren't any extra steps.
 
 ### 👤 Individual Retrospectives
 
@@ -152,18 +154,29 @@ Member 3: Amro Mohamed
   - Improved at using tools like Git, and Slack for better team coordination.
   - Gained a deeper appreciation for the diversity of skills within the team.
 
-Member 4:
+Member 4: Azza Omer
 
 - Contributions
   
-  -
+  - Collaborated with the team by sharing my opinions, encouraging others in a
+  positive way.
+  - Actively attending meetings.
+  - Contributed to drafting and editing the constraints file.
 
 - Challenges
   
-  -
+  - There was no clear plan for task distribution or tracking, which made it
+  harder to know who was responsible for what.
+  - Time zone differences affected participation and limited the ability to share
+  feedback effectively.
+  - Felt the need to be more involved in team activities.
+  
 - Progress
   
-  -
+  - Became more comfortable using GitHub and VS Code.
+  - Found that having a clear plan helped reduce overthinking and anxiety.
+  - Improved in showcasing more of my skills .
+  - Became more open to listening to different perspectives from team members.
 
 Member 5:
 
