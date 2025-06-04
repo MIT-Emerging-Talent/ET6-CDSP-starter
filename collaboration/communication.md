@@ -142,7 +142,7 @@ and collaboration, **CDSP Group 24** is ready to lead by example.
 
 ## 📋 Meeting Agenda #2 – Team Retrospective & Process Improvement
 
-**🗓️ Date & Time:**  
+**🗓️ Date & Time:**  Tuesday June 03,2025
 **Time:** 11:00 AM – 12:00 PM EST  
 **Location:** [Google Meet](https://meet.google.com/ktz-sniy-qxp)
 
