@@ -142,7 +142,7 @@ and collaboration, **CDSP Group 24** is ready to lead by example.
 
 ## 📋 Meeting Agenda #2 – Team Retrospective & Process Improvement
 
-**🗓️ Date & Time:**  
+**🗓️ Date & Time:**  Tuesday, June 3,2025
 **Time:** 11:00 AM – 12:00 PM EST  
 **Location:** [Google Meet](https://meet.google.com/ktz-sniy-qxp)
 
@@ -180,11 +180,6 @@ decisions to enhance team efficiency, collaboration, and outcomes moving forward
 - Conduct a short GitHub refresher or tutorial session
 - Assign a GitHub champion to support usage
 - Finalize and agree on a group name
-
----
-
-## 📌 Action Items
-
 - Set mini-deadlines within sprints
 - Schedule a brief GitHub walkthrough
 - Nominate a team member for GitHub support
