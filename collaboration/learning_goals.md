@@ -35,3 +35,23 @@ As a team, we aim to:
 Each team member brings unique learning goals to this project. By sharing our
 objectives clearly, we set the foundation for a productive and supportive team
 environment.
+_______________________________________________________________________
+🌟 Group-Wide Objectives
+
+- Collaborate on a real-world data science project while learning and
+contributing to group goals.
+
+- Effectively use VS Code/GitHub and agile methods for teamwork.
+
+- Show respect by being timely, responsive and actively engage in team activities.
+
+✅ Individual Objectives
+_______________________________________________________________________
+
+Martha
+
+- Learn to use Python libraries like Pandas and Matplotlib to manipulate and analyze data effectively.
+- Apply data science techniques to solve issues in my small business and local community.
+- Practice cleaning and preparing raw datasets for accurate analysis.
+- Go through each part of an algorithm carefully to grasp how and why it works.
+- Get comfortable using Jupyter or VS Code to write and run Python code.
