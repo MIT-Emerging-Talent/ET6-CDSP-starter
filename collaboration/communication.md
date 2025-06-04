@@ -47,7 +47,7 @@ How often we will get in touch on each channel, and what we will discuss there:
 
 | Day                | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |--------------------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **AHD**            |All day|All day|All day|All day|All day|All day|x|x|    
+| **AHD**            |All day|All day|All day|All day|x|x|All day|    
 | **MARIIA**         |     |     |     |     |     |     |     |
 | **MOHAMED SAEED**  |9AM-4PM|9AM-4PM|9AM-4PM|9AM-4PM|9AM-4PM|9AM-4PM|9AM-4PM|
 | **ABDALLAH**       |     |     |     |     |     |     |     |
