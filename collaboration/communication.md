@@ -23,8 +23,7 @@
 
 ## Commnication Schedule
 
-  
-| **Day**   | **How**      | **Topic of Discussion**                  | **Link**                                      |
+| **Day**   | **How**      | **Topic of Discussion**                  | **Link**|
 |-----------|--------------|------------------------------------------|----------------------------------------------|
 | 31/05/25  | Google Meet  | Introduction and Communication file| [Meeting Minutes 01](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/notes/01meeting_minutes.md) |
 
@@ -47,7 +46,7 @@ How often we will get in touch on each channel, and what we will discuss there:
 
 | Day                | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |--------------------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **AHD**            |All day|All day|All day|All day|x|x|All day|    
+| **AHD**            |All day|All day|All day|All day|x|x|All day|
 | **MARIIA**         |     |     |     |     |     |     |     |
 | **MOHAMED SAEED**  |9AM-4PM|9AM-4PM|9AM-4PM|9AM-4PM|9AM-4PM|9AM-4PM|9AM-4PM|
 | **ABDALLAH**       |     |     |     |     |     |     |     |
@@ -69,4 +68,4 @@ Document your challenge _tag_ to ensure clarity when seeking help.
 
 1. _0 → 30 min_: Try on your own  
 2. _30 → 60 min_: Ask the team for help  
-3. _60+ min_: Time to signal the experts on Slack or GitHub. 
+3. _60+ min_: Time to signal the experts on Slack or GitHub
