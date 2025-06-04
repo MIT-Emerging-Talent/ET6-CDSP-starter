@@ -26,7 +26,7 @@
   
 | **Day**   | **How**      | **Topic of Discussion**                  | **Link**                                      |
 |-----------|--------------|------------------------------------------|----------------------------------------------|
-| 31/05/25  | Google Meet  | Introduction and Communication | [Meeting Minutes 01]((https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/notes/01meeting_minutes.md)) |
+| 31/05/25  | Google Meet  | Introduction and Communication | [Meeting Minutes 01](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/notes/01meeting_minutes.md)) |
 
 ## Communication Channels
 
