@@ -156,6 +156,8 @@ Our repository is organized into key sections:
 
 1. Clone and setup
 
+1. Clone and setup
+
     ```bash
     # Clone the repository
     git clone https://github.com/your-org/DataCents.git
