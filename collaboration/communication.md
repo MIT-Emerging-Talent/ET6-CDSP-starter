@@ -178,13 +178,25 @@ decisions to enhance team efficiency, collaboration, and outcomes moving forward
 - Improve time management and deadline tracking
 - Encourage proactive task ownership
 - Conduct a short GitHub refresher or tutorial session
-- Assign a GitHub champion to support usage
 - Finalize and agree on a group name
-- Set mini-deadlines within sprints
-- Schedule a brief GitHub walkthrough
-- Nominate a team member for GitHub support
 - Brainstorm and vote on a group name by next meeting
 
 ---
+# 🚀 Action Points from Meeting
 
-Let’s aim for improved flow, ownership, and communication going forward!
+## 📅 Internal Deadline
+- **Decision**: Set internal milestone deadlines for **Friday** (weekend before submission).
+- **Why**: Prevent last-minute delays and give enough time for revisions.
+
+## 📆 Fixed Meetings
+- **Decision**: Two fixed weekly meetings:
+  - **Kickoff**: Plan weekly goals/tasks.
+  - **Retro (Weekend)**: Performance review + adjustments.
+- **Action**: Vote on exact times.
+
+## ⏱️ Meeting Efficiency
+- **Decision**: Break meetings into timed agenda items (e.g., 10 mins for check-in).
+- **Action**: Add time blocks to subsequent GitHub Issues.
+
+## 📝 Documentation
+- **Decision**: Revise `README` (including group name) and project files iteratively.
