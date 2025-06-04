@@ -37,7 +37,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 | _name_               |            |            |            |            |            |          |            |
 | Khadija Al Ramlawi   | 9AM - 2 PM | 9AM - 2 PM | 9AM - 2 PM | 9AM - 2 PM | 9AM - 2 PM |          | 9AM - 2 PM |
 | Nelson Fodjo Kamdoum | 12pm - 4pm | 12pm - 4pm | 12pm - 4pm | 12pm - 4pm | 12pm - 4pm |    -     | 12pm - 4pm |
-| Olubusayo Solola     |            |            |            |            |            |          |            |
+| Olubusayo Solola     | 11am - 1pm | 12pm - 2pm |10am - 12pm | 10am - 1pm |      -     |    -     |  3pm - 4pm |
 | Sara Sahin           |            |            |            |            |            |          |            |
 | Shayma Mohamed       |            |            |            |            |            |          |            |
 | Yevheniia Rudenko    | 12pm - 4pm | 12pm - 4pm | 12pm - 4pm | 12pm - 4pm | 12pm - 4pm |    -     | 12pm - 4pm |
@@ -46,7 +46,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 - Khadija al Ramlawi: ~5h;
 - Nelson Fodjo Kamdoum: ~4h;
-- Olubusayo Solola: \_\_;
+- Olubusayo Solola: ~2h;
 - Sara Sahin: \_\_;
 - Shayma Mohamed: \_\_;
 - Yevheniia Rudenko: ~4h;
