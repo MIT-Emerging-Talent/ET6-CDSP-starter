@@ -19,7 +19,13 @@ strategy, and prepared our GitHub repository and shared documents. Below is our
 collective reflection on what went well, what we can improve, and what we’ve learned
 from working together so far.
 
-### 🔴 Stop Doing  
+<!--Using markdownlint-disable MD033 to allow inline HTML for collapsible sections
+in Markdown. -->
+<!-- markdownlint-disable MD033 -->
+<details>
+<summary>📝 [ 𝗠𝗜𝗟𝗘𝗦𝗧𝗢𝗡𝗘 𝟬 | 𝗥𝗘𝗧𝗥𝗢𝗦𝗣𝗘𝗖𝗧𝗜𝗩𝗘𝗦 ]</summary>
+
+### 🔴 Stop Doing
 
 - Overthinking or overplanning that slows down actual work progress.
 - Spending too much time on planning instead of taking action.
@@ -62,12 +68,17 @@ repository on GitHub.
 plan, constraints, and learning goals.
 - The project board was organized with the required milestones and basic task cards,
 as planned.
+- Communication was open and respectful, enabling faster resolution of blockers.
+- We maintained consistent stand-ups that helped sync progress and distribute
+  tasks evenly as possible.
 
 2.What parts of our plan did not work out?
 
 - Coordinating schedules across time zones was more difficult than anticipated.
 - Roles were not fully assigned effectively, and not every member was able to contribute
 to the tasks due to other personal commitments.
+- Some team members, including myself, struggled with balancing individual tasks
+  with team support.
 
 3.Did you need to add things that weren't in your strategy?
 
@@ -84,7 +95,8 @@ Member 1: Banu Özyılmaz
 - Contributions
 
   - Participated actively in initial group meetings and discussions.
-  - Contributed to drafting the group norms and retrospective file.
+  - Contributed to drafting and editing the collaboration readme file and
+  retrospective file.
   - Provided feedback and edits to team members’ contributions in shared docs.
 
 - Challenges
@@ -100,6 +112,73 @@ Member 1: Banu Özyılmaz
   - Felt more confident in working across cultures and establishing shared goals
   with a diverse team.
 
-Member 2:
+Member 2: Muhammad Shahroz
+
+- Contributions
+
+  - Broke the ice with teammates and made sure everyone was added to the group
+  chat and repo.
+  - Double-checked our GitHub setup and helped iron out any access issues.
+  
+- Challenges  
+
+  - Figuring out everyone’s availability with the time differences took some back-and-forth.
+  - Needed to quickly learn new collaboration tools and adapt to the team’s workflow.
+
+- Progress
+
+  - Started building a routine for team updates and keeping tasks transparent.
+  - Feel good about the team’s openness and ready to take on more technical work
+  in the next phase.
+
+Member 3: Amro Mohamed
+
+- Contributions
+  
+  - Adjusted repository settings to streamline workflow and maintain project organization.
+  - Contributed to drafting and editing the learning goals file.
+  - Collaborated effectively with team members.
+  - Planned and hosted the team video meetings.
+
+- Challenges
+  
+  - Occasional misalignment on task priorities caused rework and delays.
+  - Some team members, including myself, struggled with balancing individual tasks
+  with team support.
+
+- Progress
+  
+  - Learned to be more proactive in communicating.  
+  - Improved at using tools like Git, and Slack for better team coordination.
+  - Gained a deeper appreciation for the diversity of skills within the team.
+
+Member 4:
+
+- Contributions
+  
+  -
+
+- Challenges
+  
+  -
+- Progress
+  
+  -
+
+Member 5:
+
+- Contributions
+  
+  -
+
+- Challenges
+  
+  -
+- Progress
+  
+  -
+
+</details>
+<!-- markdownlint-enable MD033 -->
 
 ---
