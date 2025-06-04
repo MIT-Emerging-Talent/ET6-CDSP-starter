@@ -50,7 +50,8 @@ _______________________________________________________________________
 
 Martha
 
-- Learn to use Python libraries like Pandas and Matplotlib to manipulate and analyze data effectively.
+- Learn to use Python libraries like Pandas and Matplotlib to
+manipulate and analyze data effectively.
 - Apply data science techniques to solve issues in my small business and local community.
 - Practice cleaning and preparing raw datasets for accurate analysis.
 - Go through each part of an algorithm carefully to grasp how and why it works.
