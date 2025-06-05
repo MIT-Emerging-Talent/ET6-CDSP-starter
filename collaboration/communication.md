@@ -21,7 +21,7 @@
 - Availability tracking for each team member  
 - A shared approach to asking for help and resolving conflicts
 
-## Commnication Schedule
+## Communication Schedule
 
 | **Day**   | **How**      | **Topic of Discussion**                  | **Link**|
 |-----------|--------------|------------------------------------------|----------------------------------------------|
@@ -44,7 +44,7 @@ How often we will get in touch on each channel, and what we will discuss there:
 
 ### Availability for calling/messaging/meetings
 
-+ **Preferred days:**  
+**Preferred days:**  
  **All agreed from Sunday to Wednesday**  
   _To accommodate all members._  
   Depending on power and connectivity
@@ -60,10 +60,10 @@ How often we will get in touch on each channel, and what we will discuss there:
 | **MOHAMED ALTAYEB** | 11/12pm est | 2 - 4 hrs | 
 | **ANYAK** | Before 12pm est | 2 - 4 hrs|
   
-+ **Next Meetings:**  
+**Next Meetings:**  
    _Scheduled during the prior meeting._  
   Every Thursday  
-  _If unscheduled: Coordinated via 
+  _If unscheduled: Coordinated via
   Slack for all team members._
   
 ## Asking for Help
