@@ -42,26 +42,30 @@ How often we will get in touch on each channel, and what we will discuss there:
 
 ## Availability
 
-### Availability for calling/messaging
+### Availability for calling/messaging/meetings
 
-| Day                | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
-|--------------------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **AHD**            |All day|All day|All day|All day|x|x|All day|
-| **MARIIA**         |     |     |     |     |     |     |     |
-| **MOHAMED SAEED**  |9AM-4PM|9AM-4PM|9AM-4PM|9AM-4PM|9AM-4PM|9AM-4PM|9AM-4PM|
-| **ABDALLAH**       |     |     |     |     |     |     |     |
-| **MOHAMED ALTAYEB**|     |     |     |     |     |     |     |
-| **ANYAK**          |     |     |     |     |     |     |     |
++ **Preferred days:**  
+ **All agreed from Sunday to Wednesday**  
+  _To accommodate all members._  
+  Depending on power and connectivity
+  
+### Hours Availability
 
-### How many hours everyone has per day
-
-- **AHD**: 4 - 8h
-- **MARIIA**: h
-- **MOHAMED SAEED**: h
-- **ABDALLAH**: h
-- **MOHAMED ALTAYEB**: 4 - 2 h (depending on power and connectivity)
-- **ANYAK**: h
-
+| **Preferred hours availability** | **Time** | **Response time average**|
+|----------------------------------|----------|------------------|
+| **AHD** | After 11pm Est | 4 - 8 hrs |
+| **MARIIA** | After 9pm Est | 2 - 4 hrs |
+| **MOHAMED SAEED** | After 12pm Est | 2 - 4 hrs |
+| **ABDALLAH** | TBD | TBD |
+| **MOHAMED ALTAYEB** | 11/12pm est | 2 - 4 hrs | 
+| **ANYAK** | Before 12pm est | 2 - 4 hrs|
+  
++ **Next Meetings:**  
+   _Scheduled during the prior meeting._  
+  Every Thursday  
+  _If unscheduled: Coordinated via 
+  Slack for all team members._
+  
 ## Asking for Help
 
 Document your challenge _tag_ to ensure clarity when seeking help.  
