@@ -1,13 +1,22 @@
 # Project title
+
 Welcome to group 8 repo(><)  
 
-This repository serves as a collaborative space for developing, documenting, and sharing data-driven solutions. Our goal is to apply data science techniques—such as data exploration,
-preprocessing, modeling, and visualization—to gain insights and solve real-world problems.  
-As the project progresses, this repository will be updated with relevant datasets, source code, results, and documentation.  
+This repository serves as a collaborative space for developing, documenting,
+and sharing data-driven solutions. Our goal is to apply data
+science techniques—such as data exploration,
+preprocessing, modeling, and visualization—to gain insights and
+solve real-world problems.  
+As the project progresses, this repository will be updated with relevant datasets,
+source code, results, and documentation.  
 Stay tuned for more updates!
+
 ## Project Idea
+
 ----
+
 ## Timeline and milestonse
+
 ```mermaid
 timeline
     title Project Timeline
@@ -22,6 +31,7 @@ timeline
     section July 22 - August 11
         Communicating results
 ```
+
 | Milestone | Focus | Status |
 |----------|--------|--------|
 | **0. Cross-Cultural Collaboration** | Repository setup, collaboration setup, communication planning | ✅ Completed |
@@ -30,6 +40,7 @@ timeline
 | **3. Data Analysis** | Analyze data and interpret results | ⏳ Not Started |
 | **4. Communicating Results** | Translate findings for a target audience | ⏳ Not Started |
 | **5. Final Presentation** | Present the full journey and lessons learned | ⏳ Not Started |
+
 ## Repository structure
 
 ```
@@ -54,6 +65,7 @@ project
 |
 |___6_final_presentation       # Final presentation materials
 ```
+
 ## Team Members
 
 - **ِ[Abdallah Alnajjar](https://github.com/theabdallahnjr)**
@@ -65,4 +77,5 @@ project
 
 ## 📌 Notes
 
-This is a work in progress. More updates and details will be added soon to this readme. Stay tuned!
+This is a work in progress. More updates and details will be added soon to
+ this readme. Stay tuned!
