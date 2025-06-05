@@ -32,9 +32,8 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ### Availability for calling/messaging
 
-| Day                  |   Monday   |  Tuesday   | Wednesday  |  Thursday  |   Friday   | Saturday |   Sunday   |     |
-| -------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | :------: | :--------: | --- |
-| _name_               |            |            |            |            |            |          |            |
+| Day                  |   Monday   |  Tuesday   | Wednesday  |  Thursday  |   Friday   | Saturday |   Sunday   |
+| -------------------- | :--------: | :--------: | :--------: | :--------: | :--------: | :------: | :--------: |
 | Khadija Al Ramlawi   | 9AM - 2 PM | 9AM - 2 PM | 9AM - 2 PM | 9AM - 2 PM | 9AM - 2 PM |          | 9AM - 2 PM |
 | Nelson Fodjo Kamdoum | 12pm - 4pm | 12pm - 4pm | 12pm - 4pm | 12pm - 4pm | 12pm - 4pm |    -     | 12pm - 4pm |
 | Olubusayo Solola     | 11am - 1pm | 12pm - 2pm |10am - 12pm | 10am - 1pm |      -     |    -     |  3pm - 4pm |
