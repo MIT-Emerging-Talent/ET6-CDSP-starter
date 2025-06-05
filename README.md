@@ -158,8 +158,8 @@ Our repository is organized into key sections:
 
     ```bash
     # Clone the repository
-    git clone https://github.com/your-org/DataCents.git
-    cd DataCents
+    git clone https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-15-repo.git
+    cd ET6-CDSP-group-15-repo
 
     # Create environment
     conda env create -f environment.yml
