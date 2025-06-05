@@ -43,7 +43,7 @@ Below is an overview of different kinds of dataset you will encounter:
 6. [Classification by Purpose](#classification-by-purpose)
 7. [Classification by Format](#classification-by-format)
 
-### Classification by Data Type
+## Classification by Data Type
 
 ### Quantitative (Numerical) Data
 
