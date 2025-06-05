@@ -22,9 +22,9 @@ another. Make sure to communicate through the Slack channel for support.
 ## _Readiness:_
 
 * Make sure to be prepared for meetings; everything related to meetings can be
-found in [**MIT G21**](https://docs.google.com/spreadsheets/d/1Qp15n5iF_7j8pD_ZlR-c3YhKhV635ZLOpJf8jG7zVAk/edit?gid=0)
-* Stay on track with the _**Name List-tracker**_ to know when it's your turn to
-be in charge of managing meeting agendas and minutes.
+found in GitHub issues.
+We'll rotate positions for holding meetings according to the list
+**_[Alaa, Aseel, Rouaa, Justina, Geehan]_**.
 * To hold a meeting, at least _**three**_ team members need to be available.
 * All deadlines will be set according to the [**Syllabus**](https://docs.google.com/document/d/1TaoVVqJD5EqmBGLw6_qzph8EZnuL6uhY/edit);
 make sure to have a look at it every now and then.
