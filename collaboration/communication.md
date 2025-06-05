@@ -57,7 +57,7 @@ How often we will get in touch on each channel, and what we will discuss there:
 | **MARIIA** | After 9pm Est | 2 - 4 hrs |
 | **MOHAMED SAEED** | After 12pm Est | 2 - 4 hrs |
 | **ABDALLAH** | TBD | TBD |
-| **MOHAMED ALTAYEB** | 11/12pm est | 2 - 4 hrs | 
+| **MOHAMED ALTAYEB** | 11/12pm est | 2 - 4 hrs |
 | **ANYAK** | Before 12pm est | 2 - 4 hrs|
   
 **Next Meetings:**  
