@@ -21,31 +21,31 @@ Stay tuned for more updates!
 timeline
     title Project Timeline
     section May 27 - June 2
-        Cross-Cultural Collaboration
+        Cross-Cultural Collaboration :
+            Repository setup, collaboration setup, communication planning : ✅ Completed
     section June 3 - June 16
-        Problem Identification
+        Problem Identification :
+            Define the problem & research question : 🔄 In Progress
     section June 17 - June 30
-        Data Collection
+        Data Collection :
+            Decide how to model our problem domain and collect data : ⏳ Not Started
     section July 1 - July 21
-        Data Analysis
+        Data Analysis:
+            Analyze data and interpret results : ⏳ Not Started
     section July 22 - August 11
-        Communicating results
+        Communicating results:
+            Translate findings for a target audience : ⏳ Not Started
+    section August 12 - August 25
+        Final Presentation:
+            Present the full journey and lessons learned : ⏳ Not Started
 ```
-
-| Milestone | Focus | Status |
-|----------|--------|--------|
-| **0. Cross-Cultural Collaboration** | Repository setup, collaboration setup, communication planning | ✅ Completed |
-| **1. Problem Identification** | Define the problem & research question | 🔄 In Progress |
-| **2. Data Collection** | Decide how to model our problem domain and collect data | ⏳ Not Started |
-| **3. Data Analysis** | Analyze data and interpret results | ⏳ Not Started |
-| **4. Communicating Results** | Translate findings for a target audience | ⏳ Not Started |
-| **5. Final Presentation** | Present the full journey and lessons learned | ⏳ Not Started |
 
 ## Repository structure
 
-```
+```text
+
 project
-│  README.md                   # Project overview and main instructions              
+│  README.md                   # Project overview and main instructions        
 |   
 └───Collaboration              # Team norms, strategies, and retrospectives
 │
@@ -78,4 +78,4 @@ project
 ## 📌 Notes
 
 This is a work in progress. More updates and details will be added soon to
- this readme. Stay tuned!
+this readme. Stay tuned!
