@@ -36,8 +36,6 @@ we will use them for:
   - **Purpose**:  
     Team sync-ups, milestone reviews, retrospectives
 
----
-
 ## Availability
 
 ### Availability for Calls/Messages
