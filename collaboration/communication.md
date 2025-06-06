@@ -61,3 +61,14 @@ long you’ve been stuck on a problem:
 1. **0–30 minutes**: Try to solve it yourself  
 2. **30–60 minutes**: Ask your group for assistance  
 3. **60+ minutes**: Tag a coach on Slack or GitHub for help
+
+## e-mails of each group memmber
+
+| Member |E-mail  |
+|--------|--------|
+| Abel   |<Tekaabel04@gmail.com>|
+| Vika   |<vitadrug@gmail.com>|
+| Salem  |<salem.amassi@gmail.com>|
+| Raneem |<raneem.ram06@gmail.com>|
+| Norbert|<norbertndayisenga@gmail.com>|
+| Wour   |<uhuribhang211@gmail.com>|

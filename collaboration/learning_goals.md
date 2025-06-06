@@ -33,6 +33,11 @@ optimal results.
 analytical approaches.
 * Learn from each other’s strengths while identifying areas for growth.
 
+### 6. Develop End-to-End Data Science Workflow Proficiency
+
+* Gain hands-on experience across the full lifecycle of a data science
+ project from data acquisition and preparation to modeling, evaluation, and communication.
+
 ## Individual
 
 ### Raneem Rami
@@ -86,9 +91,6 @@ and teamwork by working alongside dedicated and skilled data scientists.
 workflow—from framing research questions and collecting data
 to analysis and communicating results—while learning how to adapt methodologies
 across different domains.
-* I seek to strengthen my problem-solving and debugging abilities by working
-on real-world challenges in a diverse, international team,
-while enhancing my efficiency and code quality through iterative feedback and documentation.
 * I want to improve both my technical and soft skills by actively
 contributing to team planning, communication, and project execution,
 while managing asynchronous workflows and gaining hands-on experience
