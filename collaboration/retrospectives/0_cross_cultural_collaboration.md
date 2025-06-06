@@ -1,13 +1,4 @@
-# Retrospective
-
-This document is a team retrospective — a reflective summary of our process, collaboration,
-and outcomes during the phases of our project. It serves to identify what
-went well, what could be improved, and what lessons we’ve learned to carry forward
-into the next milestone.
-
----
-
-## Milestone 0: Cross-Cultural Collaboration
+# Milestone 0: Cross-Cultural Collaboration
 
 This part summarizes our team’s experience and reflections from
 Milestone 0, focused on Cross-Cultural Collaboration. The primary goal of this milestone
@@ -19,20 +10,14 @@ strategy, and prepared our GitHub repository and shared documents. Below is our
 collective reflection on what went well, what we can improve, and what we’ve learned
 from working together so far.
 
-<!--Using markdownlint-disable MD033 to allow inline HTML for collapsible sections
-in Markdown. -->
-<!-- markdownlint-disable MD033 -->
-<details>
-<summary>📝 [ 𝗠𝗜𝗟𝗘𝗦𝗧𝗢𝗡𝗘 𝟬 | 𝗥𝗘𝗧𝗥𝗢𝗦𝗣𝗘𝗖𝗧𝗜𝗩𝗘𝗦 ]</summary>
-
-### 🔴 Stop Doing
+## 🔴 Stop Doing
 
 - Overthinking or overplanning that slows down actual work progress.
 - Spending too much time on planning instead of taking action.
 - Being inactive for long periods without informing the team in advance, which
 can unintentionally disrupt collaboration.
   
-### 🟢 Continue Doing
+## 🟢 Continue Doing
 
 - Communicating clearly and respectfully across time zones and cultures.
 - Using collaborative tools like GitHub Projects and shared documents to stay organized.
@@ -41,14 +26,14 @@ updates.
 - Supporting each other in setting up the repository and assigning roles.
 - Having open discussions for project process.
 
-### 🟡 Start Doing
+## 🟡 Start Doing
 
 - Establishing a regular check-in schedule to keep everyone aligned.
 - Inform the group in advance if you expect to be unavailable or less responsive,
 so the team can adjust plans accordingly.
 - Adding brief summaries after each meeting to make sure we’re all on the same page.
 
-### 💡 Lessons Learned
+## 💡 Lessons Learned
 
 - Cross-cultural collaboration requires patience and active listening, especially
 early on.
@@ -58,7 +43,7 @@ misunderstandings later.
 - Having structure (like milestones and a project board) from the beginning helps
 reduce stress.
 
-### 📊 Strategy vs. Board
+## 📊 Strategy vs. Board
 
 1.What parts of our plan went as expected?
 
@@ -90,7 +75,7 @@ to the tasks due to other personal commitments.
 
 - There weren't any extra steps.
 
-### 👤 Individual Retrospectives
+## 👤 Individual Retrospectives
 
 Member 1: Banu Özyılmaz
 
@@ -177,21 +162,3 @@ Member 4: Azza Omer
   - Found that having a clear plan helped reduce overthinking and anxiety.
   - Improved in showcasing more of my skills .
   - Became more open to listening to different perspectives from team members.
-
-Member 5:
-
-- Contributions
-  
-  -
-
-- Challenges
-  
-  -
-- Progress
-  
-  -
-
-</details>
-<!-- markdownlint-enable MD033 -->
-
----

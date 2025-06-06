@@ -48,7 +48,7 @@ We should establish clear norms on when to close issues and accept PRs.
 |Muhammad| 12–2PM | 12–2PM | 12–2PM | 12–2PM | ❌ | ❌  | 12–2PM |
 
 > Note: Times are in EST. Availability may vary slightly due to personal commitments.
-<!-- markdownlint-disable MD013 -->
+<!-- markdownlint-enable MD013 -->
 
 ### How many hours everyone has per day
 
