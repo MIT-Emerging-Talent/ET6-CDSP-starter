@@ -3,7 +3,6 @@
 The first step to developing a software project is to make sure everyone agrees
 on the project objectives. For these exercises, setting objectives means
 discussing what everyone wants to learn from these exercises.
-
 For example, do you want to;
 
 - Review DSs and algorithms you have already studied.
