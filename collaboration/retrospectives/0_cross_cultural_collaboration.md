@@ -1,6 +1,7 @@
 # 📝 Milestone 0 Reflection
 
-This is a quick retrospective to reflect on how we worked together during Milestone 0.
+This is a quick retrospective to reflect on how we worked together
+Milestone 0.
 The goal is to highlight what went well, what could be improved,
 and how we can grow stronger as a team moving forward.
 
@@ -25,7 +26,6 @@ and how we can grow stronger as a team moving forward.
 
 - Checking team availability before assigning time-sensitive tasks  
 - Setting earlier internal deadlines to catch issues sooner  
- 
 
 ---
 
@@ -46,4 +46,4 @@ and how we can grow stronger as a team moving forward.
 
 ### ❌ What parts did not work out?
 
-- One task wasn’t completed before the deadline
+- One task wasn’t completed before the deadline.
