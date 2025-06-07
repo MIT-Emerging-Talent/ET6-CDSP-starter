@@ -31,9 +31,11 @@ and how we can grow stronger as a team moving forward.
 
 ## 📚 Lessons Learned
 
-- One missed contribution can affect the overall workflow—early communication is key  
+- One missed contribution can affect the overall workflow—early communication is
+   key  
 - Planning ahead helps avoid last-minute stress  
-- It’s important to be flexible and have a plan B when things don’t go perfectly  
+- It’s important to be flexible and have a plan B when things don’t
+  go perfectly  
 
 ---
 
