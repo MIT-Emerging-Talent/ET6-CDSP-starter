@@ -40,7 +40,6 @@ how often will we get in touch on each channel, and what we will discuss there:
 |Svitlana | 11am-8pm| 11am-8pm   | 11am-8pm   | 11am-8pm | 11am-8pm   | 11am-3pm |        |     |
 |Hasan    |         |            |            |           |           |          |        |     |
 
-
 ### How many hours everyone has per day
 
 - Ozgur: _5h_;
@@ -49,7 +48,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 - M.Ziadah: _4h_;
 - Svitlana: _9h_;
 - Hasan: _4h_;
-
+  
 ## Asking for Help
 
 There's a fine line between confidently learning from your mistakes, and
