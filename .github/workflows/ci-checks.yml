@@ -48,7 +48,7 @@ jobs:
           pip install pylint
         shell: bash
       - name: Python - Check Linting - pylint
-        run: "pylint solutions tests  || echo '::warning title=Pylint Error(s)::Discuss solutions and trade-offs in code review.'"
+        run: "pylint **/*.py --ignore-paths=env,venv,.env,.venv,__pycache__,.git  || echo '::warning title=Pylint Error(s)::Discuss solutions and trade-offs in code review.'"
         shell: bash
 
   py_tests:
@@ -77,4 +77,22 @@ jobs:
       - name: Python - Run Tests
         if: steps.check_tests.outputs.has_tests == 'true'
         run: python -m unittest
+        shell: bash
+
+  py_notebook_linting:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: python version
+        run: python --version
+        shell: bash
+        if: always()
+      - name: install nbqa
+        run: |
+          python -  m pip install --upgrade pip
+          pip install pylint
+          pip install nbqa
+        shell: bash
+      - name: Python Notebooks - Check Linting - nbqa
+        run: "nbqa pylint *.ipynb  || echo '::warning title=NoteBook QA Error(s)::Discuss solutions and trade-offs in code review.'"
         shell: bash
