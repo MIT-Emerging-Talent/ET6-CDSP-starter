@@ -1,5 +1,4 @@
-
-## Retrospective
+# Retrospective
 
 - **Stop Doing**
   - Leaving tasks or decisions ambiguous — unclear ownership
@@ -18,7 +17,7 @@
   - Clear meeting agendas and possibly holding two meetings per
      week to stay aligned.
   - Following up with the progress of each member and reaching out
-    as a group. >> regular check-ins 
+    as a group. >> regular check-ins.
 
 - **Lesson Learned**
   - The Project Board should reflect the structure and clarity of
@@ -31,7 +30,9 @@
       - Remove or revise outdated ones.
       - Keep the board clean, readable, and uncluttered.
 
-### Srategy vs Board
+## Srategy vs Board
+
+### Ahd
 
 - **What Went Well**
   - Our first meeting introductions went smoothly. We all seem to have
@@ -42,10 +43,11 @@
   - Time management needs refinement.  
     Our two-day buffer for the first milestone didn’t work out
   this time — but that’s okay.
+  - More meetings for the next milestone.
 
 - **Did you need to add things that weren't in your strategy?**
 **Or remove extra steps?**
-  -  Removed redundant or unclear branches during cleanup to
+  - Removed redundant or unclear branches during cleanup to
     make the board more efficient.
   - Added the milestone tag on the issue naming also to make the project
    board clear in terms of milestones.
