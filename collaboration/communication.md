@@ -38,7 +38,7 @@ How often we’ll use each platform and what for:
 
 ### Who’s around when?
 
-We’re a flexible, global team! Here’s when we’re *generally* available:
+We’re a flexible, global team! Here’s when we’re _generally_ available:
 
 - **Aseel** – Afternoons & Evenings (Mon, Tue, Thu, Fri, Sat) – 6 hrs/day
 - **Alaa** – Late Afternoons (Mon–Fri), some weekends – 4–5 hrs/day
@@ -46,7 +46,7 @@ We’re a flexible, global team! Here’s when we’re *generally* available:
 - **Geehan** – Weekdays & Sunday – 4 hrs/day
 - **Rouaa** – Weekdays (esp. Tue, Thu, Fri, Sat) – 4 hrs/day
 
-*Note: If your schedule changes, give a heads-up on Slack or in our Zoom meeting!*
+_Note: If your schedule changes, give a heads-up on Slack or in our Zoom meeting!_
 
 ---
 
@@ -64,6 +64,6 @@ Be kind when asking for help, and generous when someone else needs you! 🤝
 
 ## 🧠 A Fun Note
 
-We believe good communication is the *superpower* of every great team!  
+We believe good communication is the _superpower_ of every great team!  
 So whether it's syncing tasks, asking for help, or just sharing memes on Slack —
 let’s keep the energy positive, open, and inclusive. 🧃🎧🌍
