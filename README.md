@@ -80,3 +80,8 @@ project
 
 This is a work in progress. More updates and details will be added soon to
 this readme. Stay tuned!
+
+## License
+
+This project is licensed under the MIT License - 
+see the [LICENSE](https://choosealicense.com/licenses/mit/) file for details.
