@@ -45,6 +45,7 @@ We’re a flexible, global team! Here’s when we’re _generally_ available:
 - **Justina** – Most Weekdays , not Saturday  – 6 hrs/day
 - **Geehan** – Weekdays & Sunday – 4 hrs/day
 - **Rouaa** – Weekdays (esp. Tue, Thu, Fri, Sat) – 4 hrs/day
+- **Majd** – Late Afternoons (Satarday– Wednesday) – 3-4 hrs/day
 
 _Note: If your schedule changes, give a heads-up on Slack or in our Zoom meeting!_
 
