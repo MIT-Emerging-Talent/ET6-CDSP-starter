@@ -51,3 +51,22 @@
     make the board more efficient.
   - Added the milestone tag on the issue naming also to make the project
    board clear in terms of milestones.
+
+### Mohamed Saeed
+
+- **What Went Well**
+  - Team meetings and deadlines were set appropriately, even though
+    I wasn't able to participate fully.
+  - Team division of tasks and responsibilites was clear, which helped
+    the project move forward.
+
+- **What Didn’t Go as Planned**
+  - Communication breakdowns on my end meant I missed important updates,
+    decisions, and opportunities to provide input when the team needed it.
+  - I failed to proactively communicate early enough for the team to adjust
+    expectations or redistribute tasks effectively.
+
+- **Did you need to add things that weren't in your strategy?**
+**Or remove extra steps?**
+  - Better personal time management and prioritization strategies to
+    balance competing commitments.
