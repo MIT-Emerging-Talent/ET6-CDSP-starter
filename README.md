@@ -33,3 +33,4 @@ a response to messages or questions should have a reply in a day,
 no more than 2 if the member is busy.
 - Exploding Kittens. We will one day all play a game of Exploding Kittens
 together.
+![Alt text](Exploring_Kittens.png)
