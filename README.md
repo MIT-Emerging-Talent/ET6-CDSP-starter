@@ -2,44 +2,34 @@
 
 ## Group Norms Summary
 
-Our group is committed to fostering a safe, respectful, and inclusive
-environment
-where all members feel valued, communicate openly, and collaborate
-effectively.
-We prioritize trust, accountability, and constructive dialogue centered on
-ideas.
-By embracing diverse perspectives, honoring our commitments, and remaining
-adaptable, we support one another in reaching our shared goals.
+Just like the game it is based on (Exploding Kittens), Exploring Kittens
+is a fun-loving group of researchers who want to explore the world.
+Our goal is to help each other, learn from one another, and grow together
+as we explore the world of Computer and Data science.
 
 ## Group Agreements (Intention-Based)
 
-- We intend to communicate openly and respectfully to ensure everyone
- feels safe, heard, and valued. This means avoiding strong language and
- personal remarks; all feedback should be courteous and focused
- on the work — not on individuals.
-- We intend to collaborate with equity and shared responsibility, recognizing
-that consistent participation strengthens the group.
-This means we will stay present, communicate our
-availability, and not disengage without notice.
-- We intend to honor each other’s time and commitments,
-because mutual respect includes showing up and being on time.
-We agree not to miss entire meetings without informing
- the group and will strive to arrive punctually.
-- We intend to create a space where asking questions is always
-welcome and answering them is a shared effort.
-Everyone should feel encouraged to seek support and
-know that others will respond with patience and care.
-- We intend to acknowledge that external circumstances can affect
-our participation. When this happens, we will prioritize communication
- and support, reminding each other that no one has to face challenges alone.
-- We understand that perfect attendance isn’t always possible.
- What matters most is our continued presence and commitment
- to the group. We will contribute actively when we can and
- support each other as circumstances allow.
-- We intend to stay focused on our shared goals while remaining flexible.
-We recognize that adaptability is key to navigating challenges
-and staying aligned as a team.
-- We intend to be respectful of each other’s time and to communicate
-proactively about delays or absences. While we aim to be punctual,
-we trust that good intentions and mutual understanding will
-guide us when urgent situations arise
+- Open and respectful communication between members. Voices are not equally
+loud but they are equally important.
+- Consistent collaboration. We expect members to regularly participate and
+contribute to the group.
+We will however also be understanding if a member
+needs some time off due to personal or professional commitments.
+- Punctuality. We should expect to wait no more than 5 minutes for meetings
+to start and people to be present.
+- Curiosity. We all come from different backgrounds and places,
+the only bad questions we can ask are questions that have been answered.
+- Togetherness. Our group members are supportive of one another's needs, feelings
+or circumstances. No one in the group is alone.
+- Adaptibility. We are more focused on identifying solutions rather than
+complaining about the problems or pointing fingers. We will be quick to change
+our approach or methodology if need be.
+- Respect. We are all human, we are all equal. We intend to value everyone's
+time, commitments, and resources just like we value our own.
+- Humor. Jokes are encouraged, we will strive to keep the atmosphere light
+and refreshing so that meetings don't feel like a drag.
+- Communication. We don't expect members to reply in real time, but
+a response to messages or questions should have a reply in a day,
+no more than 2 if the member is busy.
+- Exploding Kittens. We will one day all play a game of Exploding Kittens
+together.
