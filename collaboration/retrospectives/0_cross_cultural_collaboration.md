@@ -6,8 +6,6 @@ It’s an honest review to help us grow stronger as a team.
 
 ---
 
-## Milestone 0 (Cross-Cultural Collaboration)
-
 ## 🛑 Stop Doing
 
 - Procrastinating on tasks and leaving work until the last minute.
