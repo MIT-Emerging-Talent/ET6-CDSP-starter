@@ -8,7 +8,7 @@ designed to help you do **reproducible** research. If your research process is
 well organized, others should be able to clone it, run all scripts (without
 errors!), and evaluate your conclusions for themselves.
 
-```
+```text
 /
 ├── README.md                   # Project overview and main findings
 ├── /collaboration/             # Team norms, strategies, and retrospectives
@@ -20,7 +20,7 @@ errors!), and evaluate your conclusions for themselves.
 ├── /4_data_analysis/           # Scripts for in-depth analysis
 ├── /5_communication_strategy/  # Materials for communicating findings
 └── /6_final_presentation/      # Final presentation materials
-```
+```>
 
 Below are some suggestions on how to use the folders/files in this repository,
 but they're just suggestions! Your group should find a system that works for you
