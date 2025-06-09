@@ -42,13 +42,13 @@ Reviewed within 1–2 days of opening.
 
 ### Availability for calling/messaging
 
-| Day          | Monday  | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
-| ------       | :----:  | :-----: | :-------: | :------: | :----: | :------: | :----: |
-| Ava          |   ✔️   |    ✔️   |    ✔️    |    ✔️    |   ❌   |    ✔️   |   ✔️   |
-| Muhammet Isik|   ✔️   |    ✔️   |    ✔️    |    ✔️    |   ✔️   |    ✔️   |   ❌   |
-| Martha       |   ✔️   |    ❌   |    ✔️    |    ❌    |   ✔️   |    ✔️   |   ❌   |
-| Abdulrahman  |   ✔️   |    ❌   |    ❌    |    ✔️    |   ❌   |    ✔️   |   ✔️   |
-|Mohamed Makki |   ✔️   |    ✔️   |    ✔️    |    ❌    |   ❌   |    ✔️   |   ✔️   |
+| Day  | Monday  | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
+| ------ | :----:| :-----: | :-------: | :------: | :----: | :------: | :----: |
+| Ava          |   ✔️|    ✔️   |    ✔️    |    ✔️    |   ❌   |    ✔️   |   ✔️   |
+| Muhammet Isik|   ✔️|    ✔️   |    ✔️    |    ✔️    |   ✔️   |    ✔️   |   ❌   |
+| Martha       |   ✔️|    ❌   |    ✔️    |    ❌    |   ✔️   |    ✔️   |   ❌   |
+| Abdulrahman  |   ✔️|    ❌   |    ❌    |    ✔️    |   ❌   |    ✔️   |   ✔️   |
+|Mohamed Makki |   ✔️|    ✔️   |    ✔️    |    ❌    |   ❌   |    ✔️   |   ✔️   |
 
 ### How many hours everyone has per day
 
