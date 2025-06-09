@@ -47,13 +47,14 @@ Reviewed within 1–2 days of opening.
 | Ava    |  ✔️    |✔️      |✔️         |✔️|        ❌|    ❌      |  ✔️      |
 | Muhammet Isik   |  ✔️    |✔️      |✔️         |✔️|        ✔️|    ✔️   |  ❌|
 | Martha| ✔️      | ❌     | ✔️     | ❌   |    ✔️  |        ✔️|      ❌     |
+| Abdulrahman| ✔️      | ❌     | ❌     | ✔️   |    ❌  |        ✔️|      ✔️     |
 
 ### How many hours everyone has per day
 
 - Ava: _2h_;
 - Muhammet Isik: _6h_;
 - Martha: _4h_;
-- name: _4h_;
+- Abdulrahman: _6h_;
 - name: _3h_;
 
 ## Asking for Help
