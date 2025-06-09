@@ -14,7 +14,7 @@ In our group, everyone’s voice matters. We believe in working with honesty,
 1. **Trust and Communication**
    - We commit to both cognitive trust (trusting in each other’s skills) and
 affective trust (trusting in each other’s intentions).
-   - We will communicate openly, honestly, and respectfully—without assumptions.
+   - We will communicate openly, honestly, and respectfully — without assumptions.
    - We’ll start meetings with brief check-ins to stay connected.
 
 2. **When Trust Breaks Down**  
