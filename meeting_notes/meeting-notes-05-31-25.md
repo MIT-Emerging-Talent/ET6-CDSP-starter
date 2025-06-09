@@ -109,7 +109,7 @@ $ git switch -c feature/new-stuff
 ### 2.3 `git branch`
 
 **What it does (no arguments):**  
-Lists all local branches, showing which one is currently checked out 
+Lists all local branches, showing which one is currently checked out
 (marked with an asterisk `*`).
 
 **With arguments, you can:**  
@@ -162,7 +162,7 @@ directory and its subdirectories, preparing them for commit.
 
 **Why use it:**  
 
-- After editing files, creating new ones, or deleting files, you must 
+- After editing files, creating new ones, or deleting files, you must
 stage those changes before committing.  
 
 - `git add .` is a convenient way to include everything at once.
@@ -258,10 +258,10 @@ $ git commit -m "Add login form validation and error messages"
 
 - **Scope (optional):** You can include a scope in parentheses, e.g.,
 
-- **Detail (optional):** After a blank line, explain *why* you made the change, 
+- **Detail (optional):** After a blank line, explain *why* you made the change,
 if it isn’t obvious from the diff.
 
-> **Tip:** If you omit `-m "..."`, Git opens your default editor so you 
+> **Tip:** If you omit `-m "..."`, Git opens your default editor so you
 > can write a multi-line message.
 
 **Typical workflow context:**
@@ -276,7 +276,7 @@ if it isn’t obvious from the diff.
  \`\`\`
  $ git commit -m "Implement initial login form UI and validation"
  \`\`\`
-3. After this command, your local branch contains a new commit that the remote 
+3. After this command, your local branch contains a new commit that the remote
 (e.g., GitHub) doesn’t have—yet.
 
 ---
@@ -286,14 +286,14 @@ if it isn’t obvious from the diff.
 **What it does:**  
 
 Uploads the commits on your local `branch` to the remote repository
-named `origin`. In other words, it shares your work with 
+named `origin`. In other words, it shares your work with
 teammates (or triggers CI).
 
 **Why use it:**  
 
 - Once you’ve committed locally and want others to
 see your feature/fix, use `git push`.  
-- This updates `origin/branch` (creating it if it doesn’t exist) 
+- This updates `origin/branch` (creating it if it doesn’t exist)
 to match your local branch.
 
 **Syntax breakdown:**
