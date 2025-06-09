@@ -221,25 +221,20 @@ stand-ups, deadlines, and deliverables.
 workflow).
 
 ---
-<!-- markdownlint-enable MD013 -->
 
 ### 5.1 Action Items
 
-| Owner   | Task                                                                                     | Due Date    |
-| ------- | ---------------------------------------------------------------------------------------- | ----------- |
-| Olumide | Merge feature branch into `main` after final review.                                     | 06/02/2025  |
-| Kervens | Assign new team members to specific project-board cards and schedule a brief orientation. | 06/02/2025  |
-| Dorcas  | Update project board to reflect merged work and prepare any remaining tasks for Monday.  | 06/02/2025  |
-
-<!-- markdownlint-disable MD013 -->
----
+- Olumide: Merge feature branch into main after final review.
+- Kervens: Assign new team members to specific project-board cards
+and schedule a brief orientation.
 
 **Minutes prepared by:** Olumide Kolawole  
 **Date:** 05/31/2025
 
 ## Problem Identification Deliverables
 
-As a team, we’ll submit the following items under 0_domain_research and in our main README:
+As a team, we’ll submit the following items under 0_domain_research
+and in our main README:
 
 1. **Problem-Statement (Personal Context)**
    - A concise statement of the problem, grounded in your own experiences.
@@ -249,26 +244,37 @@ As a team, we’ll submit the following items under 0_domain_research and in our
    - Explain why this domain matters and how our problem fits into it.
 
 3. **Group’s Summary of Domain Understanding**
-   - A high-level overview of how we see the domain’s structure, stakeholders, and workflows.
+   - A high-level overview of how we see the domain’s structure, stakeholders,
+  and workflows.
    - (Bonus) Apply systems thinking—map out key actors, processes, and dependencies.
 
-4. **Actionable Research Question**
-   - One clear, data-science–oriented question that we can realistically answer given our tools and timeline.
-   - Ensure it’s specific, measurable, and grounded in the constraints we’re facing (data access, team bandwidth, etc.).
+### Actionable Research Question
 
-5. **Planning Documents** (in the repository)
-   - **Group Norms**: How we’ll collaborate, make decisions, and resolve conflicts.
-   - **Learning Goals**: What each member hopes to achieve (skills, knowledge, etc.) by this milestone.
-   - **Constraints & Assumptions**: Time, tools, data availability, technology stack, etc.
-   - **Communication Plan**: Preferred channels (Slack, email, GitHub), meeting cadence, and response expectations.
+- One clear, data-science–oriented question that we can realistically
+answer given our tools and timeline.
+- Ensure it’s specific, measurable, and grounded in the constraints
+we’re facing (data access, team bandwidth, etc.).
 
-6. **Milestone Retrospective**
-   - Reflect on what worked, what didn’t, and any adjustments needed for the next phase.
-   - Keep it candid—identify blockers, successes, and lessons learned.
+### Planning Documents (in the repository)
 
-7. **Milestone Survey**
-   - Complete the required survey form (link provided by the instructor).
-   - Summarize any key takeaways or feedback in our README.
+- **Group Norms**: How we’ll collaborate, make decisions, and resolve conflicts.
+- **Learning Goals**: What each member hopes to achieve
+(skills, knowledge, etc.) by this milestone.
+- **Constraints & Assumptions**: Time, tools, data availability,
+technology stack, etc.
+- **Communication Plan**: Preferred channels (Slack, email, GitHub),
+meeting cadence, and response expectations.
+
+2.### Milestone Retrospective
+
+- Reflect on what worked, what didn’t, and any adjustments
+  needed for the next phase.
+- Keep it candid—identify blockers, successes, and lessons learned.
+
+### Milestone Survey
+
+- Complete the required survey form (link provided by the instructor).
+- Summarize any key takeaways or feedback in our README.
 
 ---
 
@@ -276,8 +282,10 @@ As a team, we’ll submit the following items under 0_domain_research and in our
 
 **README.md** (root)
 
-- Add a “Problem Identification” heading (the checklist above), with links to any sub folders or files.
-- Include brief summaries for items 1, 4, 6, and 7 directly under their respective headings.
+- Add a “Problem Identification” heading (the checklist above), with links to
+any sub folders or files.
+- Include brief summaries for items 1, 4, 6, and 7 directly under
+their respective headings.
 
 **0_domain_research** (new folder)
 
@@ -294,4 +302,5 @@ As a team, we’ll submit the following items under 0_domain_research and in our
 - **retrospective** (new folder)
   - milestone_retrospective.md
 
-Once each document is complete, be sure to commit and push to the repo so everyone can review and contribute.
+Once each document is complete, be sure to commit and push to the repo so
+everyone can review and contribute.
