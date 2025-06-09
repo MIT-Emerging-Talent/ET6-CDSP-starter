@@ -20,6 +20,10 @@ it for collaboration:
   - _Issues_
   - _Projects_
   - _Always suggest updating pull request branches_
+- Enable CI Checks
+  - Under the _Actions_ tab:
+    - Enable workflows to ensure CI checks run on all pushes and pull requests.
+        _(Note: If workflows are disabled, CI checks won’t trigger until enabled.)_
 - Collaboration Settings
   - Require a code review for PRs to `main`/`master`
     ([owanateamachree](https://owanateamachree.medium.com/how-to-protect-the-master-branch-on-github-ab85e9b6b03),
