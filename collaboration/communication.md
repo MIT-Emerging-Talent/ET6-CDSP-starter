@@ -56,7 +56,7 @@ Reviewed within 1–2 days of opening.
 - Muhammet Isik: _6h_;
 - Martha: _4h_;
 - Abdulrahman: _6h_;
-- Mohamed Makki: _Flexible_;
+- Mohamed Makki: _Flexible after 4p.m. GMT_;
 
 ## Asking for Help
 
