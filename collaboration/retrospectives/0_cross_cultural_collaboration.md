@@ -70,3 +70,24 @@
 **Or remove extra steps?**
   - Better personal time management and prioritization strategies to
     balance competing commitments.
+
+### Mohamed Altayeb
+
+- **What Went Well**
+  - At least two team members were able to attend all the workshops, so our group
+  was not in the dark when it comes to what was discussed in each workshop.
+
+- **What Didn’t Go as Planned**
+  - Some personal circumstances forced me to miss the meetings for this milestone.
+  - I wasn't able to properly contribute
+    to the progress of the project
+    and I didn't spend enough time to know what exactly was required from us
+    during this milestone.
+  - Due to different circumstances and some problems in
+    communication some deliverables were submitted after the deadline.
+
+- **Lessons learned**
+  - Go over the deliverables for each milestone well before the deadline
+    to get a grasp of what exactly is to be accomplished and to properly
+    schedule for it.
+  - Ask other teammates for help when any ambiguities arise about any of the deliverables.
