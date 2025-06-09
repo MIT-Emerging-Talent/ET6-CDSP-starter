@@ -47,3 +47,8 @@ and challenges for this milestone.
 
 - ✅ Talk to team about using git tag for features. They work like
 version control.
+
+## Tuesday Check in
+
+- Anna has volunteered to present for the group in class to share our progress
+with the team
