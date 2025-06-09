@@ -20,8 +20,8 @@ Some boundaries around our project.
   collaboration and version control at the beginning of the project.
 - We are expected to follow the markdown formatting and project structure
   guidelines already provided in the template.
-- **Open data only:** All datasets must be publicly available under an open license; **no paid APIs** and **no PII**.
-- **Zero budget:** No funds for commercial software or cloud credits.
+- All datasets must be publicly available under an open license, no paid APIs.
+- No funds for commercial software or cloud credits.
 
 ## Internal: Involuntary
 
@@ -30,10 +30,14 @@ Some boundaries around our project.
   - each of your individual skill levels
   - amount of time available to work on the project
 -->
-- **Skill set:** Six members who just finished MITx 6.00.1x/2x; strong in Python/pandas, not in deep learning or big-data stacks.
-- **Computing resources:** Personal laptops (≤ 16 GB RAM, no dedicated GPU); free Colab/Kaggle tiers only → keep raw data ≤ 200 MB.
-- **Connectivity:** Some teammates have flaky internet and limited GitHub familiarity, which may slow initial collaboration.
-- **Time zones:** Distributed team → depend on asynchronous Slack threads and occasional live meetings when critical.
+- **Skill Set**: Team members have experience in Python/numpy,
+  not in deep learning or Advanced  ML.
+- **Computing resources:** Personal laptops (≤ 16 GB RAM, no dedicated GPU);
+  free Colab/Kaggle tiers only → keep raw data ≤ 200 MB.
+- **Connectivity:** Some teammates have flaky internet and limited
+  GitHub familiarity, which may slow initial collaboration.
+- **Time zones:** Distributed team → depend on asynchronous Slack threads and
+  occasional live meetings when critical.
 
 ## Internal: Voluntary
 
@@ -46,7 +50,9 @@ Some boundaries around our project.
 -->
 
 - **Code quality:** Adhere to PEP 8; write clean, well-commented code.
-- **Version control:** All changes via pull requests; at least one peer review before merge.
-- **Scope discipline:** Focus exclusively on climate topics; ignore feature creep into other domains.
-- **Visualization style:** Default to black-and-white charts unless the group approves a specific color palette.
-- **Reproducibility:** Provide a `requirements.md`/`requirements.txt` and ensure notebooks run end-to-end on a fresh environment.
+- All changes via pull requests; at least one peer review before merge.
+- Focus exclusively on climate topics; ignore feature creep into other domains.
+- **Visualization style:** Default to black-and-white charts unless the group
+  approves a specific color palette.
+- **Reproducibility:** Provide a `requirements.md`/`requirements.txt` and
+  ensure notebooks run end-to-end on a fresh environment.
