@@ -106,3 +106,22 @@ a supportive group dynamic.
 - **Engage in Constructive Feedback**  
   Provide meaningful code reviews and iterate based on team feedback.
   
+
+### Oleksandr Maksymikhin Learning goals
+- **Practical experience in the usage of distributed version control systems.**  
+  Experience at GutHub.com. Get confident in collaborative work with other teammates.
+
+- **Participation in a collaboration project.**  
+  Communication with the teammates during the project execution.  
+  Improve the skills of admitting my ideas regarding project development.  
+  Try myself in leader and follower roles in different tasks of the project.
+ 
+- **Documentation skills.**  
+  Accuracy and clarity in documenting my work and tasks in the project.  
+  Develop skills of structuring and documenting open-source projects.
+ 
+- **Programming skills development.**  
+  Usage of Python for resolving real-world practice problems.
+ 
+- **Data-science skills development.**  
+  Apply theoretical knowledge achieved in MIT courses to resolve real-world problems.
