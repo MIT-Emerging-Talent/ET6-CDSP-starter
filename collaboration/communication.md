@@ -50,7 +50,7 @@ meetings and collaborate effectively.
 | Team Member   | Monday    | Tuesday   | Wednesday | Thursday  | Friday    | Saturday  | Sunday    |
 | ------------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
 | Olumide       | 4 - 7 PM  | 4 - 7 PM  | 4 - 7 PM  | 4 - 7 PM  | 4 - 7 PM  | 7AM - 7PM | 7AM - 7PM |
-| Oleksandr     |           |           |           |           |           |           |           |
+| Oleksandr     | 4 - 7 PM  | 4 - 7 PM  | 4 - 7 PM  | 4 - 7 PM  | 4 - 7 PM  | 12PM - 6PM| 12PM - 6PM|
 | Ibrahim       |           |           |           |           |           |           |           |
 | Louis         | 6 - 9 PM  | 6 - 9 PM  |  6 - 9 PM | 6 - 9 PM  | 6 - 9 PM  | 6 - 9 PM  | 6 - 9 PM  |
 | Anna          |           | 6 - 8 PM  |           | 6 - 8 PM  | 6 - 8 PM  | 10AM - 6PM| 10AM - 6PM|
@@ -62,7 +62,7 @@ meetings and collaborate effectively.
 
 - Olumide: _3h_;
 - Anna: _2-4h_;
-- name: _5h_;
+- Oleksandr: _3h_;
 - Louis : _4h_;
 - name: _3h_;
 
@@ -71,6 +71,7 @@ meetings and collaborate effectively.
 - Olumide: Tuesday, Wednesday => 5:00 AM - 7:00 AM.
 - Louis: Tuesday, Wednesday, Friday => 4:00 PM - 7:00 PM.
 - Anna: Monday, Wednesday => 7:00-9:00 PM
+- Oleksandr: Monday, Wednesday => 4:00-7:00 PM
 
 ## Asking for Help
 
