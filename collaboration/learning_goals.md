@@ -105,4 +105,4 @@ a supportive group dynamic.
 
 - **Engage in Constructive Feedback**  
   Provide meaningful code reviews and iterate based on team feedback.
-
+  

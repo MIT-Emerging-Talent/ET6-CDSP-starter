@@ -35,6 +35,8 @@ one. The kind of data you choose impacts:
 
 Below is an overview of different kinds of dataset you will encounter:
 
+<!-- markdownlint-disable MD013 -->
+
 1. [Classification by Data Type](#classification-by-data-type)
 2. [Classification by Structure](#classification-by-structure)
 3. [Classification by Collection Method](#classification-by-collection-method)
@@ -42,6 +44,8 @@ Below is an overview of different kinds of dataset you will encounter:
 5. [Classification by Access Type](#classification-by-access-type)
 6. [Classification by Purpose](#classification-by-purpose)
 7. [Classification by Format](#classification-by-format)
+
+<!-- markdownlint-enable MD013 -->
 
 ### Quantitative (Numerical) Data
 
