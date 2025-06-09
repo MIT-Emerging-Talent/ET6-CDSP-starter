@@ -1,15 +1,15 @@
 # Group Norms & Collaborative Guidelines
 
-> **Date:** 2025-05-27  
-> **Present:** Anna Shumylina, Louis Kervens Hubert, Olumide Kolawole  
-> **Absent (awaiting contributions):** Oleksandr Maksymikhin, Ibrahim Elmisbah,
+**Date:** 2025-05-27  
+**Present:** Anna Shumylina, Louis Kervens Hubert, Olumide Kolawole  
+**Absent (awaiting contributions):** Oleksandr Maksymikhin, Ibrahim Elmisbah,
   Dorcas Njeri
 
 ---
 
 ## 1. Purpose
 
-We strive to create an inclusive environment where every member feels valued, 
+We strive to create an inclusive environment where every member feels valued,
 informed, and empowered to contribute.
 
 ---
@@ -44,7 +44,7 @@ can attend one
 - **Primary:** Slack  
 - **Optional:** WhatsApp  
 - **Video & Recording:** Google Meet (Louis to coordinate recordings)  
-- **Scheduling & Voting:** Doodle polls; weighted voting for complex decisions 
+- **Scheduling & Voting:** Doodle polls; weighted voting for complex decisions
 (Olumide to coordinate)
 
 ---
@@ -92,4 +92,4 @@ can attend one
 - Conduct monthly retrospectives using “What went well / Even better if”  
 - Update norms and processes based on retrospective insights  
 
-> _These norms are a living document and will be updated as our group evolves._
+These norms are a living document and will be updated as our group evolves.
