@@ -44,10 +44,11 @@ Reviewed within 1–2 days of opening.
 
 | Day    | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
 | ------ | :----: | :-----: | :-------: | :------: | :----: | :------: | :----: |
-| Ava    |  ✔️    |✔️      |✔️         |✔️|        ❌|    ❌      |  ✔️      |
+| Ava    |  ✔️    |✔️      |✔️         |✔️|        ❌|    ✔️      |  ✔️      |
 | Muhammet Isik   |  ✔️    |✔️      |✔️         |✔️|        ✔️|    ✔️   |  ❌|
 | Martha| ✔️      | ❌     | ✔️     | ❌   |    ✔️  |        ✔️|      ❌     |
 | Abdulrahman| ✔️      | ❌     | ❌     | ✔️   |    ❌  |        ✔️|      ✔️     |
+|Mohamed Makki| ✔️ |  ❌  | ❌  | ❌  | ✔️  | ✔️  | ❌  |
 
 ### How many hours everyone has per day
 
@@ -55,7 +56,7 @@ Reviewed within 1–2 days of opening.
 - Muhammet Isik: _6h_;
 - Martha: _4h_;
 - Abdulrahman: _6h_;
-- name: _3h_;
+- Mohamed Makki: _Flexible_;
 
 ## Asking for Help
 
