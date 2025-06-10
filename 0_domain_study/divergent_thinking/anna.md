@@ -2,7 +2,7 @@
 
 ## Domain 1: Migration & Labor Economics
 
-### Research questions
+### Research questions 1
 
  1. What role does credential recognition play in wage suppression
 among newly arrived immigrants?
@@ -16,7 +16,7 @@ among newly arrived immigrants?
  4. What are the average wage trends for immigrants in their first five years
  after arrival compared to native-born workers of the same age/gender?
 
-### Possible constraints
+### Possible constraints 1
 
  1. Data Constraints: availability of longitudinal data, access restrictions,
  missing data
@@ -29,7 +29,7 @@ among newly arrived immigrants?
 
 ## Domain 2: Family Management
 
-### Research questions
+### Research questions 2
 
  1. How does screen time in children vary with parental
  employment status or time availability?
@@ -44,7 +44,7 @@ among newly arrived immigrants?
  5. Is access to affordable childcare associated with increased work hours
  for single parents?
 
-### Possible constraints
+### Possible constraints 2
 
  1. Data availability
 
@@ -56,7 +56,7 @@ among newly arrived immigrants?
 
 ## Domain 3: Outdoor Sports
 
-### Research questions
+### Research questions 3
 
  1. Is there a relationship between participation in online forums
  and progression in the sport?
@@ -71,7 +71,7 @@ among newly arrived immigrants?
 
  6. Are app users more consistent in outdoor activity compared to non-users?
 
-### Possible constraints
+### Possible constraints 3
 
  1. Data from tracking apps
 
