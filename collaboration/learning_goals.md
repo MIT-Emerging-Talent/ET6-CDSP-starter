@@ -54,3 +54,10 @@ structures or algorithms
 - Improve my problem-solving skills using Python, especially in data analysis.  
 - Get more comfortable with Jupyter Notebook and data visualization tools.  
 - Become a confident and contributing member of the team.
+
+### Anyak Abraham
+
+- Develop more experience in collaborative projects(teamwork)
+- Gain more experience in data analysis and interpretation
+- Improve on my python skills especially in data science
+- Learn how to solve problems effective using programs
