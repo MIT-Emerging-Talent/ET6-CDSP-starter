@@ -2,7 +2,7 @@
 
 ## Domain 1: Employment and incomes in IT
 
-### Research questions  
+### Research questions Domain 1 
 
  1. Impact of COVID (2020-2021) on incomes in IT by different geographic areas
  in the USA.  
@@ -25,7 +25,7 @@ vacancies)
 
 ## Domain 2: Government subsidies
 
-### Research questions  
+### Research questions Domain 2
 
  1. Impact of COVID (2020-2021) government subsidies on grows of GDP in G7
  countries.  
@@ -38,7 +38,7 @@ vacancies)
 
 ## Domain 3: Economic crises
 
-### Research questions  
+### Research questions Domain 3
 
  1. Impact/correlation between Government expenditures in several years before
  the crisis and the size/duration of economic crises in G7 countries.  
