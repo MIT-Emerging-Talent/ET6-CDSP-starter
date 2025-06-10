@@ -30,11 +30,12 @@ How often we will get in touch on each channel, and what we will discuss there:
 ## Availability
 
 ### Availability for calling/messaging
+## The Time here is in EST
 
 |Day|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday|
 | -------- | :---: | :---: | :---: | :---: | :---: | :---: | :---:|
 |Khadija Al Ramlawi|9AM-2PM|9AM-2PM|9AM-2PM|9AM-2PM|9AM-2PM||9AM-2PM|
-|Nelson Fodjo Kamdoum|12PM-4PM|12PM-4PM|12PM-4PM|12PM-4PM|12PM-4PM|| 12PM-4PM|
+|Nelson Fodjo Kamdoum|10AM-4PM|10AM-4PM|10AM-4PM|10AM-4PM|12PM-4PM|| 2PM-4PM|
 |Olubusayo Solola|11AM-1PM|12PM-2PM|10AM-12PM|10AM-1PM|||3PM-4PM|
 |Sara Sahin||||||||
 |Shayma Mohamed|12PM-4PM|12PM-4PM|12PM-4PM|12PM-4PM|12PM-4PM|12PM-4PM|
@@ -43,7 +44,7 @@ How often we will get in touch on each channel, and what we will discuss there:
 ### How many hours everyone has per day
 
 - Khadija al Ramlawi: ~5h;
-- Nelson Fodjo Kamdoum: ~4h;
+- Nelson Fodjo Kamdoum: ~5h;
 - Olubusayo Solola: ~2h;
 - Sara Sahin: \_\_;
 - Shayma Mohamed: ~2h;
