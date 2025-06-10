@@ -2,65 +2,81 @@
 
 Domain Overview: Climate & Data Science
 
-Climate systems are complex and affect nearly every aspect of life—from public health and agriculture to energy use and environmental quality. Scientists and policymakers rely increasingly on data to monitor climate conditions, forecast changes, and make informed decisions. In our project, we focus on how historical and near-real-time environmental data can help assess trends, risks, and vulnerabilities.
-
-Data science allows us to analyze and interpret large sets of environmental data such as:
- • temperature and rainfall time series
- • satellite imagery
- • air quality indices
- • land and crop classifications
- • energy use patterns
-
-By combining climate knowledge with data skills, we hope to contribute insights relevant to climate adaptation, resource planning, and public health.
+This folder contains our team’s research notes, resources, and summaries related
+ to our domain: climate and its impacts on human systems. Our work focuses on
+  understanding the effects of climate variability on agriculture, urban
+   heatwaves, and air pollution patterns. The resources here support our efforts
+    to frame meaningful, data-informed research questions.
 
 ⸻
 
-Focus Areas and Relevance
+🧭 Domain Overview
 
-We are exploring three specific research directions,
- each rooted in real-world needs and supported by available data.
+Climate change is no longer a distant threat — it is a present challenge,
+ reshaping how cities grow, how farmers plant, and how people breathe.
+  Variability in rainfall, rising temperatures, and deteriorating air quality
+   are affecting agriculture, infrastructure, and public health across the globe.
 
-1. Water-Intensive vs. Drought-Tolerant Crops
- • ❓ Research Question: How has the share of water-intensive versus
- drought-tolerant crops changed (2000–2024) in an irrigation-dependent
- river basin experiencing rainfall variability?
- • 📌 Relevance: Agriculture consumes a major part of freshwater.
- Understanding shifts in crop choices can reveal how farmers adapt to
- changing water availability.
- • 📊 Common Data Types:
- • Crop type maps (remote sensing, agricultural surveys)
- • Irrigation zones
- • Seasonal precipitation records
-
-1. Urban Heat Waves
- • ❓ Research Question: How have the duration and intensity of summertime heat
-  waves changed (1990–2024) in rapidly urbanizing cities?
- • 📌 Relevance: Extreme heat events are becoming more common due to climate
-  change and urban expansion. This has consequences for health systems and infrastructure.
- • 📊 Common Data Types:
- • Daily maximum temperature records
- • Urban growth indicators (e.g., land use, population density)
- • Health/emergency response data (if available)
-
-1. Air Quality Forecasting & PM₂.₅
- • ❓ Research Question: How has the accuracy of forecasting next-day PM₂.₅
-  levels evolved between 2010 and 2024 in highly industrialized urban areas?
- • 📌 Relevance: PM₂.₅ pollution is harmful to human health. Forecasting
-  accuracy affects warning systems and medical preparedness.
- • 📊 Common Data Types:
- • Hourly/daily PM₂.₅ concentrations
- • Meteorological data (wind, temperature, humidity)
- • Historical forecast records (from government or academic sources)
+Our project explores three specific challenges in this space:
+ • Shifts in crop choices (water-intensive vs. drought-tolerant)
+  in water-stressed river basins
+ • Changes in the intensity and duration of summertime heatwaves in
+  fast-growing urban centers
+ • The evolving predictability of fine-particulate pollution (PM₂.₅)
+  in heavily industrialized cities
 
 ⸻
 
-What This Folder Contains
- • summaries.md – A running list of key concepts and background reading
- • references.pdf – Academic and institutional resources consulted
- • data-sources.md – Notes on useful datasets and portals
-  (e.g., NASA, NOAA, World Bank)
- • definitions.md – Technical terms explained
-  (e.g., PM₂.₅, evapotranspiration, heat wave)
- • brainstorm-notes.md – Raw notes from our early question brainstorming sessions
+❓ Our Research Questions & Context
 
-Each document is tagged with the relevant question(s) it supports.
+We identified the following research questions and began exploring
+ relevant literature, data types, and concepts.
+
+1. Crop Adaptation in Water-Stressed Basins
+
+“How has the share of water-intensive versus drought-tolerant crops changed over
+ the 2000–2024 period in an irrigation-dependent river basin experiencing
+  fluctuating growing-season rainfall?”
+ • Crop adaptation is a key strategy in regions facing increased water scarcity.
+  Some studies show trends toward drought-resilient crops, but clear
+   longitudinal data is lacking in many regions.
+ • We found that global datasets (e.g., FAOSTAT), national agriculture surveys,
+  and satellite-derived land use data (e.g., from Google Earth Engine) are
+   commonly used for this kind of analysis.
+
+2- Urban Heatwave Dynamics
+
+“How have the duration and peak intensity of summertime heat waves changed
+ the 1990–2024 period in rapidly urbanizing metropolitan areas?”
+ • Urban heat islands intensify temperature spikes, especially during summer
+  months. Understanding long-term trends is crucial for city planners
+   and health agencies.
+ • We’re exploring temperature datasets (e.g., NASA MODIS, NOAA GHCN),
+  as well as regional case studies from cities in North Africa, Southeast
+   Asia, and the Middle East.
+
+3- PM₂.₅ Predictability in Polluted Cities
+
+“How has the accuracy of forecasting next-day PM₂.₅ levels from the previous
+ day’s air-quality history evolved between 2010 and 2024 in heavily
+  industrialized, pollution-prone metropolitan areas?”
+ • Forecasting PM₂.₅ is vital for public health alerts. Machine
+  learning models and time-series analysis are increasingly used, though
+   forecasting performance varies greatly by location and season.
+ • We’re reviewing datasets from OpenAQ, World Air Quality Index (WAQI),
+  and regional monitoring agencies.
+
+⸻
+
+📚 Reference Resources
+
+Here are key links and sources we’ve consulted so far or plan to examine further:
+<!-- we need to add our links here -->
+⸻
+
+🔍 Next Steps
+ • Finalize a regional focus (e.g., specific river basins or cities) for each question
+ • Identify and test open datasets for availability and usability
+ • Clarify technical concepts
+  (e.g., drought indices, urban heat island effect, AQI forecasting methods)
+ • Continue building literature summaries and potential methods for milestone 2
