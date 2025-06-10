@@ -91,3 +91,24 @@
     to get a grasp of what exactly is to be accomplished and to properly
     schedule for it.
   - Ask other teammates for help when any ambiguities arise about any of the deliverables.
+
+### Mariia Ermishina
+
+- **What Went Well**
+  - We had consistent participation in all workshops and meetings,
+    which helped us stay aligned as a group.
+  - Our early discussions were productive and helped us agree
+    on renewable energy as our central focus.
+  - We communicated effectively through GitHub and shared documents,
+    allowing smooth collaboration.
+
+- **What Didn’t Go as Planned**
+  - Not much went off-track during this phase — we managed to keep up
+    with all expected tasks and check-ins.
+  - Some moments of uncertainty could have been avoided with clearer
+    task ownership.
+
+- **Did you need to add things that weren't in your strategy?**
+  **Or remove extra steps?**
+  - We refined some of our internal notes and file naming for better clarity.
+  - No major changes were needed to the original plan.
