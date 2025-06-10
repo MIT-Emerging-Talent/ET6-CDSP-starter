@@ -20,6 +20,8 @@ Some boundaries around our project.
   collaboration and version control at the beginning of the project.
 - We are expected to follow the markdown formatting and project structure
   guidelines already provided in the template.
+- All datasets must be publicly available under an open license, no paid APIs.
+- No funds for commercial software or cloud credits.
 
 ## Internal: Involuntary
 
@@ -28,9 +30,14 @@ Some boundaries around our project.
   - each of your individual skill levels
   - amount of time available to work on the project
 -->
-- Some team members do not have access to data and good internet connectivity.
-- We’re in different time zones, so we’ll rely on asynchronous (async) communication
-  such as slack and sometimes live meetings when crucial.
+- **Skill Set**: Team members have experience in Python/numpy,
+  not in deep learning or Advanced  ML.
+- **Computing resources:** Personal laptops (≤ 16 GB RAM, no dedicated GPU);
+  free Colab/Kaggle tiers only → keep raw data ≤ 200 MB.
+- **Connectivity:** Some teammates have flaky internet and limited
+  GitHub familiarity, which may slow initial collaboration.
+- **Time zones:** Distributed team → depend on asynchronous Slack threads and
+  occasional live meetings when critical.
 
 ## Internal: Voluntary
 
@@ -41,9 +48,11 @@ Some boundaries around our project.
   - the number of hours you want to spend working
   - only using the colors black and white
 -->
-- We will write clean, well-commented code and follow PEP8 (Python style guide).
-- We’ll use pull requests for all contributions and ensure at least one team
-    member reviews any major changes before merging.
--We have agreed to not focus on anything not related to climate.
-- We'll use only black-and-white charts unless a color palette is
-  approved by the group.
+
+- **Code quality:** Adhere to PEP 8; write clean, well-commented code.
+- All changes via pull requests; at least one peer review before merge.
+- Focus exclusively on climate topics; ignore feature creep into other domains.
+- **Visualization style:** Default to black-and-white charts unless the group
+  approves a specific color palette.
+- **Reproducibility:** Provide a `requirements.md`/`requirements.txt` and
+  ensure notebooks run end-to-end on a fresh environment.
