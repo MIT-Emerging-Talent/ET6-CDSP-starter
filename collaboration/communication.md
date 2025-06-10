@@ -37,7 +37,7 @@ How often we will get in touch on each channel, and what we will discuss there:
 |Nelson Fodjo Kamdoum|12PM-4PM|12PM-4PM|12PM-4PM|12PM-4PM|12PM-4PM|| 12PM-4PM|
 |Olubusayo Solola|11AM-1PM|12PM-2PM|10AM-12PM|10AM-1PM|||3PM-4PM|
 |Sara Sahin||||||||
-|Shayma Mohamed||||||||
+|Shayma Mohamed|12PM-4PM|12PM-4PM|12PM-4PM|12PM-4PM|12PM-4PM|12PM-4PM|
 |Yevheniia Rudenko|12PM-4PM|12PM-4PM|12PM-4PM|12PM-4PM|12PM-4PM||12PM-4PM|
 
 ### How many hours everyone has per day
@@ -46,7 +46,7 @@ How often we will get in touch on each channel, and what we will discuss there:
 - Nelson Fodjo Kamdoum: ~4h;
 - Olubusayo Solola: ~2h;
 - Sara Sahin: \_\_;
-- Shayma Mohamed: \_\_;
+- Shayma Mohamed: ~2h;
 - Yevheniia Rudenko: ~4h;
 
 ## Asking for Help
