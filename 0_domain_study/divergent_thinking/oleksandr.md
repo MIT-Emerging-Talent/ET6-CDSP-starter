@@ -2,7 +2,7 @@
 
 ## Domain 1: Employment and incomes in IT
 
-### Research questions Domain 1 
+### Research questions Domain 1
 
  1. Impact of COVID (2020-2021) on incomes in IT by different geographic areas
  in the USA.  
