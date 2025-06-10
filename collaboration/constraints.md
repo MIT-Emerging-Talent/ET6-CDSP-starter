@@ -1,4 +1,4 @@
-# Project Constraints
+#Project Constraints
 
 This document outlines the key constraints that guide our data analysis
 project.
@@ -7,7 +7,7 @@ ethical and effective project execution.
 
 ---
 
-## External
+##External
 
 <!--
   constraints coming from the outside that the team has no control over:
@@ -18,7 +18,7 @@ ethical and effective project execution.
 
 ---
 
-## Internal: Involuntary
+##Internal: Involuntary
 
 <!--
   constraints that come from within the team, and you have no control
@@ -28,7 +28,7 @@ ethical and effective project execution.
 
 ---
 
-## Internal: Voluntary
+##Internal: Voluntary
 
 <!--
   constraints that the team decided on to help scope the project.
@@ -39,7 +39,7 @@ ethical and effective project execution.
   
 ---
 
-## Time Constraints
+##Time Constraints
 
 * Project timeline is limited to 13 weeks duration, ends on Aug 25th, 2025.
 * Weekly check-ins and progress reviews are required to stay on track.
@@ -47,7 +47,7 @@ ethical and effective project execution.
 
 ---
 
-## Data Constraints
+##Data Constraints
 
 * Must use publicly available or ethically sourced data.
 * If using sensitive or personal health data, strict anonymization must
@@ -66,7 +66,7 @@ ethical and effective project execution.
 
 ---
 
-## Technical Constraints
+##Technical Constraints
 
 * Use Python-based tools (e.g, Pandas, NumPy, Matplotlib, Jupyter Notebooks).
 * Work within the Git/GitHub workflow (branches, issues, pull requests).
@@ -75,7 +75,7 @@ ethical and effective project execution.
 
 ---
 
-## Team Constraints
+##Team Constraints
 
 * Collaboration is asynchronous and cross-cultural, requiring flexibility in
   communication.
