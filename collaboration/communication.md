@@ -31,7 +31,7 @@ How often we will get in touch on each channel, and what we will discuss there:
 
 ### Availability for calling/messaging
 
-# The Time here is in EST
+## The Time here is in EST
 
 |Day|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday|
 | -------- | :---: | :---: | :---: | :---: | :---: | :---: | :---:|
