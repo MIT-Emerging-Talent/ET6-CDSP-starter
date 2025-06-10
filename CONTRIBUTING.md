@@ -50,7 +50,7 @@ guidelines before starting any task or submitting a pull request.
   - `MD024` – Duplicate headings at the same level.
   - `MD031` – Blank lines before/after headings.
   - `MD001` – Headings should be incremented just by one level at a time.
-  - `MD022` – Headings should be surrounded by blank lines. 
+  - `MD022` – Headings should be surrounded by blank lines.
   - `MD041` – First line should be an H1 heading.
 - If you see markdown warnings, fix them as part of your contribution.
 
