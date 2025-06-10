@@ -50,5 +50,3 @@ expanding hospital infrastructure versus strengthening agricultural systems,
 on youth health outcomes in selected Sub-Saharan African countries.
 It will focus on key indicators such as malnutrition rates,
 incidence of preventable diseases among individuals aged 15–24, and youth life expectancy.
-
-
