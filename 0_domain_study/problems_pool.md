@@ -11,6 +11,7 @@
 > How can we use behavioral and interaction data from online learning platforms
 > to model the effect of stress (caused by conflict-related events) on students'
 > learning performance in war-affected zones?
+> [5 Ws and 1H](/0_domain_study/5Ws_and_1_H.md#problem-1)
 
 ### Problem 2
 
