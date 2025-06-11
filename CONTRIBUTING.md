@@ -1,6 +1,8 @@
 # Contributing to Our Finance Data Science Project
 
-Welcome to our collaborative finance data science repository! This guide will help you contribute effectively to our quantitative analysis project while maintaining code quality and following best practices.
+Welcome to our collaborative finance data science repository! This guide will
+help you contribute effectively to our project while
+maintaining code quality and following best practices.
 
 ## Table of Contents
 
@@ -35,8 +37,8 @@ Welcome to our collaborative finance data science repository! This guide will he
 
 ```bash
 # Clone the repository
-git clone https://github.com/nyangweso-rodgers/finance-analysis.git
-cd finance-analysis
+git clone https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-13-repo.git
+cd ET6-CDSP-group-13-repo
 
 # Set up your local environment
 git config user.name "Your Name"
@@ -52,11 +54,11 @@ git checkout -b feature/portfolio-optimization
 2. Clone your fork locally:
 
 ```bash
-git clone https://github.com/[your-username]/finance-analysis.git
-cd finance-analysis
+git clone https://github.com/[your-username]/ET6-CDSP-group-13-repo.git
+cd ET6-CDSP-group-13-repo
 
 # Add upstream remote
-git remote add upstream https://github.com/nyangweso-rodgers/finance-analysis.git
+git remote add upstream https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-13-repo.git
 ```
 
 ## Development Workflow
@@ -74,17 +76,17 @@ git remote add upstream https://github.com/nyangweso-rodgers/finance-analysis.gi
 
 ### Making Changes
 
-1. **Always start from the latest main branch:**
+I. **Always start from the latest main branch:**
 
-```bash
-git checkout main
-git pull origin main
-git checkout -b feature/your-new-feature
-```
+  ```bash
+  git checkout main
+  git pull origin main
+  git checkout -b feature/your-new-feature
+  ```
 
-2. **Make your changes** following our coding standards
-3. **Test your changes** thoroughly
-4. **Commit with descriptive messages:**
+II. **Make your changes** following our coding standards
+III. **Test your changes** thoroughly
+IV. **Commit with descriptive messages:**
 
 ```bash
 git add .
@@ -99,17 +101,19 @@ git commit -m "Add cryptocurrency portfolio tracker with real-time pricing
 
 ### Creating a Pull Request
 
-1. **Push your branch:**
+I. **Push your branch:**
 
 ```bash
 git push origin feature/your-feature-name
 ```
 
-2. **Create PR on GitHub:**
-   - Navigate to the repository
-   - Click "New Pull Request"
-   - Select your branch as the source
-   - Fill out the PR template (`.github/PULL_REQUEST_TEMPLATE.md`) completely
+II. **Create PR on GitHub:**
+
+- Navigate to the repository
+- Click "New Pull Request"
+- Select your branch as the source
+- Fill out the PR template (`.github/PULL_REQUEST_TEMPLATE.md`) completely (
+  you'll see the template when creating a PR)
 
 ### PR Template Requirements
 
@@ -139,19 +143,15 @@ Related to #456
 
 ### Linking Issues to PRs
 
-- **Closing issues:** Use keywords like `Closes #123`, `Fixes #123`, or `Resolves #123`
+- **Closing issues:** Use keywords like `Closes #123`, `Fixes #123`, or
+`Resolves #123`
 - **Referencing issues:** Use `Related to #123` or `Addresses #123`
 - **Multiple issues:** `Closes #123, Fixes #456`
 
 ### Assigning Reviewers
 
 1. **Assign yourself** to the PR in the "Assignees" section
-2. **Request reviewers** from team members with relevant expertise:
-   - Quantitative analysis changes → quant team members
-   - Trading strategy changes → experienced traders
-   - Risk management changes → risk assessment specialists
-   - Infrastructure changes → technical lead
-   - Documentation → anyone familiar with the topic
+2. **Request reviewers** from team members
 3. **Minimum review requirement:** At least one approval required due to branch protection
 
 ### Linking to Project Board
@@ -165,7 +165,9 @@ Related to #456
 
 ### Automated Checks - "ET CI Checks"
 
-Our repository runs a comprehensive quality control suite called **"ET CI Checks"** on every push and pull request. Think of it as your personal code quality guardian that never sleeps! Here's what happens behind the scenes:
+Our repository runs a comprehensive quality control suite called
+**"ET CI Checks"** on every push and pull request. Think of it as your personal
+code quality guardian that never sleeps! Here's what happens behind the scenes:
 
 **🔍 File Structure Detective (`ls_linting`):**
 
@@ -205,7 +207,9 @@ Our repository runs a comprehensive quality control suite called **"ET CI Checks
 - Ensures your analysis notebooks maintain code quality standards
 - Provides warnings for notebook-specific issues to discuss in reviews
 
-All checks run in parallel for maximum efficiency, and the system is smart enough to continue running other checks even if one fails, giving you a complete picture of your code quality.
+All checks run in parallel for maximum efficiency, and the system is smart
+enough to continue running other checks even if one fails, giving you a complete
+picture of your code quality.
 
 ### Fixing Linting Errors
 
@@ -252,7 +256,8 @@ pre-commit install
 
 ### Multi-Level Documentation Strategy
 
-Comprehensive documentation is crucial for financial analysis projects. Follow this hierarchy:
+Comprehensive documentation is crucial for This project. Follow
+this hierarchy:
 
 #### 1. Module-Level Documentation
 
@@ -379,7 +384,8 @@ def calculate_portfolio_var(
         - Monte Carlo uses simulation for complex portfolios
         
     References:
-        - Jorion, P. (2006). Value at Risk: The New Benchmark for Managing Financial Risk
+        - Jorion, P. (2006). Value at Risk: The New Benchmark for Managing
+          Financial Risk
         - RiskMetrics Technical Document (1996)
     """
 ```
@@ -447,28 +453,6 @@ to optimize risk-adjusted returns for a $50,000 investment across major digital 
 - Bitcoin allocation optimal at 40% for risk-averse investors
 ```
 
-### Documentation Files Structure
-
-```
-docs/
-├── README.md                    # Project overview and quick start
-├── CONTRIBUTING.md             # This file
-├── api/
-│   ├── portfolio_optimizer.md  # API documentation for modules
-│   └── risk_metrics.md
-├── tutorials/
-│   ├── getting_started.md      # Beginner tutorials
-│   ├── advanced_strategies.md  # Complex trading strategies
-│   └── backtesting_guide.md    # How to backtest strategies
-├── examples/
-│   ├── portfolio_optimization.ipynb
-│   ├── crypto_analysis.ipynb
-│   └── options_strategies.ipynb
-└── references/
-    ├── financial_formulas.md   # Mathematical references
-    └── data_sources.md         # Data provider information
-```
-
 ## Issue Management
 
 ### Creating Issues
@@ -525,20 +509,21 @@ docs/
 
 ### Git Conflicts
 
-1. **Fetch latest changes:**
+I. **Fetch latest changes:**
 
 ```bash
 git fetch origin main
 git rebase origin/main
 ```
 
-2. **Resolve conflicts manually:**
-   - Open conflicted files
-   - Look for conflict markers (`<<<<<<<`, `=======`, `>>>>>>>`)
-   - Keep the correct version
-   - Remove conflict markers
+II. **Resolve conflicts manually:**
 
-3. **Test and commit:**
+- Open conflicted files
+- Look for conflict markers (`<<<<<<<`, `=======`, `>>>>>>>`)
+- Keep the correct version
+- Remove conflict markers
+
+III. **Test and commit:**
 
 ```bash
 git add .
@@ -548,7 +533,7 @@ git push --force-with-lease origin feature/your-branch
 
 ### Merge Conflicts in PRs
 
-1. **Sync your branch:**
+I. **Sync your branch:**
 
 ```bash
 git checkout main
@@ -557,7 +542,7 @@ git checkout feature/your-branch
 git merge main
 ```
 
-2. **Resolve conflicts and push:**
+II. **Resolve conflicts and push:**
 
 ```bash
 # Resolve conflicts
@@ -583,12 +568,15 @@ git push origin feature/your-branch
 - **Reproducible analysis:** Set random seeds, save environment specs (`requirements.txt`)
 - **Clear visualizations:** Always include titles, labels, and financial context
 - **Validate assumptions:** Test data quality and statistical assumptions
-- **Backtest responsibly:** Use proper train/validation/test splits, avoid look-ahead bias
-- **Risk disclosure:** Document assumptions, limitations, and potential risks in analysis
+- **Backtest responsibly:** Use proper train/validation/test splits, avoid
+look-ahead bias
+- **Risk disclosure:** Document assumptions, limitations, and potential risks
+in analysis
 
 ### Finance-Specific Best Practices
 
-- **Market data integrity:** Always validate data for splits, dividends, and survivorship bias
+- **Market data integrity:** Always validate data for splits, dividends, and
+  survivorship bias
 - **Time zones:** Be explicit about market hours and time zones (NYSE, NASDAQ, etc.)
 - **Transaction costs:** Include realistic trading costs in backtests
 - **Risk management:** Implement position sizing and stop-loss mechanisms
@@ -605,7 +593,8 @@ git push origin feature/your-branch
 
 ### Security and Privacy
 
-- **Never commit sensitive data:** Use `.gitignore` for data files, API keys, trading credentials
+- **Never commit sensitive data:** Use `.gitignore` for data files, API keys,
+  trading credentials
 - **Environment variables:** Store secrets in `.env` files (never commit these!)
 - **Data anonymization:** Remove or mask PII in shared datasets
 - **Access controls:** Respect data usage agreements and API rate limits
@@ -619,4 +608,5 @@ git push origin feature/your-branch
 - **Code Review:** Detailed feedback on implementation
 - **Team Meetings:** Weekly sync on project progress
 
-Remember: Good collaboration makes everyone's work better. Don't hesitate to ask questions, suggest improvements, and help your teammates succeed!
+Remember: Good collaboration makes everyone's work better. Don't hesitate to ask
+questions, suggest improvements, and help your teammates succeed!
