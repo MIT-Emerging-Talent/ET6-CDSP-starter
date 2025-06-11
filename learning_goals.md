@@ -38,3 +38,20 @@ to the finale and apply this knowledge to future references
 ### Shayma Mohamed
 
 ### Yevheniia Rudenko
+1. Understand the Full Data Project Lifecycle
+ - I want to experience and understand the complete
+lifecycle of a data project—from problem definition and data
+collection to modeling, evaluation, and final presentation.
+2. Explore New Techniques and Tools
+ - I aim to study and apply new data science techniques,
+tools, and best practices to deepen my technical expertise and adaptability.
+3. Gain Cross-Functional Perspective
+ - I want to try out different roles within the data
+project (data analyst, data engineer, communicator,
+visual storyteller, etc.) to explore which direction
+suits me best and to broaden my skillset.
+4. Improve Communication and Collaboration Skills
+ - I hope to enhance my ability to clearly communicate
+data-driven insights, give and receive constructive feedback,
+and collaborate effectively in a diverse and dynamic team.
+
