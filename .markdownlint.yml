@@ -1,5 +1,3 @@
 ignore:
   - venv
   - .github
--MD013: 250
--MD034: false
