@@ -5,16 +5,16 @@
 
 ## Problem statement
 
-<One-sentence question>
+-One-sentence question
 
 ## Potential dataset(s)
 
-- <Source 1>
-- <Source 2>
+- Source 1
+- Source 2
 
 ## Expected value / insight
 
-<Why it matters>
+-Why it matters
 
 ## Proposed approach
 

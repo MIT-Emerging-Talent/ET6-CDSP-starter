@@ -1,6 +1,7 @@
 # Domain Research
+<!-- markdownlint-disable MD013 -->
 
-Our research domain is **finance data science**—we aim to explore, analyse, and model financial datasets to uncover actionable insights.
+Our research domain is **finance data science**—we aim to explore, analyze, and model financial datasets to uncover actionable insights.
 
 ## Brainstormed Project Ideas
 

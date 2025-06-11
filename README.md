@@ -73,7 +73,7 @@ We encourage every team member to jump in. You can contribute by:
 ---
 
 ## Repository Structure
-
+<!-- markdownlint-disable MD033 -->
 <details>
 <summary>Click to expand/collapse the repository structure</summary>
 
@@ -164,10 +164,6 @@ jupyter lab
 ---
 
 ## Roles and Responsibilities
-
-### Shared Role
-
-**Data Scientist & Reviewer**
 
 ### Core Responsibilities (everyone)
 
