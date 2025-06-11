@@ -6,11 +6,18 @@
 
 ## Salem
 
-### * Problem 1
+### Problem 1
 
 > How can we use behavioral and interaction data from online learning platforms
 > to model the effect of stress (caused by conflict-related events) on students'
 > learning performance in war-affected zones?
+
+### Problem 2
+
+How can we use behavioral and interaction data from online learning platforms to
+model the impact of conflict-induced stress on students’ academic performance in
+war-affected zones, and examine the role of AI tools—both as learning aids and
+potential sources of academic dishonesty (e.g., cheating)—under these conditions?
 
 ## Viktoriya
 
