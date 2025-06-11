@@ -10,18 +10,18 @@ and performance in war-affected zones.
 * Problem Statement: [Refere to problems_pool](/0_domain_study/problems_pool.md#problem-1)
 * 5 Ws and 1 H Framework:
 
-## 📋 Summary Table
+## 1.1. Summary Table
 
 | **Aspect** | **Summary** |
 |------------|-------------|
-| **Who** | - College students in online learning (e.g., Gaza)<br>- Instructors, admins, counselors, data scientists |
-| **What** | - Predict academic risk: dropout, score drops, stress levels<br>- Data: grades, behavior, conflict timelines |
-| **When** | - During semester, especially post-attacks or around deadlines<br>- Predictions updated weekly or in real-time |
-| **Where** | - Conflict zones (e.g., Gaza)<br>- Data from LMS, messaging apps, humanitarian sources |
-| **Why** | - Conflict harms student performance<br>- Need to detect stress early to support learning and well-being |
-| **How** | - Analyze LMS interactions and timelines<br>- Correlate with conflict events<br>- Build predictive models for risk |
+| **Who** | - College students in online learning (e.g., Gaza) - Instructors, admins, counselors, data scientists |
+| **What** | - Predict academic risk: dropout, score drops, stress levels - Data: grades, behavior, conflict timelines |
+| **When** | - During semester, especially post-attacks or around deadlines - Predictions updated weekly or in real-time |
+| **Where** | - Conflict zones (e.g., Gaza)- Data from LMS, messaging apps, humanitarian sources |
+| **Why** | - Conflict harms student performance - Need to detect stress early to support learning and well-being |
+| **How** | - Analyze LMS interactions and timelines - Correlate with conflict events - Build predictive models for risk |
 
-## Details
+## 1.2. Details
 
 ### 1. **Who**
 
@@ -116,7 +116,7 @@ behavioral signals
 * Problem Statement: [Refere to problems_pool](/0_domain_study/problems_pool.md#problem-2)
 * 5 Ws and 1 H Framework:
 
-## 📋 Summary Table
+## 2.1 Summary Table
 
 | **Aspect** | **Summary** |
 |------------|-------------|
@@ -126,7 +126,7 @@ behavioral signals
 | **Where** | Conflict regions or refugee camps; Data from LMS platforms, surveys, and AI tool usage logs |
 | **Why** | To understand AI’s role in learning during crises and design ethical, supportive AI-integrated education systems |
 
-## Details
+## 2.2 Details
 
 ### **Who**
 
