@@ -1,5 +1,3 @@
-# Domain Research
-
 # Team Progress
 
 ## Convergent and divergent thinking
@@ -16,7 +14,7 @@ flowchart TB
  subgraph s1[" "]
         B{"Sub-domains"}
         A("Define Domain and Interests")
-        BA("Enviromental policy")
+        BA("Environmental policy")
         BB("Solar Energy Systems")
         BC("Climate change mitigation")
         BD("Renewable Energy")
@@ -28,11 +26,12 @@ flowchart TB
         n1["Problem Statement"]
         n2["Research questions"]
         n3["**How can the use of renewable energy help in combating the effects of
-             climate change?**"]
+climate change?**"]
         n31["**What are the economic and environmental benefits of transitioning
-              to solar energy?**"]
-        n32["**How can small-scale solar energy users in unregulated markets Verify product
-             quality through digital tools or cooperative purchasing models?**"]
+to solar energy?**"]
+        n32["
+        **How can small-scale solar energy users in unregulated markets
+        Verify product quality through digital tools or cooperative purchasing models?**"]
         n33[" "]
         n4(["Actionable Research Question"])
         n5[" "]
