@@ -17,6 +17,8 @@
 | :----: | :-: |  ----------------------: |
 | 31.05.2025 | Video call | Finalisation of group norms |
 | 03.06.2025 | Video call | Brainstorming Session       |
+| 09.06.2025 | Video call | Brainstorming Session; Milestone 0 & 1       |
+| 12.06.2025 | Video call | Brainstorming Session; Milestone 0 & 1       |
 
 ## Communication Channels
 
@@ -25,7 +27,8 @@ How often we will get in touch on each channel, and what we will discuss there:
 - **Issues**: Asynchronous, to discuss and track tasks.
 - **Pull Requests**: Asynchronous, to review and merge code changes.
 - **Slack/Discord**: Asynchronous, for general communication and updates.
-- **Video Calls**: Weekly, with additional calls as needed.
+- **Video Calls**: Scheduled twice a week on Mondays and Thursdays; additional
+calls can be arranged as needed.
 
 ## Availability
 
