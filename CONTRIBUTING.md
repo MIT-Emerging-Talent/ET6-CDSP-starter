@@ -1,4 +1,4 @@
-# Contributing to Our Finance Data Science Project
+# Contributing to Our Project
 
 Welcome to our collaborative finance data science repository! This guide will
 help you contribute effectively to our project while
