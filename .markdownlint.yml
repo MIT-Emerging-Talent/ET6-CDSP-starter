@@ -1,5 +1,9 @@
 ignore:
   - venv
   - .github
-MD013: 250
+MD013:
+  line_length: 250
+
 MD034: false
+MD024: true
+MD024: false
