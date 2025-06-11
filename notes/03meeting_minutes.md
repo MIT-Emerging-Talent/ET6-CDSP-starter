@@ -35,7 +35,7 @@ Attendees: 5**
 
 + **Thorough Background Review : Links, Articles for the domain study**
   + [Google Document](https://docs.google.com/document/d/1Yw1UP4cB71oUomFpwXoQBt9ORceIe9XGo_ckthFp-Ek/edit?usp=sharing)
-  _then will be refined and added on [this file](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/0_domain_study/README.md) on repo._
+  _then will be refined and added on_ [this file](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/0_domain_study/README.md)
 
 ### Follow up
 
