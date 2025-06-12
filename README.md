@@ -75,3 +75,6 @@ filled as finalized.)_
 This work is part of the MIT Emerging Talent Certificate Program in Computer &
 Data Science.
 Content is for educational and non-commercial purposes only unless otherwise stated.
+
+🌀 _Built with curiosity and caffeine by Team Data Decoders_  
+🧠 Part of MIT Emerging Talent · _2024 - 2025_
