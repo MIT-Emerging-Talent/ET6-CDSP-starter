@@ -11,7 +11,7 @@ please follow these guidelines when contributing to this project.
 ## 🌍 Be Culturally Respectful
 
 - Assume good intent — different expressions or tones may reflect cultural habits,
-  not rudeness.  
+not rudeness.  
 - Avoid idioms, slang, or region-specific references unless you explain them.  
 - Be mindful of cultural holidays and differing weekend schedules.  
 
@@ -31,26 +31,26 @@ please follow these guidelines when contributing to this project.
 - Keep messages concise and easy to understand.  
 - Use bullet points, visuals, or summaries to make complex ideas easier to follow.
 - Ask for clarification when something is unclear, and be patient when others do
-  the same.
+the same.
 
 ---
 
 ## 🎯 Contribute Inclusively
 
 - Encourage input from all team members, especially those who may feel less
-  confident due to language or experience.  
+confident due to language or experience.  
 - Respect different work styles, speeds, and levels of expertise.  
 - Use shared documents and GitHub Issues to promote transparency and equal
-  participation.  
+participation.  
 
 ---
 
 ## 🛠 GitHub Contribution Process
 
 - Track tasks on the GitHub Project Board — this helps us coordinate across different
-  time zones and prevents duplicated effort.  
+time zones and prevents duplicated effort.  
 - Open an **Issue** before making any significant changes. Use it to describe
-  your idea, get feedback, and confirm alignment with team priorities.  
+your idea, get feedback, and confirm alignment with team priorities.  
 - Create **Pull Requests (PRs)** linked to existing issues. Include clear descriptions
   and screenshots (if applicable).  
 - Every PR must be reviewed by at least **two team members** before it is merged.
