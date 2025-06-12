@@ -2,33 +2,63 @@
 
 # Constraints
 
-Some boundaries around our project.
-
 ## External
 
-<!--
-  constraints coming from the outside that your team has no control over:
-  - project deadlines
-  - number of unit tests required to pass a code review
-  - technologies (sometimes a client will tell you what to use)
-  - power or connectivity
-  - ...
--->
+- **Project deadlines:**
+The final submission date and milestone checkpoints.
+
+- **Access to datasets:**
+Some desired data might be restricted, unavailable, or require permissions.
+
+- **Power or internet connectivity issues:**
+Some members might face interruptions beyond their control.
+
+- **Geographical/time zone differences (if applicable):**
+May affect synchronous meeting scheduling.
+
+- **Technology stack limitations:**
+If external data sources require us to use certain tools.
+
+- **Family responsibilities and surprise interruptions**
 
 ## Internal: Involuntary
 
-<!--
-  constraints that come from within your team, and you have no control over:
-  - each of your individual skill levels
-  - amount of time available to work on the project
--->
+- **Individual skill levels:**
+Varying familiarity with data analysis tools, coding, or research methods.
+
+- **Time availability:**
+Different personal, academic, and professional obligations.
+
+- **Group size:**
+Limited number of team members affecting workload distribution.
+
+- **Technical access:** Different devices, software, or platform availability.
+
+- **Diverse perspectives sometimes leading to long discussions**
 
 ## Internal: Voluntary
 
-<!--
-  constraints that your team decided on to help scope the project. they may include:
-  - coding style & conventions
-  - agree on a code review checklist for the project repository
-  - the number of hours you want to spend working
-  - only using the colors black and white
--->
+- **Coding style & conventions:**
+Agree on documentation standards, variable naming, and code formatting.
+
+- **Code review checklist:**
+Before merging any changes into the repository, it must meet peer-reviewed criteria.
+
+- **Working hours & response expectations:**
+Respect personal time; no late-night or weekend obligations unless agreed upon.
+
+- **Communication guidelines:**
+Use Slack as the main communication channel and Zoom for meetings
+
+- **Meeting Frequency and Duration:**
+Group meetings should be held at least once a week for up to 1 hour. Initially,
+it's agreed to be every Monday at 9:00am EST.
+That said, team availability will factor into scheduling and
+it’s expected that all team members will participate.
+
+- **Scope discipline:**
+Stay focused on core project objectives and avoid expanding the project scope
+without group consent.
+
+- **Documentation protocol:**
+Keep track of all data sources, decisions, and changes in a shared project log.
