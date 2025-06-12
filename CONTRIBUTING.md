@@ -3,7 +3,7 @@
 Welcome to The Data Detectives,
 
 We are an international, interdisciplinary team working across time zones, cultures,
-and communication styles. To ensure respectful, inclusive, and effective collaboration, 
+and communication styles. To ensure respectful, inclusive, and effective collaboration,  
 please follow these guidelines when contributing to this project.
 
 ---
