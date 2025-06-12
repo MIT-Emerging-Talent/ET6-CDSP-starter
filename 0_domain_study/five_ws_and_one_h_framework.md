@@ -193,3 +193,32 @@ behavioral signals
 * Whether AI tools help or harm students under pressure
 * How to design ethical, AI-integrated education systems for crisis contexts
   
+  ## Problem 3
+
+* Author: [Viktoriya Haiduk](https://github.com/ViktoriyaHaiduk)
+* Problem Statement: [Refere to problems_pool](/0_domain_study/problems_pool.md#problem-1-1)
+* 5 Ws and 1 H Framework:
+
+| **Aspect** | **Summary** |
+|------------|-------------|
+| **Who** | - Students in war-affected regions using online learning platforms. |
+| **What** | - The effect of war on engagement and retention in online education. |
+| **When** | - During conflict and instability, when schools are closed. |
+| **Where** | - In areas where traditional education is disrupted by war. |
+| **Why** | - Online learning becomes the only option for education in conflict zones. |
+| **How** | - By analyzing platform data to track engagement and retention patterns during conflict. |
+
+## Problem 4
+
+* Author: [Viktoriya Haiduk](https://github.com/ViktoriyaHaiduk)
+* Problem Statement: [Refere to problems_pool](/0_domain_study/problems_pool.md#problem-2-1)
+* 5 Ws and 1 H Framework:
+
+| **Aspect** | **Summary** |
+|------------|-------------|
+| **Who** | - Online learning platforms and students in war-affected regions seeking affordable education. |
+| **What** | - Balancing affordability for students in conflict zones with profitability for platforms. |
+| **When** | - During conflict, when economic hardships and disrupted access make affordable learning critical. |
+| **Where** | - In war-torn regions where traditional education is inaccessible. |
+| **Why** | - To ensure accessibility of online education in conflict zones while maintaining platform revenue. |
+| **How** | - Using pricing algorithms and market segmentation to adjust prices based on local conditions and income levels. |
