@@ -57,3 +57,11 @@ How does the ongoing conflict in war-affected regions impact student engagement 
 How can online learning platforms optimize course pricing to balance affordability for students in war-affected regions with profitability, while considering local economic conditions and demand elasticity?
 
 ## Wuor
+
+*Problem Statement:*
+
+War disrupts traditional schooling. The project aims to evaluate whether online learning is a viable solution and to identify the conditions that contribute to its success.
+
+*Research Question:*
+
+How effective is online learning in improving educational outcomes for students in war-affected areas, and what factors influence its success?
