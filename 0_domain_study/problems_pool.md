@@ -24,10 +24,10 @@ potential sources of academic dishonesty (e.g., cheating)—under these conditio
 
 ### Problem 1
 
-> How does the ongoing conflict in war-affected regions impact student engagement and retention in online learning courses, as reflected by user behavior data on platforms like Udemy, Coursera, and edX?
+How does the ongoing conflict in war-affected regions impact student engagement and retention in online learning courses, as reflected by user behavior data on platforms like Udemy, Coursera, and edX?
 
 ### Problem 2
 
-> How can online learning platforms optimize course pricing to balance affordability for students in war-affected regions with profitability, while considering local economic conditions and demand elasticity?
+How can online learning platforms optimize course pricing to balance affordability for students in war-affected regions with profitability, while considering local economic conditions and demand elasticity?
 
 ## Wuor
