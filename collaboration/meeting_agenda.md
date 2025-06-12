@@ -65,7 +65,7 @@ ensure better tracking and visibility for the MIT team.
 ##### Next Steps
 
 - A follow-up meeting is scheduled for tomorrow to finalize the research topic.
-- **Asia** suggested that each member brings at least one research topic idea
+- _Asia_ suggested that each member brings at least one research topic idea
 to the next meeting.
 - The group will then brainstorm collectively to narrow the suggestions down to
 a concise, group-approved research focus.
