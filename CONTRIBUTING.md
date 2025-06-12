@@ -52,9 +52,9 @@ please follow these guidelines when contributing to this project.
 - Open an **Issue** before making any significant changes. Use it to describe
   your idea, get feedback, and confirm alignment with team priorities.  
 - Create **Pull Requests (PRs)** linked to existing issues. Include clear descriptions
-- and screenshots (if applicable).  
-- Every PR must be reviewed by at least **two team members** before it is merged
- — this - ensures shared understanding, quality, and accountability.  
+  and screenshots (if applicable).  
+- Every PR must be reviewed by at least **two team members** before it is merged.
+  This ensures shared understanding, quality, and accountability.  
 - Use **Draft PRs** if your work is still in progress but you'd like early feedback.
 
 ---
