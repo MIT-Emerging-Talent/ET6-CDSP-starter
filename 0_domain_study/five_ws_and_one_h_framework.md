@@ -196,7 +196,7 @@ behavioral signals
   ## Problem 3
 
 * Author: [Viktoriya Haiduk](https://github.com/ViktoriyaHaiduk)
-* Problem Statement: [Refere to problems_pool](/0_domain_study/problems_pool.md#problem-1-1)
+* Problem Statement: [Refere to problems_pool](/0_domain_study/problems_pool.md#problem-3)
 * 5 Ws and 1 H Framework:
 
 | **Aspect** | **Summary** |
@@ -211,7 +211,7 @@ behavioral signals
 ## Problem 4
 
 * Author: [Viktoriya Haiduk](https://github.com/ViktoriyaHaiduk)
-* Problem Statement: [Refere to problems_pool](/0_domain_study/problems_pool.md#problem-2-1)
+* Problem Statement: [Refere to problems_pool](/0_domain_study/problems_pool.md#problem-4)
 * 5 Ws and 1 H Framework:
 
 | **Aspect** | **Summary** |
