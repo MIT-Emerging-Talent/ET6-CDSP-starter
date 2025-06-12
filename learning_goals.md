@@ -22,18 +22,19 @@ to the finale and apply this knowledge to future references
 ## Individual Goals
 
 ### Khadija Ramlawi
-1- Experience working on a full Data Science project,
+
+1. Experience working on a full Data Science project,
 as this will be my first time working through the complete data cycle.
 
-2- Adapt to working with a very diverse team from different time zones.
+2. Adapt to working with a very diverse team from different time zones.
 
-3- Learn how to ask the right questions that effectively tackle the problem.
+3. Learn how to ask the right questions that effectively tackle the problem.
 
-4- Practice systems thinking.
+4. Practice systems thinking.
 
-5- Learn more about storytelling and how to present our work to non-technical audiences.
+5. Learn more about storytelling and how to present our work to non-technical audiences.
 
-6- Practice the tools and techniques needed for data science work.
+6. Practice the tools and techniques needed for data science work.
 
 ### Nelson Fodjo
 
