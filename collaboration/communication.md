@@ -13,34 +13,46 @@
 
 ## Communication Schedule
 
-| Day    | How | The topic of discussion |
-| :----: | :-: | ----------------------: |
-|        |     |                         |
+| Day        | How        | The topic of discussion     |
+| :----: | :-: |  ----------------------: |
+| 31.05.2025 | Video call | Finalisation of group norms |
+| 03.06.2025 | Video call | Brainstorming Session       |
+| 09.06.2025 | Video call | Brainstorming Session; Milestone 0 & 1       |
+| 12.06.2025 | Video call | Brainstorming Session; Milestone 0 & 1       |
 
 ## Communication Channels
 
 How often we will get in touch on each channel, and what we will discuss there:
 
-- **Issues**:
-- **Pull Requests**:
-- **Slack/Discord**:
-- **Video Calls**:
+- **Issues**: Asynchronous, to discuss and track tasks.
+- **Pull Requests**: Asynchronous, to review and merge code changes.
+- **Slack/Discord**: Asynchronous, for general communication and updates.
+- **Video Calls**: Scheduled twice a week on Mondays and Thursdays; additional
+calls can be arranged as needed.
 
 ## Availability
 
 ### Availability for calling/messaging
 
-| Day     | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
-|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| _name_ |     |     |     |     |     |     |     |
+## The Time here is in EST
+
+|Day|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday|
+| -------- | :---: | :---: | :---: | :---: | :---: | :---: | :---:|
+|Khadija Al Ramlawi|9AM-2PM|9AM-2PM|9AM-2PM|9AM-2PM|9AM-2PM||9AM-2PM|
+|Nelson Fodjo Kamdoum|10AM-4PM|10AM-4PM|10AM-4PM|10AM-4PM|12PM-4PM|| 2PM-4PM|
+|Olubusayo Solola|11AM-1PM|12PM-2PM|10AM-12PM|10AM-1PM|||3PM-4PM|
+|Sara Sahin||||||||
+|Shayma Mohamed|12PM-4PM|12PM-4PM|12PM-4PM|12PM-4PM|12PM-4PM|12PM-4PM|
+|Yevheniia Rudenko|12PM-4PM|12PM-4PM|12PM-4PM|12PM-4PM|12PM-4PM||12PM-4PM|
 
 ### How many hours everyone has per day
 
-- name: _5h_
-- name: _6h_
-- name: _5h_
-- name: _4h_
-- name: _3h_
+- Khadija al Ramlawi: ~5h;
+- Nelson Fodjo Kamdoum: ~5h;
+- Olubusayo Solola: ~2h;
+- Sara Sahin: \_\_;
+- Shayma Mohamed: ~2h;
+- Yevheniia Rudenko: ~4h;
 
 ## Asking for Help
 
