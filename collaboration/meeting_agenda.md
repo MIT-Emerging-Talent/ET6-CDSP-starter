@@ -41,11 +41,16 @@
 
 ##### Proposed Research Questions
 
-1. How can online access to education support learning continuity during pandemics and humanitarian crises such as refugee displacement?
-2. What is the impact of wildfire exposure on respiratory health in  Canada, and how can it be quantified?
-3. To what extent can the use of antidepressants and economic indicators in small economies reflect the overall happiness and mental well-being of a population?
-4. Can natural language processing (NLP) techniques be used to classify judicial decisions as punitive or restorative based on the language in court judgments?
-5. How effective is image analysis in detecting early signs of deforestation as an indicator of climate change?
+1. How can online access to education support learning continuity during
+pandemics and humanitarian crises such as refugee displacement?
+2. What is the impact of wildfire exposure on respiratory health in  Canada,
+ and how can it be quantified?
+3. To what extent can the use of antidepressants and economic indicators in
+small economies reflect the overall happiness and mental well-being of a population?
+4. Can natural language processing (NLP) techniques be used to classify judicial
+decisions as punitive or restorative based on the language in court judgments?
+5. How effective is image analysis in detecting early signs of deforestation as
+an indicator of climate change?
    - Use vegetation index to train model.
    - Many free images over several years are available online (1984–today).
    - Recommended dataset: Global Forest Watch (2000–present).
@@ -54,10 +59,13 @@
 
 ##### Platform Migration
 
-It was agreed that all ongoing chats and discussions will move to _Slack_ to ensure better tracking and visibility for the MIT team.
+It was agreed that all ongoing chats and discussions will move to _Slack_ to
+ensure better tracking and visibility for the MIT team.
 
 ##### Next Steps
 
 - A follow-up meeting is scheduled for tomorrow to finalize the research topic.
-- **Asia** suggested that each member brings at least one research topic idea to the next meeting.
-- The group will then brainstorm collectively to narrow the suggestions down to a concise, group-approved research focus.
+- **Asia** suggested that each member brings at least one research topic idea
+to the next meeting.
+- The group will then brainstorm collectively to narrow the suggestions down to
+a concise, group-approved research focus.
