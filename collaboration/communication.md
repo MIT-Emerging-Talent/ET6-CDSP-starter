@@ -13,41 +13,38 @@
 
 ## Communication Channels
 
-How often we will get in touch through each channel, and what
-we will use them for:
+How often we will get in touch through each channel, and what we will use them for:
 
 - **Slack – Main Communication Channel**  
-  - **Frequency**: As needed
-  - **Purpose**:  
-    Task tracking, work assignment, bug/blocker reporting
+  - **Frequency**: As needed  
+  - **Purpose**: Task tracking, work assignment, bug/blocker reporting
 
 - **Pull Requests**  
   - **Frequency**: Reviewed within 24 hours of submission  
-  - **Purpose**:  
-    Code collaboration, feedback, approvals
+  - **Purpose**: Code collaboration, feedback, approvals
 
 - **WhatsApp**  
   - **Frequency**: Emergency use only  
-  - **Purpose**:  
-    Critical issues that require immediate group response
+  - **Purpose**: Critical issues that require immediate group response
 
 - **Video Calls**  
   - **Frequency**: Twice a week  
-  - **Purpose**:  
-    Team sync-ups, milestone reviews, retrospectives
+  - **Purpose**: Team sync-ups, milestone reviews, retrospectives
+
+---
 
 ## Availability
 
 ### Availability for Calls/Messages
 
-| Member |Monday  |Tuesday |Wednesday|Thursday|Friday  |Saturday|Sunday  |
-|--------|--------|--------|---------|--------|--------|--------|--------|
-| Abel   |9:30am-12pm|9:30am-12pm|9:30am-12pm|9:30am-12pm|9:30am-12pm|9:30am-12pm|9:30am-12pm|
-| Vika   |9am–11am|9am–11am|9am–11am |9am–11am|9am–11am|9am–11am|9am–11am|
-| Salem  |9am-5pm|11pm-3pm|1pm-4pm|9am-11am|2pm-5pm|10am-2pm|10am-3pm|
-| Raneem |9am–11am|9am–11am|9am–11am |9am–11am|9am–11am|9am–11am|9am–11am|
-| Norbert|9am–11am|9am–11am|9am–11am |9am–11am|9am–11am|9am–11am|9am–11am|
-| Wour   |9am–11am|9am–11am|9am–11am |9am–11am|9am–11am|9am–11am|9am–11am|
+| Member  | Monday    | Tuesday   | Wednesday | Thursday  | Friday    | Saturday  | Sunday    |
+|---------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
+| Abel    | 9:30am-12pm | 9:30am-12pm | 9:30am-12pm | 9:30am-12pm | 9:30am-12pm| 9:30am-12pm | 9:30am-12pm |
+| Vika    | 9am-11am   | 9am-11am   | 9am-11am   | 9am-11am   | 9am-11am   | 9am-11am   | 9am-11am   |
+| Salem   | 9am-5pm    | 11pm-3pm   | 1pm-4pm    | 9am-11am   | 2pm-5pm    | 10am-2pm   | 10am-3pm   |
+| Raneem  | 9am-11am   | 9am-11am   | 9am-11am   | 9am-11am   | 9am-11am   | 9am-11am   | 9am-11am   |
+| Norbert | 9am-11am   | 9am-11am   | 9am-11am   | 9am-11am   | 9am-11am   | 9am-11am   | 9am-11am   |
+| Wour    | 9am-11am   | 9am-11am   | 9am-11am   | 9am-11am   | 9am-11am   | 9am-11am   | 9am-11am   |
 
 *Note: “–” indicates no fixed availability.*
 
@@ -55,20 +52,29 @@ we will use them for:
 
 ## Asking for Help
 
-It’s important to know when to ask for help. Here’s a guide based on how
-long you’ve been stuck on a problem:
+It’s important to know when to ask for help. Here’s a guide based on how long you’ve been stuck on a problem:
 
 1. **0–30 minutes**: Try to solve it yourself  
 2. **30–60 minutes**: Ask your group for assistance  
 3. **60+ minutes**: Tag a coach on Slack or GitHub for help
 
-## e-mails of each group memmber
+---
 
-| Member |E-mail  |
-|--------|--------|
-| Abel   |<Tekaabel04@gmail.com>|
-| Vika   |<vitadrug@gmail.com>|
-| Salem  |<salem.amassi@gmail.com>|
-| Raneem |<raneem.ram06@gmail.com>|
-| Norbert|<norbertndayisenga@gmail.com>|
-| Wour   |<uhuribhang211@gmail.com>|
+## E-mails of Each Group Member
+
+| Member  | E-mail                            |
+|---------|-----------------------------------|
+| Abel    | <Tekaabel04@gmail.com>              |
+| Vika    | <vitadrug@gmail.com>                |
+| Salem   | <salem.amassi@gmail.com>            |
+| Raneem  | <raneem.ram06@gmail.com>            |
+| Norbert | <norbertndayisenga@gmail.com>       |
+| Wour    | <uhuribhang211@gmail.com>           |
+
+---
+
+## Meetings Agendas and Meeting Summary for Milestone 0
+
+[Meeting Agendas and Meeting Summary for Milestone 0](https://docs.google.com/document/d/1zahZ02WABX2AjxJR1ysF6Vk9mBteEcLbklt6Sd2x0-g/edit?tab=t.0)
+
+---
