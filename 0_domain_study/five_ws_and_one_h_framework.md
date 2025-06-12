@@ -193,7 +193,7 @@ behavioral signals
 * Whether AI tools help or harm students under pressure
 * How to design ethical, AI-integrated education systems for crisis contexts
   
-  ## Problem 3
+## Problem 3
 
 * Author: [Viktoriya Haiduk](https://github.com/ViktoriyaHaiduk)
 * Problem Statement: [Refere to problems_pool](/0_domain_study/problems_pool.md#problem-3)
