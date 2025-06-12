@@ -7,23 +7,23 @@
 
 ## Project Idea 1 – Customer Churn Prediction in Banking
 
-### Problem Statement
+### Problem Statement (Idea 1)
 
 What behavioral patterns indicate that a customer is likely to leave a bank,  
 and how can we predict churn before it happens?
 
-### Potential Dataset(s)
+### Potential Dataset(s) (Idea 1)
 
 - [Bank Customer Churn Dataset on Kaggle](https://www.kaggle.com/datasets/barelydedicated/bank-customer-churn-modeling)
 
-### Expected Value / Insight
+### Expected Value / Insight (Idea 1)
 
 This project aims to identify early signals of customer churn,  
 enabling banks to take proactive steps to retain customers.  
 Understanding churn drivers can also help in designing  
 better customer experience strategies.
 
-### Proposed Approach
+### Proposed Approach (Idea 1)
 
 #### Step 1: Data Exploration & Understanding
 
@@ -51,23 +51,23 @@ better customer experience strategies.
 
 ## Project Idea 2 – Personal Spending & Budget Optimization
 
-### Problem Statement
+### Problem Statement (Idea 2)
 
 How do individual spending habits change over time,  
 and what actionable insights can be extracted to  
 improve personal budgeting?
 
-### Potential Dataset(s)
+### Potential Dataset(s) (Idea 2)
 
 - [Personal Budget Transactions Dataset on Kaggle](https://www.kaggle.com/datasets/ismetsemedov/personal-budget-transactions-dataset)
 
-### Expected Value / Insight
+### Expected Value / Insight (Idea 2)
 
 This project provides meaningful insights into personal finance management  
 by visualizing and analyzing spending behavior.  
 It helps users make informed financial decisions and optimize their budget.
 
-### Proposed Approach
+### Proposed Approach (Idea 2)
 
 #### Step 1: Data Collection & Understanding
 
