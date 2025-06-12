@@ -4,31 +4,38 @@
 
 ## Raneem
 
-### 1. Undermining Human Agency and Erosion of Critical Thinking and Creativity
+### problem idea 1
 
-* Excessive reliance on AI in educational settings may lead to a diminished sense of agency among students and educators. This means that individuals may feel less empowered to make independent choices, potentially impacting motivation and personal growth.
-* Over-reliance on AI tools for tasks like writing, problem-solving, and research can lead students to become passive consumers of
-information. This dependency may hinder the development of essential cognitive skills, such as critical thinking and creativity, as students may go for instant AI-generated solutions instead of engaging in deep, reflective thought.
+Excessive reliance on AI in educational settings may lead to a diminished sense of agency among students and educators. This means that individuals may feel less empowered to make independent choices, potentially impacting motivation and personal growth.
+
+#### possible research questions 1
+
+What impact does the use of AI in educational settings have on students' daily behaviors and routines?
 
 ### problem idea 2
+
+Over-reliance on AI tools for tasks like writing, problem-solving, and research can lead students to become passive consumers of
+information. This dependency may hinder the development of essential cognitive skills, such as critical thinking and creativity, as students may go for instant AI-generated solutions instead of engaging in deep, reflective thought.
+
+#### possible research questions 2
+
+How does the integration of AI tools in academic learning environments influence students’ motivation to engage in deeper exploration of curriculum topics, beyond surface-level understanding?
+
+### problem idea 3
 
 In war-affected regions, students are often forced to pursue their education through online platforms under extremely challenging conditions. Unlike typical online learning environments, these students face constant exposure to violence, displacement,
 unreliable internet access, and psychological distress, including stress, fear, and trauma. These factors significantly impact their mental well-being and academic performance. Despite these hardships, students are still expected to stay engaged and
 perform well academically, which can be an overwhelming burden.
-This study aims to investigate the role of Artificial Intelligence (AI) in supporting the learning experience of students in conflict zones. Specifically, we seek to understand whether AI-based educational
-tools and platforms can help ease the learning process,
-improve student engagement, and enhance academic performance—or if they present additional challenges or have no significant impact.
+This study aims to investigate the role of Artificial Intelligence (AI) in supporting the learning experience of students in conflict zones.
 
-### questions
+#### possible research questions 3
 
-How AI could improve student’s motivation and participation during online learning in
+Can AI-based educational tools and platforms help ease the learning process, improve student engagement, and enhance academic performance — or do they present additional challenges or have no significant impact?
+
+How could AI improve student’s motivation and participation during online learning in
 war affected countries?
 
 How AI affects student’s motivation and participation during online learning in war affected countries?
-
-What impact has wartime online learning had on students’ behavior and adaptation in post-war in-person classroom settings?
-
-What impact does the use of AI in educational settings have on students' daily behaviors and routines?
 
 ## Salem
 
