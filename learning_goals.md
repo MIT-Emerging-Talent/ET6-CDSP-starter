@@ -22,7 +22,8 @@ to the finale and apply this knowledge to future references
 ## Individual Goals
 
 ### Khadija Ramlawi
-1- Experience working on a full Data Science project, as this will be my first time working through the complete data cycle.
+1- Experience working on a full Data Science project,
+as this will be my first time working through the complete data cycle.
 
 2- Adapt to working with a very diverse team from different time zones.
 
