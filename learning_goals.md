@@ -38,6 +38,16 @@ as this will be my first time working through the complete data cycle.
 
 ### Nelson Fodjo
 
+1. Develop my coding and algorithm design skills.
+
+2. Become more proficient in data visualization and communication.
+
+3. Learn how to collaborate effectively in a team with multidisciplinary perspectives.
+
+4. Acquire a deep understanding of the data science project lifecycle, from framing the problem to delivering results.
+
+5. Apply my data science knowledge to solve real-world problems and contribute to a portfolio of impactful work.
+
 ### Olubusayo Solola
 
 1. To experience what is means to work on a data science project
