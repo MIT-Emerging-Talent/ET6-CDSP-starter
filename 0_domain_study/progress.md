@@ -25,16 +25,35 @@ flowchart TB
  subgraph s[" "]
         n1["Problem Statement"]
         n2["Research questions"]
-        n3["**How can the use of renewable energy help in combating the effects of
-climate change?**"]
+        n3["**How can the adoption of renewable
+        energy—particularly solar power—serve as
+        a tool to combat climate change, reduce inequality,
+        and drive sustainable development in under-served and conflict-affected communities?**"]
         n31["**What are the economic and environmental benefits of transitioning
 to solar energy?**"]
         n32["
         **How can small-scale solar energy users in unregulated markets
         Verify product quality through digital tools or cooperative purchasing models?**"]
-        n33[" "]
+        n33["**What is the relationship between solar
+        energy availability and civilian displacement
+        patterns in conflict-affected areas in the past decade?**"]
+        n34["**How does the volume and type of
+        construction waste generated vary by project
+        size and location, and what patterns can be
+        identified using publicly available datasets or site records?**"]
+        n35["**How have armed conflicts in the past
+        decade affected the deployment, capacity
+        utilization, and household consumption of
+        solar photovoltaic and small‐scale wind systems
+        in conflict‐affected communities?**"]
+        n36["**How can small-scale solar energy
+        users in unregulated markets verify product
+        quality through  digital tools or cooperative purchasing models?**"]
         n4(["Actionable Research Question"])
-        n5[" "]
+        n5["**How have armed conflicts in the past
+        decade affected the deployment, capacity utilization,
+        and household consumption of solar photovoltaic and
+        small‐scale wind systems in conflict‐affected communities?**"]
   end
     A --> B
     B --> BA & BB & BC & BD
