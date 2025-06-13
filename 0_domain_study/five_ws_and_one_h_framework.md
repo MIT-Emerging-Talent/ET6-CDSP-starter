@@ -222,3 +222,48 @@ behavioral signals
 | **Where** | - In war-torn regions where traditional education is inaccessible. |
 | **Why** | - To ensure accessibility of online education in conflict zones while maintaining platform revenue. |
 | **How** | - Using pricing algorithms and market segmentation to adjust prices based on local conditions and income levels. |
+
+## Problem 5
+
+* Author: [Raneem Rami](https://github.com/Raneemrami)
+* Problem Statement: [Refer to problems_pool](/0_domain_study/problems_pool.md#problem-idea-1)
+* 5 Ws and 1 H Framework:
+
+| **Aspect** | **Summary** |
+|------------|-------------|
+| **Who** | Students and educators in educational institutions.|
+| **What** | Excessive reliance on AI may lead to a diminished sense of agency.|
+| **When** | When AI tools are heavily or predominantly used for teaching, learning, or decision-making. |
+| **Where** |In classrooms, online learning environments, and other educational institutions.|
+| **Why** | Because AI can make decisions or perform tasks that individuals would otherwise do themselves, reducing opportunities for critical thinking, decision-making, and autonomy.|
+|**How**| Collect and analyze data to understand how AI tools affect student engagement and cognitive development.|
+
+## Problem 6
+
+* Author: [Raneem Rami](https://github.com/Raneemrami)
+* Problem Statement: [Refer to problems_pool](/0_domain_study/problems_pool.md#problem-idea-2)
+* 5 Ws and 1 H Framework:
+
+| **Aspect** | **Summary** |
+|------------|-------------|
+| **Who** |Students who use AI tools for academic tasks.|
+| **What** | Over-reliance on AI can cause students to become passive consumers of information.|
+| **When** |When students consistently depend on AI tools for writing, problem-solving, and research.|
+| **Where** |In educational environments such as schools, colleges, and online learning platforms.|
+| **Why** | Because relying on quick, AI-generated solutions can discourage students from thinking critically and creatively on their own.|
+|**How**|Collect and analyze data to understand how AI tools affect student engagement and learning behaviors.|
+
+## Problem 7
+
+* Author: [Raneem Rami](https://github.com/Raneemrami)
+* Problem Statement: [Refer to problems_pool](/0_domain_study/problems_pool.md#problem-idea-3)
+* 5 Ws and 1 H Framework:
+
+| **Aspect** | **Summary** |
+|------------|-------------|
+| **Who** |Students living and studying in war-affected countries.|
+| **What** | They face severe challenges in pursuing education online, and the study explores how AI affects their learning.|
+| **When** |During ongoing conflicts or periods of war, when traditional education systems are disrupted.|
+| **Where** |In war-affected zones where students are displaced or living under unstable and dangerous conditions.|
+| **Why** | Because these students are exposed to violence, poor connectivity, and psychological trauma, which negatively affect their mental health and academic performance; AI may offer tailored support to help them cope and learn more effectively.|
+|**How**| - |
