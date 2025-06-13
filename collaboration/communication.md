@@ -49,6 +49,7 @@ sharing, and resolving blockers (only on Saturdays - This can change).
 | Sukhrob   |      |  ✓    |    ✓    |    ✓   |   ✓  |    ✓   |      |
 | Ahmed     |      |       |         |        |   ✓   |    ✓    |  ✓    |
 | Anas      |      |       |         |        |      |        |      |
+| Mustafa   |      |       |         |        |      |        |      |
 
 ### How many hours everyone has per day
 
@@ -58,6 +59,7 @@ sharing, and resolving blockers (only on Saturdays - This can change).
 - Ahmed: _1h_
 
 - Anas: _to be filled_
+- Mustafa: _to be filled_
 
 ---
 
