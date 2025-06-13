@@ -51,8 +51,7 @@ as this will be my first time working through the complete data cycle.
 ### Olubusayo Solola
 
 1. To experience what is means to work on a data science project
-2. To work with my diverse group of intelligent people while learning to
-   handle conflicts, debates etc
+2. To work with my diverse group of intelligent people while learning to handle conflicts, debates etc
 3. Be able to reproduce the lifecycle of this experience
 4. Be able to apply the python and data science classes to this project
 
