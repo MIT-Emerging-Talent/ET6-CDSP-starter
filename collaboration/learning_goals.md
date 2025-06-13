@@ -69,7 +69,6 @@ as this will be my first time working through the complete data cycle.
 
 5. Strengthen problem-solving and critical thinking in a team setting.
 
-
 ### Yevheniia Rudenko
 
 1. Understand the Full Data Project Lifecycle
