@@ -2,6 +2,10 @@
 
 ## Norbert
 
+### problem idea 1
+
+How can data-driven insights from student interaction with digital learning platforms be used to personalize instruction and improve educational outcomes in under-resourced schools?
+
 ## Raneem
 
 ### problem idea 1
