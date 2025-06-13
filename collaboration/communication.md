@@ -26,6 +26,7 @@
 ---
 
  ## 🌐 Communication Channels 
+ 
 =======
 | Day    | How | The topic of discussion |
 | :----: | :-: | ----------------------: |
@@ -41,6 +42,7 @@ How often we will get in touch on each channel, and what we will discuss there:
 - **Video Calls**:
 
  ## Availability 
+ 
 >>>>>>> upstream/main
 
 **How often will we get in touch on each channel, and what we will discuss there:**
