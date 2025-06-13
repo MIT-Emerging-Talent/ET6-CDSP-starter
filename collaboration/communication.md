@@ -48,8 +48,7 @@ sharing, and resolving blockers (only on Saturdays - This can change).
 | Emre      |      |       |         |        |      |        |      |
 | Sukhrob   |      |  ✓    |    ✓    |    ✓   |   ✓  |    ✓   |      |
 | Ahmed     |      |       |         |        |   ✓   |    ✓    |  ✓    |
-| Anas      |      |       |         |        |      |        |      |
-| Mustafa   |      |       |         |        |      |        |      |
+| Anas      |      |   ✓     |     ✓    |        |  ✓     |    ✓     |      |
 
 ### How many hours everyone has per day
 
