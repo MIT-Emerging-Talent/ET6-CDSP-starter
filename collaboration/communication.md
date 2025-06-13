@@ -25,7 +25,7 @@
 
 ---
 
-## 🌐 Communication Channels
+## 🌐 Communication Channels 
 =======
 | Day    | How | The topic of discussion |
 | :----: | :-: | ----------------------: |
