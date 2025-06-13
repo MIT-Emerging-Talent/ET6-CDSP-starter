@@ -65,8 +65,8 @@ to solar energy?**"]
     C --> D
     D --> n1
     n1 --> n2
-    n2 --> n3 & n31 & n32 & n33
-    n3 & n31 & n32 & n33 --> n4
+    n2 --> n3 & n31 & n32 & n33 & n34 & n35 & n36
+    n3 & n31 & n32 & n33 & n34 & n35 & n36 --> n4
     n4 --> n5
     style B fill:#C8E6C9
     style A fill:#FFF9C4
