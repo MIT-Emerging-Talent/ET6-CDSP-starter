@@ -14,6 +14,7 @@
 
 ## 📅 Communication Schedule
 
+<<<<<<< HEAD
 | Day | How | The topic of discussion |
 | --- | :-: | ----------------------- |
 | **Monday** | 🎥 Google Meet | Weekly planning & sprint review |
@@ -25,21 +26,52 @@
 ---
 
 ## 🌐 Communication Channels
+=======
+| Day    | How | The topic of discussion |
+| :----: | :-: | ----------------------: |
+|        |     |                         |
+
+## Communication Channels
+
+How often we will get in touch on each channel, and what we will discuss there:
+
+- **Issues**:
+- **Pull Requests**:
+- **Slack/Discord**:
+- **Video Calls**:
+
+## Availability
+>>>>>>> upstream/main
 
 **How often will we get in touch on each channel, and what we will discuss there:**
 
+<<<<<<< HEAD
 - **📋 Issues**: Daily monitoring for bug reports, feature requests, and  
   task assignments
 - **🔄 Pull Requests**: Real-time code reviews and collaborative development  
 - **💬 Slack/WhatsApp**: Casual check-ins, quick questions, and team bonding
 - **🎥 Video Calls**: Bi-weekly structured meetings (Mon/Fri) and ad-hoc sessions
+=======
+| Day     | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
+|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| _name_ |     |     |     |     |     |     |     |
+>>>>>>> upstream/main
 
 ---
 
+<<<<<<< HEAD
 ## ⏰ Availability
+=======
+- name: _5h_
+- name: _6h_
+- name: _5h_
+- name: _4h_
+- name: _3h_
+>>>>>>> upstream/main
 
 ### 📞 Availability for calling/messaging
 
+<<<<<<< HEAD
 #### All times listed in EST
 
 | Member | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
@@ -96,3 +128,12 @@
 ---
 
 **Last updated**: Team formation - Ready to build something amazing! 🚀
+=======
+There's a fine line between confidently learning from your mistakes and
+stubbornly getting nowhere. Here is a general guide for when to ask for help
+based on how long you’ve been stuck on the same problem:
+
+1. _0 → 30 min_: Try on your own
+2. _30 → 60 min_: Ask your group for help
+3. _60+ min_: Tag your coaches in Slack, WhatsApp or GitHub
+>>>>>>> upstream/main
