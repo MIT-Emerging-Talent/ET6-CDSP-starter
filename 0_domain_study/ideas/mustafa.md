@@ -4,9 +4,8 @@
 
 ## Project Idea 1: Personal Spending Habits & Budget Analysis
 
-### Author: Mustafa Mangal
-
-### Date: 2025-06-12
+**Author:** Mustafa Mangal
+**Date:** 2025-06-12
 
 ### Problem Statement: Spending Habits & Budgeting
 
@@ -19,8 +18,7 @@ for individuals?
 **Kaggle: "Personal Budget Transactions Dataset"** offers records
 including categories, dates, and amounts spent. This dataset is ideal
 for financial analysis and budgeting insights.
-[https://www.kaggle.com/datasets/ismetsemedov/\
-personal-budget-transactions-dataset](https://www.kaggle.com/datasets/ismetsemedov/personal-budget-transactions-dataset)
+[**Personal Budget Transactions Dataset**](https://www.kaggle.com/datasets/ismetsemedov/personal-budget-transactions-dataset)
 
 ### Expected Value: Actionable Budget Optimization
 
@@ -53,9 +51,8 @@ budget optimization.
 
 ## Project Idea 2: Understanding Financial Literacy Across Demographics
 
-### Author:Mustafa Mangal
-
-### Date: 2025.06.12
+**Author:** Mustafa Mangal
+**Date:** 2025-06-12
 
 ### Problem Statement: Financial Literacy Disparities
 
@@ -69,7 +66,7 @@ implications for targeted financial education initiatives?
 is a large-scale survey providing comprehensive data on U.S. adults'
 financial capability, including financial knowledge and extensive
 demographic information.
-[https://finrafoundation.org/data-and-downloads](https://finrafoundation.org/data-and-downloads)
+[**FINRA NFCS Data**](https://finrafoundation.org/data-and-downloads)
 
 ### Expected Value: Targeted Financial Education
 
