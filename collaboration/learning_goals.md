@@ -59,6 +59,17 @@ as this will be my first time working through the complete data cycle.
 
 ### Shayma Mohamed
 
+1. Learn how to solve real-life problems using data science.
+
+2. Apply technical skills in a real-world data project.
+
+3. Identify required skills for a project and learn them quickly.
+
+4. Improve communication, collaboration, and teamwork.
+
+5. Strengthen problem-solving and critical thinking in a team setting.
+
+
 ### Yevheniia Rudenko
 
 1. Understand the Full Data Project Lifecycle
