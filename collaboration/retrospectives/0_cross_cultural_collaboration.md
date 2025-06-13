@@ -140,3 +140,47 @@ challenges, and successes we've experienced in the early stages of our project.
     establish clear norms and onboarding practices for the team.
   * Committed to increased engagement, regular participation in meetings, and  
     contributing within the agreed team structure and timeline.
+
+### Member 3: Shaima Mohamed
+
+* Contributions
+  * Joined team discussions and started catching up by asking questions and
+  reviewing shared resources.
+  * Contributed to collaborative efforts on shared documents and planning.
+  * Became more active and engaged as the milestone progressed, especially in
+  async communication.
+* Challenges
+  * Initially found it difficult to understand felt overwhelmed by the different
+  tools and expectations.
+  * Had trouble catching up with tasks and understanding who was responsible for
+  what due to a lack of early structure.
+  * Balancing this project with other personal responsibilities and different
+  time zones made it harder to stay consistent early on.
+* Progress
+  * Improved significantly after reaching out more and participating actively —
+  realized the importance of not staying silent when things are unclear.
+  * Learned that asking questions and sharing confusion can actually help the
+  team move forward and avoid repeated misunderstandings.
+  * Now better at checking the syllabus, GitHub board, and Slack regularly to
+  stay aligned and plan ahead.
+
+### Member 4: Nelson Fodjo
+
+* Contributions
+  * Actively contributed to team meetings and group conversations, offering
+  suggestions and helping clarify tasks.
+  * Review the group norms and participating in drafting the norms.
+  * Helped creating group meetings notes
+* Challenges
+  * Did not work at first on one of the main communication channels which are
+  GitHub and Slack
+  * Did not take an active role on tasks related to the GitHub repo in team
+  meetings, which contributed to a sense of disconnect from ongoing discussions.
+  * Recognized that technical strengths could be used more effectively to
+  support the team and guide progress
+* Progress
+  * Gained clarity on the importance of active involvement and consistent communication.
+  * assisted in developing a helpful documentation (e.g., a contribution.md
+  file) to establish clear norms and onboarding practices for the team.
+  * Committed to increased engagement, regular participation in meetings, and
+  contributing within the agreed team structure and timeline.
