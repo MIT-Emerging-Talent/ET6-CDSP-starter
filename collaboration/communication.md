@@ -57,8 +57,7 @@ sharing, and resolving blockers (only on Saturdays - This can change).
 - Emre: _to be filled_
 - Sukhrob: 2h
 - Ahmed: _1h_
-
-- Anas: _to be filled_
+- Anas: 1h
 - Mustafa: _to be filled_
 
 ---
