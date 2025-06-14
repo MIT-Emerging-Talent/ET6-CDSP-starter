@@ -47,7 +47,7 @@
 
 **Actors Who Can Implement Findings**:
 
-- NGOs (e.g., Save the Children): Deploy AI tools in humanitarian programs.
+- NGOs (e.g., Save the Children)
 - EdTech Developers: Optimize apps for conflict zones (e.g., offline-first AI).
 - Governments: Inform policy for digital education in emergencies.
 
