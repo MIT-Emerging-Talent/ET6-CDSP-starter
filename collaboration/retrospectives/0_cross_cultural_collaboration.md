@@ -184,3 +184,27 @@ challenges, and successes we've experienced in the early stages of our project.
   file) to establish clear norms and onboarding practices for the team.
   * Committed to increased engagement, regular participation in meetings, and
   contributing within the agreed team structure and timeline.
+
+
+### Member 5: Olubusayo Solola
+
+* Contributions
+    * Present at group meetings at the start of the project while actively
+      involved in providing suggestions and feedbacks
+    * Participated in drafting the group norms
+    * Created the Readme file for Group norms on GitHub and currently the
+      learning goals file
+* Challenges
+    * Working asynchronously has been challenging especially when I get stuck
+      contributing to the group repo majorly due to divided attention and time
+    * Feels disconnected from the progress of the project due to inactive
+      participation 
+    * Feels overwhelmed when I try catching up with to-dos 
+* Progress
+    * The calls have been helpful in explaining what has been happening
+      asynchronously
+    * Working on developing a comprehensive time planner to manage all
+      my involvements without neglecting any
+    * Looking forward to staying committed and active moving on 
+
+
