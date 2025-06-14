@@ -1,4 +1,4 @@
-# THE SKAJEN
+# SKAJEN
 
  Skajen is a collaborative group formed by A combo of amzing individuals including
   **Solola**, **Sara**, **Shaima**, **Khadija**, **Jenia(Yevheniia)**, and **Nelson**.
@@ -24,15 +24,15 @@ This is a detailed checklist for each milestone of the Collaborative
 
 ---
 
-#### **Milestone 0: Cross-Cultural Collaboration** - Due: June 2
+## **Milestone 0: Cross-Cultural Collaboration** - Due: June 2
 
-##### **Learning Goals:**
+## **Learning Goals_0:**
 
 - Understand group collaboration methods
 - Define constraints and communication plans
 - Explore design thinking
 
-##### **Checklist:**
+### **Checklist_0:**
 
 - [x] Create project repository
 - [x] Add project board, branch protections, pull request template
@@ -50,15 +50,15 @@ This is a detailed checklist for each milestone of the Collaborative
 
 ---
 
-#### **Milestone 1: Problem Identification** - Due: June 16
+## **Milestone 1: Problem Identification** - Due: June 16
 
-##### **Learning Goals:**
+### **Learning Goals_1:**
 
 - Learn divergent/convergent thinking
 - Identify solvable, meaningful problems
 - Formulate a research question
 
-##### **Checklist:**
+### **Checklist_1:**
 
 - [ ] Write a personal-experience based problem statement
 - [ ] Conduct domain research (save in `0_domain_research/`)
@@ -74,13 +74,13 @@ This is a detailed checklist for each milestone of the Collaborative
 
 ## **Milestone 2: Data Collection** - Due: June 30
 
-### **Learning Goals:**
+### **Learning Goals_2:**
 
 - Understand domain modeling with data
 - Study data quality and availability
 - Document data sources and processes
 
-### **Checklist:**
+### **Checklist_2:**
 
 - [ ] Collect and clean data
 - [ ] Save all data processing scripts
@@ -96,13 +96,13 @@ This is a detailed checklist for each milestone of the Collaborative
 
 ## **Milestone 3: Data Analysis** - Due: July 21
 
-### **Learning Goals:**
+### **Learning Goals_3:**
 
 - Match analysis to data/question
 - Address uncertainty and errors
 - Learn to interpret and accept results
 
-### **Checklist:**
+### **Checklist_3:**
 
 - [ ] Perform data analysis (simple is OK!)
 - [ ] Save all scripts for replicating analysis
@@ -116,13 +116,13 @@ This is a detailed checklist for each milestone of the Collaborative
 
 ## **Milestone 4: Communicating Results** - Due: August 11
 
-### **Learning Goals:**
+### **Learning Goals_4:**
 
 - Translate insights into action
 - Communicate clearly to a defined audience
 - Handle uncertainty and limitations
 
-##### **Checklist:**
+### **Checklist_4:**
 
 - [ ] Define target audience, capabilities, constraints
 - [ ] Create a communication plan: what to teach, how to reach them, expected actions
@@ -134,15 +134,15 @@ This is a detailed checklist for each milestone of the Collaborative
 
 ---
 
-##### **Milestone 5: Final Presentation** - Due: August 25
+## **Milestone 5: Final Presentation** - Due: August 25
 
-### **Learning Goals:**
+### **Learning Goals_5:**
 
 - Practice public speaking
 - Reflect on team process and results
 - Synthesize key learnings
 
-### **Checklist:**
+### **Checklist_5:**
 
 - [ ] Record a 1-minute pitch of your solution
 - [ ] Prepare a 3-minute group presentation covering:
@@ -230,4 +230,4 @@ for details.
 
 📋 *Current Milestone*: Cross-Cultural Collaboration  
 
-🗓️ *Last Updated*: 2nd June 2025
+🗓️ *Last Updated*: 14th June 2025 by Nelson Fodjo
