@@ -46,9 +46,10 @@ sharing, and resolving blockers (only on Saturdays - This can change).
 | --------- |:----:|:-----:|:-------:|:------:|:----:|:------:|:----:|
 | Clement   |      |       |         |        |      |    ✓   |   ✓   |
 | Emre      |      |       |         |        |      |        |      |
-| Sukhrob   |      |  ✓    |    ✓    |    ✓   |   ✓  |    ✓   |      |
-| Ahmed     |      |       |         |        |   ✓   |    ✓    |  ✓    |
+| Sukhrob   |      |  ✓    |    ✓   |    ✓   |   ✓  |    ✓   |      |
+| Ahmed     |      |       |         |        |   ✓  |    ✓    |  ✓    |
 | Anas      |      |       |         |        |      |        |      |
+| Mustafa   |      |       |         |        |      |    ✓   |   ✓    |
 
 ### How many hours everyone has per day
 
@@ -56,7 +57,7 @@ sharing, and resolving blockers (only on Saturdays - This can change).
 - Emre: _to be filled_
 - Sukhrob: 2h
 - Ahmed: _1h_
-
+- Mustafa 2h
 - Anas: _to be filled_
 
 ---
