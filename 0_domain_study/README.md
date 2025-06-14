@@ -1,65 +1,66 @@
+# Create a README.md content describing the structure and research content of the "resources" folder
 
-# AI in Conflict Education - Research Overview
+## 📚 Research Resources Overview
 
-## 1. Problem Statement Refinement
-
-**Core Issue**: War-induced challenges (violence exposure, displacement, unreliable internet) degrade online learning performance for conflict-affected students.  
-**AI Opportunity**: Can AI tools mitigate these barriers?
-
-### Key Challenges to Investigate
-
-- Psychological trauma → Reduced concentration/motivation
-- Internet instability → Disrupted learning continuity
-- Frequent displacement → Lack of consistent study environments
-- Resource scarcity → Limited device/power access
-
-## 2. Domain Research Summary
-
-| Sub-Folders Domain | Research Focus | Sources |
-|--------|----------------|---------|
-| **Education in Conflict** | - Existing studies on war's impact on learning outcomes\n- Case studies (Ukraine, Gaza, Syria) | UNESCO reports, Journal of Education in Emergencies, ReliefWeb |
-| **Online Learning Barriers** | - Metrics for "learning performance" in unstable contexts\n- Technical requirements for low-bandwidth platforms | World Bank EdTech papers, IEEE Learning Technology publications |
-| **AI in Education** | - Proven AI solutions for similar challenges (e.g., offline tutors, adaptive content)\n- Ethical risks (data privacy, bias) | Google AI Education, arXiv papers on "AI for low-resource learning" |
-| **Stakeholders** | - NGOs delivering remote education (e.g., UNICEF)\n- EdTech platforms (e.g., Kolibri, Learning Equality) | Annual reports of humanitarian organizations, EdTech startup case studies |
-
-## 3. Actionable Research Question
-
-**Proposed Question**:  
-"To what extent can lightweight AI interventions (e.g., offline-adaptive content, trauma-aware chatbots) improve knowledge retention and course completion rates for online learners in conflict zones, given constraints of intermittent connectivity
- and psychological stress?"
-
-**Why This Works**:
-
-- **Measurable**: Focuses on quantifiable metrics (retention rates, completion %).
-- **Feasible**: Targets "lightweight" AI solutions (no heavy compute/bandwidth needed).
-- **Context-Aware**: Explicitly addresses war-specific constraints.
-- **Actionable**: Guides data collection on specific AI tools vs. traditional methods.
-
-## 4. Constraints & Feasibility
-
-| Constraint | Mitigation Strategy |
-|-----------|----------------------|
-| No primary data from war zones | Use proxy datasets (e.g., refugee learning platforms, low-income connectivity studies) |
-| Time/Limited tech access | Test AI prototypes via simulations (e.g., artificial network throttling, stress surveys) |
-| Ethical sensitivities | Partner with NGOs for anonymized data; avoid traumatizing questions |
-
-## 5. Stakeholder Analysis
-
-**Actors Who Can Implement Findings**:
-
-- NGOs (e.g., Save the Children)
-- EdTech Developers: Optimize apps for conflict zones (e.g., offline-first AI).
-- Governments: Inform policy for digital education in emergencies.
-
-## 6. Recommended Approach for Your Group
-
-- **Literature Review (4 hrs)**: Divide research topics (education, tech, conflict studies).
-- **Stakeholder Mapping (2 hrs)**: Identify NGOs/developers for interview requests.
-- **Refine Research Question (1 hr)**: Use the "PICO framework":
-  - **Population**: War-affected online learners
-  - **Intervention**: Lightweight AI tools
-  - **Comparison**: Traditional online learning
-  - **Outcomes**: Completion rates, knowledge retention
-- **Simulation Design (1 hr)**: Plan low-bandwidth/stress simulations (e.g., using existing LMS data).
+This folder contains structured research materials collected by **DATA ALCHEMISTS** for the MIT Computer and Data Science Certificate Project (2024–2025). The subfolders within the `resources/` directory are organized based on our key
+ research domains and include curated content such as PDFs, website links, and reference materials.
 
 ---
+
+### 📂 1. AI in Education
+
+**Focus**:  
+Explores how Artificial Intelligence can help motivate students in war-affected areas and enhance their academic performance through intelligent tutoring systems, offline learning agents, and adaptive learning platforms.
+
+**Included Resources**:
+
+- Research papers in PDF format on AI educational interventions
+- Website links to platforms using AI in low-resource settings
+- Articles on trauma-aware chatbots and AI motivation tools
+
+---
+
+### 📂 2. Education in Conflict
+
+**Focus**:  
+Analyzes the overall state of education in conflict-affected areas, covering how war
+ impacts educational access, infrastructure, student outcomes, and teacher availability.
+
+**Included Resources**:
+
+- Case studies and situation reports from UNESCO, ReliefWeb
+- PDFs outlining challenges and solutions in Syria, Ukraine, Gaza
+- Links to global education in emergency databases
+
+---
+
+### 📂 3. Online Learning Barriers
+
+**Focus**:  
+Examines the role of online learning in enhancing education in war-affected zones and
+ identifies the barriers such as internet connectivity, device availability, and digital literacy.
+
+**Included Resources**:
+
+- PDFs on low-bandwidth LMS systems
+- Links to EdTech tools like Kolibri and Learning Equality
+- Articles on blended and asynchronous learning in emergencies
+
+---
+
+### 📂 4. Stakeholders / Private Organizations
+
+**Focus**:  
+Identifies key stakeholders including NGOs, EdTech companies, and humanitarian
+ organizations—that support education initiatives in conflict zones.
+
+**Included Resources**:
+
+- Reports from Save the Children, UNICEF, and UNHCR
+- PDFs outlining stakeholder education strategies
+- Case studies on EdTech partnerships in war-affected areas
+
+---
+
+Each subfolder is actively maintained by our group, and references are selected
+ based on credibility, relevance, and potential to inform our final research outcomes.
