@@ -45,18 +45,7 @@ Use your collective skills to deliver a prototype, dashboard, or insight that
 
 ## 👥 Individual Learning Goals
 
-**Anas Ziadah**  
-
-- Gain practical experience in each stage of the data science process, from
- identifying problems to cleaning data and interpreting results.  
-- Enhance collaboration skills by effectively using Git/GitHub for version
- control and contributing to team discussions and code reviews.  
-- Improve teamwork and communication by actively engaging with team members
- sharing knowledge, and supporting a positive, productive group dynamic.
-
----
-
-**Anas Ziadah**  
+### Anas Ziadah
 
 - Gain practical experience in each stage of the data science process, from
  identifying problems to cleaning data and interpreting results.  
@@ -67,23 +56,23 @@ Use your collective skills to deliver a prototype, dashboard, or insight that
 
 ---
 
-**Ahmad Elhassan**  
+### Ahmad Elhassan
 
 ---
 
-**Clement Mugisha**  
+### Clement Mugisha
 
 ---
 
-**Emre Biyik**  
+### Emre Biyik
 
 ---
 
-**Mustafa Mangal**  
+### Mustafa Mangal
 
 ---
 
-**Sukhrob Muborakshoev**  
+### Sukhrob Muborakshoev
 
 ---
 
