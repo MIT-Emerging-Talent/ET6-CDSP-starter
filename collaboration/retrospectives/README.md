@@ -19,7 +19,7 @@ efficient team culture.
 
 | Milestone | File | Description |
 |----------|------|-------------|
-| 0️⃣ | [0_cross-cultural_collaboration.md](0_cross-cultural_collaboration.md) | Reflections on early team formation and intercultural collaboration. |
+| 0️⃣ | [0_cross_cultural_collaboration.md](0_cross_cultural_collaboration.md) | Reflections on early team formation and intercultural collaboration. |
 | 1️⃣ | [1_problem_identification.md](1_problem_identification.md) | Thoughts on defining the problem space based on personal experience. |
 | 2️⃣ | [2_data_collection.md](2_data_collection.md) | Insights from planning and executing our data collection process. |
 | 3️⃣ | [3_data_analysis.md](3_data_analysis.md) | Observations during data cleaning, exploration, and analysis. |
