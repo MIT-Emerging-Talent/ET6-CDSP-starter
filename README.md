@@ -1,11 +1,15 @@
 # SKAJEN
 
- Skajen is a collaborative group formed by A combo of amzing individuals including
-  **Solola**, **Sara**, **Shaima**, **Khadija**, **Jenia(Yevheniia)**, and **Nelson**.
-  Our name symbolizes unity and teamwork as we strive together towards
-     excellence in data science.
+ Skajen is a collaborative group formed by A combo of amazing individuals
+  with super powers that redefine the true meaning of team work.
 
-   **Collaboration is key, and we never settle for less than the best.**
+  Our name symbolizes unity and teamwork as we strive together towards
+    excellence in data science.
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=1000&color=00F71E&vCenter=true&width=484&height=64&lines=The+SKAJEN;Solola+-++Shayma+-+Sara+-+Khadija+-+Jenia+(Yevheniia)+-++Nelson)](https://git.io/typing-svg)
+
+   **Collaboration is key, and we never settle for less than the best.
+    #WeMove**
 
 ## 🎯 Project Overview
 
