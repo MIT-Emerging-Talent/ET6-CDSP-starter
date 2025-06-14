@@ -64,4 +64,7 @@
 ### Norbert Ndayisenga
 
 During this milestone,  
-I actively contributed to narrowing down the problem scope and drafting our core problem statement. One of my challenges was balancing between exploring new ideas and staying focused on the problem at hand. Through this process, I improved my skills in user-centered thinking and learned the importance of asking better, deeper questions. I aim to bring this critical mindset into the solution ideation phase moving forward.
+I actively contributed to narrowing down the problem scope and drafting our core problem statement.
+One of my challenges was balancing between exploring new ideas and staying focused on the problem at hand.
+Through this process, I improved my skills in user-centered thinking and learned the importance of asking better, deeper questions.
+I aim to bring this critical mindset into the solution ideation phase moving forward.
