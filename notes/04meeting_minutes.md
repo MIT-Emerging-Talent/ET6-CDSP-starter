@@ -13,7 +13,7 @@ Attendees: 4**
 
 ### **Topics Discussed:**
 
-+ **Retrospective**
+#### **Retrospective**
 
 + Start Doing
   + Add a **detailed meeting agenda** on key issues.
