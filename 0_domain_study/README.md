@@ -62,10 +62,4 @@
   - **Outcomes**: Completion rates, knowledge retention
 - **Simulation Design (1 hr)**: Plan low-bandwidth/stress simulations (e.g., using existing LMS data).
 
-## 7. Risks to Address
-
-- **Over-scoping**: Avoid building AI tools—focus on measuring impact of existing/conceptual solutions.
-- **Bias**: Prioritize diverse conflict zones (avoid generalizing from one region).
-- **Data Gaps**: Document limitations explicitly (e.g., "Simulations may not capture trauma accurately").
-
 ---
