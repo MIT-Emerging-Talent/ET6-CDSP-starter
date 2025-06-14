@@ -1,6 +1,6 @@
 # Team Progress
 
-## Convergent and divergent thinking
+## Convergent and Divergent thinking
 
 ### Problem Identification
 
@@ -90,3 +90,21 @@ to solar energy?**"]
   - Time limit of 12 weeks for research
 - Knowledge Requirements
   - Requires basic domain knowledge in climate science and energy policy
+
+## Project Scope
+
+- **Time Period:** 10 years
+- **Renewable Energy Theme:** Solar Energy
+
+  _Why Solar Energy?_
+
+  - **Fast & Flexible:** Easy to deploy, remove, and scale
+     — from single homes to entire camps.  
+  - **Off-Grid Ready:** Operates independently of central
+     power infrastructure.  
+  - **Data-Rich:** Ample data on solar use and conflict
+     impacts enables robust analysis.  
+  - **High Impact:** Enhances resilience, reduces emissions,
+     and improves daily life in conflict zones.
+
+- **Regions:** Sudan, Syria, Ukraine, Gaza
