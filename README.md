@@ -6,7 +6,7 @@
   Our name symbolizes unity and teamwork as we strive together towards
     excellence in data science.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=1000&color=00F71E&vCenter=true&width=484&height=64&lines=The+SKAJEN;Solola+-++Shayma+-+Sara+-+Khadija+-+Jenia+(Yevheniia)+-++Nelson)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F71E&vCenter=true&width=484&height=64&lines=The+SKAJEN;Solola+-++Shayma+-+Sara+-+Khadija+-+Jenia+-++Nelson)](https://git.io/typing-svg)
 
    **Collaboration is key, and we never settle for less than the best.
     #WeMove**
