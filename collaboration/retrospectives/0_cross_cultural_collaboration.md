@@ -185,7 +185,6 @@ challenges, and successes we've experienced in the early stages of our project.
   * Committed to increased engagement, regular participation in meetings, and
   contributing within the agreed team structure and timeline.
 
-
 ### Member 5: Olubusayo Solola
 
 * Contributions
