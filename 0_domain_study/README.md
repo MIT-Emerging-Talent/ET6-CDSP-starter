@@ -1,4 +1,4 @@
-# Create a README.md content describing the structure and research content of the "resources" folder
+# README.md content describing the structure and research content of the "resources" folder under 0_domain_Study Folder
 
 ## 📚 Research Resources Overview
 
