@@ -3,6 +3,7 @@
 ## Refined Main Questions
 
 ### Primary Research Question
+
 **Can we develop a machine learning model to predict which BNPL users are at high risk of over-indebtedness or default, and what features serve as the best early warning indicators?**
 
 ### Secondary Research Questions
@@ -20,6 +21,7 @@
 ## Research Focus Areas
 
 ### 1. Technical Focus
+
 **Machine Learning for Financial Risk Assessment**
 - **Algorithm Comparison**: Systematic evaluation of ensemble methods vs. traditional logistic regression
 - **Feature Engineering**: Development of BNPL-specific behavioral and temporal features
@@ -27,7 +29,8 @@
 - **Fairness Analysis**: Ensuring equitable performance across demographic groups
 - **Early Warning Systems**: Optimizing prediction horizons (30/60/90 days) for actionable interventions
 
-### 2. Business Focus  
+### 2. Business Focus
+
 **BNPL Market Dynamics and Stakeholder Impact**
 - **Market Structure Analysis**: global market growing at a fast rate
 - **Cross-Platform Risk**: 63% of users have multiple simultaneous loans across different services
@@ -36,6 +39,7 @@
 - **Industry Standards**: Development of responsible lending practices and best practices framework
 
 ### 3. User Focus
+
 **Consumer Protection and Financial Inclusion**
 - **Vulnerable Population Analysis**: Disproportionate impact on young, low-income, and minority consumers
 - **Behavioral Economics**: Understanding why consumers accumulate hidden debt across platforms
