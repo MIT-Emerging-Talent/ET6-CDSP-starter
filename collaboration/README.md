@@ -22,8 +22,8 @@ the shared group norms that guide how we work together as a team.
   Defines what each team member hopes to learn during the project, both technically
   and collaboratively.
 
-- [**retrospective.md**](retrospective.md)  
-  A place for team reflection at several points in the project, such as what went
+- [**retrospectives**](retrospectives/)  
+  A folder for team reflections at several points in the project, such as what went
   well, what didn't, and how to do it differently next time.
 
 Keeping these documents up to date helps us stay transparent, focused, goal-oriented,
