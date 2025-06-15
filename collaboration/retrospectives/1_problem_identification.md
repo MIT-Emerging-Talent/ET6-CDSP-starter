@@ -77,11 +77,30 @@ discussing points we actually agree on.
 
 ## 👤 Individual Retrospectives
 
-### Member_1
+### Banu Ozyilmaz
 
-- Contributions  
-- Challenges  
-- Progress
+> Contributions
+
+- Took part in the domain search by exploring sources and suggesting topic ideas.
+- Helped shape research directions through team meetings and brainstorming.
+- Created and refined the content of the CONTRIBUTING.md file.
+- Created a Git tag.
+
+> Challenges  
+
+- It was hard to narrow down broad topics into clear, focused areas
+- Because of different time zones, it was hard to find enough shared meeting time.
+This limited time made it harder to clarify small differences in ideas.
+- Being part of this kind of process for the first time
+made it hard for me to know where to start, which caused some confusion in the beginning.
+
+> Progress
+
+- Improved at moving from general themes to specific research questions.
+- Learned to share early ideas to get quicker feedback.
+- Became more mindful of how even small misunderstandings can hide agreement.
+- Learned to apply divergent and convergent thinking more effectively.
+- Learned to use the FRESCO framework to improve the quality of a research question.
 
 ### Member_2
 
