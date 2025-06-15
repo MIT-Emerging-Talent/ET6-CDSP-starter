@@ -23,6 +23,23 @@ instability. This topic intersects data, finance, and humanitarian value.
   - [Project Goals](#project-goals)
   - [Team Composition](#team-composition)
   - [Repository Structure](#repository-structure)
+    - [Repository Structure (Expand to view)](#repository-structure-expand-to-view)
+  - [Setup and Usage](#setup-and-usage)
+    - [Prerequisites](#prerequisites)
+    - [1 · Clone the repository](#1--clone-the-repository)
+    - [2 · Create and activate a virtual environment](#2--create-and-activate-a-virtual-environment)
+    - [3 · Install project dependencies](#3--install-project-dependencies)
+    - [4 · Run the test suite](#4--run-the-test-suite)
+    - [5 · Download datasets (if needed)](#5--download-datasets-if-needed)
+    - [6 · Launch Jupyter Lab](#6--launch-jupyter-lab)
+  - [Roles and Responsibilities](#roles-and-responsibilities)
+    - [Core Responsibilities (everyone)](#core-responsibilities-everyone)
+  - [Task Breakdown](#task-breakdown)
+    - [Week of 17–23 June 2025 · Data Research and Planning](#week-of-1723-june-2025--data-research-and-planning)
+  - [Definition of Done](#definition-of-done)
+  - [Tools and Technologies](#tools-and-technologies)
+  - [Milestones](#milestones)
+  - [License](#license)
 
 ---
 
@@ -60,7 +77,7 @@ We encourage every team member to jump in. You can contribute by:
 4. **Adding code or notebooks** – Keep notebooks reproducible (clean outputs,
    random seeds fixed) and adhere to our lint rules.  
 5. **Submitting a pull request** – Link any related issue, ensure CI passes,
-   and confirm your work meets the [Definition of Done](#definition-of-done).
+   and confirm your work meets the [Definition of Done](#definition-of-done).  
 6. **Reviewing peers’ PRs** – Leave constructive comments, suggest improvements,
    and approve when ready.  
 7. **Opening issues or discussions** – Use issue templates for bugs, ideas, or
@@ -98,32 +115,155 @@ We encourage every team member to jump in. You can contribute by:
 ---
 
 ## Repository Structure
-<!-- markdownlint-disable MD033 -->
-<details>
-<summary>Click to expand/collapse the repository structure</summary>
+
+### Repository Structure (Expand to view)
+
+</pre>
 
 ```plaintext
 .
-│   .gitignore
-│   .ls-lint.yml
-│   .markdownlint.yml
-│   CONTRIBUTING.md
-│   LICENSE
-│   README.md
-│   guide.md
-│
-├───.github
-│   ├───ISSUE_TEMPLATE
-│   └───workflows
-├───.vscode
-│
-├───0_domain_study
-├───1_datasets
-├───2_data_preparation
-├───3_data_exploration
-├───4_data_analysis
-├───5_communication_strategy
-├───6_final_presentation
-│
-├───collaboration
-└───notes 
+├── .github/
+│   ├── ISSUE_TEMPLATE/
+│   └── workflows/
+├── .vscode/
+├── 0_domain_study/
+├── 1_datasets/
+├── 2_data_preparation/
+├── 3_data_exploration/
+├── 4_data_analysis/
+├── 5_communication_strategy/
+├── 6_final_presentation/
+├── collaboration/
+├── notes/
+├── .gitignore
+├── .ls-lint.yml
+├── .markdownlint.yml
+├── CONTRIBUTING.md
+├── LICENSE
+├── README.md
+├── guide.md
+```
+
+</details>
+
+---
+
+## Setup and Usage
+
+### Prerequisites
+
+- **Python 3.9+**
+- **Git**
+- A code editor (VS Code, PyCharm, etc.)
+
+### 1 · Clone the repository
+
+```bash
+git clone https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-13-repo.git
+cd ET6-CDSP-group-13-repo
+```
+
+### 2 · Create and activate a virtual environment
+
+```bash
+python -m venv .venv
+source .venv/bin/activate  # macOS/Linux
+.venv\Scripts\Activate.ps1  # Windows PowerShell
+```
+
+### 3 · Install project dependencies
+
+```bash
+pip install -r requirements.txt
+pre-commit install
+```
+
+### 4 · Run the test suite
+
+```bash
+pytest -q
+```
+
+### 5 · Download datasets (if needed)
+
+```bash
+dvc pull
+```
+
+### 6 · Launch Jupyter Lab
+
+```bash
+jupyter lab
+```
+
+---
+
+## Roles and Responsibilities
+
+### Core Responsibilities (everyone)
+
+- Acquire and prepare data
+- Analyze and model
+- Create code, notebooks, visuals, and reports
+- Review peers’ work
+- Follow repo hygiene and update docs
+
+---
+
+## Task Breakdown
+
+### Week of 17–23 June 2025 · Data Research and Planning
+
+**Goal:** Research relevant datasets that support our topic:
+_The role of cryptocurrency in fostering financial inclusion in
+crisis-affected countries._
+
+| Team Member          | Task                                | Due Date    |
+|----------------------|-------------------------------------|-------------|
+| All members          | Research and summarize 1–2 datasets | 18 Jun 2025 |
+
+We will meet **Tuesday after Evan’s workshop** to review findings.
+
+> Save results to `0_domain_study/` as short `.md` files or notebooks.
+
+---
+
+## Definition of Done
+
+A task is complete when:
+
+1. Code/notebooks pass tests and lint checks  
+2. Documents are peer-reviewed and approved  
+3. CI/CD runs without errors
+
+---
+
+## Tools and Technologies
+
+- Git + GitHub  
+- Python 3.9+  
+- pandas, NumPy, scikit-learn  
+- matplotlib, Plotly  
+- Jupyter Lab  
+- pytest  
+- GitHub Actions  
+- Markdown docs
+
+---
+
+## Milestones
+
+| Phase                        | Dates             |
+|-----------------------------|-------------------|
+| Collaboration               | May 27 – June 2   |
+| Problem Identification      | June 3 – June 16  |
+| Data Collection             | June 17 – June 30 |
+| Data Analysis               | July 1 – July 21  |
+| Communicating Results       | July 22 – Aug 11  |
+| Final Presentation          | Aug 12 – Aug 24   |
+
+---
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
