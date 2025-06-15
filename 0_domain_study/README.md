@@ -62,7 +62,8 @@ Very high
 
 **Expected Data Availability:**  
 Damage data:  
-<https://acleddata.com/2025/02/21/bombing-into-submission-russian-targeting-of-civilians-and-infrastructure-in-ukraine/>  
+[ACLED report on Russian targeting in Ukraine](https://acleddata.com/2025/02/21/bombing-into-submission-russian-targeting-of-civilians-and-infrastructure-in-ukraine/)
+
 Education data: Kolibri, Coursera for Refugees, UNICEF
 
 **Problems:**  

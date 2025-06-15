@@ -9,6 +9,15 @@ jobs:
         - uses: actions/checkout@v4
         - uses: ls-lint/action@v2.2.3
 
+  md_formatting:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - uses: nosborn/github-action-markdown-cli@v3.3.0
+      with:
+        files: .
+        config_file: .markdownlint.yml
+
 
 
   py_formatting:
