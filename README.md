@@ -68,10 +68,13 @@ ___
 
 ### 👥 Meet the team on Github
 <!-- markdownlint-disable MD033 -->
-|                                  |                                  | |
-| :--------------------------------: | :--------------------------------: | :--:|
-|[![Huda Almasi](https://github.com/hudaalamassi.png?size=90)](https://github.com/hudaalamassi) <br>Huda Almasi|[![Malak Batat](https://github.com/malakbattat.png?size=90)](https://github.com/malakbattat)  <br> Malak Batat | [![Sadam Husen Ali](https://github.com/Urz1.png?size=90)](https://github.com/Urz1)<br>Sadam Husen Ali|
-| [![Chrismy Augustin](https://github.com/likechrisss.png?size=90)](https://github.com/likechrisss) <br> Chrismy Augustin|[![F. Ismail SAHIN](https://github.com/fevziismailsahin.png?size=90)](https://github.com/fevziismailsahin) <br> F. Ismail SAHIN|[![Aziz Azizi](https://github.com/Azizsin7.png?size=90)](https://github.com/Azizsin7) <br> Aziz Azizi |
+
+[Huda Almasi](https://github.com/hudaalamassi),
+[Malak Batat](https://github.com/malakbattat),
+[Sadam Husen Ali](https://github.com/Urz1),
+[Chrismy Augustin](https://github.com/likechrisss),
+[F. Ismail SAHIN](https://github.com/fevziismailsahin),
+[Aziz Azizi](https://github.com/Azizsin7)
 
 ___
 
