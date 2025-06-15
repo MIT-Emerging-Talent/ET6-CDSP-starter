@@ -28,7 +28,8 @@ This folder helps anchor that work.
 ## 🔍 Key Files in This Folder
 
 - [`problem_statement.md`](./problem_statement.md)  
-  → Full version of our research framing: motivation, context, significance, and goals.
+  → Full version of our research framing: motivation, context, significance,
+and goals.
 - [`literature review.md`](./literature_review.md)
   → Our literature review for the project.
 - [`cultural_contexts.md`](./cultural_contexts.md)
@@ -69,5 +70,7 @@ These are central to how we’ll analyze user reviews and conversations.
 
 If you're joining the project or reviewing our work:
 
-- Start with [`problem_statement_summary.md`](./problem_statement_summary.md) for a high-level view
-- Read [`problem_statement.md`](./problem_statement.md) for full background and research focus
+- Start with [`problem_statement_summary.md`](./problem_statement_summary.md)
+for a high-level view
+- Read [`problem_statement.md`](./problem_statement.md) for full background
+and research focus
