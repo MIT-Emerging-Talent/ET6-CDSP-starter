@@ -11,14 +11,12 @@
 > How can we use behavioral and interaction data from online learning platforms
 > to model the effect of stress (caused by conflict-related events) on students'
 > learning performance in war-affected zones?
-> [5 Ws and 1H](/0_domain_study/5Ws_and_1_H.md#problem-1)
+> Visit [5 Ws and 1H](/0_domain_study/five_ws_and_one_h_framework.md#problem-1) for this problem
 
 ### Problem 2
 
-How can we use behavioral and interaction data from online learning platforms to
-model the impact of conflict-induced stress on students’ academic performance in
-war-affected zones, and examine the role of AI tools—both as learning aids and
-potential sources of academic dishonesty (e.g., cheating)—under these conditions?
+> Measure how much AI can contribute (either in positive or negative way) to college students' - located in war affected zones - performance in college assignements and acitvities.
+> Visit [5 Ws and 1H](/0_domain_study/five_ws_and_one_h_framework.md#problem-2) for this problem
 
 ## Viktoriya
 
