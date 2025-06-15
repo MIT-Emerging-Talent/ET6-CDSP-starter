@@ -8,7 +8,7 @@ Some boundaries around our project.
 
 <!--
 - Availability of existing data and resources 
-- Time limitations in effect limit the depth, type and data collection methods
+- Time limitations for the project in effect which limit the depth, type and data collection methods
 -->
 
 ## Internal: Involuntary
