@@ -166,3 +166,34 @@ we aim to improve moving forward.
 - Improved at scoping problems and defining actionable research questions.
 - Built confidence in leading discussions and making decisions.
 - Strengthened async communication and task coordination using GitHub and Slack.
+
+---
+
+### Olubusayo Solola
+
+### Contributions (Olubusayo)
+
+- Created the introductory document on GitHub that outlined the
+background and scope of the domain study, providing a strong foundation
+for the team’s research efforts.
+- Participated in early brainstorming sessions and shared a project
+idea rooted in personal experience.
+- Reviewed and provided feedback on drafts of the problem statement and
+research question.
+- Maintained communication on Slack, staying updated with team progress
+and contributing asynchronously.
+- Supported GitHub documentation processes by managing file organization
+and reviewing contributions from other team members.
+
+### Challenges (Olubusayo)
+
+- Balancing project participation with several other commitments.
+- Re-engaging with the team’s progress after a brief period of inactivity.
+- Gaining clarity on the depth of domain research expected in early stages.
+
+### Progress (Olubusayo)
+
+- Improved proficiency in using GitHub for collaborative documentation and version control.
+- Strengthened skills in initiating and structuring technical research within a collaborative setting.
+
+---
