@@ -22,7 +22,8 @@
 
 ### 1. Technical Focus
 
-**Machine Learning for Financial Risk Assessment**
+####Machine Learning for Financial Risk Assessment
+
 - **Algorithm Comparison**: Systematic evaluation of ensemble methods vs. traditional logistic regression
 - **Feature Engineering**: Development of BNPL-specific behavioral and temporal features
 - **Model Interpretability**: Implementation of SHAP and LIME for regulatory compliance
