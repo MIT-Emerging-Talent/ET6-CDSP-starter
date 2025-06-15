@@ -19,7 +19,7 @@ and unique labor market structures.
 
 ---
 
-## 3. My Suggested Refactored Version (Optional)  
+## 3. My Suggested Refactored Version  
 
 **How does wage growth in the first five years after arrival compare between
 recent immigrants and native-born workers in Canada,
@@ -94,7 +94,9 @@ Margaret R Jones / 25 Apr 2019 [https://cepr.org/](https://cepr.org/)
 - Community organizations  
 
 **Why it's meaningful:**  
-This research informs more inclusive policy and economic planning, especially in immigrant-rich societies like Canada. It's also personally relevant to many of us in the group.
+This research informs more inclusive policy and economic planning,
+especially in immigrant-rich societies like Canada. It's also personally
+relevant to many of us in the group.
 
 ---
 
