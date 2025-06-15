@@ -10,6 +10,7 @@
 | June 2nd | Google Meet  | Respecting deadlines, collaboration |
 | June 6th | Google Meet  | Brainstorming questions |
 | June 11th | Google Meet  | Presenting questions and choosing one |
+| June 15th| Google Meet | Finalising group research topic |
 
 ## Content of each meeting
 
@@ -35,7 +36,7 @@
 - On Wednesday, come to the meeting with one or more research questions
 - Investigate whether image analysis is feasible or too difficult
 
-### June 12th, 5PM EST
+### June 11th, 5PM EST
 
 #### Key Discussion Points
 
@@ -69,3 +70,25 @@ ensure better tracking and visibility for the MIT team.
 to the next meeting.
 - The group will then brainstorm collectively to narrow the suggestions down to
 a concise, group-approved research focus.
+
+### June 15th, 5PM EST
+
+#### Review of Identified Group Research Topic
+
+- Final confirmation of the selected research topic; "How effective is Satellite
+Image Analysis at Predicting Deforestation in Malaysia?"
+- Clarification of objectives and scope  
+
+#### Distributed Group Work
+
+- Task allocation and responsibilities  
+- Timeline and milestones leading up to **June 16** deadline  
+
+#### Planning for the Next Meeting
+
+- Agreed on next meeting date, June 16th, 2025.
+
+#### Collaboration Folder Setup
+
+- All members are encouraged to complete their tasks in the collaborations
+folder as soon as possible.
