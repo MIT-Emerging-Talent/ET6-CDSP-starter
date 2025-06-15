@@ -87,7 +87,7 @@ performance drops significantly.
 **Where will the data be collected?**
 
 * Within Learning Management Systems (e.g., Moodle, Google Classroom, Canvas)
-* Messaging platforms (e.g., WhatsApp, Telegram) in low-connectivity settings
+* Messaging platforms (e.g., WhatsApp, Telegram) in low-connectivity settings (in production version)
 * Learning analytics tools or app logs
 * International humanitarian institutions tracking war-related events
 
