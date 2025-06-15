@@ -1,3 +1,4 @@
+
 # Team Retrospective
 
 Over the past two weeks, our team focused on establishing group dynamics, aligning our goals, and initiating our research direction.
@@ -49,3 +50,4 @@ Over the past two weeks, our team focused on establishing group dynamics, aligni
 ---
 
 We feel we’ve built a strong foundation as a team, aligned on a promising research area, and are moving forward with clear next steps.
+
