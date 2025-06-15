@@ -53,7 +53,7 @@
 
 ### ➕ Did you need to add things that weren't in your strategy?
 
-- 🛠️ Yes. Midway through, we realized we needed more structured research templates to guide interviews and secondary data collection.
+- 🛠️ Yes. Midway through, we realized we needed more structured research templates to guide our analysis and make sense of the secondary data we gathered.
 
 ### ➖ Or remove extra steps?
 
