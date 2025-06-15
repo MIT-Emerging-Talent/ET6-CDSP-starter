@@ -7,9 +7,9 @@ and financial risk modeling.
 ## BNPL
 
 The rise of BNPL services has significantly changed how consumers — especially
-young adults — access credit. These services offer short-term installment payments
-with minimal upfront verification and no interest if payments are made on time.
-However, this convenience may come at the cost of untracked debt accumulation,
+young adults (Gen Z) — access credit. These services offer short-term installment
+payments with minimal upfront verification and no interest if payments are made
+on time. However, this convenience may come at the cost of untracked debt accumulation,
 missed payments,and difficulty predicting long-term financial stress.
 
 Despite growing BNPL adoption, traditional credit systems often fail to monitor
