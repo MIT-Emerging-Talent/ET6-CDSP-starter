@@ -32,7 +32,8 @@
 
 ### 2. Business Focus
 
-**BNPL Market Dynamics and Stakeholder Impact**
+####BNPL Market Dynamics and Stakeholder Impact
+
 - **Market Structure Analysis**: global market growing at a fast rate
 - **Cross-Platform Risk**: 63% of users have multiple simultaneous loans across different services
 - **Revenue Model Impact**: How merchant fee structures influence risk assessment incentives
@@ -41,7 +42,8 @@
 
 ### 3. User Focus
 
-**Consumer Protection and Financial Inclusion**
+####Consumer Protection and Financial Inclusion
+
 - **Vulnerable Population Analysis**: Disproportionate impact on young, low-income, and minority consumers
 - **Behavioral Economics**: Understanding why consumers accumulate hidden debt across platforms
 - **Financial Literacy Gaps**: BNPL-specific risks not covered in traditional financial education
