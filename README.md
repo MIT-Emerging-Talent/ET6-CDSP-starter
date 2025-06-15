@@ -33,7 +33,7 @@ ___
   * Understand how culture shapes perceptions of empathy and trust.
 
   * Deliver insights through data analysis and a final report/dashboard.
-
+  
 * **In Summary**
 
 This project explores how mental health support—via chat-bots, humans, or hybrid
@@ -45,11 +45,36 @@ effective, and inclusive digital care.
 
 ___
 
+## 🎯 Research Question
+
+How effectively do publicly accessible, free mental health chatbots
+ (e.g., Wysa, Replika—when used within their terms of service) respond
+ to a limited set of pre-scripted, high-risk user inputs
+ (such as self-harm, suicidal ideation, or abuse disclosures),
+ as evaluated using a structured rubric based on mental health professional guidelines,
+ considering technical feasibility, limited clinical expertise, and ethical constraints
+ on data access?
+
+### 🔍 Secondary Questions
+
+* What key components should a professional mental health support response
+ include when addressing high-risk situations like suicidal ideation or abuse?
+
+* How do different chatbots vary in their tone, response strategy, and escalation
+ mechanisms when faced with the same high-risk input?
+* To what extent can simple NLP-based techniques help detect response quality or
+ red flags in chatbot replies, without relying on deep clinical expertise?
+* What ethical and technical considerations arise when evaluating chatbots
+ with simulated high-risk messages, and how can they be addressed during
+ testing and reporting?
+
+___
+
 ### 👥 Meet the team on Github
 <!-- markdownlint-disable MD033 -->
 
 [Huda Almasi](https://github.com/hudaalamassi),
-[Malak Batat](https://github.com/malakbattat),
+[Malak Battatt](https://github.com/malakbattat),
 [Sadam Husen Ali](https://github.com/Urz1),
 [Chrismy Augustin](https://github.com/likechrisss),
 [F. Ismail SAHIN](https://github.com/fevziismailsahin),
