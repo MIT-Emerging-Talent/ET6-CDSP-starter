@@ -1,4 +1,4 @@
-# 📚 Domain Study
+# Domain Study
 
 This document outlines our foundational research into the domain of Buy Now, Pay
 Later (BNPL) services and their implications for credit behavior, over-indebtedness,
@@ -16,38 +16,38 @@ Despite growing BNPL adoption, traditional credit systems often fail to monitor
 or incorporate BNPL behavior. This creates blind spots in assessing financial
 risk and raises critical questions about financial inclusion and consumer protection.
 
-## ❗Problem Statement
+## Problem Statement
 
 BNPL services create invisible debt accumulation across multiple platforms that
 neither consumers nor traditional credit monitoring systems can effectively
 track, leading to unexpected financial stress and over-indebtedness among young
 adults who believe they are managing their finances responsibly.
 
-## ❔Research Question
+## Research Question
 
 *Can we develop a machine learning model to predict which BNPL users are at high
 risk of over-indebtedness or default, and what features serve as the best early
 warning indicators?*
 
-## 🔍 Findings
+## Findings
 
 Our domain research revealed the following major themes and gaps:
 
-### 📈 BNPL and Credit Behavior
+### BNPL and Credit Behavior
 
 There is growing discussion on BNPL’s popularity  particularly among Gen Z  and
 its exclusion from traditional credit scoring systems. However, we found little
 rigorous analysis on whether BNPL usage positively, negatively, or neutrally
 affects long-term credit behavior (defaults, credit scores, responsible borrowing).
 
-### ⚠️ Over-Indebtedness Risk Modeling in BNPL
+### Over-Indebtedness Risk Modeling in BNPL
 
 Several papers suggest BNPL usage leads to debt overextension, but very few
 provide quantifiable thresholds or methods to flag high-risk users early.
 There's a notable lack of frameworks for early-warning indicators or personalized
 risk profiling.
 
-### 🔑 Summary of Observed Patterns
+### Summary of Observed Patterns
 
 - BNPL use is rising sharply among young adults with limited financial education.
 - Users frequently hold BNPL balances across multiple platforms without
