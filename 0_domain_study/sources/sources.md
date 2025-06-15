@@ -5,9 +5,10 @@
 **Predictive Analytics in BNPL for Smarter Lending**  
 Authors: Mihir Mistry (Kody Technolab)  
 Year: 2024  
-Link: [The Complete Guide to Using Predictive Analytics in BNPL](
+Link: [The Complete Guide to Using Predictive Analytics in BNPL][]  
+
+[The Complete Guide to Using Predictive Analytics in BNPL]:
 https://kodytechnolab.com/blog/predictive-analytics-in-buy-now-pay-later-bnpl/
-)  
 Key Points:  
 
 - Real-time ML systems analyze **transaction context** (merchant risk, product category)
@@ -36,9 +37,11 @@ Key Points:
 **BNPL Risk Management: 3 Proactive Measures for Prevention**  
 Source: Fraud.net  
 Date: 2023-12-23  
-Link: [Full Article](
+Link:
+[BNPL Risk Management: 3 Proactive Prevention Measures][fraudnet-article]
+
+[fraudnet-article]:
 https://www.fraud.net/resources/bnpl-risk-management-3-proactive-measures-for-prevention
-)  
 Key Points:
 
 - **Synthetic identity fraud**
@@ -51,9 +54,11 @@ Key Points:
 **Buy Now, Pay Later: Market Impact and Policy Considerations**  
 Source: Federal Reserve Bank of Richmond  
 Date: 2025-01  
-Link: [Economic Brief](
-https://www.richmondfed.org/publications/research/economic_brief/2025/eb_25-03
-)  
+Link:
+[Federal Reserve Economic Brief: BNPL Market Impact][richmond-fed-2025]
+
+[richmond-fed-2025]:
+ https://www.richmondfed.org/publications/research/economic_brief/2025/eb_25-03
 Key Points:
 
 - Low-income users (<$50k) have **3× default rates** vs high-income (>$100k) :cite[10]
@@ -68,9 +73,11 @@ Key Points:
 **Credit Scoring Features for BNPL Providers**  
 Source: RiskSeal  
 Date: 2024-11-26  
-URL: [RiskSeal Blog](
+URL:
+[RiskSeal: Credit Scoring Features for BNPL Providers][riskseal-blog]
+
+[riskseal-blog]:
 https://riskseal.io/blog/credit-scoring-features-for-bnpl-providers
-)  
 Last Accessed: 2025-06-15  
 Key Information:
 
@@ -86,9 +93,11 @@ Key Information:
 **Buy Now, Pay Later: Market trends and consumer impacts**  
 Source: CFPB  
 Date: 2022  
-URL: [Research Report](
+URL:
+[CFPB Research Report: BNPL Market Trends & Consumer Impacts][cfpb-report]
+
+[cfpb-report]:
 https://www.consumerfinance.gov/data-research/research-reports/buy-now-pay-later-market-trends-and-consumer-impacts/
-)  
 Last Accessed: 2025-06-15  
 Key Information:
   
