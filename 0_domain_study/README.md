@@ -37,6 +37,6 @@ This process culminated in the research question below.
 ## Group Understanding Summary
 
 Explain—in your own words—how the domain works and where the pain points are.  
-You can embed a diagram, bullet causal loops, or add a short narrative.
+You can embed a diagram, bullet causal loops, or add a short narrative
 
 ## Research Question
