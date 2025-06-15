@@ -15,7 +15,7 @@
 
 | Day    | How | The topic of discussion |
 | :----: | :-: | ----------------------: |
-|        |     |                         |
+|Saturday|Online Meeting|Weekly Check-in|
 
 ## Communication Channels 🗣️
 
