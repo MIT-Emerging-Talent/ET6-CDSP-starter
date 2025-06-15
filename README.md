@@ -65,7 +65,6 @@ we examine the interconnected financial inclusion ecosystem including:
 - Network Effects: Platform adoption benefits create market concentration
 - Behavioral Biases: Mental accounting and present bias affect user decisions
 
-
 ## 👥 Meet the Team
 
 <!-- markdownlint-disable MD033 -->
