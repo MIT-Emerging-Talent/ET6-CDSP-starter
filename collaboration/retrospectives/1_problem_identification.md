@@ -90,7 +90,7 @@ we aim to improve moving forward.
 - Yes — we added:
   - A decision matrix to help prioritize and evaluate problem ideas.
   - A systems thinking diagram to better visualize problem complexity.
-  - Mid-week Slack check-ins for quick status updates between meetings.
+  - We added a second weekly meeting to improve discussion and workflow.
 
 ### Did we need to remove extra steps?
 
@@ -103,7 +103,7 @@ we aim to improve moving forward.
 
 ### Khadija Al Ramlawi
 
-###Contributions
+### Contributions
 
 - Arranged and scheduled weekly team meetings with proper calendar invites.
 - Facilitated discussions to ensure efficient, outcome-driven meetings.
@@ -121,14 +121,14 @@ we aim to improve moving forward.
 - Checked on team members' progress and offered support with assigned tasks.
 - Helped consolidate deliverables ahead of deadlines.
 
-###Challenges
+### Challenges
 
 - Narrowing down multiple problem ideas into one feasible research question.
 - Balancing milestone responsibilities with personal and professional demands.
 - Coordinating synchronous meetings across different time zones.
 - Balancing Milestone 1 work while completing remaining deliverables from Milestone 0.
 
-###Progress
+### Progress
 
 - Gained experience in problem scoping, feasibility assessment, and systems
   thinking.
