@@ -30,7 +30,9 @@ Key Points:
   **age <35**,  **education ≤ high school (62%)**, **debt-to-income >
   40%** (avg 43%) :cite[4]:cite[10]  
 - Strongest adoption in countries with
-   **high inflation (+19% usage)** and **lax regulation** :cite[4]  
+   **high inflation (+19% usage)** and **lax regulation** :cite[4]
+
+---
 
 ## Articles
 
@@ -67,6 +69,8 @@ Key Points:
 - Regulatory alert: May 2024 CFPB rule mandates
    **BNPL lenders comply with Regulation Z**
   (billing statements, dispute resolution) :cite[10]  
+
+---
 
 ## Website
 
@@ -107,6 +111,8 @@ Key Information:
    directly indicate liquidity stress (vs forgotten payments) :cite[9]  
 - Data shows **Gen Z (49%)** and **subprime borrowers (43%)**
    dominate user base :cite[9]  
+
+---
 
 ## Notes
 
