@@ -25,6 +25,19 @@ This process culminated in the research question below.
 > <!-- One concise paragraph describing the real-world problems as you 
 > (or someone you know) experienced it.  
 > Explain who is affected and why it matters. -->
+Immigrant juveniles navigating the U.S. immigration system face significant
+and growing barriers, especially due to recent policy changes that
+restrict access to legal representation and critical support services. Without
+proper legal aid, court interpreters, or guidance, many children — often appearing
+in court alone — are unable to effectively advocate for their protection and fair
+treatment. This vulnerability is compounded by longer detention times, increased
+court backlogs, and language barriers, all of which severely impact their
+chances of securing safety and reunification. As displaced students and
+community members familiar with these struggles, we recognize that these
+systemic gaps disproportionately harm immigrant children, placing thousands at
+risk of deportation and trauma. This project aims to shed light on these
+challenges and advocate for urgent reforms to ensure equitable legal protection
+for immigrant youth.
 
 ## Background Review
 
