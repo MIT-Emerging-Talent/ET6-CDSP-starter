@@ -22,7 +22,7 @@ narrowed scope to *access to counsel* and *case outcomes* for immigrant juvenile
 This process culminated in the research question below.
 
 ## Problem Statement
-> <!-- One concise paragraph describing the real-world problem as you 
+> <!-- One concise paragraph describing the real-world problems as you 
 > (or someone you know) experienced it.  
 > Explain who is affected and why it matters. -->
 
