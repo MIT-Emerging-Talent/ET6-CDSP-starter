@@ -43,16 +43,15 @@ attention to cultural and emotional dimensions.
 
 - **Naslund et al. (2020).** *Digital peer support and social media for mental
   health: possibilities and challenges*  
-  Published in [CPR](
-  https://link.springer.com/article/10.1007/s11920-020-01135-0)  
+  Published in [CPR](https://doi.org/10.1007/s11920-020-01135-0)  
   Peer support systems show promise for emotional depth and cultural
   adaptability, suggesting value in hybrid models.
 
-- **Naslund et al. (2020).** *The future of mental health care: peer-to-peer  
+- **Naslund et al. (2020).** *The future of mental health care: peer-to-peer
   support and social media*  
   Published in  
   [Epidemiology and Psychiatric Sciences](https://pubmed.ncbi.nlm.nih.gov/26744309/)  
-  Emphasizes community-driven mental health care and peer involvement in app  
+  Emphasizes community-driven mental health care and peer involvement in app
   ecosystems.
 
 ---
@@ -61,8 +60,8 @@ attention to cultural and emotional dimensions.
 
 - **Tang et al. (2022).** *How cultural values shape perceptions of chatbot
   empathy in mental health contexts*  
-  Published in [MDPI International Journal of Environmental Research and Public
-  Health](https://www.mdpi.com/1660-4601/19/2/1234)  
+  Published in [Int. J. Environ. Res. Public Health](
+  https://www.mdpi.com/1660-4601/19/2/1234)  
   Found significant variation in chatbot reception across regions. Emotional
   mirroring and communication style must align with local norms.
 
@@ -71,9 +70,9 @@ attention to cultural and emotional dimensions.
 ## ❗ Research Gaps
 
 - Few studies rigorously compare **chatbot, human, and hybrid** support models
-  **side by side**
+  **side by side**  
 - Very limited empirical data from **Asia, the Middle East, and the Caribbean**
 - Existing sentiment analysis and UX studies often neglect **cultural
-  interpretation of emotions**
+  interpretation of emotions**  
 - The **emotional cost of ineffective AI support** (e.g., when chatbots
   mishandle crisis) is underexplored
