@@ -1,3 +1,5 @@
+<!-- markdownlint-disable MD013 MD034 -->
+
 # 📚 Literature Review – Digital Mental Health Support
 
 This section provides a brief overview of key findings and gaps in the research
@@ -71,7 +73,7 @@ attention to cultural and emotional dimensions.
 
 - Few studies rigorously compare **chatbot, human, and hybrid** support models
   **side by side**  
-- Very limited empirical data from **Asia, the Middle East, and the Caribbean**
+- Very limited empirical data from **Asia, the Middle East, and the Caribbean**  
 - Existing sentiment analysis and UX studies often neglect **cultural
   interpretation of emotions**  
 - The **emotional cost of ineffective AI support** (e.g., when chatbots
