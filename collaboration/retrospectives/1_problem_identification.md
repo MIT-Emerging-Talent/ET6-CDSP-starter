@@ -101,9 +101,11 @@ we aim to improve moving forward.
 
 ## Individual Retrospectives
 
+---
+
 ### Khadija Al Ramlawi
 
-### Contributions
+### Contributions (Khadija)
 
 - Arranged and scheduled weekly team meetings with proper calendar invites.
 - Facilitated discussions to ensure efficient, outcome-driven meetings.
@@ -121,14 +123,14 @@ we aim to improve moving forward.
 - Checked on team members' progress and offered support with assigned tasks.
 - Helped consolidate deliverables ahead of deadlines.
 
-### Challenges
+### Challenges (Khadija)
 
 - Narrowing down multiple problem ideas into one feasible research question.
 - Balancing milestone responsibilities with personal and professional demands.
 - Coordinating synchronous meetings across different time zones.
 - Balancing Milestone 1 work while completing remaining deliverables from Milestone 0.
 
-### Progress
+### Progress (Khadija)
 
 - Gained experience in problem scoping, feasibility assessment, and systems
   thinking.
@@ -138,3 +140,29 @@ we aim to improve moving forward.
   team.
 - Enhanced async collaboration and documentation practices through Slack and
   GitHub.
+
+---
+
+### Yevheniia Rudenko
+
+### Contributions (Yevheniia)
+
+- Participated in brainstorming sessions with ideas based on personal experience.
+- Helped draft and refine the problem statement and research question.
+- Conducted domain research through literature and program reviews.
+- Maintained group norms, learning goals, and planning documents.
+- Managed GitHub uploads, resolved version conflicts, and supported teammates.
+- Monitored the project board, ensured tasks were completed, and helped redistribute work when blockers arose.
+- Provided technical help on GitHub and ensured smooth project coordination.
+
+### Challenges (Yevheniia)
+
+- Balancing project work with personal and professional obligations.
+- Managing Milestone 1 while finalizing Milestone 0.
+
+### Progress (Yevheniia)
+
+- Gained hands-on experience in project management.
+- Improved at scoping problems and defining actionable research questions.
+- Built confidence in leading discussions and making decisions.
+- Strengthened async communication and task coordination using GitHub and Slack.
