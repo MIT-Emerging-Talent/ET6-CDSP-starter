@@ -25,9 +25,10 @@ adults who believe they are managing their finances responsibly.
 
 ## Research Question
 
-*Can we develop a machine learning model to predict which BNPL users are at high
-risk of over-indebtedness or default, and what features serve as the best early
-warning indicators?*
+*How accurately can a machine learning model, using behavioral and transactional
+data, predict over-indebtedness risk among Gen Z Buy Now, Pay Later (BNPL) users
+within a 6-month horizon, and which features provide the most reliable early-warning
+signals?*
 
 ## Findings
 
