@@ -15,11 +15,20 @@
 
 Subject to communication via WhatsApp, but preferable at the beginnings of the Milestones.
 
-| Day                      | How  | Topic of Discussion    |
-|--------------------------|------|-------------------------|
-| Beginnings of Milestones | Zoom | How to get it done      |
+## 📅 Meeting Schedule
+
+| **Day**                  | **Time**        | **Location**                |
+|--------------------------|-----------------|-----------------------------|
+| Every Monday & Wednesday | 11:30 AM EST    | Online via Zoom             |
 
 ---
+
+## 📝 Agenda
+
+1. Review of Milestones  
+2. Updates on the current milestone  
+3. Key deliverables and deadlines  
+4. Challenges faced and strategies to overcome them
 
 ## Communication Channels
 

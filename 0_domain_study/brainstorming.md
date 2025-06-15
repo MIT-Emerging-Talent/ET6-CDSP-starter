@@ -167,16 +167,16 @@ project focus.
 
 ---
 
-## ✅ Final Decision: Supply Chain Project
+## ✅ Preliminary Research Question: Supply Chain Project
 
 After two rounds of team voting and discussion, we selected the following as our
 final project focus:
 
-### 🧪 Final Project Title
+### 🧪  Preliminary Project Title
 
 ### Understanding and Reducing Delivery Delays in the U.S. Retail Supply Chain
 
-### 🔬 Final Research Question
+### 🔬  Preliminary Research Question
 
 *What are the key factors that contribute to delivery delays in the U.S. retail supply
 chain, and how can they be mitigated?*
