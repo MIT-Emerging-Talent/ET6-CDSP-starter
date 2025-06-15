@@ -16,53 +16,32 @@ ___
   How does support quality differ between chatbot-based, human-based, and hybrid
   mental health apps—and how are these differences experienced across cultures?
 
-* **Background & Motivation**
-
-  Mental health affects 1 in 8 people worldwide (WHO), yet access remains
-  limited in many regions due to cost, stigma, and lack of professionals.
-  Digital apps have stepped in, offering:
-
-  * Chat-bots: 24/7 support, low cost, but often impersonal
-
-  * Humans: Deeper empathy, but limited availability
-
-  * Hybrids: A blend of both—potentially scalable and warm
-
-  As a culturally diverse team, we’ve experienced the strengths and limitations
-  of all three.
-  **This raises key questions:**
-  1. Are users truly being supported—or just being managed?
-  2. How do cultural norms shape perceptions of empathy and trust?
-
 * **Why It Matters**
 
-  * Timely: AI mental health tools are booming, but emotional effectiveness is
-    under explored
+  * Mental health affects 1 in 8 people globally, but access remains unequal.
 
-  * Culturally Grounded: Empathy looks different across cultures—especially in
-    hybrid models
+  * Chatbots offer 24/7 low-cost support, but may lack empathy.
 
-  * Feasible: We’ll analyze app reviews, chatbot simulations, surveys, and
-    research using Python, NLP, and visualization tools
+  * Humans provide depth, but are less scalable.
 
-  * Personal: Our team is deeply invested in mental health and tech
-
-  * Original: Few studies compare all three models across regions
+  * Hybrids aim to combine both—but how well do they work?
 
 * **Goals**
 
-  Compare support quality in chatbot, human, and hybrid systems
+  * Compare emotional support across chatbot, human, and hybrid systems.
 
-  Explore cultural differences in how support is perceived
+  * Understand how culture shapes perceptions of empathy and trust.
 
-  Deliver a report, dashboard, or case study to inform app design and
-  ethical AI practices
+  * Deliver insights through data analysis and a final report/dashboard.
 
 * **In Summary**
 
 This project explores how mental health support—via chat-bots, humans, or hybrid
 systems—is experienced across cultures. Our aim: to inform more empathetic,
 effective, and inclusive digital care.
+
+   **📄** To read the full background and detailed version, see
+   docs/problem_statement.md in 0_domain_study.
 
 ___
 
@@ -78,7 +57,16 @@ ___
 
 ___
 
-#### 📁 **Directory Structure**
+### 🔍 Project Focus
+
+* **Track:** Collaborative Data Science Project (CDSP)
+* **Team Name:** DataCure 🧬
+* **Title:** Chatbot vs Human vs Hybrid Support in Mental Health Apps
+* **Domain:** Digital Mental Health & Emotional Support Technologies
+* **Timeline:** May to August 2025
+* **Current Status:** 🛠️ In Progress (Milestone 1)
+
+### 📁 **Directory Structure**
 
 ```text
 /
@@ -96,9 +84,26 @@ ___
 
 ```
 
-___
+### 🤝 Our Working Agreements
 
-#### ➕ **Contributing**
+* 🔹 [Team Norms](collaboration/guide/1_group_norms.md)
+* 🔹 [Communication Plan](collaboration/communication.md)
+* 🔹 [Constraints](collaboration/constraints.md)
+* 🔹 [Learning Goals](collaboration/learning_goals.md)
+* 🔹 [Milestone 1 Retrospective](collaboration/retrospectives)
+
+## ⏳ Milestones & Timeline
+
+| Milestone | Description                   | Progress     | Target Date |
+|-----------|-------------------------------|--------------|-------------|
+| 0         | Team Setup & Collaboration    | ✅ Complete   | June 2      |
+| 1         | Define Research Question      | 🟡 Ongoing    | June 16     |
+| 2         | Data Collection               | ⏳ Upcoming   | June 30     |
+| 3         | Analysis & Modeling           | ⏳ Upcoming   | July 21     |
+| 4         | Communication Strategy        | ⏳ Upcoming   | August 11   |
+| 5         | Final Presentation            | ⏳ Upcoming   | August 25   |
+
+### ➕ **Contributing**
 
   We’re excited to collaborate! To get involved, please check out our
   [CONTRIBUTING.md](CONTRIBUTING.md) for
@@ -106,7 +111,19 @@ ___
 
 ___
 
+* **Idea Evaluation Sheet**
+
+  All proposed project ideas and their comparison scores are documented in this
+  [spreadsheet](https://tinyurl.com/3r5a5jee)
+  This helped us select the most impactful and feasible topic.
+
+___
+
 #### 🔑 **License**
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 for details.
+
+___
+
+> “There is no health without mental health.” – *World Health Organization*
