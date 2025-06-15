@@ -20,3 +20,23 @@ immigration & juvenile justice emerged as the top-scoring domain
 narrowed scope to *access to counsel* and *case outcomes* for immigrant juveniles.
 
 This process culminated in the research question below.
+
+## Problem Statement
+> <!-- One concise paragraph describing the real-world problem as you 
+> (or someone you know) experienced it.  
+> Explain who is affected and why it matters. -->
+
+## Background Review
+
+| Source / Link | One-sentence takeaway |
+|---------------|-----------------------|
+| [Paper A](#)  | … |
+| [Dataset B](#) | … |
+| … | … |
+
+## Group Understanding Summary
+
+Explain—in your own words—how the domain works and where the pain points are.  
+You can embed a diagram, bullet causal loops, or add a short narrative.
+
+## Research Question
