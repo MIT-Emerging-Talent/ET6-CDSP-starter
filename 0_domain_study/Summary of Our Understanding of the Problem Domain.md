@@ -6,7 +6,7 @@ We started with divergent thinking, where each team member shared several
 problem areas related to technology, health, and personal experiences. After
 presenting these ideas in a group session, we used a convergent phase to
 evaluate each proposal using a matrix of criteria (relevance, feasibility,
-data availability, etc.).
+data availability, etc.)
 
 From this structured approach, we selected three top-scoring problems. After
 further discussing constraints (data, timeline, expertise), we narrowed it
