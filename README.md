@@ -30,6 +30,21 @@ We're on a mission to:
 - Develop innovative algorithms for market analysis
 - Create tools that make financial decision-making more accessible
 
+## 🧠 Problem statement
+
+BNPL services create invisible debt accumulation across multiple
+platforms that neither consumers nor traditional credit monitoring
+systems can effectively track, leading to unexpected financial
+stress and over-indebtedness among young adults who believe
+they are managing their finances responsibly.
+
+### Research Question
+
+How accurately can a machine learning model, using behavioral
+and transactional data, predict over-indebtedness risk among
+Gen Z Buy Now, Pay Later (BNPL) users within a 6-month horizon,
+and which features provide the most reliable early-warning signals?
+
 ## 👥 Meet the Team
 
 <!-- markdownlint-disable MD033 -->
