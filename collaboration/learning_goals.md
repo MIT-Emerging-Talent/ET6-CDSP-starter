@@ -70,7 +70,12 @@ Use your collective skills to deliver a prototype, dashboard, or insight that
 
 ### Mustafa Mangal
 
----
+- Master data preprocessing and feature engineering for financial data.
+- Enhance data visualization for clear communication of financial insights.
+- Master collaborative Git workflows, including code reviews and conflict resolution.
+- Build and evaluate predictive models for financial trends.
+- Implement A/B testing for data-driven feature validation.
+- Explore cloud tools for scalable data processing and feature engineering.
 
 ### Sukhrob Muborakshoev
 
