@@ -57,35 +57,35 @@ for actionable interventions
 
 - **Market Structure Analysis**: global market growing at a fast rate
 
-- **Cross-Platform Risk**: 63% of users have multiple simultaneous loans 
+- **Cross-Platform Risk**: 63% of users have multiple simultaneous loans
 across different services
 
-- **Revenue Model Impact**: How merchant fee structures influence risk 
+- **Revenue Model Impact**: How merchant fee structures influence risk
 assessment incentives
 
-- **Competitive Positioning**: Risk management as competitive advantage vs. 
+- **Competitive Positioning**: Risk management as competitive advantage vs.
 regulatory compliance
 
-- **Industry Standards**: Development of responsible lending practices and 
+- **Industry Standards**: Development of responsible lending practices and
 best practices framework
 
 ### 3. User Focus
 
 #### Consumer Protection and Financial Inclusion
 
-- **Vulnerable Population Analysis**: Disproportionate impact on young, 
+- **Vulnerable Population Analysis**: Disproportionate impact on young,
 low-income, and minority consumers
 
-- **Behavioral Economics**: Understanding why consumers accumulate hidden debt 
+- **Behavioral Economics**: Understanding why consumers accumulate hidden debt
 across platforms
 
-- **Financial Literacy Gaps**: BNPL-specific risks not covered in traditional 
+- **Financial Literacy Gaps**: BNPL-specific risks not covered in traditional
 financial education
 
-- **Intervention Design**: User-friendly early warning tools and consumer 
+- **Intervention Design**: User-friendly early warning tools and consumer
 education strategies
 
-- **Empowerment Tools**: Democratizing risk assessment information for 
+- **Empowerment Tools**: Democratizing risk assessment information for
 individual consumers
 
 ## Market Context and Problem Scope
@@ -118,16 +118,16 @@ penalties
 
 ### Regulatory Environment
 
-- **CFPB Investigation**: Active regulatory scrutiny with multiple reports 
+- **CFPB Investigation**: Active regulatory scrutiny with multiple reports
 since 2021
 
-- **Consumer Protection Gaps**: BNPL operates with fewer protections than 
+- **Consumer Protection Gaps**: BNPL operates with fewer protections than
 traditional credit
 
-- **Policy Timeline**: May 2024 interpretive rule treating BNPL as credit 
+- **Policy Timeline**: May 2024 interpretive rule treating BNPL as credit
 cards under Truth in Lending Act
 
-- **International Responses**: UK, Australia, and EU developing comprehensive 
+- **International Responses**: UK, Australia, and EU developing comprehensive
 regulatory frameworks
 
 ## Complete Research Question Framework
@@ -166,10 +166,10 @@ advancing academic knowledge in fintech consumer protection.**
 
 ### Technical Success Metrics
 
-- **Model Performance**: Achieve >80% AUC score in predicting 90-day 
+- **Model Performance**: Achieve >80% AUC score in predicting 90-day
 over-indebtedness risk
 
-- **Feature Discovery**: Identify 10+ statistically significant early warning 
+- **Feature Discovery**: Identify 10+ statistically significant early warning
 indicators
 
 - **Fairness Benchmark**: Model performance variance <5% across demographic 
