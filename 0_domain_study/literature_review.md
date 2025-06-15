@@ -1,4 +1,3 @@
-
 # 📚 Literature Review – Digital Mental Health Support
 
 This section provides a brief overview of key findings and gaps in the research
@@ -50,8 +49,7 @@ attention to cultural and emotional dimensions.
 
 - **Naslund et al. (2020).** *The future of mental health care: peer-to-peer
   support and social media*  
-  Published in [Epidemiology and Psychiatric Sciences](
-  https://www.cambridge.org/core/journals/epidemiology-and-psychiatric-sciences/article/future-of-mental-health-care-peertopeer-support-and-social-media/)  
+  Published in [Epidemiology and Psychiatric Sciences](https://www.cambridge.org/core/journals/epidemiology-and-psychiatric-sciences/article/future-of-mental-health-care-peertopeer-support-and-social-media/)
   Emphasizes community-driven mental health care and peer involvement in app
   ecosystems.
 
