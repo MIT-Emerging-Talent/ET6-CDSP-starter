@@ -68,3 +68,7 @@ I actively contributed to narrowing down the problem scope and drafting our core
 One of my challenges was balancing between exploring new ideas and staying focused on the problem at hand.
 Through this process, I improved my skills in user-centered thinking and learned the importance of asking better, deeper questions.
 I aim to bring this critical mindset into the solution ideation phase moving forward.
+
+### Raneem Rami
+
+In this milestone, I contributed to finding a problem in education. I did a lot of research and explored different ideas. In the next milestone, I aim to collaborate with my team members to find a suitable data set to answer our research question.
