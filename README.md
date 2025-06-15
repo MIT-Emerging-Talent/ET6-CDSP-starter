@@ -30,6 +30,42 @@ We're on a mission to:
 - Develop innovative algorithms for market analysis
 - Create tools that make financial decision-making more accessible
 
+## 🧠 Research Question
+
+Can we develop a machine learning model to predict which BNPL users  
+are at high risk of over-indebtedness or default, and what features  
+serve as the best early warning indicators?
+
+### Problem statement
+
+BNPL services create invisible debt accumulation across multiple
+platforms that neither consumers nor traditional credit monitoring
+systems can effectively track, leading to unexpected financial
+stress and over-indebtedness among young adults who believe
+they are managing their finances responsibly.
+
+### Systems Thinking Approach
+
+Rather than viewing BNPL risks as isolated individual problems,
+we examine the interconnected financial inclusion ecosystem including:
+
+#### Primary Stakeholders
+
+- Consumers: Seeking accessible, affordable credit alternatives
+- BNPL Providers: Balancing growth, profitability, and risk management
+- Merchants: Using BNPL to increase sales and customer satisfaction
+- Regulators: Protecting consumers while fostering beneficial innovation
+- Traditional Lenders: Adapting to competitive pressure from fintech
+
+#### System Dynamics
+
+- Information Asymmetries: Providers have more cross-platform visibility than consumers
+- Incentive Misalignments: Growth incentives may conflict with consumer welfare
+- Regulatory Arbitrage: BNPL operates with fewer rules than traditional credit
+- Network Effects: Platform adoption benefits create market concentration
+- Behavioral Biases: Mental accounting and present bias affect user decisions
+
+
 ## 👥 Meet the Team
 
 <!-- markdownlint-disable MD033 -->
