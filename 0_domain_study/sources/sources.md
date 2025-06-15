@@ -112,6 +112,7 @@ Key Information:
 - Data shows **Gen Z (49%)** and **subprime borrowers (43%)**
    dominate user base :cite[9]  
 
+
 ---
 
 ## Notes
