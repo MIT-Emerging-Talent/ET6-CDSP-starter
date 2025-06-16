@@ -10,7 +10,8 @@ in finance, and the migrant experience.
 
 1. ✅ Agrees with Mukuna’s second question:
    - *How can we help migrants get loans if they don’t have a credit history by
-  using other types of information, like phone use or money transfers?*
+  using other
+  types of information, like phone use or money transfers?*
 
 ---
 
