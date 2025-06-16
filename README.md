@@ -105,7 +105,7 @@ We chose to explore chatbot vs human support in mental health apps.
 
 To narrow our broad problem, we ask:  
 
-**How well do free mental health chatbots (e.g., Wysa, Replika)** respond to a  
+How well do free mental health chatbots (e.g., Wysa, Replika)  respond to a  
 set of high-risk user messages (e.g., self-harm, suicide, abuse), based on a  
 rubric aligned with professional guidelines—while accounting for technical and  
 ethical limits?
