@@ -32,6 +32,8 @@ and support systems, including potential AI-driven tools.
 
 For example, displacement leads to unstable living conditions, which worsen internet access and increase stress. This stress, in turn, lowers motivation and focus, which directly affects learning. Poor performance may lead to low engagement, creating
 a negative feedback loop. We aim to explore this system and investigate how AI can support these students to learn more effectively.
+
+**For further explanation of the problem, the iceberg model is applied** [in this file](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-03-repo/blob/brainstorming/0_domain_study/systems_tkinking.md)
 Here is the **5Ws and 1H** table for your problem statement, tailored to highlight key aspects of the issue:
 
 | **Question** | **Answer** |
