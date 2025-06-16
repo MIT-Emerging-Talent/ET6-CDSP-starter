@@ -9,7 +9,33 @@ effective digital mental health tools.
 
 ___
 
-## ❗ Problem Statement
+## 👥 Meet the team on Github
+<!-- markdownlint-disable MD033 -->
+
+[Huda Alamassi](https://github.com/hudaalamassi),
+[Malak Battatt](https://github.com/malakbattat),
+[Sadam Husen Ali](https://github.com/Urz1),
+[Chrismy Augustin](https://github.com/likechrisss),
+[F. Ismail SAHIN](https://github.com/fevziismailsahin),
+[Aziz Azizi](https://github.com/Azizsin7)
+
+___
+
+## 🔍 Project Focus
+
+* **Track:** Collaborative Data Science Project (CDSP)
+* **Team Name:** DataCure 🧬
+* **Title:** Chatbot vs Human vs Hybrid Support in Mental Health Apps
+* **Domain:** Digital Mental Health & Emotional Support Technologies
+* **Timeline:** May to August 2025
+* **Current Status:** 🛠️ In Progress (Milestone 1)
+
+___
+
+## ❗ Project Title
+
+   **📄** To read the full background and detailed version, see
+   [Milestone 1: Problem Identification](0_domain_study/README.md)
 
 * **Chatbot vs Human vs Hybrid: Support Quality in Mental Health Apps**
   
@@ -40,33 +66,9 @@ This project explores how mental health support—via chat-bots, humans, or hybr
 systems—is experienced across cultures. Our aim: to inform more empathetic,
 effective, and inclusive digital care.
 
-   **📄** To read the full background and detailed version, see
-   docs/problem_statement.md in 0_domain_study.
-
 ___
 
-### 👥 Meet the team on Github
-<!-- markdownlint-disable MD033 -->
-
-[Huda Almasi](https://github.com/hudaalamassi),
-[Malak Battatt](https://github.com/malakbattat),
-[Sadam Husen Ali](https://github.com/Urz1),
-[Chrismy Augustin](https://github.com/likechrisss),
-[F. Ismail SAHIN](https://github.com/fevziismailsahin),
-[Aziz Azizi](https://github.com/Azizsin7)
-
-___
-
-### 🔍 Project Focus
-
-* **Track:** Collaborative Data Science Project (CDSP)
-* **Team Name:** DataCure 🧬
-* **Title:** Chatbot vs Human vs Hybrid Support in Mental Health Apps
-* **Domain:** Digital Mental Health & Emotional Support Technologies
-* **Timeline:** May to August 2025
-* **Current Status:** 🛠️ In Progress (Milestone 1)
-
-### 📁 **Directory Structure**
+## 📁 **Directory Structure**
 
 ```text
 /
@@ -84,13 +86,14 @@ ___
 
 ```
 
-### 🤝 Our Working Agreements
+## 🤝 Our Working Agreements
 
-* 🔹 [Team Norms](collaboration/guide/1_group_norms.md)
+* 🔹 [Team Norms](collaboration/group_norms.md)
 * 🔹 [Communication Plan](collaboration/communication.md)
 * 🔹 [Constraints](collaboration/constraints.md)
 * 🔹 [Learning Goals](collaboration/learning_goals.md)
-* 🔹 [Milestone 1 Retrospective](collaboration/retrospectives)
+
+___
 
 ## ⏳ Milestones & Timeline
 
@@ -103,20 +106,24 @@ ___
 | 4         | Communication Strategy        | ⏳ Upcoming   | August 11   |
 | 5         | Final Presentation            | ⏳ Upcoming   | August 25   |
 
+___
+
+## 🔍 Explore Milestones
+
+* 🔹 [Milestone 0: Cross-Cultural Collaboration](collaboration/README.md)
+* 🔹 [Milestone 1: Problem Identification](0_domain_study/README.md)
+* 🔹 [Milestone 2: Data Collection](1_datasets/README.md)
+* 🔹 [Milestone 3: Data Analysis](4_data_analysis/README.md)
+* 🔹 [Milestone 4: Communicating Results](5_communication_strategy/README.md)
+* 🔹 [Milestone 5: Final Presentation](6_final_presentation/README.md)
+  
+___
+
 ### ➕ **Contributing**
 
   We’re excited to collaborate! To get involved, please check out our
   [CONTRIBUTING.md](CONTRIBUTING.md) for
   guidelines.
-
-___
-
-* **Idea Evaluation Sheet**
-
-  All proposed project ideas and their comparison scores are documented in this
-  [spreadsheet](https://tinyurl.com/3r5a5jee)
-  This helped us select the most impactful and feasible topic.
-
 ___
 
 #### 🔑 **License**
