@@ -47,6 +47,7 @@ Explores how Artificial Intelligence can help motivate students in war-affected 
 * Research papers in PDF format on AI educational interventions
 * Website links to platforms using AI in low-resource settings
 * Articles on trauma-aware chatbots and AI motivation tools
+* All organized and sturcutred links in [one place](/0_domain_study/resources/AI%20in%20Education/links.md)
 
 ---
 
@@ -61,6 +62,7 @@ Analyzes the overall state of education in conflict-affected areas, covering how
 * Case studies and situation reports from UNESCO, ReliefWeb
 * PDFs outlining challenges and solutions in Syria, Ukraine, Gaza
 * Links to global education in emergency databases
+* All organized and sturcutred links in [one place](/0_domain_study/resources/Education%20in%20Conflict/links.md)
 
 ---
 
@@ -75,6 +77,7 @@ Examines the role of online learning in enhancing education in war-affected zone
 * PDFs on low-bandwidth LMS systems
 * Links to EdTech tools like Kolibri and Learning Equality
 * Articles on blended and asynchronous learning in emergencies
+* All organized and sturcutred links in [one place](/0_domain_study/resources/Online%20Learning%20Barriers/links.md)
 
 ---
 
@@ -89,6 +92,7 @@ Identifies key stakeholders including NGOs, EdTech companies, and humanitarian
 * Reports from Save the Children, UNICEF, and UNHCR
 * PDFs outlining stakeholder education strategies
 * Case studies on EdTech partnerships in war-affected areas
+* All organized and sturcutred links in [one place](/0_domain_study/resources/Stakeholders%20or%20private%20organizations/links.md)
 
 ---
 
