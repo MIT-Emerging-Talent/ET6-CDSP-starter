@@ -16,6 +16,7 @@
 | Day    | How | The topic of discussion |
 | :----: | :-: | ----------------------: |
 | 30/5   |Zoom | Meet and greet,each one will try writing
+
                 a draft about one of the 4 collaborations files|
 | 01/6   |Zoom | Everyone's updates on drafts |
 | 09/6   |Google Meet | Talked about our interests
@@ -27,23 +28,23 @@
 
 How often we will get in touch on each channel, and what we will discuss there:
 
-- **Issues**:On Github and Slack - Asynchronously
-- **Pull Requests**:On Github - Asynchronously
-- **Slack/Discord**:During the week - Asynchronously
-- **Video Calls**:On Zoom or Google Meet - Once or twice a week.
+- **Issues**: On Github and Slack - Asynchronously
+- **Pull Requests**: On Github - Asynchronously
+- **Slack/Discord**: During the week - Asynchronously
+- **Video Calls**: On Zoom or Google Meet - Once or twice a week.
 
 ## Availability
 
 ### Availability for calling/messaging
 
-| Day    | Monday    | Tuesday   | Wednesday | Thursday  | Friday    | Saturday | Sunday |     |
-| ------ | :----:    | :-----:   | :-------: | :------:  | :----:    | :------: | :----: | --- |
-| Ozgur  | 2pm-7pm   | 2pm-7pm   | 2pm-7pm   | 2pm-7pm   | 2pm-7pm   |          |        |     |
-|M.Elfadil| 2am-4pm  | 2am-4pm   | 2am-4pm   | 2am-4pm   | 2am-4pm   | 2am-4pm  | 2am-4pm|     |
-|Mukuna   | 10am-11am| 10am-11am | 10am-11am | 10am-11am | 10am-11am | 8am-11am |        |     |
-|M.Ziadah | 3pm-4pm 10-11am | 3pm-4pm 10-11am |3pm-4pm 10-11am | 3pm-4pm 10-11am  |3pm-4pm 10-11am | 3pm-4pm 10-11am  | 3pm-4pm 10-11am |     |
-|Svitlana | 11am-8pm| 11am-8pm   | 11am-8pm   | 11am-8pm | 11am-8pm   | 11am-3pm |        |     |
-|Hasan    |         |            |            |           |           |          |        |     |
+| Day    | Mon   | Tue   | Wed   | Thu   | Fri   | Sat   | Sun   |     |
+| ------ | :----:    | :-----:   | :-------: | :-:  | :-:    | :---| :----: | --|
+| Ozgur  | 2pm-7pm   | 2pm-7pm   | 2pm-7pm   | 2pm-7pm   | 2pm-7pm   |   |   |  |
+|M.Elfadil| 2am-4pm  | 2am-4pm   | 2am-4pm   | 2am-4pm   | 2am-4pm | 2am-4pm | 2am-4pm||
+|Mukuna   | 10am-11am| 10am-11am | 10am-11am | 10am-11am |10am-11am| 8am-11am | ||
+|M.Ziadah | 3pm-4pm  | 3pm-4pm  | 3pm-4pm | 3pm-4pm | 3pm-4pm|3pm-4pm |3pm-4pm  ||
+|Svitlana | 11am-8pm| 11am-8pm   | 11am-8pm   | 11am-8pm | 11am-8pm | 11am-3pm |||
+|Hasan    |         |            |            |           |   |  |        |     |
 
 ### How many hours everyone has per day
 
