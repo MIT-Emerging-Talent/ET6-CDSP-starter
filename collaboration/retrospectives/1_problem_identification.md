@@ -103,7 +103,7 @@ made it hard for me to know where to start, which caused some confusion in the b
 - Learned to apply divergent and convergent thinking more effectively.
 - Learned to use the FRESCO framework to improve the quality of a research question.
 
-### Ammar Osman
+### Ammar Ibrahim
 
 > Contributions  
 
@@ -125,32 +125,32 @@ thinking to the background resources, and by combining and summarizing the ideas
 forms.
 - Gained more confidence in dealing with GitHub workflows.
 
-### Member_3
+### Amro Mohamed
 
-- Contributions  
-- Challenges  
-- Progress
+> Contributions  
 
-### Member_4
+- helped by (sharing personal experiences / asking questions / doing research)
 
-- Contributions  
-- Challenges  
-- Progress
+> Progress  
 
-### Member_5
+- learned how policies, legal systems, and public beliefs are all connected
 
-- Contributions  
-- Challenges  
-- Progress
+### Muhammad Shahroz
 
-### Member_6
+> Contributions  
 
-- Contributions  
-- Challenges  
-- Progress
+- Tried to help refine the problem statement, but haven’t been
+able to add much value yet.
+- Shared some thoughts but didn’t contribute heavily in discussions or docs.
 
-### Member_7
+> Challenges  
+>
+- Struggled with managing time and learning the domain—all while dealing
+with job work and timezone overlaps.
+- Found it hard to stay up to date with feedback and next steps across
+Slack and GitHub.
 
-- Contributions  
-- Challenges  
-- Progress
+> Progress  
+
+- Realized I need to focus on understanding the project before
+I can contribute more meaningfully.
