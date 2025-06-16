@@ -1,5 +1,35 @@
 # Domain Research
 
+
+## General Overview
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=times+new+roman&weight=900&size=26&duration=5015&pause=1000&color=DA6820&vCenter=true&repeat=false&width=550&height=46&lines=How+wars+change+energy+in+communities%3F)](https://git.io/typing-svg)
+
+> Renewable Energy acts as a catalyst for environmental protection in conflict
+ areas.
+
+War damages nature badly from pollution, destroyed farmland, poisoned water
+ and air, deforestation, and waste are common results of war.
+These environmental effects hurt both people and ecosystems.
+ It affects food, health, water, and the ability to rebuild communities
+  after the war.  
+
+The UN is starting to take this seriously. In 2024, the UN Environment
+ Assembly (UNEA-6) passed a resolution to improve environmental protection
+  in conflict zones.  [Link here](https://www.bic-rhr.com/research/strengthening-environmental-resilience-conflict-zones-analysis-unea-6-resolution-and-perac)  
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=times+new+roman&weight=900&size=26&duration=5015&pause=1000&color=49A3B8&vCenter=true&repeat=false&width=550&height=46&lines=Why+Renewable+Energy%3F)](https://git.io/typing-svg)
+
+  >Environmental recovery is now a global priority.
+
+- Renewable energy should be part of post-war recovery plans, especially since
+  they’re clean and decentralized.
+- Renewable energy is a safer, more resilient alternative—less centralized,
+  quicker to deploy, and more sustainable in crisis.
+- Could contribute to or align with UNEP’s future frameworks.
+
+ ``` "Planet over Politics" ```
+
 ## Background Review
 
 ### The Role of Solar Energy in Humanitarian and Conflict-Affected Contexts
