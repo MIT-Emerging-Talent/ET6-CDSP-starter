@@ -41,7 +41,9 @@ These systemic challenges result from increasingly restrictive immigration
 policies, funding instability, enforcement practices, and underlying beliefs
 about immigrant children and legal rights.
 
- [0_domain_study](README.md)
+For a more detailed breakdown of the system, including key events, trends,
+structures, and underlying mental models, check out the full overview:
+[0_domain_study](README.md)
 
 ## Data
 
