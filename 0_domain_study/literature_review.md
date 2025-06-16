@@ -204,5 +204,4 @@ These research gaps call for broader, more inclusive, and ethically sound
 13. Schick A, Feine J, Morana S, Maedche A, Reininghaus U. *JMIR Mhealth Uhealth*.
    2022;10(10):e28082. <https://doi.org/10.2196/28082>
 14. Al Jazeera. The Take: Can ChatGPT be your therapist? Podcast episode.
- June 13, 2025.
- <https://www.aljazeera.com/podcasts/2025/6/13/the-take-can-chatgpt-be-your-therapist>  
+June 13, 2025. <https://shorturl.at/qFxl6>
