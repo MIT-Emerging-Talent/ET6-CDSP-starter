@@ -2,7 +2,7 @@
 
 ## Domain Summary – Violence Against Health Care in Conflict
 
-#### What just happened?
+### What just happened?
 
 In conflict zones around the world, hospitals are bombed, ambulances are
 targeted, health workers are killed, and entire communities are cut off from
@@ -10,7 +10,7 @@ essential care. These incidents disrupt health service delivery, result in
 civilian deaths, and are often either selectively reported or completely ignored
 by international media.
 
-#### What has been happening over time?
+### What has been happening over time?
 
 Over the past decade, the number and intensity of attacks on health care have
 steadily increased, with 2024 marking a record high of 3,623 incidents globally
@@ -20,7 +20,7 @@ remain under-analyzed in terms of their health impact and media visibility,
 despite mounting evidence of their long-term consequences on mortality rates,
 disease outbreaks, and service accessibility.
 
-#### What are the rules, policies, and institutions contributing to the situation?
+### What are the rules, policies, and institutions contributing to the situation?
 
 - International humanitarian law (e.g., Geneva Conventions, UNSC Resolution 2286
 ) prohibits attacks on health care but is frequently violated without
@@ -34,7 +34,7 @@ state actors—largely untouched.
 - Fragmented national health systems lack the capacity to recover from such
 violence or to document its true impact.
 
-#### What beliefs and values keep the system in place?
+### What beliefs and values keep the system in place?
 
 - That health care in war zones is collateral, not central, to peace and
 protection.
@@ -103,13 +103,13 @@ and frontline healthcare workers. Ultimately, we hope our work contributes to
 improving preparedness, resource allocation, and protective measures in
 vulnerable conflict-affected regions.
 
-## Research Question:
+## Research Question
 
 How have attacks on health care facilities in conflict zones over the last five
 years impacted humanitarian access, mortality rates, and healthcare availability
 , and how does media coverage vary in reporting these attacks?
 
-### Project Goal:
+### Project Goal
 
 To quantitatively analyze data from the last five years to measure the short-
 and long-term impacts of violent attacks on healthcare services and humanitarian
@@ -119,6 +119,7 @@ mentions) — in order to inform data-driven strategies that improve visibility
 and mitigate health consequences of such attacks within 6 months.
 
 ## References
+
 - Safeguarding Health in Conflict Coalition. (2024). Epidemic of Violence:
 Violence Against Health Care in Conflict.
 
