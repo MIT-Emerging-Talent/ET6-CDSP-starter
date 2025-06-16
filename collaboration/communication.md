@@ -13,9 +13,11 @@
 
 ## Communication Schedule 🗓️
 
-| Day    | How | The topic of discussion |
-| :----: | :-: | ----------------------: |
-|Saturday|Online Meeting|Weekly Check-in|
+|    Date     |     How      |         The topic of discussion         |
+| :---------: | :----------: | :-------------------------------------: |
+| 31 May 2025 | Online Meeting |           Kick-Off Meeting            |
+| 8 June 2025 | Online Meeting |       Week 2 Meeting Agenda           |
+|15 June 2025 | Online Meeting |       Week 3 Meeting Agenda           |
 
 ## Communication Channels 🗣️
 
