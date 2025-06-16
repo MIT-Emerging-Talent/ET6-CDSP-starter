@@ -248,4 +248,3 @@ and reviewing contributions from other team members.
 - Developed better coordination and communication practices through collaborative tools like GitHub and Slack.
 
 ---
-
