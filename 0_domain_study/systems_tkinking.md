@@ -75,11 +75,3 @@ Here we explore the often invisible attitudes, values, and worldviews that keep 
 | **Mental Model** | Education is non-priority in conflict, tech isn’t for emergencies, low expectations. |
 
 ---
-
-## 📌 Insights for Research and Intervention
-
-* **Design AI tools** that are offline-capable, low-bandwidth, and personalized.
-* **Challenge mental models** by showing case studies of success under crisis.
-* **Policy work**: Push for emergency education frameworks that are tech-inclusive.
-* **Train teachers** in trauma-informed and digital pedagogy.
-* **Collect data over time** to identify patterns more rigorously.
