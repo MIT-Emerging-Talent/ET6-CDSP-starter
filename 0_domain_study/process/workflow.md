@@ -39,7 +39,7 @@ Throughout our **Thinking** and **Brainstorming** workflow, we consistently appl
 ### 3.1. Process
 
 * Nearly every team member drafted **initial problem statements** along with corresponding **research questions** based on our exploration.
-* To ensure clarity and depth, we applied the **5 Ws and 1 H** framework (Who, What, Where, When, Why, and How) to each problem. This helped us examine each potential issue from multiple angles and understand its context, causes, and implications.
+* To ensure clarity and depth, we applied the [**5 Ws and 1 H** framework](/0_domain_study/process/five_ws_and_one_h_framework.md) (Who, What, Where, When, Why, and How) to each problem. This helped us examine each potential issue from multiple angles and understand its context, causes, and implications.
 
   * **Divergent thinking**: Generating diverse problem perspectives.
   * **Convergent thinking**: Using structured frameworks to assess and refine them.

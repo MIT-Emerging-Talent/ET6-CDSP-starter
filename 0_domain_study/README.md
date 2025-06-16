@@ -2,11 +2,33 @@
 
 ## Brainstorming Workflow
 
-We thoroughly documented our thought process throughout the project, capturing how we continuously shifted between **divergent thinking** and **onvergent thinking**.\
+> We thoroughly documented our thought process throughout the project, capturing how we continuously shifted between **divergent thinking** and **onvergent thinking**.\
 In **divergent thinking** where we explored multiple possibilities, generated ideas, and considered various perspectives.\
 In **convergent thinking** where we narrowed down options, synthesized insights, and made decisions. This iterative approach was applied at each step of the process, enabling us to balance creativity with focus
-and ensure our solutions were both innovative and grounded in clear reasoning.
+and ensure our solutions were both innovative and grounded in clear reasoning.\
+
 Check out  [our workflow](/0_domain_study/process/workflow.md)
+
+## Problems Pool
+
+>This document compiles a range of problem statements and research questions generated through brainstorming sessions, focusing on education in challenging contexts—particularly war-affected\
+regions and the role of Artificial Intelligence (AI) and online learning platforms.
+
+The problems are grouped into several thematic areas:
+
+1. **AI and Student Agency**:
+   * Concerns about students and educators becoming overly reliant on AI tools, which may reduce personal agency, motivation, and cognitive skill development such as critical thinking and creativity.
+2. **AI in Conflict Zones**:
+   * Investigations into how AI can support or hinder students in war-affected areas. Questions include whether AI tools can improve engagement, learning outcomes, or pose new challenges under extreme conditions.
+3. **Behavioral and Interaction Data**:
+   * Exploring how data from digital learning platforms can be used to understand and model the impact of stress (especially due to conflict) on students’ academic performance and engagement.
+4. **Online Learning in War Contexts**:
+   * Assessing the overall effectiveness of online learning as a substitute for traditional schooling during war, including identifying the conditions necessary for its success.
+5. **Platform-Specific Insights**:
+   * Analyzing user behavior data from platforms like Udemy, Coursera, and edX to assess student engagement and retention in conflict settings.
+   * Studying pricing strategies on online learning platforms that balance affordability for students in war-torn regions with economic sustainability.
+
+##
 
 ## 📚 Research Resources Overview
 
@@ -22,9 +44,9 @@ Explores how Artificial Intelligence can help motivate students in war-affected 
 
 **Included Resources**:
 
-- Research papers in PDF format on AI educational interventions
-- Website links to platforms using AI in low-resource settings
-- Articles on trauma-aware chatbots and AI motivation tools
+* Research papers in PDF format on AI educational interventions
+* Website links to platforms using AI in low-resource settings
+* Articles on trauma-aware chatbots and AI motivation tools
 
 ---
 
@@ -36,9 +58,9 @@ Analyzes the overall state of education in conflict-affected areas, covering how
 
 **Included Resources**:
 
-- Case studies and situation reports from UNESCO, ReliefWeb
-- PDFs outlining challenges and solutions in Syria, Ukraine, Gaza
-- Links to global education in emergency databases
+* Case studies and situation reports from UNESCO, ReliefWeb
+* PDFs outlining challenges and solutions in Syria, Ukraine, Gaza
+* Links to global education in emergency databases
 
 ---
 
@@ -50,9 +72,9 @@ Examines the role of online learning in enhancing education in war-affected zone
 
 **Included Resources**:
 
-- PDFs on low-bandwidth LMS systems
-- Links to EdTech tools like Kolibri and Learning Equality
-- Articles on blended and asynchronous learning in emergencies
+* PDFs on low-bandwidth LMS systems
+* Links to EdTech tools like Kolibri and Learning Equality
+* Articles on blended and asynchronous learning in emergencies
 
 ---
 
@@ -64,9 +86,9 @@ Identifies key stakeholders including NGOs, EdTech companies, and humanitarian
 
 **Included Resources**:
 
-- Reports from Save the Children, UNICEF, and UNHCR
-- PDFs outlining stakeholder education strategies
-- Case studies on EdTech partnerships in war-affected areas
+* Reports from Save the Children, UNICEF, and UNHCR
+* PDFs outlining stakeholder education strategies
+* Case studies on EdTech partnerships in war-affected areas
 
 ---
 
