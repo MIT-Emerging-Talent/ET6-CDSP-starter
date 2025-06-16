@@ -25,3 +25,10 @@ design appropriate methodologies to address them.
 - I can improve my GitHub skills.
 - Managing my time to meet deadlines.
 - Gaining more knowledge and confidence dealing with different people.
+
+### Zaid
+
+- Refresh my GitHub and Python skills.
+- Learn something new.
+- Improve my teamwork abilities.
+- Gain experience working with vastly different time zones.

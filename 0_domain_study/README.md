@@ -115,3 +115,34 @@ get microbiological data
 
 **Sources or Brief Explanation:**  
 WHO AMR reports
+
+### Research Question 6 (Zaid)
+
+**Research Question:**  
+How effective is Satellite Image Analysis at Predicting Deforestation in Malaysia?
+
+**Research Novelty:**  
+High – not much research on this topic in Malaysia.
+Overall, satellite image analysis is very well-studied, but in the context
+of Predicting deforestation, we could only find very few papers.
+When it comes to predicting deforestation in Malaysia, we found no papers.
+
+**Expected Data Availability:**  
+Highly available.
+Sattelite images are available from many sources, and we are using the
+google earth engine to access them.
+The vegetation index data is also available from Global Forest Watch.
+Other data such as deforestation rates and forest cover are easily
+accessible from government and environmental organizations.
+
+**Problems:**  
+Satellite image analysis can be computationally intensive.
+Satellite images are HUGE. They requires lots of storage and time to work with.
+
+**Sources or Brief Explanation:**  
+
+- [Global Forest Watch](https://www.globalforestwatch.org/)
+- [Google Earth Engine](https://earthengine.google.com/)
+- We hope to use the vegetation index and satellite images to train a model
+  that can predict deforestation in Malaysia.
+  

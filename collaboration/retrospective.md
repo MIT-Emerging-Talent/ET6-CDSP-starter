@@ -62,3 +62,9 @@
 
 - I can improve my GitHub skills.
 - Collaboration on tasks saved us a lot of time.
+
+### Zaid
+
+- Definitely needed the GitHub refresher.
+- Timezones are a challenge, but if everyone is willing to compromise,
+it can be overcome.
