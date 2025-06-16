@@ -1,11 +1,8 @@
-# Research links
+# 📚 Learning & Search Resources for Brainstorming
 
-[https://www.onlineeducation.com/features/online-learning-in-war-zones](https://www.onlineeducation.com/features/online-learning-in-war-zones)
-
-[https://osvitoria.org/en/the-all-ukrainian-online-school](https://osvitoria.org/en/the-all-ukrainian-online-school)
-
-[https://lms.e-school.net.ua/about](https://lms.e-school.net.ua/about)
-
-[https://www.onlineeducation.com/features/opportunities-and-guidelines-for-ai-in-education](https://www.onlineeducation.com/features/opportunities-and-guidelines-for-ai-in-education)
-
-[https://www.onlineeducation.com/features/african-edtech-value-chains](https://www.onlineeducation.com/features/african-edtech-value-chains)
+| Category            | Resource & Link|  Notes / Purpose |
+|---------------------|-------------------------------------------------------|------------------|
+| Domain Exploration  | [Online Learning in War Zones: Effectiveness & Potential](https://www.onlineeducation.com/features/online-learning-in-war-zones)                     | Examines how digital strategies sustain education during conflict|
+| Domain Exploration  | [The All‑Ukrainian Online School](https://osvitoria.org/en/the-all-ukrainian-online-school)                                                           | National platform for remote learning post‑war and COVID-19|
+| Domain Exploration  | [e‑School LMS (Ukraine)](https://lms.e-school.net.ua/about)                                                                                            | Government-supported LMS offering curriculum-aligned content|
+| Domain Exploration  | [African EdTech Value Chains](https://www.onlineeducation.com/features/african-edtech-value-chains)                                                   | Insights on end-to-end EdTech systems in Africa |
