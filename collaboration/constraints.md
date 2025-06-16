@@ -1,34 +1,63 @@
-<!-- this template is for inspiration, feel free to change it however you like! -->
+# 🌍 Project Constraints
 
-# Constraints
+This document outlines key limitations that influence collaboration on this
+globally distributed project. Constraints are categorized into **external**
+(outside our control) and **internal** (team-related) factors. Identifying
+these early helps ensure realistic planning, effective communication, and
+smooth execution.
 
-Some boundaries around our project.
+## 🚧 External Constraints
 
-## External
+These are conditions we cannot directly control but must plan around:
 
-<!--
-  constraints coming from the outside that your team has no control over:
-  - project deadlines
-  - number of unit tests required to pass a code review
-  - technologies (sometimes a client will tell you what to use)
-  - power or connectivity
-  - ...
--->
+- **Internet Connectivity** 🌐  
+  Limited or unstable access can impact communication, file sharing, and
+  collaborative tools.
 
-## Internal: Involuntary
+- **Power Outages** ⚡  
+  Intermittent electricity can delay work in regions without reliable backup power.
 
-<!--
-  constraints that come from within your team, and you have no control over:
-  - each of your individual skill levels
-  - amount of time available to work on the project
--->
+- **Conflicting Commitments** 📚  
+  Team members may have academic, professional, or personal obligations that
+  limit their availability.
 
-## Internal: Voluntary
+- **Resource Access** 🔧  
+  Constraints in accessing required tools, hardware, or software may hinder
+  progress or introduce delays.
 
-<!--
-  constraints that your team decided on to help scope the project. they may include:
-  - coding style & conventions
-  - agree on a code review checklist for the project repository
-  - the number of hours you want to spend working
-  - only using the colors black and white
--->
+## 🔒 Internal Constraints (Involuntary)
+
+These stem from natural team limitations and need to be managed collaboratively:
+
+- **Time Limitations** ⏳  
+  Contributors may have restricted hours due to time zones, fixed schedules, or
+  other responsibilities.
+
+- **Skill Gaps** 🛠️  
+  Differences in experience may require mentorship, documentation, or external support.
+
+- **Competing Priorities** 🔄  
+  Internal deadlines or overlapping responsibilities can reduce consistent focus
+  on the project.
+
+## 💡 Internal Constraints (Voluntary)
+
+These are team-defined rules that guide how we work and help maintain quality:
+
+- **Defined Working Hours** 🕒  
+  Setting reasonable timeframes and avoiding excessive overtime to prevent burnout.
+
+- **Focus on Skills Development** 📈  
+  Assigning tasks based on strengths and learning goals to promote growth and ownership.
+
+- **Scoped Objectives** 🎯  
+  Limiting the project scope to focus on core features and avoid unnecessary complexity.
+
+- **Best Practice Commitments** 📑  
+  Adhering to shared standards—clean code, proper documentation, testing, and
+  code reviews.
+
+---
+
+> ℹ️ If you’re contributing to this project, please keep these constraints in
+> mind when planning and collaborating.
