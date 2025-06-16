@@ -16,7 +16,7 @@
 |    Date     |     How      |         The topic of discussion         |
 | :---------: | :----------: | :-------------------------------------: |
 | 31 May 2025 | Online Meeting |           Kick-Off Meeting            |
-| 8 June 2025 | Online Meeting |       Week 2 Meeting Agenda           |
+| 7 June 2025 | Online Meeting |       Week 2 Meeting Agenda           |
 |15 June 2025 | Online Meeting |       Week 3 Meeting Agenda           |
 
 ## Communication Channels 🗣️
@@ -51,7 +51,7 @@ check on the progress of our tasks at hand.
 | Tibyan |10AM-12PM|10AM-12PM|10AM-12PM |10AM-12PM |10AM-12PM| All day | All day|
 | Saeed  | 12-1PM |  12-1PM |  12-13PM  |          |        | 9AM-13PM | 12-13PM|
 | Khusro |11AM-1PM| 11AM-1PM| 11AM-13PM |          |        |After 6AM |After 6AM|
-|AB Qader| 8AM-1PM| 8AM-1PM |  8AM-1PM  |  8AM-1PM | 8AM-1PM| Flexible |Flexible|
+|Ab Qader| 8AM-11AM| 8AM-11AM | 8AM-11AM|  8AM-11AM|8AM-11AM| Flexible |Flexible|
 
 ### How many hours everyone has per day ⏰
 
@@ -59,7 +59,7 @@ check on the progress of our tasks at hand.
 - Khusro: 2-3 hrs;
 - Saeed: 2-4 hrs;
 - Hamid: 2-4 hrs;
-- Abdul Qader: 8-10 hrs;
+- Abdul Qader: 2-3 hrs;
 
 ## Asking for Help 🤝
 

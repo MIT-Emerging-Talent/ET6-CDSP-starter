@@ -89,6 +89,16 @@ personally focusing on:
 - Engage in thoughtful code reviews and peer learning  
 - Help create a fun and effective team environment, especially in sports data
 
+### Abdul Qader – Learning Goals
+
+- Strengthen understanding of how machine learning can be applied to real-world
+problems like sports analytics  
+- Improve feature engineering and model evaluation skills  
+- Learn to interpret model outputs and draw meaningful conclusions from data  
+- Collaborate closely with teammates to contribute to a shared goal  
+- Build a strong, portfolio-ready project that reflects my growth in data science
+and passion for football  
+
 ---
 
 ## 🌟 Final Note
