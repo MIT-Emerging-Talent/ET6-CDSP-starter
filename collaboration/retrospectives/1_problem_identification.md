@@ -85,6 +85,7 @@ discussing points we actually agree on.
 - Helped shape research directions through team meetings and brainstorming.
 - Created and refined the content of the CONTRIBUTING.md file.
 - Created a Git tag.
+- Helped finalize the problem statement.
 
 > Challenges  
 
@@ -102,38 +103,54 @@ made it hard for me to know where to start, which caused some confusion in the b
 - Learned to apply divergent and convergent thinking more effectively.
 - Learned to use the FRESCO framework to improve the quality of a research question.
 
-### Member_2
+### Ammar Ibrahim
 
-- Contributions  
-- Challenges  
-- Progress
+> Contributions  
 
-### Member_3
+- Helped in writing the understanding of the problem by applying systems
+thinking to the background resources, and by combining and summarizing the ideas.
+- Helped in summarizing the problem statement to its final form.
+- Wrote this retrospective file.
 
-- Contributions  
-- Challenges  
-- Progress
+> Challenges  
 
-### Member_4
+- Balancing multiple responsibilities while meeting project deadlines.
+- Following up on all the feedback and discussions across different platforms
+(GitHub, Slack).
 
-- Contributions  
-- Challenges  
-- Progress
+> Progress  
 
-### Member_5
+- Improved in applying systems thinking to structure and analyze complex problems.
+- Became better at summarizing and refining collaborative work into clear, final
+forms.
+- Gained more confidence in dealing with GitHub workflows.
 
-- Contributions  
-- Challenges  
-- Progress
+### Amro Mohamed
 
-### Member_6
+> Contributions  
 
-- Contributions  
-- Challenges  
-- Progress
+- helped by (sharing personal experiences / asking questions / doing research)
 
-### Member_7
+> Progress  
 
-- Contributions  
-- Challenges  
-- Progress
+- learned how policies, legal systems, and public beliefs are all connected
+
+### Muhammad Shahroz
+
+> Contributions  
+
+- Tried to help refine the problem statement, but haven’t been
+able to add much value yet.
+- Shared some thoughts but didn’t contribute heavily in discussions or docs.
+
+> Challenges  
+>
+- Struggled with managing time and learning the domain—all while dealing
+with job work and timezone overlaps.
+- Found it hard to stay up to date with feedback and next steps across
+Slack and GitHub.
+
+> Progress  
+
+- Realized I need to focus on understanding the project before
+I can contribute more meaningfully.
