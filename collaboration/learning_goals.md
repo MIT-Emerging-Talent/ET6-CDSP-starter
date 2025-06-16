@@ -77,6 +77,12 @@ Milestone 1: Problem Identification
 
 -BanuÖzyılmaz
 
+1.Understand the basics and process clearly:
+
+2.Improve problem framing and Breaking down complex problems
+
+3.Build the habit of using FRESCO test
+
 -Gennadii
 
 1.Improve collaboration skills in diverse teams.
