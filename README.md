@@ -1,4 +1,6 @@
-# Seeking Safety, Denied Support
+# Barriers to Justice
+
+How Immigration Policies Affect Immigrant Juveniles Seeking Protection
 
 ## Project Overview
 
