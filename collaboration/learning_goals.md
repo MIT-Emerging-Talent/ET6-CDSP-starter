@@ -104,7 +104,7 @@
 3. **Develop Data Visualization Techniques**
 
    Improve my ability to visualize patterns in data using tools like Matplotlib,
-    Seaborn, or Plotly to create clear and insightful visual representations.
+   Seaborn, or Plotly to create clear and insightful visual representations.
 
 4. **Build and Evaluate a Machine Learning Model**
 
