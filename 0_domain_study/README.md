@@ -1,4 +1,12 @@
-# README.md content describing the structure and research content of the "resources" folder under 0_domain_Study Folder
+# Domain Study
+
+## Brainstorming Workflow
+
+We thoroughly documented our thought process throughout the project, capturing how we continuously shifted between **divergent thinking** and **onvergent thinking**.\
+In **divergent thinking** where we explored multiple possibilities, generated ideas, and considered various perspectives.\
+In **convergent thinking** where we narrowed down options, synthesized insights, and made decisions. This iterative approach was applied at each step of the process, enabling us to balance creativity with focus
+and ensure our solutions were both innovative and grounded in clear reasoning.
+Check out  [our workflow](/0_domain_study/process/workflow.md)
 
 ## 📚 Research Resources Overview
 
