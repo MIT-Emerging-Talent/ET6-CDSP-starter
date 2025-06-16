@@ -49,8 +49,8 @@ check on the progress of our tasks at hand.
 | ------ | :----: | :-----: | :-------: | :------: | :----: | :------: | :----: |
 | Hamid  | 9-11AM |  9-11AM |   9-11AM  |  9-11AM  | 9-11AM |  9-11AM  | 9-11AM |
 | Tibyan |10AM-12PM|10AM-12PM|10AM-12PM |10AM-12PM |10AM-12PM| All day | All day|
-| Saeed  | 12-1PM |  12-1PM |  12-13PM  |          |        | 9AM-13PM | 12-13PM|
-| Khusro |11AM-1PM| 11AM-1PM| 11AM-13PM |          |        |After 6AM |After 6AM|
+| Saeed  | 12-1PM |  12-1PM |  12-1PM  |          |        | 9AM-1PM | 12-1PM|
+| Khusro |11AM-1PM| 11AM-1PM| 11AM-PM |          |        |After 6AM |After 6AM|
 |Ab Qader| 8AM-11AM| 8AM-11AM | 8AM-11AM|  8AM-11AM|8AM-11AM| Flexible |Flexible|
 
 ### How many hours everyone has per day ⏰
