@@ -1,4 +1,4 @@
-# 🗣 Communication
+# Communication
 
 Let's stay connected, respectful, and collaborative throughout our group journey.
 This file outlines how we'll communicate, when we're available, and how we’ll
@@ -6,7 +6,7 @@ support each other when someone’s stuck. Let's make teamwork fun and effective
 
 ---
 
-## 📅 Communication Schedule
+## Communication Schedule
 
 | Day      | Method   | Topic of Discussion                   |
 |----------|----------|----------------------------------------|
@@ -16,7 +16,7 @@ support each other when someone’s stuck. Let's make teamwork fun and effective
 
 ---
 
-## 📢 Communication Channels
+## Communication Channels
 
 How often we’ll use each platform and what for:
 
