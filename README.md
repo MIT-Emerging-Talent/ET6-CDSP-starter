@@ -10,6 +10,18 @@ Briefly describe the goal and scope of this project. For example:
 
 ---
 
+## Problem Statement
+
+Immigrant juveniles in the U.S. face serious barriers to legal
+representation, especially under recent changes in immigration policy.
+These policies have increased case backlogs, limited access to legal aid,
+and negatively affected outcomes for children seeking protection.
+Our group aims to understand how these systemic issues shaped by shifting
+policies, institutional structures, and public attitudes impact vulnerable
+youth and what can be done to improve fairness and access to justice.
+
+For more details: [0_domain_study](README.md)
+
 ## Stack / Technologies Used
 
 - [Programming Language / Version]
@@ -19,6 +31,16 @@ Briefly describe the goal and scope of this project. For example:
 - [Notebook / IDE]
 
 ---
+
+## Understanding the problem domain
+
+We applied systems thinking to the topic domain and the four previously cited
+articles, to understand the complex, interconnected issues immigrant juveniles
+face in accessing legal representation and reuniting with family in the U.S.
+These systemic challenges result from evolving immigration policies, funding
+instability, enforcement practices, and underlying beliefs about immigrant
+children and legal rights. Below is an overview organized into events,
+patterns/trends, structural factors, and mental models shaping this system: [0_domain_study](README.md)
 
 ## Data
 
