@@ -54,9 +54,10 @@ respectful, and inclusive collaboration. These include:
 - **⛓ [Project Constraints][constraints]**  
 - **🎯 [Individual Learning Goals][goals]**
 
-## 🗂️ Folder Structure
+## 🗂️ Repository Structure
 
-ET6-CDSP-GROUP-12-REPO/
+```plaintext
+/ET6-CDSP-GROUP-12-REPO
 │
 ├── README.md                        # Main project overview
 │
@@ -105,7 +106,7 @@ ET6-CDSP-GROUP-12-REPO/
 └── notes/                           # Personal and shared notes
     ├── README.md
     └── guide.md
-
+```
 <!-- Reference-style links -->
 [domain_study]: https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-12-repo/tree/main/0_domain_study
 [norms]: https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-12-repo/blob/main/collaboration/README.md
