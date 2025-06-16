@@ -58,14 +58,14 @@ clearer, more inclusive, and more supportive.
 
 ## 🔑 Key Challenges
 
-| Challenge                  | Description                                                                 |
-|---------------------------|-----------------------------------------------------------------------------|
-| 🎓 Access to Formal Education | Tuition, documentation, and language requirements can block access to college-level IT programs. |
-| 🧭 Navigation of Career Pathways | Displaced youth often lack guidance on which tech roles are most accessible and how to get started. |
-| 🏗️ Quality & Recognition of Alternatives | Online courses and bootcamps vary widely in quality and employer recognition. |
-| 🧠 Trauma & Learning Readiness | Many displaced individuals carry emotional burdens that impact confidence and persistence in learning. |
-| 💼 Employer Biases | Hiring practices may still favor formal degrees or U.S. work experience. |
-| 📉 Data Gaps | There’s limited longitudinal data on career outcomes from alternative education models for this population. |
+| Challenge                        | Description                                                                                 |
+|----------------------------------|---------------------------------------------------------------------------------------------|
+| 🎓 Access to Formal Education    | Tuition, documents, and language needs can block entry to college-level IT programs.       |
+| 🧭 Navigation of Career Pathways | Displaced youth often lack guidance on which tech roles are most accessible to pursue.     |
+| 🏗️ Quality & Recognition         | Online courses and bootcamps vary in quality and may lack employer recognition.            |
+| 🧠 Trauma & Learning Readiness   | Emotional burdens may reduce confidence and persistence in learning for displaced youth.   |
+| 💼 Employer Biases               | Some employers still prioritize degrees or U.S. experience over skills and training.       |
+| 📉 Data Gaps                     | There is little data on job outcomes from alternative education for displaced individuals. |
 
 ---
 
@@ -73,11 +73,11 @@ clearer, more inclusive, and more supportive.
 
 | Source | One-sentence takeaway |
 |--------|------------------------|
-| [UNICEF – *Learning to Earning for Displaced Youth* (2021)](https://www.unicef.org/reports/learning-earning-displaced-youth) | Explores how digital technologies support displaced youth in transitioning from education to employment. |
-| [UNICEF & ODI – *Digitally Powered Learning to Earning* (2023)](https://odi.org/en/publications/digitally-powered-learning-to-earning-for-displaced-young-people-and-adolescent-girls-and-young-women/) | Reviews digital and blended learning models tailored to displaced youth, with a focus on scalability and access. |
-| [Jobtech Alliance – *Digital Employment Pipelines for Refugees: A Systematic Review* (2025)](https://jobtechalliance.com/unlocking-opportunity-how-digital-employment-pipelines-can-empower-refugees/) | Identifies four digital pathways (freelancing, remote work, entrepreneurship, content creation) and outlines enabling conditions. |
-| [Migration Summit / GMFUS – *Digital Livelihoods for Refugees* (2022)](https://www.gmfus.org/news/digital-livelihoods-refugees-examples-challenges-and-recommendations) | Highlights practical lessons in upskilling displaced populations and recommends best practices for tech employment pathways. |
-| [Jobtech Alliance & Na’amal – *Empowering Refugees Through Digital Work: A Practical Guide* (2024)](https://jobtechalliance.com/wp-content/uploads/2024/12/Empowering-Refugees-Through-Digital-Work-13012025.pdf) | Comprehensive guide on how displaced individuals can access remote, freelance, and digital entrepreneurship careers. |
+| [UNICEF – Learning to Earning (2021)](https://www.unicef.org/reports/learning-earning-displaced-youth) | Digital tools help displaced youth move from learning to jobs. |
+| [UNICEF & ODI – Digitally Powered Learning (2023)](https://odi.org/en/publications/digitally-powered-learning-to-earning-for-displaced-young-people-and-adolescent-girls-and-young-women/) | Reviews blended learning models for displaced youth with focus on scale and access. |
+| [Jobtech Alliance – Digital Pipelines Review (2025)](https://jobtechalliance.com/unlocking-opportunity-how-digital-employment-pipelines-can-empower-refugees/) | Lists 4 digital work paths for refugees and key factors for success. |
+| [GMFUS – Digital Livelihoods for Refugees (2022)](https://www.gmfus.org/news/digital-livelihoods-refugees-examples-challenges-and-recommendations) | Shows lessons and tips for getting displaced people into tech jobs. |
+| [Jobtech & Na’amal – Guide to Digital Work (2024)](https://jobtechalliance.com/wp-content/uploads/2024/12/Empowering-Refugees-Through-Digital-Work-13012025.pdf) | Guide for displaced people to access freelance and remote digital careers. |
 
 ---
 
