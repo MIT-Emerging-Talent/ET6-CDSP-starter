@@ -37,10 +37,11 @@ For more details: [0_domain_study](README.md)
 We applied systems thinking to the topic domain to understand the complex,
 interconnected issues immigrant juveniles face in accessing legal representation
 and reuniting with family in the U.S.
-These systemic challenges result from evolving immigration policies, funding
-instability, enforcement practices, and underlying beliefs about immigrant
-children and legal rights. Below is an overview organized into events,
-patterns/trends, structural factors, and mental models shaping this system: [0_domain_study](README.md)
+These systemic challenges result from increasingly restrictive immigration
+policies, funding instability, enforcement practices, and underlying beliefs
+about immigrant children and legal rights.
+
+ [0_domain_study](README.md)
 
 ## Data
 

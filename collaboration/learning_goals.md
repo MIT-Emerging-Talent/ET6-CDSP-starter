@@ -59,4 +59,28 @@ so we can collaborate smoothly as a team.
 2-communicating efficiently and putting in effort for the team’s
 success—not just individual progress.
 
--Member6
+Milestone 1: Problem Identification
+
+-AmroMohamed:
+
+1.better understand the domain of our problem
+
+2.collaboration skills
+
+-AmmarIbrahim
+
+-MuhammadShahroz
+
+1.Enhance cross–time–zone coordination
+
+2.Improve time‑blocking and productivity
+
+-BanuÖzyılmaz
+
+-Gennadii
+
+1.Improve collaboration skills in diverse teams.
+
+2.Build a better understanding of product management and project ownership.
+
+-AzzaOmer
