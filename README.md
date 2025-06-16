@@ -54,6 +54,61 @@ respectful, and inclusive collaboration. These include:
 - **⛓ [Project Constraints][constraints]**  
 - **🎯 [Individual Learning Goals][goals]**
 
+---
+
+## 🗂️ Repository Structure
+
+```plaintext
+/ET6-CDSP-GROUP-12-REPO
+│
+├── README.md                        # Main project overview
+│
+├── 0_domain_study/                  # Domain background research
+│   ├── README.md
+│   └── guide.md
+│
+├── 1_datasets/                      # Raw and processed datasets
+│   ├── README.md
+│   └── guide.md
+│
+├── 2_data_preparation/              # Data cleaning and transformation
+│   ├── README.md
+│   └── guide.md
+│
+├── 3_data_exploration/              # Exploratory data analysis (EDA)
+│   ├── README.md
+│   └── guide.md
+│
+├── 4_data_analysis/                 # Modeling and evaluation
+│   ├── README.md
+│   └── guide.md
+│
+├── 5_communication_strategy/        # Communication plans
+│   ├── README.md
+│   └── guide.md
+│
+├── 6_final_presentation/            # Slides and summary documents
+│   ├── README.md
+│   └── guide.md
+│
+├── collaboration/                   # Group work structure
+│   ├── README.md
+│   ├── communication.md
+│   ├── constraints.md
+│   ├── learning_goals.md
+│   ├── guide/
+│   └── retrospective/
+│       ├── 0_cross_cultural_collaboration.md
+│       ├── 1_problem_identification.md
+│       ├── 2_data_collection.md
+│       ├── 3_data_analysis.md
+│       ├── 4_communication_result.md
+│       └── 5_final_presentation.md
+│
+└── notes/                           # Personal and shared notes
+    ├── README.md
+    └── guide.md
+```
 <!-- Reference-style links -->
 [domain_study]: https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-12-repo/tree/main/0_domain_study
 [norms]: https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-12-repo/blob/main/collaboration/README.md
