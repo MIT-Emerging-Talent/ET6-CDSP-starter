@@ -1,6 +1,5 @@
 # Domain Research
 
-
 ## General Overview
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=times+new+roman&weight=900&size=26&duration=5015&pause=1000&color=DA6820&vCenter=true&repeat=false&width=550&height=46&lines=How+wars+change+energy+in+communities%3F)](https://git.io/typing-svg)
@@ -144,3 +143,4 @@ strategies and peacebuilding frameworks. This includes:
 
 In war-affected regions, access to solar energy is not an option—it is a
 necessity for survival, recovery, and long-term peace.
+
