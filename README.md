@@ -32,13 +32,21 @@ This project follows the Collaborative Data Science Project (CDSP)
  structure. It is organized around six key milestones:
 
 - Cross-Cultural Collaboration – Team setup, communication planning, and tooling
+  - Milestone 0 [Retrospective](collaboration/retrospectives/0_cross_cultural_collaboration.md)
 - Problem Identification – Define the research question and explore the domain
-  📄 See our [Domain Study on Career Pathways into IT for Displaced Youth](0_domain_study)
+  - See our [Domain Study on Career Pathways into IT for Displaced Youth](0_domain_study)
+  - Milestone 1 [Retrospective](collaboration/retrospectives/1_problem_identification.md)
 - Data Collection – Gather, clean, and document data
+  - Milestone 2 [Retrospective](collaboration/retrospectives/2_data_collection.md)
 - Data Analysis – Analyze data and interpret results
+  - Milestone 3 [Retrospective](collaboration/retrospectives/3_data_analysis.md)
 - Communicating Results – Prepare materials for a target audience
+  - Milestone 4 [Retrospective](collaboration/retrospectives/4_communicating_results.md)
 - Final Presentation – Summarize key insights and team reflections
-A detailed checklist for each milestone is available in the official CDSP syllabus.
+  - Milestone 5 [Retrospective](collaboration/retrospectives/5_final_presentation.md)
+
+A detailed checklist for each milestone is available in the
+[official CDSP syllabus](https://docs.google.com/document/d/1TaoVVqJD5EqmBGLw6_qzph8EZnuL6uhY/edit?tab=t.0).
 
 ### 📁 Repository Structure
 
