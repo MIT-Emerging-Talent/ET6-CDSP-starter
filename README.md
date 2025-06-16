@@ -116,3 +116,11 @@ By analyzing job scams between **2015–2025**, our group seeks to:
 - Evaluate whether current detection strategies are sufficient
 - Offer a framework that combines **linguistic features** and **platform
   behaviors**
+
+## Our Reseach Question
+
+Informed by the realites of our problem domain, we are setting out to explore:
+
+***What Identifiable patterns distinguish fraudulent remote job postings from
+legitimate ones in the past decade (2015-2025), and how effectively can a
+machine learning model detect these scams?***
