@@ -57,7 +57,7 @@ structures, and underlying mental models, check out the full overview:
 affect access to legal representation and outcomes for immigrant juveniles
 seeking protection?"***
 
-#### Context & Constraints:
+### Context & Constraints
 
 - **Domain:** U.S. immigration law and policy, focused on juveniles (minors) seeking
 legal protection (e.g., asylum, Special Immigrant Juvenile Status).
