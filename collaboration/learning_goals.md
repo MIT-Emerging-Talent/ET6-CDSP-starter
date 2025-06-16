@@ -38,6 +38,11 @@ analytical approaches.
 * Gain hands-on experience across the full lifecycle of a data science
  project from data acquisition and preparation to modeling, evaluation, and communication.
 
+### 7. Domain of interest
+
+* In this data science project, we are interested in the field of education, with a primary focus on online learning in war-affected regions.
+* We aim to investigate how the harsh conditions that students live in war-affected countries affect their participation and engagement in online learning, and how AI can help improve their performance.
+
 ## Individual
 
 ### Raneem Rami
@@ -45,8 +50,7 @@ analytical approaches.
 * I aim to learn how to apply the full data science workflow,
 from data collection and cleaning to modeling and result
 interpretation to solve real world problems.
-* I want to see how different domains of knowledge could be applied to
-the data science field.  
+* I want to see how data science could be applied to different domains of knowledge, and more specifically, I want to see how data science could contribute to solving real-world problems in the field of education.
 
 ### Wuor Bhang
 
