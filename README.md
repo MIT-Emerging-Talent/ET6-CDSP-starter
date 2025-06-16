@@ -4,11 +4,17 @@ How Immigration Policies Affect Immigrant Juveniles Seeking Protection
 
 ## Project Overview
 
-Briefly describe the goal and scope of this project. For example:
+The goal of this project is to explore how recent changes in U.S. immigration
+policy under the current administration are affecting immigrant juveniles’
+access to legal representation and the outcomes of their protection cases.
 
-- What problem are you trying to solve?
-- What questions are you aiming to answer?
-- Why is this analysis or application important?
+Our key questions include:
+
+-How have recent policy shifts impacted access to legal aid for immigrant juveniles?
+
+-What are the trends in case outcomes for unrepresented versus represented youth?
+
+-What structural or systemic factors contribute to the legal gap?
 
 ---
 
