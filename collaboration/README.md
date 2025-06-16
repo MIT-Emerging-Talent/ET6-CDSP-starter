@@ -6,7 +6,7 @@ computer science to create an environment where we can all belong and thrive
 together. We value creativity, openness to new perspectives, cooperation, and
 having fun during the process!
 
-We’re _**five**_, but we act as _**one**_, and here’s what we’ve agreed upon:
+We’re _**six**_, but we act as _**one**_, and here’s what we’ve agreed upon:
 
 ## _Respect and Support:_
 
@@ -72,3 +72,7 @@ especially puzzles 🧩 and active games 🤸‍♀️!
 things — color-coded to-do lists are my guilty pleasure.
 * _**Geehan**_ - I’m juggling life, work, learning, and family — sometimes it’s
 a circus, sometimes a dance party. Either way, I’m owning the chaos like a pro! 🕺💪
+* _**Justina**_ - I daydream for fun. I schedule 30 minutes a day to stare into
+space and daydream about leading Google DeepMind or making AI take over
+**ALL** jobs once and for all 😄.
+* _**Majd**_ - The more I eat, the more weight I seem to lose!
