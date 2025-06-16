@@ -58,21 +58,21 @@ clearer, more inclusive, and more supportive.
 
 ## 🔑 Key Challenges
 
-| Challenge                        | Description                                                                                 |
-|----------------------------------|---------------------------------------------------------------------------------------------|
-| 🎓 Access to Formal Education    | Tuition, documents, and language needs can block entry to college-level IT programs.       |
-| 🧭 Navigation of Career Pathways | Displaced youth often lack guidance on which tech roles are most accessible to pursue.     |
-| 🏗️ Quality & Recognition         | Online courses and bootcamps vary in quality and may lack employer recognition.            |
-| 🧠 Trauma & Learning Readiness   | Emotional burdens may reduce confidence and persistence in learning for displaced youth.   |
-| 💼 Employer Biases               | Some employers still prioritize degrees or U.S. experience over skills and training.       |
-| 📉 Data Gaps                     | There is little data on job outcomes from alternative education for displaced individuals. |
+| Challenge| Description|
+|---|---|
+|🎓 Access to Formal Education|Tuition, documents, and language needs can block entry to college-level IT programs|
+|🧭 Navigation of Career Pathways|Displaced youth often lack guidance on accessible tech roles and how to start|
+|🏗️ Quality & Recognition|Online courses and bootcamps vary in quality and may lack employer recognition|
+|🧠 Trauma & Learning Readiness|Emotional burdens may reduce confidence and persistence in learning for displaced youth|
+|💼 Employer Biases|Some employers still prioritize degrees or U.S. experience over skills and training|
+|📉 Data Gaps|There is little data on job outcomes from alternative education for displaced individuals|
 
 ---
 
 ## 📚 Resources & Prior Research
 
 
-1️⃣ **[UNICEF – Learning to Earning (2021)](https://www.unicef.org/reports/learning-earning-displaced-youth)**  
+1️⃣ **[UNICEF – Learning to Earning (2021)](https://www.unicef.org/reports/learning-earning-displaced-youth)**
    🌐 Digital tools help displaced youth move from learning to jobs.
 
 2️⃣ **[UNICEF & ODI – Digitally Powered Learning (2023)](https://odi.org/en/publications/digitally-powered-learning-to-earning-for-displaced-young-people-and-adolescent-girls-and-young-women/)**  
