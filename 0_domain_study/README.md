@@ -71,6 +71,7 @@ clearer, more inclusive, and more supportive.
 
 ## 📚 Resources & Prior Research
 
+<!-- markdownlint-disable -->
 1️⃣ **[UNICEF – Learning to Earning (2021)](https://www.unicef.org/reports/learning-earning-displaced-youth)**  
    🌐 Digital tools help displaced youth move from learning to jobs.
 
@@ -85,6 +86,7 @@ clearer, more inclusive, and more supportive.
 
 5️⃣ **[Jobtech & Na’amal – Guide to Digital Work (2024)](https://jobtechalliance.com/wp-content/uploads/2024/12/Empowering-Refugees-Through-Digital-Work-13012025.pdf)**  
    🛠️ Guide for displaced people to access freelance and remote digital careers.
+<!-- markdownlint-enable -->
 
 ---
 
