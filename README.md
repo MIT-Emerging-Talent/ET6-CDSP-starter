@@ -1,6 +1,29 @@
-# The Express 🚀
+# 👋 Welcome to *The Express*
+
+Welcome to **The Express** – our Collaborative Data Science Project!
 
 ## 📊 Analyzing and Investigating Supply Chain Delays: A Data-Driven Approach
+
+Together, we’ll explore and analyze the root causes of delivery delays in the
+U.S. retail supply chain using a systems thinking approach and data-driven
+techniques. This project is a great opportunity to collaborate, learn, and
+generate impactful solutions.
+
+## 👥 Team Members with this Project  
+
+- [Jawid Mohseni](https://github.com/JawidMohseni)  
+- [Razan Ibrahim](https://github.com/Razan-O-Elobeid)  
+- [Rumiya](https://github.com/Ismatova-Rumiya)  
+- [Alemayehu Desta](https://github.com/Alemayehu-Desta)  
+- [Omnia](https://github.com/omniaNS)
+
+### 🤝 Collaboration Framework
+
+- 📋 [Our Group Norms](collaboration/README.md)
+- 🎯 [Learning Goals](collaboration/learning_goals.md)
+- 💬 [Communication](collaboration/communication.md)
+- 🚧 [Constraints](collaboration/constraints.md)
+- 🔍 [Retrospective](collaboration/retrospective.md)
 
 ### 🧩 Problem Statement
 
@@ -37,25 +60,34 @@ competitiveness of the U.S. retail sector.
 
 ---
 
-### 🔍 Actionable Research Questions
+## 📌 Research Questions
 
-1. What are the key factors that contribute to delivery delays in the retail
-supply chain, and how can they be mitigated?
+### 🎯 Actionable Research Question
 
-2. What transportation and environmental factors most significantly contribute
-to delivery delays in the U.S. retail supply chain, and how accurately can
-machine learning models predict these delays?
+- **What are the key factors that contribute to delivery delays in the retail
+  supply chain, and how can they be mitigated?**
 
-3. How do environmental and event-based anomalies (e.g., weather, COVID) affect
-last-mile delivery delays in urban retail supply chains, and how accurately can
-machine learning models predict these delays?
+---
 
-4. What are the major transportation and logistics-related causes of delivery
-delays in the U.S. retail supply chain, and how can predictive models help
-identify high-risk deliveries?
+### 🧠 Supporting Questions
 
-5. How can machine learning be used to predict and reduce delivery delays in
-the U.S. retail supply chain based on traffic, weather, and logistics data?
+- What transportation and environmental factors most significantly contribute to
+  delivery delays in the U.S. retail supply chain, and how accurately can machine
+  learning models predict these delays?
+
+- How do environmental and event-based anomalies (e.g., weather, COVID) affect
+  last-mile delivery delays in urban retail supply chains, and how accurately can
+  machine learning models predict these delays in the U.S.?
+
+- What are the major transportation and logistics-related causes of delivery
+  delays in the U.S. retail supply chain, and how can predictive models help
+  identify high-risk deliveries?
+
+- How can machine learning be used to predict and reduce delivery delays in the
+  U.S. retail supply chain based on traffic, weather, and logistics data?
+
+- How can machine learning models improve the accuracy of demand forecasting in
+  retail supply chains during seasonal fluctuations?
 
 ---
 
@@ -130,6 +162,8 @@ systemic fragility.
 ![Delivery Delays in the U.S. Retail Supply Chain][def]
 
 ---
+
+*For more information, see the [`0_domain_study`](./0_domain_study) folder.*
 
 🛠️ *By addressing both the visible symptoms and underlying systems, our team
 aims to develop meaningful, data-driven solutions to reduce delivery delays and
