@@ -65,9 +65,19 @@ and ensure seamless code integration.
 - Improve my technical skills needed for data science (e.g. Python programming,
  data analysis, data visualization,...etc.)
 - Add more projects to my portfolio to showcase my skills for future job opportunities.
+  
+Martha
+
+- Learn to use Python libraries like Pandas and Matplotlib to
+manipulate and analyze data effectively.
+- Apply data science techniques to solve issues in my small business and local community.
+- Practice cleaning and preparing raw datasets for accurate analysis.
+- Go through each part of an algorithm carefully to grasp how and why it works.
+- Get comfortable using Jupyter or VS Code to write and run Python code.
 
 ## ✅ Summary
 
 Each member contributes a unique perspective and learning goal to this project.
  By aligning these goals from the start, we foster a productive, collaborative,
   and growth-oriented environment.
+  
