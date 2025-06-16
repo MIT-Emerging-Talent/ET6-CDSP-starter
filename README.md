@@ -19,8 +19,6 @@ creating tools that make a real difference in people’s lives.
 
 ## 💡 About This Project
 
-> *Note: This section will be completed as we define the problem, conduct research, and move forward with planning.*
-
 ### 📌 Problem Statement
 
 ### 📚 Domain Research
@@ -43,6 +41,7 @@ These outcomes are frequently reported in the media, scientific literature,
 and government health statistics.
 
 **Examples:**
+
 - Delayed responses to severe pregnancy symptoms.  
 - Reports of preventable deaths due to misdiagnosis or inaction.  
 - Underreporting or dismissal of pain or complications during  
@@ -83,6 +82,7 @@ and government health statistics.
 ---
 
 ## 👩‍💻 Meet the Team 👑
+
 ---
 <!-- markdownlint-disable MD033 -->
 <table>
