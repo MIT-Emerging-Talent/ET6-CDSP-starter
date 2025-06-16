@@ -1,10 +1,11 @@
 # Project Overview
 
-Living under war conditions in Gaza, I witnessed how constant exposure to
-graphic and violent content on social media deeply affects emotional responses.
-This personal experience reflects a broader global phenomenon, where people
-around the world are regularly exposed to violent media — whether from conflict
-zones, natural disasters, or social unrest.
+As a team of Afghans and Gazans, we grew up in war conditions and witnessed
+firsthand how constant exposure to graphic and violent content on social media
+deeply affects emotional responses. This shared experience reflects a broader
+global phenomenon, where people around the world are regularly exposed to
+violent media — whether from conflict zones, natural disasters, or social
+unrest.
 
 Over time, this raises important questions:
 
