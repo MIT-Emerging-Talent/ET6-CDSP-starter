@@ -31,6 +31,19 @@ infrastructure, and targeted energy policies.
 
 ---
 
+## Problem Statement
+
+  In both rural and urban Nigerian communities, residents are facing increasing
+  challenges in accessing reliable and affordable electricity. In rural areas
+  like my father’s community, power outages persist despite ongoing payments for
+  repairs, forcing many to turn to solar energy or generators. In cities like Lagos,
+  even with reduced appliance use, electricity bills continue to rise — especially
+  during heat waves. These patterns suggest a deeper mismatch between energy
+  infrastructure, pricing policies, and climate-related stresses. This tension is
+  pushing residents, especially those most vulnerable to heat, to seek alternative
+  energy sources — highlighting a growing gap between public infrastructure and
+  real-world needs.
+
 ## ❓ Research Question & Scope
 
 **Main Research Question:**  
