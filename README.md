@@ -41,6 +41,6 @@ Here is the **5Ws and 1H** table for your problem statement, tailored to highlig
 | **Who**      | Students in war-affected regions who rely on online platforms for education.|
 | **What**     | Their academic engagement and performance are being negatively impacted by conflict-related challenges such as violence, displacement, and unreliable internet access. |
 | **Where**    | Conflict zones and war-affected areas where traditional education systems are disrupted.    |
-| **When**     | During and after the onset of armed conflicts, particularly when students are displaced or formal schools are shut down.                                                                                                                            |
-| **Why**      | War introduces instability and trauma, while displacement disrupts routine and internet access; these factors collectively harm students’ ability to learn and perform academically.                                                                |
-| **How**      | By analyzing student interaction and performance data on online platforms, and assessing whether AI tools (e.g., adaptive learning, offline content, emotional support bots) can help mitigate the negative impacts and support effective learning. |
+| **When**     | During and after the onset of armed conflicts, particularly when students are displaced or formal schools are shut down.|
+| **Why**      | War introduces instability and trauma, while displacement disrupts routine and internet access; these factors collectively harm students’ ability to learn and perform academically.|
+| **How**      | By analyzing student interaction and performance data on online platforms,and assessing whether AI tools (e.g., adaptive learning, offline content, emotional support bots) can help mitigate the negative impacts and support effective learning.|
