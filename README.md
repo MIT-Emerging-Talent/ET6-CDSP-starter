@@ -28,7 +28,7 @@ Our group aims to understand how these systemic issues shaped by shifting
 policies, institutional structures, and public attitudes impact vulnerable
 youth and what can be done to improve fairness and access to justice.
 
-For more details: [0_domain_study](README.md)
+For more details: [0_domain_study](0_domain_study/README.md)
 
 ## Stack / Technologies Used
 
@@ -51,7 +51,7 @@ about immigrant children and legal rights.
 
 For a more detailed breakdown of the system, including key events, trends,
 structures, and underlying mental models, check out the full overview:
-[0_domain_study](README.md)
+[0_domain_study](0_domain_study/README.md)
 
 ## Data
 
