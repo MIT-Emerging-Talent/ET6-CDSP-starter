@@ -2,10 +2,11 @@
 
 ## 🌍 Project Overview
 
-This collaborative research project explores whether **blockchain-based identity
-and credit systems** can offer a **viable solution to financial exclusion**
-among **migrants and refugees** who are often shut out of traditional banking
-services due to the lack of formal documentation or credit histories.
+This collaborative research project explores whether
+**blockchain-based identity and credit systems** can offer a
+**viable solution to financial exclusion** among
+**migrants and refugees** who are often shut out of traditional banking services
+due to the lack of formal documentation or credit histories.
 
 ---
 
@@ -26,9 +27,9 @@ more inclusive access to financial services.
 
 ## 📚 Domain Background
 
-More information on the **background domain**, related case studies, and academic
-resources can be found in the  
-📁 [`0_domain_study` folder](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-12-repo/tree/main/0_domain_study).
+More information on the **background domain**, related case studies, and
+academic resources can be found in the  
+📁 [`0_domain_study` folder][domain_study].
 
 ---
 
@@ -48,15 +49,16 @@ resources can be found in the
 Our team follows agreed-upon norms and processes to ensure productive,
 respectful, and inclusive collaboration. These include:
 
-- **🧭 [Group Norms](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-12-repo/blob/main/collaboration/README.md):**  
-  Shared expectations on teamwork, responsibilities, and integrity.
+- **🧭 [Group Norms][norms]**  
+- **💬 [Communication Strategy][communication]**  
+- **⛓ [Project Constraints][constraints]**  
+- **🎯 [Individual Learning Goals][goals]**
 
-- **💬 [Communication Strategy](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-12-repo/blob/main/collaboration/communication.md):**  
-  Tools and schedules for clear, consistent communication across the team.
+---
 
-- **⛓ [Project Constraints](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-12-repo/blob/main/collaboration/constraints.md):**  
-  Limitations and scope boundaries to guide our research focus and deliverables.
-
-- **🎯 [Individual Learning Goals](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-12-repo/blob/main/collaboration/learning_goals.md):**  
-  Goals that reflect each team member’s personal development priorities within
-  this project.
+<!-- Reference-style links -->
+[domain_study]: https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-12-repo/tree/main/0_domain_study
+[norms]: https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-12-repo/blob/main/collaboration/README.md
+[communication]: https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-12-repo/blob/main/collaboration/communication.md
+[constraints]: https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-12-repo/blob/main/collaboration/constraints.md
+[goals]: https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-12-repo/blob/main/collaboration/learning_goals.md
