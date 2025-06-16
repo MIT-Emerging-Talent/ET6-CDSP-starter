@@ -57,7 +57,6 @@ attendance across time zones, if necessary.
 ## 📝 Action Items
 
 - ✅ Everyone completes their designated collaboration documents.
-- ✅ Issues will be created when tasks are complete and ready to be reviewed.
 - 📌 Keep Slack active and use it for async help/questions.
 - 📌 Ensure GitHub Project Board remains updated with progress.
 - 📌 Keep nurturing team identity and motivation — Go **Data Strikers**! 💪⚽
