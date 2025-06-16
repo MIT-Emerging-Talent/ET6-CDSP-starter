@@ -79,33 +79,52 @@ Our approach is focused on testing blockchain and AI models using available alte
 
 ---
 
-## 📁 Repository Structure (Linked)
+## 📁 Repository Structure
 
-Navigate directly to each folder below:
-
-* [0\_domain\_study/](./0_domain_study/) – Domain background research
-* [1\_datasets/](./1_datasets/) – Raw and processed datasets
-* [2\_data\_preparation/](./2_data_preparation/) – Data cleaning and transformation
-* [3\_data\_exploration/](./3_data_exploration/) – Exploratory analysis and insights
-* [4\_data\_analysis/](./4_data_analysis/) – Modeling, predictions, findings
-* [5\_communication\_strategy/](./5_communication_strategy/) – Communication and stakeholder planning
-* [6\_final\_presentation/](./6_final_presentation/) – Final outputs and slides
-* [collaboration/](./collaboration/) – Team coordination, communication, goals, retrospectives
-* [notes/](./notes/) – Group and individual documentation
-
-### 🔍 Internal Folder Descriptions
-
-Each of the main project folders includes:
-
-* `README.md` — Describes what the folder contains
-* `guide.md` — Offers walkthroughs, instructions, or frameworks for that section
-
-In the `collaboration/` folder:
-
-* `communication.md` — Meeting logs and shared decisions
-* `constraints.md` — Project limitations and boundaries
-* `learning_goals.md` — Team learning objectives
-* `guide/` — Guides for effective collaboration workflows
-* `retrospective/` — Post-sprint feedback, reflections, and lessons learned
+```
+/ET6-CDSP-GROUP-12-REPO
+│
+├── README.md                        # Main project overview
+│
+├── 0_domain_study/                 # Domain background research
+│   ├── README.md
+│   └── guide.md
+│
+├── 1_datasets/                     # Raw and processed datasets
+│   ├── README.md
+│   └── guide.md
+│
+├── 2_data_preparation/            # Data cleaning and transformation
+│   ├── README.md
+│   └── guide.md
+│
+├── 3_data_exploration/            # Exploratory data analysis (EDA)
+│   ├── README.md
+│   └── guide.md
+│
+├── 4_data_analysis/               # Modeling and evaluation
+│   ├── README.md
+│   └── guide.md
+│
+├── 5_communication_strategy/      # Communication plans
+│   ├── README.md
+│   └── guide.md
+│
+├── 6_final_presentation/          # Slides and summary documents
+│   ├── README.md
+│   └── guide.md
+│
+├── collaboration/                 # Group work structure
+│   ├── README.md
+│   ├── communication.md
+│   ├── constraints.md
+│   ├── learning_goals.md
+│   ├── guide/
+│   └── retrospective/
+│
+└── notes/                         # Personal and shared notes
+    ├── README.md
+    └── guide.md
+```
 
 ---
