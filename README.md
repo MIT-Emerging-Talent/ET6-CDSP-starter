@@ -95,27 +95,37 @@ and government health statistics.
    </thead>
    <tbody>
    <tr>
-      <td><img src="https://avatars.githubusercontent.com/u/111435149?v=4" width="65" alt="Safa Abuzaid"></td>
+      <td><img src="https://avatars.githubusercontent.com/u/111435149?v=4"
+            width="65"
+            alt="Safa Abuzaid"></td>
       <td>Safaa Osman</td>
       <td><a href="https://github.com/safaabuzaid">safaabuzaid</a></td>
    </tr>
    <tr>
-      <td><img src="https://avatars.githubusercontent.com/u/142197471?v=4" width="65" alt="Reem Unicorn"></td>
+      <td><img src="https://avatars.githubusercontent.com/u/142197471?v=4"
+            width="65"
+            alt="Reem Unicorn"></td>
       <td>Reem Osama</td>
       <td><a href="https://github.com/reunicorn1">reunicorn1</a></td>
    </tr>
    <tr>
-      <td><img src="https://avatars.githubusercontent.com/u/143920997?v=4" width="65" alt="Sola Rahamza"></td>
+      <td><img src="https://avatars.githubusercontent.com/u/143920997?v=4"
+            width="65"
+            alt="Sola Rahamza"></td>
       <td>Solara Hamza</td>
       <td><a href="https://github.com/Solarahamza">Solarahamza</a></td>
    </tr>
    <tr>
-      <td><img src="https://avatars.githubusercontent.com/u/142165150?v=4" width="65" alt="Aseel AbuKmail"></td>
+      <td><img src="https://avatars.githubusercontent.com/u/142165150?v=4"
+            width="65"
+            alt="Aseel AbuKmail"></td>
       <td>Aseel AbuKmail</td>
       <td><a href="https://github.com/Aseel-AbuKmail">Aseel-AbuKmail</a></td>
    </tr>
    <tr>
-      <td><img src="https://avatars.githubusercontent.com/u/189562848?v=4" width="65" alt="Ana Isabel Murillo"></td>
+      <td><img src="https://avatars.githubusercontent.com/u/189562848?v=4"
+            width="65"
+            alt="Ana Isabel Murillo"></td>
       <td>Ana Isabel Murillo</td>
       <td><a href="https://github.com/AnaiMurillo">AnaiMurillo</a></td>
    </tr>
@@ -127,7 +137,8 @@ and government health statistics.
 
 ## 📈 Project Progress
 
-We manage our workflow using the GitHub Projects board. You can follow our progress here:
+We manage our workflow using the GitHub Projects board.
+You can follow our progress here:
 
 📌 [GitHub Project Board](https://github.com/orgs/MIT-Emerging-Talent/projects/200/views/1)
 
