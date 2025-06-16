@@ -71,8 +71,7 @@ clearer, more inclusive, and more supportive.
 
 ## 📚 Resources & Prior Research
 
-
-1️⃣ **[UNICEF – Learning to Earning (2021)](https://www.unicef.org/reports/learning-earning-displaced-youth)**
+1️⃣ **[UNICEF – Learning to Earning (2021)](https://www.unicef.org/reports/learning-earning-displaced-youth)**  
    🌐 Digital tools help displaced youth move from learning to jobs.
 
 2️⃣ **[UNICEF & ODI – Digitally Powered Learning (2023)](https://odi.org/en/publications/digitally-powered-learning-to-earning-for-displaced-young-people-and-adolescent-girls-and-young-women/)**  
