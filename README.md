@@ -34,7 +34,8 @@ For example, displacement leads to unstable living conditions, which worsen inte
 a negative feedback loop. We aim to explore this system and investigate how AI can support these students to learn more effectively.
 
 **For further explanation of the problem, the iceberg model is applied** [in this file](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-03-repo/blob/brainstorming/0_domain_study/systems_tkinking.md)
-Here is the **5Ws and 1H** table for your problem statement, tailored to highlight key aspects of the issue:
+
+## 5 Ws and 1 H for our problem statement
 
 | **Question** | **Answer** |
 | ------------ | ---------------------------------------------------------------- |
