@@ -201,12 +201,6 @@ Key Points:
 - **CFPB Investigation**: Active regulatory scrutiny with multiple reports
  since 2021 :cite[13-1]
 
-**Note on Missing Statistic**: I was unable to locate the specific source for
- the "13.4% of BNPL provider revenues come from late fees and penalties" statistic
-  in my search results. This figure may come from a specific CFPB report that wasn't
-   accessible through web search, or may need verification from the original source
-    document.
-
 **International Regulatory Responses Reference**  
 Authors: Various Regulatory Bodies  
 Year: 2023-2024  
