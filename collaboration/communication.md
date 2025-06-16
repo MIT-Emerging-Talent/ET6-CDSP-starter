@@ -24,10 +24,10 @@
 
 How often we will get in touch on each channel, and what we will discuss there:
 
-- **Issues**:
-- **Pull Requests**:
-- **Slack/Discord**:
-- **Video Calls**:
+- **Issues**:On Github and Slack - Asynchronously
+- **Pull Requests**:On Github - Asynchronously
+- **Slack/Discord**:During the week - Asynchronously
+- **Video Calls**:On Zoom or Google Meet - Once or twice a week.
 
 ## Availability
 
