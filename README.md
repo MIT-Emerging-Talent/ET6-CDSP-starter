@@ -32,16 +32,26 @@ ___
 
 ___
 
-## ❗ Project Title
+## 🔍 Explore Our Project
 
    **📄** To read the full background and detailed version, see
    [Milestone 1: Problem Identification](0_domain_study/README.md)
 
-* **Chatbot vs Human vs Hybrid: Support Quality in Mental Health Apps**
-  
-  How does support quality differ between chatbot-based, human-based, and hybrid
-  mental health apps—and how are these differences experienced across cultures?
+### 🔹Problem Statement
 
+  **📄** To read the full Problem Statement, see [Problem Statement](0_domain_study/problem_statement.md)
+
+* **Chatbot vs Human vs Hybrid Support in Mental Health Apps**
+
+Mental health apps are bridging global care gaps, especially where stigma, cost,
+or shortages limit traditional access. Three main support models exist:
+
+* 🤖 **Chatbots**: 24/7, private, and scalable, but lack emotional depth.  
+* 🧑‍⚕️ **Humans**: Empathetic and nuanced, yet costly and less available.  
+* 🔁 **Hybrids**: Blend both, offering balance but may confuse users.
+
+Each model has pros and cons, with success shaped by user context and needs.
+  
 * **Why It Matters**
 
   * Mental health affects 1 in 8 people globally, but access remains unequal.
@@ -62,9 +72,45 @@ ___
   
 * **In Summary**
 
-This project explores how mental health support—via chat-bots, humans, or hybrid
+To explores how mental health support—via chat-bots, humans, or hybrid
 systems—is experienced across cultures. Our aim: to inform more empathetic,
 effective, and inclusive digital care.
+
+### 🔹Summary of Problem Understanding
+
+  **📄** To read the full Summary of Problem Understanding,
+  see [Summary of Problem Understanding](0_domain_study/summary_of_our_understanding_of_the_problem_domain.md)
+
+We used **divergent thinking** to explore broad problem areas, then applied  
+**convergent thinking** to narrow our focus using feasibility and impact criteria.
+We chose to explore chatbot vs human support in mental health apps.
+
+* **Idea Evaluation Sheet**
+
+  All proposed project ideas and their comparison scores are documented in this
+  [spreadsheet](https://tinyurl.com/3r5a5jee)
+  This helped us select the most impactful and feasible topic.
+
+### Iceberg Model Overview
+
+* **Event**: Users interact with chatbots—some feel helped, others feel unheard.
+* **Pattern**: Mental health apps are growing; many now rely on chatbots.  
+* **Structure**: Cost and scale drive chatbot use; regulation is limited.  
+* **Mental Model**: Belief in AI as a fix for care gaps and stigma sustains the system.
+
+### 🔹Research Question
+
+   **📄** To read the full Research Questions, see
+ [Research Question](0_domain_study/research_question.md)
+
+To narrow our broad problem, we ask:  
+
+How well do free mental health chatbots (e.g., Wysa, Replika)  respond to a  
+set of high-risk user messages (e.g., self-harm, suicide, abuse), based on a  
+rubric aligned with professional guidelines—while accounting for technical and  
+ethical limits?
+
+This helps us focus our research on a specific, measurable aspect of the problem.
 
 ___
 
