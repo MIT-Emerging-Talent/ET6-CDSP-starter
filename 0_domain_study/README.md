@@ -27,6 +27,16 @@ The problems are grouped into several thematic areas:
 5. **Platform-Specific Insights**:
    * Analyzing user behavior data from platforms like Udemy, Coursera, and edX to assess student engagement and retention in conflict settings.
    * Studying pricing strategies on online learning platforms that balance affordability for students in war-torn regions with economic sustainability.
+  
+## Systems Thinking
+
+* In this file we have applied the iceberg model on our problem statement to better view and understand the constraints and reasons behind the trends and patterns happening in the context of the problem.
+* Check it out in [Systems Thinking](/0_domain_study/systems_tkinking.md)
+
+## Five Ws and One H Framework
+
+* We have used this conceptual framework to better identify key stakeholders, time, and place and reasons behind the problem.
+* Check it out in [Systems Thinking](/0_domain_study/process/five_ws_and_one_h_framework.md)
 
 ## 📚 Research Resources Overview
 
