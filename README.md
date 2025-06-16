@@ -54,6 +54,8 @@ respectful, and inclusive collaboration. These include:
 - **⛓ [Project Constraints][constraints]**  
 - **🎯 [Individual Learning Goals][goals]**
 
+---
+
 ## 🗂️ Repository Structure
 
 ```plaintext
