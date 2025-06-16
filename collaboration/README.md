@@ -37,3 +37,8 @@ approach to achieve shared goals.
 10. **Diversity and Collaboration**
     * Value everyone's contributions.
     * Create opportunities for collaboration across diverse perspectives.
+11. **Meetings:** Weekly on monday at 12 EST.
+
+12. **Decision-Making:** Majority vote after  discussion.
+
+13. **Conflict Resolution:** Rotating mediator role.  
