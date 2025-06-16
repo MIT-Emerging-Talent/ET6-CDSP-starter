@@ -121,6 +121,12 @@ Our approach is focused on testing blockchain and AI models using available alte
 │   ├── learning_goals.md
 │   ├── guide/
 │   └── retrospective/
+        ├── 0_cross_cultural_collaboration.md
+        ├── 1_problem_identification.md
+        ├── 2_data_collection.md
+        ├── 3_data_analysis.md
+        ├── 4_communication_result.md
+        └── 5_final_presentation.md
 │
 └── notes/                         # Personal and shared notes
     ├── README.md
