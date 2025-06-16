@@ -1,12 +1,8 @@
-# The Express
+# The Express 🚀
 
-## 📊 Project Title
+## 📊 Analyzing and Investigating Supply Chain Delays: A Data-Driven Approach
 
-**Analyzing and Investigating Supply Chain Delays:A Data-Driven Approach**
-
----
-
-## 🧩 Problem Statement
+### 🧩 Problem Statement
 
 Despite being one of the world’s most developed economies, the United States
 continues to face nationwide retail supply chain delays, affecting both large
@@ -41,14 +37,14 @@ competitiveness of the U.S. retail sector.
 
 ---
 
-## 🔍 Research Questions
+### 🔍 Research Questions
 
-### ✅ **An Actionable Research Question**
+#### ✅ **An Actionable Research Question**
 
 **What are the key factors that contribute to delivery delays in the retail
 supply chain, and how can they be mitigated?**
 
-### 📌 **Supporting/Exploratory Questions**
+#### 📌 **Supporting/Exploratory Questions**
 
 1. What transportation and environmental factors most significantly contribute
 to delivery delays in the U.S. retail supply chain, and how accurately can
@@ -67,9 +63,9 @@ the U.S. retail supply chain based on traffic, weather, and logistics data?
 
 ---
 
-## 🧠 Systems Thinking Approach
+### 🧠 Systems Thinking Approach
 
-### 🕸 Understanding Delivery Delays in the U.S. Retail Supply Chain
+#### 🕸 Understanding Delivery Delays in the U.S. Retail Supply Chain
 
 We understand that delivery delays in the U.S. retail supply chain is the
 outcome of multiple interdependent systems. Using systems thinking, we analyzed
@@ -81,9 +77,9 @@ resilience across the system.
 
 ---
 
-## ❄️ The Iceberg Model: Understanding Systemic Delivery Delays
+### ❄️ The Iceberg Model: Understanding Systemic Delivery Delays
 
-### 📍 Event
+#### 📍 Event
 
 The end user experiences a delayed shipment beyond its expected delivery time.
 Consumers, both individuals and businesses, experience missing delivery
@@ -91,7 +87,7 @@ windows, tracking errors, or unfulfilled expectations. But this event is just
 the tip of the iceberg, in which the end user has minimal capability to
 understand.
 
-### 📈 Patterns & Trends
+#### 📈 Patterns & Trends
 
 Delays spike during holidays, in congested cities, or under severe weather
 conditions.
@@ -102,7 +98,7 @@ These patterns are not random. We consistently observe delays in:
 - Seasonal surges (Black Friday, Christmas)
 - During national labor shortages or strikes
 
-### 🏗️ Systemic Structures
+#### 🏗️ Systemic Structures
 
 **Why do these delays persist despite tech and logistics innovation?**
 
@@ -118,7 +114,7 @@ Underlying structures create the conditions for recurring delays:
 These structural flaws create bottlenecks and friction points that increase
 system stress during peak demand.
 
-### 💭 Mental Models
+#### 💭 Mental Models
 
 **What beliefs sustain these fragile systems?**
 
