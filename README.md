@@ -12,7 +12,7 @@ ___
 ## 👥 Meet the team on Github
 <!-- markdownlint-disable MD033 -->
 
-[Huda Alamasi](https://github.com/hudaalamassi),
+[Huda Alamassi](https://github.com/hudaalamassi),
 [Malak Battatt](https://github.com/malakbattat),
 [Sadam Husen Ali](https://github.com/Urz1),
 [Chrismy Augustin](https://github.com/likechrisss),
