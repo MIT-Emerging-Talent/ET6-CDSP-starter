@@ -78,10 +78,9 @@ to solar energy?**"]
 
 ## Our Actionable Research Question
 
-- > _How have armed conflicts in the past decade
-  affected the deployment, capacity utilization,
-  household consumption of solar photovoltaic and
-  small‐scale wind systems in conflict‐affected communities?_
+> _How have armed conflicts in the past decade
+affected the deployment, capacity utilization,
+and household consumption of solar photovoltaic systems in conflict‐affected communities?_
 
 ## Constraints
 
