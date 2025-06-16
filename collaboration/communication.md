@@ -30,14 +30,20 @@ How often we will get in touch on each channel, and what we will discuss there:
 
 ### Availability for calling/messaging
 
-| Day     | Mon | Tue | Wed | Thu | Fri| Sat | Sun |
-|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Alona |5-8 PM EST|5-8 PM EST|3-8 PM|5-8 PM EST|5-8 PM EST|No|9 AM-8 PM EST|
-|Asia|5-10 PM |5-10 PM |5-10 PM|5-10 PM|No|5-10 PM|5-10 PM|CAT|
+| Day   | Mon   | Tue    | Wed    | Thu    | Fri   | Sat | Sun|
+|-------|:-----:|:------:|:------:|:------:|:-----:|:---:|:----:|
+| Alona |5–8 PM | 5–8 PM | 3–8 PM | 5–8 PM | 5–8 PM| No     |9–8 PM EST|
+| Asia  |5–10 PM| 5–10 PM| 5–10 PM| 5–10 PM| No    | 5–10 PM| 5–10 PM |
+| Vahab |10–14 *| 10–14 *| 10–14 *| 10–14 *| 10–14 *| Can't plan in advanced||
+
+\* Subject to change depending on other commitments.  
+Currently based in **Canada (Edmonton Time Zone - MST/MDT)**.  
+In **June**, located in **Central European Time Zone (CET/CEST)**.
 
 ### How many hours everyone has per day
 
 - Alona: _3h_
+- Vahab: _4h_ weekdays.
 
 ## Asking for Help
 
