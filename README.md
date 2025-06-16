@@ -33,7 +33,7 @@ ___
   * Understand how culture shapes perceptions of empathy and trust.
 
   * Deliver insights through data analysis and a final report/dashboard.
-
+  
 * **In Summary**
 
 This project explores how mental health support—via chat-bots, humans, or hybrid
@@ -49,7 +49,7 @@ ___
 <!-- markdownlint-disable MD033 -->
 
 [Huda Almasi](https://github.com/hudaalamassi),
-[Malak Batat](https://github.com/malakbattat),
+[Malak Battatt](https://github.com/malakbattat),
 [Sadam Husen Ali](https://github.com/Urz1),
 [Chrismy Augustin](https://github.com/likechrisss),
 [F. Ismail SAHIN](https://github.com/fevziismailsahin),
