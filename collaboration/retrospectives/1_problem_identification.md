@@ -69,9 +69,15 @@ I’m excited for what’s ahead.*
 ### ✅ Geehan  
 
 **Reflection:**  
-*(Pending)*  
+*This milestone wasn’t easy for me. There was a lot of discussion and back-and-
+forth, and at times I felt a bit stressed and overwhelmed. But in the end,
+ it turned out well.  
+We managed to communicate clearly, support each other,
+ and keep things respectful.  
+I also learned how important it is to stay patient and open during group work,
+ and I’m happy how we handled everything as a team.*
 
-**Status:** Not started
+**Status:** Approved
 
 ---
 
