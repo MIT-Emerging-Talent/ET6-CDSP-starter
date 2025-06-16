@@ -15,7 +15,11 @@
 
 | Day    | How | The topic of discussion |
 | :----: | :-: | ----------------------: |
-|        |     |                         |
+| 30/5   |Zoom | Meet and greet,each one will try writing a draft about one of the 4 collaborations files|
+| 01/6   |Zoom | Everyone's updates on drafts |
+| 09/6   |Google Meet | Talked about our interests and approaches to find our research question |
+| 13/6   |Zoom | Discussed suggested research questions and
+ways to link the problems |
 
 ## Communication Channels
 
@@ -30,18 +34,24 @@ How often we will get in touch on each channel, and what we will discuss there:
 
 ### Availability for calling/messaging
 
-| Day     | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
-|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| _name_ |     |     |     |     |     |     |     |
+| Day    | Monday    | Tuesday   | Wednesday | Thursday  | Friday    | Saturday | Sunday |     |
+| ------ | :----:    | :-----:   | :-------: | :------:  | :----:    | :------: | :----: | --- |
+| Ozgur  | 2pm-7pm   | 2pm-7pm   | 2pm-7pm   | 2pm-7pm   | 2pm-7pm   |          |        |     |
+|M.Elfadil| 2am-4pm  | 2am-4pm   | 2am-4pm   | 2am-4pm   | 2am-4pm   | 2am-4pm  | 2am-4pm|     |
+|Mukuna   | 10am-11am| 10am-11am | 10am-11am | 10am-11am | 10am-11am | 8am-11am |        |     |
+|M.Ziadah | 3pm-4pm 10-11am | 3pm-4pm 10-11am |3pm-4pm 10-11am | 3pm-4pm 10-11am  |3pm-4pm 10-11am | 3pm-4pm 10-11am  | 3pm-4pm 10-11am |     |
+|Svitlana | 11am-8pm| 11am-8pm   | 11am-8pm   | 11am-8pm | 11am-8pm   | 11am-3pm |        |     |
+|Hasan    |         |            |            |           |           |          |        |     |
 
 ### How many hours everyone has per day
 
-- name: _5h_
-- name: _6h_
-- name: _5h_
-- name: _4h_
-- name: _3h_
-
+- Ozgur: _5h_;
+- M.Elfadil: _6h_;
+- Mukuna: _2h_;
+- M.Ziadah: _4h_;
+- Svitlana: _9h_;
+- Hasan: _4h_;
+  
 ## Asking for Help
 
 There's a fine line between confidently learning from your mistakes and
