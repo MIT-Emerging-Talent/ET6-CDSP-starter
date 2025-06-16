@@ -163,6 +163,8 @@ systemic fragility.
 
 ---
 
+*For more information, see the [`0_domain_study`](./0_domain_study) folder.*
+
 🛠️ *By addressing both the visible symptoms and underlying systems, our team
 aims to develop meaningful, data-driven solutions to reduce delivery delays and
 improve the efficiency of retail supply chains.*
