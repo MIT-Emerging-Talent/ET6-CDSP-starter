@@ -10,15 +10,16 @@
 
 ## 📊 About Our Project
 
-Welcome to **DataCents** - where numbers tell stories and algorithms predict
-fortunes! 🎯
+Welcome to **DataCents** - where we decode financial patterns to predict and prevent
+over-indebtedness in the BNPL era! 🎯
 
 ## 🔍 What is DataCents?
 
-> **DataCents** is a team of data wizards is on a quest to transform the cryptic
-> language of financial markets into clear, actionable insights. We're not just
-> crunching numbers; we're crafting the future of financial decision-making, one
-> algorithm at a time. 💡🌍
+> **DataCents** is a team of data scientists focused on understanding and predicting
+> financial risk in the Buy Now, Pay Later (BNPL) landscape. We're developing machine
+> learning models to identify early warning signals of over-indebtedness among
+> Gen Z users, helping to create a safer financial ecosystem for young
+> consumers. 💡🌍
 
 ### 🎯 Our Mission
 
@@ -26,9 +27,10 @@ fortunes! 🎯
 
 We're on a mission to:
 
-- Transform financial data into actionable insights
-- Develop innovative algorithms for market analysis
-- Create tools that make financial decision-making more accessible
+- Predict over-indebtedness risk among Gen Z BNPL users
+- Identify key behavioral and transactional patterns that signal financial stress
+- Develop early warning systems for financial risk assessment
+- Create tools that help young consumers make informed financial decisions
 
 ## 🧠 Problem statement
 
@@ -150,12 +152,14 @@ and which features provide the most reliable early-warning signals?
 
 ## 🔍 Research Focus
 
-Our project delves into the fascinating world of finance, exploring:
+Our project delves into the intersection of behavioral finance and machine learning,
+exploring:
 
-- Market trend analysis
-- Predictive modeling
-- Risk assessment
-- Portfolio optimization
+- BNPL usage patterns among Gen Z consumers
+- Predictive modeling of over-indebtedness risk
+- Behavioral and transactional feature analysis
+- Early warning signal identification
+- 6-month risk horizon assessment
 
 ## 🛠️ Technical Stack
 
@@ -206,7 +210,7 @@ data analysis.
 
 ## 📈 Project Progress
 
-[![Progress](https://img.shields.io/badge/Progress-5%25-blue?style=for-the-badge)](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-15-repo)
+[![Progress](https://img.shields.io/badge/Progress-15%25-blue?style=for-the-badge)](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-15-repo)
 
 ## 📈 Key Findings
 
