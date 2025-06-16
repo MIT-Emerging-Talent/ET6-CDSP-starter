@@ -1,6 +1,6 @@
 # Domain Research — Dorcas Njeri
 
-## 1. Original Group Research Question  
+## 1. Original Group Research Question
 
 **What are the average wage trends for immigrants in their first five years after
 arrival compared to native-born workers of the same age and gender?**
@@ -10,13 +10,13 @@ arrival compared to native-born workers of the same age and gender?**
 ## 2. Domain  
 
 This research sits within the fields of **labor economics** and  
-**immigration studies**, particularly focusing on wage progression during the  
-early integration phase.
+**immigration studies**, particularly focusing on wage progression
+during the early integration phase.
 It’s  relevant to broader conversations around **economic mobility**,  
-**equality of opportunity**, and **workforce inclusion**. 
+**equality of opportunity**, and **workforce inclusion**.
 By understanding how immigrant wages evolve over time and what causes  
 disparities, we can identify gaps in existing policies and suggest better  
-support systems. 
+support systems.
 This domain also intersects with **public policy**, **social justice**,  
 and **international labor migration**.
 
@@ -65,8 +65,8 @@ and **occupation**.
 ### Structural Barriers  
 
 - Discrimination based on nationality or race contributes to persistent wage  
-  differences.  
-- Occupational licensing laws can delay entry into regulated professions.  
+  differences.
+- Occupational licensing laws can delay entry into regulated professions.
 - Work visa limitations often restrict job mobility or access to higher-paying roles.
 
 ### Sources Consulted  
@@ -95,11 +95,11 @@ and **occupation**.
 ## 7. Stakeholders and Relevance  
 
 - **Immigrants**: This research directly affects their economic opportunities  
-  and future planning.  
+  and future planning.
 - **Policymakers**: Insights from this study can help shape more effective  
-  integration and labor policies.  
+  integration and labor policies.
 - **Employers**: Understanding barriers may help them tap into  
-  underutilized immigrant talent.  
+  underutilized immigrant talent.
 - **Advocacy Groups**: Can use the findings to push for fairer workplace  
   practices and legal reforms.
 
