@@ -28,8 +28,6 @@ The problems are grouped into several thematic areas:
    * Analyzing user behavior data from platforms like Udemy, Coursera, and edX to assess student engagement and retention in conflict settings.
    * Studying pricing strategies on online learning platforms that balance affordability for students in war-torn regions with economic sustainability.
 
-##
-
 ## 📚 Research Resources Overview
 
 This folder contains structured research materials collected by **DATA ALCHEMISTS** for the MIT Computer and Data Science Certificate Project (2024–2025). The subfolders within the `resources/` directory are organized based on our key
