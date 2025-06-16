@@ -1,6 +1,29 @@
-# The Express 🚀
+# 👋 Welcome to *The Express*
+
+Welcome to **The Express** – our Collaborative Data Science Project!
 
 ## 📊 Analyzing and Investigating Supply Chain Delays: A Data-Driven Approach
+
+Together, we’ll explore and analyze the root causes of delivery delays in the
+U.S. retail supply chain using a systems thinking approach and data-driven
+techniques. This project is a great opportunity to collaborate, learn, and
+generate impactful solutions.
+
+## 👥 Team Members with this Project  
+
+- [Jawid Mohseni](https://github.com/JawidMohseni)  
+- [Razan Ibrahim](https://github.com/Razan-O-Elobeid)  
+- [Rumiya](https://github.com/Ismatova-Rumiya)  
+- [Alemayehu Desta](https://github.com/Alemayehu-Desta)  
+- [Omnia](https://github.com/omniaNS)
+
+****### 🤝 Collaboration Framework
+
+- 📋 [Our Group Norms](collaboration/README.md)
+- 🎯 [Learning Goals](collaboration/learning_goals.md)
+- 💬 [Communication](collaboration/communication.md)
+- 🚧 [Constraints](collaboration/constraints.md)
+- 🔍 [Retrospective](collaboration/retrospective.md)
 
 ### 🧩 Problem Statement
 
