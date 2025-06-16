@@ -221,3 +221,31 @@ and reviewing contributions from other team members.
 - Strengthened async communication and task completion using GitHub and Slack.
 
 ---
+
+### Shaima Mohamed
+
+### Contributions (Shaima)
+
+- Participated in brainstorming sessions and shared problem ideas informed by personal experiences.
+- Conducted thorough domain research and drafted the initial content for the `0_domain_research` folder.
+- Created and submitted a pull request for the domain research document.
+- Actively engaged in team discussions and decision-making during meetings and asynchronously.
+- Provided feedback on project documents and participated in reviewing milestone deliverables.
+- Supported communication and collaboration efforts through Slack and GitHub.
+- Worked with team members to maintain alignment on tasks and milestone expectations.
+
+### Challenges (Shaima)
+
+- Understanding the required scope and depth for the domain research in the early stage.
+- Balancing documentation tasks with ongoing discussions and emerging project needs.
+- Managing time effectively to meet tight deadlines alongside other responsibilities.
+
+### Progress (Shaima)
+
+- Improved research and synthesis skills by working on domain background materials.
+- Gained confidence in contributing written content to collaborative documents.
+- Strengthened understanding of milestone structures and deliverables.
+- Developed better coordination and communication practices through collaborative tools like GitHub and Slack.
+
+---
+
