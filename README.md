@@ -51,7 +51,7 @@ microgrids to local maintenance committees
 > capacity utilization, and household consumption of solar photovoltaic
 > systems—both environmentally and socially—in conflict-affected communities?**
 
-## Timeline and milestonse
+## Timeline And Milestones
 
 ```mermaid
 timeline
@@ -61,7 +61,7 @@ timeline
             Repository setup, collaboration setup, communication planning : ✅ Completed
     section June 3 - June 16
         Problem Identification :
-            Define the problem & research question : 🔄 In Progress
+            Define the problem & research question : ✅ Completed
     section June 17 - June 30
         Data Collection :
             Decide how to model our problem domain and collect data : ⏳ Not Started
