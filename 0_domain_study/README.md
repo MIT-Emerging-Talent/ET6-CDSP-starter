@@ -1,7 +1,5 @@
 # Domain Research
 
-# Milestone 1 – Retail Supply Chain Delays
-
 ## Background  
 
 In this milestone, our team explored several promising project ideas across various domains, including education, employment, migration, financial literacy, and the supply chain. Reaching a consensus was challenging, as each team member was passionate about different topics. However, after thorough discussion and a group vote, we agreed to focus on the U.S. retail supply chain. This topic aligns with our collective interests and represents a real-world issue that we are eager to analyze collaboratively, with the goal of identifying potential solutions.
