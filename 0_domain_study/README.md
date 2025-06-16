@@ -4,14 +4,13 @@
 
 **Can blockchain-based identity and credit systems provide a viable solution to financial exclusion among migrants and refugees who lack access to traditional banking services?**
 
-This project explores how blockchain and alternative data sources—such as mobile phone usage, remittance patterns, and on-chain transaction histories—can be used to assess creditworthiness and unlock access to essential financial services for underserved migrant communities.
+This project explores how blockchain can be used to assess creditworthiness and unlock access to essential financial services for underserved migrant communities.
 
 ---
 
 ## 🧩 Key Concepts
 
 * **Financial Exclusion**: Migrants and refugees often lack credit histories or documentation, limiting access to banking.
-* **Alternative Data**: Mobile usage, remittances, and digital footprints can provide behavioral indicators of creditworthiness.
 * **Blockchain Technology**: Decentralized, tamper-proof systems offer transparent and portable digital identities.
 * **AI-Driven Credit Scoring**: Models that leverage non-traditional data to assess trustworthiness and risk.
 * **On-Chain Analytics**: Use of blockchain metadata to detect fraud and predict default.
