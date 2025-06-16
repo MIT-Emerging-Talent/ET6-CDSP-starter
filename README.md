@@ -17,7 +17,7 @@ generate impactful solutions.
 - [Alemayehu Desta](https://github.com/Alemayehu-Desta)  
 - [Omnia](https://github.com/omniaNS)
 
-****### 🤝 Collaboration Framework
+### 🤝 Collaboration Framework
 
 - 📋 [Our Group Norms](collaboration/README.md)
 - 🎯 [Learning Goals](collaboration/learning_goals.md)
