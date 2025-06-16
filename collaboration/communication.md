@@ -13,34 +13,51 @@
 
 ## Communication Schedule
 
-| Day    | How | The topic of discussion |
-| :----: | :-: | ----------------------: |
-|        |     |                         |
+| Day      | How       | Topic of Discussion         |
+|----------|-----------|------------------------------|
+| Mondays  | Video Call | Weekly planning & blockers   |
+| Daily    | Slack/WhatsApp   | Quick updates & coordination |
+| As needed| Issues     | Task tracking & documentation|
+| PR-based | GitHub PRs | Code reviews & feedback      |
 
 ## Communication Channels
 
 How often we will get in touch on each channel, and what we will discuss there:
 
-- **Issues**:
-- **Pull Requests**:
-- **Slack/Discord**:
-- **Video Calls**:
+- **Issues**: Used continuously to track tasks, bugs, planning, and team
+contributions. Each task should have
+its own issue with clear acceptance criteria and format.
+
+- **Pull Requests**: Created whenever a task is ready for review.
+Used for technical discussion,
+code/doc review, and decisions on whether something is ready to merge.
+Reviewed within 1–2 days of opening.
+
+- **Slack/WhatsApp**: Used daily for quick check-ins, informal updates,
+  and coordination.
+  Also used for reminders or schedule updates.
+
+- **Video Calls**: Weekly
 
 ## Availability
 
 ### Availability for calling/messaging
 
-| Day     | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
-|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| _name_ |     |     |     |     |     |     |     |
+| Day          |Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday|
+| ------       |:-----|:-----:|:-------:|:------:|:----:|:------:|:----:|
+| Ava          |  ✔️ |   ✔️  |    ✔️  |    ✔️  |  ❌  |  ✔️   |  ✔️  |
+| Muhammet Isik|  ✔️ |   ✔️  |    ✔️  |    ✔️  |  ✔️  |  ✔️   |  ❌  |
+| Martha       |  ✔️ |   ❌  |    ✔️  |    ❌  |  ✔️  |  ✔️   |  ❌  |
+| Abdulrahman  |  ✔️ |   ❌  |    ❌  |    ✔️  |  ❌  |  ✔️   |  ✔️  |
+|Mohamed Makki |  ✔️ |   ✔️  |    ✔️  |    ❌  |  ❌  |  ✔️   |  ✔️  |
 
 ### How many hours everyone has per day
 
-- name: _5h_
-- name: _6h_
-- name: _5h_
-- name: _4h_
-- name: _3h_
+- Ava: _2h_;
+- Muhammet Isik: _6h_;
+- Martha: _4h_;
+- Abdulrahman: _6h_;
+- Mohamed Makki: _Flexible after 4p.m. GMT_;
 
 ## Asking for Help
 
