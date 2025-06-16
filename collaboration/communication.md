@@ -43,8 +43,6 @@ channels, and what types of discussions they are for:
 
 How often will we get in touch on each channel, and what we will discuss there:
 
----
-
 ## Availability
 
 ### Messaging/Calling Availability
