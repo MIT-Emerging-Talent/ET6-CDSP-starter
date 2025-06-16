@@ -1,4 +1,4 @@
-# Project title
+# Collaborative Data Science Project (Group 8)
 
 Welcome to group 8 repo(><)  
 
@@ -12,11 +12,46 @@ source code, results, and documentation.
 
 Stay tuned for more updates!
 
-## Project Idea
+## Table Of contents
 
-----
+* [Project Domain](#project-domain)
+* [Problem Statement](#problem-statement)
+* [Actionable Refined Research question](#actionable--refined-research-question)
+* [Timeline And Milestones](#timeline-and-milestones)
+* [Repository Structure](#repository-structure)
+* [Team Members](#team-members)
+* [Notes](#-notes)
+* [License](#license)
 
-## Timeline and milestonse
+## Project Domain
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=times+new+roman&weight=900&size=40&duration=5015&pause=1000&color=EBC927&repeat=false&width=580&height=60&lines=SUSTAINABLE+DEVELOPMENT)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=times+new+roman&weight=900&size=30&duration=5015&pause=1000&color=3D8CA7&vCenter=true&repeat=false&width=561&height=47&lines=Renewable+Energy+in+Conflict+Zones)](https://git.io/typing-svg)
+
+To ground our data‑driven work in real‑world context, we’ve prepared a detailed
+[systems‑thinking overview](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/dc676e15aa9831b8cd7451ce91443bb873376281/0_domain_study/understanding_of_problem_domain.md)
+ of the electrical power challenges in
+conflict‑affected areas. It covers:
+
+* **Patterns & trends** in how and where outages occur  
+* **Underlying structures** that make the grid vulnerable  
+* **Mental models** shaping decision‑making on both sides  
+* **Potential interventions** from distributed solar
+microgrids to local maintenance committees
+
+<!-- markdownlint-disable MD031 MD033 MD004 MD009 MD013 MD045 -->
+## Problem Statement
+
+> Citizens in conflict-affected countries require a stable source of electricity, yet ongoing clashes and targeted attacks on power infrastructure have severely disrupted their access to reliable power.
+
+## Actionable + Refined Research Question
+
+> **How have armed conflicts over the past decade influenced the deployment,
+> capacity utilization, and household consumption of solar photovoltaic
+> systems—both environmentally and socially—in conflict-affected communities?**
+
+## Timeline And Milestones
 
 ```mermaid
 timeline
@@ -26,7 +61,7 @@ timeline
             Repository setup, collaboration setup, communication planning : ✅ Completed
     section June 3 - June 16
         Problem Identification :
-            Define the problem & research question : 🔄 In Progress
+            Define the problem & research question : ✅ Completed
     section June 17 - June 30
         Data Collection :
             Decide how to model our problem domain and collect data : ⏳ Not Started

@@ -88,7 +88,7 @@
 
 ### Ahd
 
-#### What Went Well (Mohamed Saeed)
+#### What Went Well (Ahd)
 
 * Discovering having same interest early on helped us a long way
 * Our process went as smoothly as we wanted: from problem domain to questions  
@@ -107,7 +107,7 @@ meeting minutes.
 
 ### Mariia Ermishina
 
-#### What Went Well
+#### What Went Well (Mariia)
 
 * We were able to clearly distribute responsibilities and understand our individual
 contributions to the project.  
