@@ -59,4 +59,40 @@ so we can collaborate smoothly as a team.
 2-communicating efficiently and putting in effort for the team’s
 success—not just individual progress.
 
--Member6
+Milestone 1: Problem Identification
+
+-AmroMohamed:
+
+1.better understand the domain of our problem
+
+2.collaboration skills
+
+-AmmarIbrahim
+
+-MuhammadShahroz
+
+1.Enhance cross–time–zone coordination
+
+2.Improve time‑blocking and productivity
+
+-BanuÖzyılmaz
+
+1.Understand the basics and process clearly:
+
+2.Improve problem framing and Breaking down complex problems
+
+3.Build the habit of using FRESCO test
+
+-Gennadii
+
+1.Improve collaboration skills in diverse teams.
+
+2.Build a better understanding of product management and project ownership.
+
+-AzzaOmer
+
+1.Understanding Problem Identification
+
+2.Formulating Research Question
+
+3.Applying FRESCO Methodology
