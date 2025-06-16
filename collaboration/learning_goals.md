@@ -4,34 +4,70 @@
 
 ## 🧠 Group Learning Objectives
 
-This file outlines the individual and shared learning objectives for our team.
-Our project is a collaborative data science project focused on learning and
-skill development. By understanding each other's goals, we aim to support each
-other and make our collaboration more effective.
+This file outlines our shared and individual learning goals for this
+ collaborative data science project. By understanding each other’s motivations,
+  we aim to support one another and make our teamwork more effective.
 
-## 🌟 Group-Wide Objectives
+## 🌟 Group
 
-As a team, we aim to:
-
+- Effective Team Collaboration – Ensure smooth communication, task distribution,
+ and problem-solving within the team.
+- Version Control with Git – Maintain well-structured repositories, track changes,
+and ensure seamless code integration.
+- Code Review & Peer Feedback – Implement structured review processes to improve
+ code quality and knowledge sharing.
+- Conflict Resolution in Git – Learn best practices for handling merge conflicts
+ and maintaining repository integrity.
+- Documentation & Transparency – Keep clear records of decisions, changes, and
+ workflow to ensure everyone stays aligned.
 - Strengthen our understanding of data science concepts and workflows.
 - Practice using data structures and algorithms in data science tasks.
 - Write clean, modular, and well-documented code.
-- Improve our use of Git and GitHub for collaborative development.
-- Learn best practices for data cleaning, modeling, and reproducibility.
-- Practice giving and receiving feedback through code reviews.
-- Build habits that support future real-world data science collaboration.
+- Strengthen our collaboration muscle.
+- Respect deadlines while remaining flexible and empathetic.
+- Approach datasets not just as numbers, but as stories waiting to be uncovered.
 
-## 👤 Individual Objectives
+## 👤 Individual
 
-### Muhammet
+### Muhammet Ali
 
 - Gain experience with tools like pandas, NumPy, matplotlib, scikit-learn.
 - Learn to design and run complete data analysis projects from scratch.
 - Improve data cleaning, visualization, and interpretation skills.
-- Practice working with version control and team-based workflows.
+
+### Ava
+
+- Build technical fluency like a language.
+- Deconstruct algorithms line by line, to internalize their logic.
+- Implement clean, vectorized logic in NumPy and Pandas with a focus on
+ readability, speed, and precision
+- Keep soul in the science, no matter how statistical it gets, never forget why
+ we’re learning, and who it’s meant to serve.
+
+### Mohamed
+
+- Improve Git & Version Control Proficiency – Collaborate smoothly using
+ branches, commits, issues and pull requests.
+- improve my skill in teamwork
+- Improve efficiency in handling raw data for analysis.
+- Master Advanced Analytical Techniques
+- Contribute Meaningfully to Group Insights – Provide actionable recommendations
+ based on findings
+- Continuous Learning & Adaptation – Build Git proficiency and enhance teamwork
+ strategies for long-term success.
+
+### Abdulrahman
+
+- Apply my medical knowledge to analyze real-world healthcare problems using
+ data science methods
+- Gain experience working with diverse, cross-cultural teams and improve my
+ leadership, communication, and project management skills.
+- Improve my technical skills needed for data science (e.g. Python programming,
+ data analysis, data visualization,...etc.)
+- Add more projects to my portfolio to showcase my skills for future job opportunities.
 
 ## ✅ Summary
 
-Each team member brings unique learning goals to this project. By sharing our
-objectives clearly, we set the foundation for a productive and supportive team
-environment.
+Each member contributes a unique perspective and learning goal to this project.
+ By aligning these goals from the start, we foster a productive, collaborative,
+  and growth-oriented environment.
