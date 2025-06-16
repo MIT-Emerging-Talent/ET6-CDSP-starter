@@ -1,4 +1,4 @@
-# [Project Title]
+# Seeking Safety, Denied Support
 
 ## Project Overview
 
