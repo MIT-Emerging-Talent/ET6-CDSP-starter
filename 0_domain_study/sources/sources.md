@@ -112,6 +112,107 @@ Key Information:
 - Data shows **Gen Z (49%)** and **subprime borrowers (43%)**
    dominate user base :cite[9]  
 
+**Global BNPL Market Research Report**  
+Authors: GM Insights (Research Firm)  
+Year: 2023  
+Link: [BNPL Statistics for 2025](https://www.absrbd.com/post/bnpl-statitics)  
+Key Points:  
+
+- **Global Market**: $378.3 billion in 2023, projected to reach $532.9 billion
+ by 2024 :cite[2-1]
+- Market projected to grow at **CAGR of 40%** from 2024 to 2032 :cite[2-1]  
+- **Alternative source** from GlobalData estimated market at $349.4 billion in
+ 2023 :cite[2-1]
+
+**Fortune Business Insights BNPL Market Report**  
+Authors: Fortune Business Insights  
+Year: 2024  
+Link: [Buy Now Pay Later Market Size Report](<https://www.fortunebusinessinsights.com/>
+buy-now-pay-later-market-106408)  
+Key Points:  
+
+- **US Market**: Expected to hit $124.8 billion by 2027, growing at 15.8%
+ annually :cite[4-1]
+- North America dominated market with **59.94% share** in 2023 :cite[4-1]
+- Retail e-commerce sales reached **$284.1 billion** in Q3 2023 in the US :cite[4-1]
+
+## Consumer Impact Indicators Sources
+
+**CFPB Research Report on Heavy BNPL Use**  
+Authors: Consumer Financial Protection Bureau  
+Year: 2025  
+Link: [CFPB Research Reveals Heavy BNPL Use][cfpb-heavy-bnpl-use]
+
+[cfpb-heavy-bnpl-use]: https://www.consumerfinance.gov/about-us/newsroom/cfpb-research-reveals-heavy-buy-now-pay-later-use-among-borrowers-with
+-high-credit-balances-and-multiple-pay-in-four-loans/)  
+Key Points:  
+
+- **Multi-Platform Usage**: 63% of borrowers had simultaneous loans at some
+ point during 2021-2022 :cite[13-1]
+- **Cross-Provider Risk**: 32% had loans across multiple firms simultaneously
+ :cite[13-1]  
+- **Heavy Users**: 20% of borrowers originated more than one BNPL loan per month
+ on average :cite[13-1]
+
+**LendingTree BNPL Late Payment Survey**  
+Authors: LendingTree Research Team  
+Year: 2024  
+Link: [42% of BNPL Users Have Made a Late Payment](<https://www.lendingtree>)
+.com/personal/bnpl-survey/)  
+Key Points:  
+
+- **Late Payment Rates**: 42% of users report having missed BNPL payments :cite[22-1]
+- **Fee Impact**: 25% were charged a fee or interest due to late payment :cite[22-1]
+- **Demographic Patterns**: Gen Zers most likely to pay late at 55% vs 15% of baby
+ boomers :cite[22-1]
+
+**CFPB BNPL Market Monitoring Report**  
+Authors: Consumer Financial Protection Bureau  
+Year: 2022  
+Link: [Buy Now, Pay Later: Market Trends and Consumer Impacts][cfpb-market-trends]
+
+[cfpb-market-trends]: https://www.consumerfinance.gov/data-research/research-reports/buy-now-pay-later-market-trends-and-consumer-impacts/
+consumerfinance.gov/data-research/research-reports/buy-now-pay-later-market
+-trends-and-consumer-impacts/)  
+Key Points:  
+
+- **Transaction Volume**: 434% increase in "necessity" purchases (gas, groceries,
+ utilities) from 2020-2021 :cite[52-1]
+- **Average Loan Size**: Typical BNPL structure for $50 to $1,000 purchase into
+ four installments :cite[52-1]
+- Comprehensive review of BNPL's **marketplace importance and consumer impacts**
+ :cite[52-1]
+
+## Regulatory Environment Sources
+
+**CFPB Interpretive Rule Press Release**  
+Authors: Consumer Financial Protection Bureau  
+Year: 2024  
+Link: [CFPB Issues Interpretive Rule](https://www.consumerfinance.gov/about-us/newsroom/cfpb-research-reveals-heavy-buy-now-pay-later-use-among-borrowers-with-high-credit-balances-and-multiple-pay-in-four-loans/)
+gov/about-us/newsroom/cfpb-research-reveals-heavy-buy-now-pay-later
+-use-among-borrowers-with-high-credit
+-balances-and-multiple-pay-in-four-loans/)  
+Key Points:  
+
+- **Policy Timeline**: May 2024 interpretive rule treating BNPL as credit cards
+ under Truth in Lending Act :cite[13-1]
+- **Consumer Protection Gaps**: BNPL operates with fewer protections than
+ traditional credit :cite[13-1]
+- **CFPB Investigation**: Active regulatory scrutiny with multiple reports
+ since 2021 :cite[13-1]
+
+**International Regulatory Responses Reference**  
+Authors: Various Regulatory Bodies  
+Year: 2023-2024  
+Sources: UK FCA consultations, Australian ASIC oversight, EU Consumer Credit Directive
+ revisions  
+Key Points:  
+
+- **International Responses**: UK, Australia, and EU developing comprehensive regulatory
+ frameworks :cite[general regulatory trend]
+- Multiple jurisdictions implementing **BNPL-specific consumer protections**
+ :cite[general regulatory trend]
+
 ---
 
 ## Notes
