@@ -39,3 +39,18 @@ If these scams continue to grow unchecked:
 - Vulnerable populations may **face emotional and financial harm**
 - **AI advancements** may be weaponized by bad actors faster than they are
   countered
+
+### Our Approach
+
+This project aims to address these challenges through a
+**machine learning–driven fraud detection model** focused on **text-based
+indicators**. Additionally, we explore the potential for incorporating
+**technical fraud markers** (like suspicious form behaviors and tracking
+patterns) to build a **hybrid detection system**.
+
+By analyzing job scams between **2015–2025**, our group seeks to:
+
+- Understand how fraud tactics evolved in the **AI era**
+- Evaluate whether current detection strategies are sufficient
+- Offer a framework that combines **linguistic features** and **platform
+  behaviors**
