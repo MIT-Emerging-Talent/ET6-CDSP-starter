@@ -34,9 +34,9 @@ For more details: [0_domain_study](README.md)
 
 ## Understanding the problem domain
 
-We applied systems thinking to the topic domain and the four previously cited
-articles, to understand the complex, interconnected issues immigrant juveniles
-face in accessing legal representation and reuniting with family in the U.S.
+We applied systems thinking to the topic domain to understand the complex,
+interconnected issues immigrant juveniles face in accessing legal representation
+and reuniting with family in the U.S.
 These systemic challenges result from evolving immigration policies, funding
 instability, enforcement practices, and underlying beliefs about immigrant
 children and legal rights. Below is an overview organized into events,
