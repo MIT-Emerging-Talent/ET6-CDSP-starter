@@ -14,8 +14,9 @@ These environmental effects hurt both people and ecosystems.
   after the war.  
 
 The UN is starting to take this seriously. In 2024, the UN Environment
- Assembly (UNEA-6) passed a resolution to improve environmental protection
-  in conflict zones.  [Link here](https://www.bic-rhr.com/research/strengthening-environmental-resilience-conflict-zones-analysis-unea-6-resolution-and-perac)  
+Assembly (UNEA‑6) passed a resolution to improve environmental protection in
+conflict zones.
+[Link here](https://www.bic-rhr.com/research/strengthening-environmental-resilience-conflict-zones-analysis-unea-6-resolution-and-perac)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=times+new+roman&weight=900&size=26&duration=5015&pause=1000&color=49A3B8&vCenter=true&repeat=false&width=550&height=46&lines=Why+Renewable+Energy%3F)](https://git.io/typing-svg)
 
@@ -52,8 +53,8 @@ Clean energy access is essential in both emergency and protracted displacement
 settings for cooking, lighting, medical services, education, and safety.
 
 - 80% of displaced people still rely on firewood or biomass for cooking ([WHO,
-  2023](<https://www.who.int/news-room/fact-sheets/detail/household-air->
-  pollution-and-health)), exposing women and girls to safety risks and indoor
+  2023](https://energypedia.info/wiki/Energy_Access_in_Displacement_Settings),
+  exposing women and girls to safety risks and indoor
   air pollution.
 
 - Nearly 90% of refugee settlements lack reliable electricity access ([GPA,
@@ -143,4 +144,3 @@ strategies and peacebuilding frameworks. This includes:
 
 In war-affected regions, access to solar energy is not an option—it is a
 necessity for survival, recovery, and long-term peace.
-
