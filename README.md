@@ -18,7 +18,13 @@
 This repository captures the process of our data science project, from
 identifying the initial problem to delivering the final presentation. Our
 approach emphasizes collaborative problem-solving, careful analysis, and clear
- communication to enable actionable insights.
+communication to enable actionable insights.
+
+ 🔍 Domain Focus: Our research explores how young displaced individuals in the U.S. — especially those without prior
+tech experience — can access sustainable IT careers. We compare formal pathways like universities with non-traditional
+options such as bootcamps and online certifications to identify the most accessible,
+supportive, and employer-relevant routes.
+[(See full Domain Study for context and analysis.)](0_domain_study)
 
 ### 📋 Project Milestones
 
@@ -27,6 +33,7 @@ This project follows the Collaborative Data Science Project (CDSP)
 
 - Cross-Cultural Collaboration – Team setup, communication planning, and tooling
 - Problem Identification – Define the research question and explore the domain
+  📄 See our [Domain Study on Career Pathways into IT for Displaced Youth](0_domain_study)
 - Data Collection – Gather, clean, and document data
 - Data Analysis – Analyze data and interpret results
 - Communicating Results – Prepare materials for a target audience
@@ -66,7 +73,6 @@ A detailed checklist for each milestone is available in the official CDSP syllab
 - 🎯 [Learning Goals](collaboration/learning_goals.md)
 - 💬 [Communication](collaboration/communication.md)
 - 🚧 [Constraints](collaboration/constraints.md)
-- 🔍 [Retrospective](collaboration/retrospective.md)
 
 ### 🏆 Success Metrics
 
