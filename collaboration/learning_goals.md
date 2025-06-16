@@ -1,14 +1,10 @@
 # Learning Goals
 
-## Collective
-
-## 🧠 Group Learning Objectives
-
 This file outlines our shared and individual learning goals for this
  collaborative data science project. By understanding each other’s motivations,
   we aim to support one another and make our teamwork more effective.
 
-## 🌟 Group
+## 🧠 Group Learning Objectives
 
 - Effective Team Collaboration – Ensure smooth communication, task distribution,
  and problem-solving within the team.
