@@ -1,7 +1,6 @@
 # 🧠 Domain Study – Chatbot vs Human vs Hybrid Support in Mental Health Apps
 
-Welcome to the domain research space for our collaborative
-data science project.  
+Welcome to the domain research space for our collaborative data science project.
 This folder gathers the foundational work that helps us understand the  
 **landscape of digital mental health support**, particularly across  
 **chatbot, human, and hybrid models**.
@@ -13,8 +12,8 @@ This folder gathers the foundational work that helps us understand the
 Mental health apps are increasingly used to fill gaps in traditional care.  
 These platforms often rely on:
 
-- 🤖 AI-driven **chatbots**
-- 🧑‍⚕️ In-app **human support**
+- 🤖 AI-driven **chatbots**  
+- 🧑‍⚕️ In-app **human support**  
 - 🔁 **Hybrid systems** that blend both
 
 Our team is investigating how users experience these models—emotionally,  
@@ -28,55 +27,24 @@ This folder helps anchor that work.
 
 ## 🔍 Key Files in This Folder
 
+- [`constraints.md`](./constraints.md)  
+  → Project constraints for data, expertise, and timelines.  
 - [`problem_statement.md`](./problem_statement.md)  
-  → Full version of our research framing: motivation,
- context, significance, and goals.
+  → Detailed research context, motivation, and goals.  
+- [`problem_statement_summary.md`](./problem_statement_summary.md)  
+  → High-level summary of the problem statement.  
 - [`research_question.md`](./research_question.md)  
-  → Contains our refined main research question and secondary questions,
- scoped and informed by project constraints.
+  → Main research question and supporting queries, scoped by feasibility.  
 - [`literature_review.md`](./literature_review.md)  
-  → Our literature review for the project.
+  → Summary of academic and practitioner findings.  
 - [`cultural_contexts.md`](./cultural_contexts.md)  
-  → Notes and insights on how culture influences perceptions of digital
- mental health support.
-
----
-
-## 🗂️ Files & What They Include
-
-### 📄 Problem Statement  
->
-> Establishes the core research direction and its global relevance.  
-Outlines the growing mental health burden and the rise of digital
-interventions, with focus on emotional outcomes across chatbot, human,
-and hybrid formats.
-
-### ❓ Research Question  
->
-> Defines the main research question and four supporting questions.  
-The questions are framed using the FRESCO criteria and scoped based on
-team constraints, including ethical, technical, and methodological
-considerations.
-
-### 📚 Literature & Resources  
->
-> Summarizes existing research on digital mental health, chatbot therapy,  
-hybrid systems, and cross-cultural emotional design.  
-We aim to highlight both academic findings and practitioner insights
-(e.g., whitepapers, evaluations).
-
-### 🌏 Cultural Contexts  
->
-> Explores how cultural norms, stigma, and emotional expression shape
-user experiences.  
-Example: In some cultures, emotional openness is discouraged, making
-chatbot anonymity preferred.
-
-### 🛠️ Technical Concepts *(upcoming)*  
->
-> Will define and explain concepts like NLP, sentiment scoring, clustering,
-and emotion detection.  
-These are central to how we’ll analyze user reviews and conversations.
+  → Insights on how culture shapes digital mental health support.  
+- [`technical_glossary.md`](./technical_glossary.md)  
+  → Definitions of key NLP, analytical, and evaluation concepts.  
+- [`summary_understanding.md`](./summary_understanding.md)  
+  → Systems-thinking summary via the Iceberg Model.  
+- [`retrospective.md`](./retrospective.md)  
+  → Team retrospective: successes, challenges, and lessons learned.
 
 ---
 
@@ -84,8 +52,33 @@ These are central to how we’ll analyze user reviews and conversations.
 
 If you're joining the project or reviewing our work:
 
-- Start with [`problem_statement_summary.md`](./problem_statement_summary.md)
-for a high-level view
-- Read [`problem_statement.md`](./problem_statement.md)
-for full background and research focus
-- See [`research_question.md`](./research_question.md) for our guiding research questions
+1. **Establish Context**
+   - Read `constraints.md` to understand our project limits.  
+   - Review `problem_statement_summary.md` for a concise overview.
+
+2. **Deep Dive**  
+   - Study `problem_statement.md` for full research background.  
+   - Examine `research_question.md` for our analytical framework.
+
+3. **Evidence & Insights**  
+   - Explore `literature_review.md` for key findings and gaps.  
+   - Consult `cultural_contexts.md` for cultural insights.  
+   - Reference `technical_glossary.md` for terminology.
+
+4. **Reflect & Synthesize**  
+   - Read `retrospective.md` for lessons learned.  
+   - Analyze `summary_understanding.md` for systems perspective.
+
+---
+
+## 🤝 Collaboration Guidelines
+
+- **Branching:** Create a feature branch for changes in this folder.  
+- **Pull Requests:** Link related issues and request at least one review.  
+- **Issue Tracking:** Use GitHub Issues for bugs, suggestions, or data requests.
+- **Meetings:** Refer to our shared calendar for weekly syncs.
+
+---
+
+> For questions or contributions, please open an issue or message the team.
+> Last updated: June 2025
