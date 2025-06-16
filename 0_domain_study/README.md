@@ -75,6 +75,6 @@ alternative datasets. We will:
 | **Ethical** | Emphasizes fairness, consent, privacy, and transparency |
 | **Specific** | Focused on migrant inclusion in loans and digital finance |
 | **Complex** | Involves blockchain, data science, finance, and ethics |
-| **Original** | Proposes new approaches to decentralized, alternative credit scoring |
+| **Original** | Proposes new approaches to decentralized, alternative credit scoring|
 
 ---
