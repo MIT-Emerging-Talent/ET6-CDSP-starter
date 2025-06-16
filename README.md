@@ -53,6 +53,34 @@ For a more detailed breakdown of the system, including key events, trends,
 structures, and underlying mental models, check out the full overview:
 [0_domain_study](0_domain_study/README.md)
 
+## Actionable Research Question
+
+How do changes in U.S. immigration policy under the current administration  
+affect access to legal representation and outcomes for immigrant juveniles  
+seeking protection?
+
+---
+Context & Constraints:
+
+-Domain: U.S. immigration law and policy, focused on juveniles (minors) seeking
+legal protection (e.g., asylum, Special Immigrant Juvenile Status).
+
+-Realities: Immigration policy is dynamic and politically influenced; juvenile
+immigrants face complex barriers navigating the legal system; access to legal
+counsel is crucial for fair outcomes.
+
+--Constraints:
+
+-Data Availability: Data on representation and case outcomes may be fragmented  
+  (court records, NGO data, government statistics). Policy changes may not be  
+  immediately or transparently reflected in public data.
+
+-Ethical/Legal: Privacy concerns for minors; potential bias in available datasets.
+
+-Temporal/Geographical Scope: Defining the appropriate time window may be  
+  required. The study can be nationwide or limited to areas with sufficient or  
+  high-priority data.
+
 ## Data
 
 ### Dataset Source
