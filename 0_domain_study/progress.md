@@ -76,6 +76,13 @@ to solar energy?**"]
 
 ```
 
+## Our Actionable Research Question
+
+- > _How have armed conflicts in the past decade
+  affected the deployment, capacity utilization,
+  household consumption of solar photovoltaic and
+  small‐scale wind systems in conflict‐affected communities?_
+
 ## Constraints
 
 - Geographical and Seasonal Limitations
@@ -108,3 +115,8 @@ to solar energy?**"]
      and improves daily life in conflict zones.
 
 - **Regions:** Sudan, Syria, Ukraine, Gaza
+
+---
+
+You can check this [infographic](https://drive.google.com/file/d/1HOue6xAUJ7nB_g_V6YTy2cXS_Rgu8esi/view)
+for a quick and clear overview of our progress in this milestone
