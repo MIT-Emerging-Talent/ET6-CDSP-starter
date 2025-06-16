@@ -71,13 +71,21 @@ clearer, more inclusive, and more supportive.
 
 ## 📚 Resources & Prior Research
 
-| Source | One-sentence takeaway |
-|--------|------------------------|
-| [UNICEF – Learning to Earning (2021)](https://www.unicef.org/reports/learning-earning-displaced-youth) | Digital tools help displaced youth move from learning to jobs. |
-| [UNICEF & ODI – Digitally Powered Learning (2023)](https://odi.org/en/publications/digitally-powered-learning-to-earning-for-displaced-young-people-and-adolescent-girls-and-young-women/) | Reviews blended learning models for displaced youth with focus on scale and access. |
-| [Jobtech Alliance – Digital Pipelines Review (2025)](https://jobtechalliance.com/unlocking-opportunity-how-digital-employment-pipelines-can-empower-refugees/) | Lists 4 digital work paths for refugees and key factors for success. |
-| [GMFUS – Digital Livelihoods for Refugees (2022)](https://www.gmfus.org/news/digital-livelihoods-refugees-examples-challenges-and-recommendations) | Shows lessons and tips for getting displaced people into tech jobs. |
-| [Jobtech & Na’amal – Guide to Digital Work (2024)](https://jobtechalliance.com/wp-content/uploads/2024/12/Empowering-Refugees-Through-Digital-Work-13012025.pdf) | Guide for displaced people to access freelance and remote digital careers. |
+
+1️⃣ **[UNICEF – Learning to Earning (2021)](https://www.unicef.org/reports/learning-earning-displaced-youth)**  
+   🌐 Digital tools help displaced youth move from learning to jobs.
+
+2️⃣ **[UNICEF & ODI – Digitally Powered Learning (2023)](https://odi.org/en/publications/digitally-powered-learning-to-earning-for-displaced-young-people-and-adolescent-girls-and-young-women/)**  
+   💻 Reviews blended learning models for displaced youth with focus on scale and access.
+
+3️⃣ **[Jobtech – Digital Pipelines Review (2025)](https://jobtechalliance.com/unlocking-opportunity-how-digital-employment-pipelines-can-empower-refugees/)**  
+   🧩 Lists 4 digital work paths for refugees and key factors for success.
+
+4️⃣ **[GMFUS – Digital Livelihoods for Refugees (2022)](https://www.gmfus.org/news/digital-livelihoods-refugees-examples-challenges-and-recommendations)**  
+   🚀 Shows lessons and tips for getting displaced people into tech jobs.
+
+5️⃣ **[Jobtech & Na’amal – Guide to Digital Work (2024)](https://jobtechalliance.com/wp-content/uploads/2024/12/Empowering-Refugees-Through-Digital-Work-13012025.pdf)**  
+   🛠️ Guide for displaced people to access freelance and remote digital careers.
 
 ---
 
