@@ -17,7 +17,7 @@ Stay tuned for more updates!
 * [Project Domain](#project-domain)
 * [Problem Statement](#problem-statement)
 * [Actionable Refined Research question](#actionable--refined-research-question)
-* [Timeline And Milestones](#timeline-and-milestonse)
+* [Timeline And Milestones](#timeline-and-milestones)
 * [Repository Structure](#repository-structure)
 * [Team Members](#team-members)
 * [Notes](#-notes)
