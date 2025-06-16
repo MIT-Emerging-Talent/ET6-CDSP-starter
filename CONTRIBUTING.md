@@ -1,13 +1,17 @@
 # Contributing 🤝
 
-We’re exploring how mental health apps deliver support through chat-bots, humans,
-or hybrid systems—and how this varies across cultures. Our guiding question:
+  This project investigates the quality of emotional support delivered through
+  chatbot, human, and hybrid support systems in publicly available mental
+  health apps. Our guiding question:
 
-How does support quality differ between chatbot-based, human-based, and hybrid
-mental health apps—and how are these differences experienced globally?
+  🔹How effectively do free mental health chat-bots (e.g., Wysa, Replika)
+    respond to high-risk, pre-scripted user inputs (e.g., self-harm, suicidal
+    ideation, abuse disclosures), when evaluated against mental health
+    professional
 
-We’ll use app reviews, chatbot simulations, surveys, and NLP tools to analyze
-perceived empathy, helpfulness, and trust in support systems.
+  By analyzing how well these tools deliver support across diverse scenarios and
+  communication needs, we aim to identify what truly helps—and what may
+  unintentionally harm—users during moments of emotional vulnerability.
 
 * **👉 You can help by:**
 
@@ -17,9 +21,9 @@ perceived empathy, helpfulness, and trust in support systems.
 
   * 🔹Running sentiment/empathy analysis
 
-  * 🔹Creating visual dashboards
+  * 🔹Conduct simulated high-risk conversations with chat-bots
 
-  * 🔹Translating surveys or analyzing cultural nuances
+  * 🔹Creating visual dashboards
 
   * 🔹Writing and reviewing code or documentation
 
