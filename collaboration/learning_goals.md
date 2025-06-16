@@ -1,8 +1,8 @@
 # 🎯 Group Learning Goals  
 
-# 🌱 Personal Learning Goals  
+## 🌱 Personal Learning Goals  
 
-## **👤 Semira Tesfai**
+### **👤 Semira Tesfai**
 
 - 🧪 **Hands-On Data Work**  
   Collaborate on real-world datasets including basic collection, preprocessing, analysis, and visualization.
@@ -24,7 +24,7 @@
 
 ---
 
-## **👩🏽‍💻 Meklit**
+### **👩🏽‍💻 Meklit**
 
 - 🔍 **Enhance Data Analysis Skills**  
    Identify patterns and interpret results effectively through hands-on dataset exploration.
@@ -43,7 +43,7 @@
 
 ---
 
-## **👩🏽‍💻 Mahdia**
+### **👩🏽‍💻 Mahdia**
 
 - 🧠 **Gain Practical Data Experience**  
   Work with real datasets to improve analysis and problem-solving abilities.
@@ -62,7 +62,7 @@
 
 ---
 
-## **👨🏽‍💻 Musab**
+### **👨🏽‍💻 Musab**
 
 - 🤖 **Work in Software Teams**  
   Gain experience with digital workplace tools and collaborative platforms.
@@ -78,7 +78,7 @@
 
 ---
 
-## **👨🏽‍💻 Ahmad**
+### **👨🏽‍💻 Ahmad**
 
 - 🔐 **Apply Data Science to Cybersecurity**  
   Explore phishing detection using natural language processing and classification models.
