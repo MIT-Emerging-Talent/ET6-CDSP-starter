@@ -197,3 +197,27 @@ and reviewing contributions from other team members.
 - Strengthened skills in initiating and structuring technical research within a collaborative setting.
 
 ---
+
+### Nelson Fodjo
+
+### Contributions (Nelson Fodjo)
+
+- Did online research
+- Updated group README file.
+- Maintained group norms, learning goals, and planning documents.
+- Participated in brainstorming sessions with ideas based on personal experience.
+- Provided technical help on GitHub and ensured smooth project coordination.
+
+### Challenges (Nelson Fodjo)
+
+- Understanding milestone 1.
+- Managing Milestone 1 while finalizing Milestone 0.
+- Internet issues (Network)
+
+### Progress (Nelson Fodjo)
+
+- Gained hands-on experience in team work and collaboration.
+- Completed the Group's README file
+- Strengthened async communication and task completion using GitHub and Slack.
+
+---
