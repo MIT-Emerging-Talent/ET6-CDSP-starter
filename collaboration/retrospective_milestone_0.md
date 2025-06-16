@@ -1,4 +1,4 @@
-# Retrospective
+# Retrospective milestone 0
 
 ## Stop Doing
 
@@ -27,8 +27,8 @@
 - Completing tasks ahead of deadlines allows time for reviews,
   feedback, and revisions.  
 - Retrospectives can be used to break down complex challenges,
-- giving everyone the opportunity to contribute, learn,
-- and gain confidence in solving similar problems in the future.
+giving everyone the opportunity to contribute, learn,
+and gain confidence in solving similar problems in the future.
 
 ---
 
@@ -36,12 +36,12 @@
 
 ### What parts of your plan went as expected?
 
-- Group meetings were not reflected on the project board.
+- Clear communication channels, such as WhatsApp and Google
+  Meetings, worked well for collaboration.
   
 ### What parts of your plan did not work out?
 
-- Clear communication channels, such as WhatsApp and Google
-  Meetings, worked well for collaboration.
+- Group meetings were not reflected on the project board.
 
 ### Did you need to add things that weren't in your strategy?
 
@@ -61,4 +61,4 @@
 ### Asia
 
 - I can improve my GitHub skills.
-- Collaboration on tasks saved us a lot of time.
+- Collaboration on tasks saved us a lot of time
