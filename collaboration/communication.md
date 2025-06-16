@@ -18,8 +18,7 @@
 | 30/5   |Zoom | Meet and greet,each one will try writing a draft about one of the 4 collaborations files|
 | 01/6   |Zoom | Everyone's updates on drafts |
 | 09/6   |Google Meet | Talked about our interests and approaches to find our research question |
-| 13/6   |Zoom | Discussed suggested research questions and
-ways to link the problems |
+| 13/6   |Zoom | Discussed suggested research questions and ways to link the problems |
 
 ## Communication Channels
 
