@@ -24,7 +24,6 @@ communication to enable actionable insights.
 tech experience — can access sustainable IT careers. We compare formal pathways like universities with non-traditional
 options such as bootcamps and online certifications to identify the most accessible,
 supportive, and employer-relevant routes.
-[(See full Domain Study for context and analysis.)](0_domain_study)
 
 ### 📋 Project Milestones
 
