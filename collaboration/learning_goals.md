@@ -90,3 +90,9 @@ Milestone 1: Problem Identification
 2.Build a better understanding of product management and project ownership.
 
 -AzzaOmer
+
+1.Understanding Problem Identification
+
+2.Formulating Research Question
+
+3.Applying FRESCO Methodology
