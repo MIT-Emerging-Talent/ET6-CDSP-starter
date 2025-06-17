@@ -35,6 +35,7 @@ How often we will get in touch on each channel, and what we will discuss there:
 | Alona |5–8 PM | 5–8 PM | 3–8 PM | 5–8 PM | 5–8 PM| No     |9–8 PM EST|
 | Asia  |5–10 PM| 5–10 PM| 5–10 PM| 5–10 PM| No    | 5–10 PM| 5–10 PM |
 | Vahab |10–14 *| 10–14 *| 10–14 *| 10–14 *| 10–14 *| Can't plan in advanced||
+| Zaid| 7 PM-11 AM EST|7 PM-10 AM EST|7 PM-8 AM EST|7 PM-8 AM EST|No|No|No|
 
 \* Subject to change depending on other commitments.  
 Currently based in **Canada (Edmonton Time Zone - MST/MDT)**.  
@@ -44,6 +45,7 @@ In **June**, located in **Central European Time Zone (CET/CEST)**.
 
 - Alona: _3h_
 - Vahab: _4h_ weekdays.
+- Zaid: _3h_
 
 ## Asking for Help
 
