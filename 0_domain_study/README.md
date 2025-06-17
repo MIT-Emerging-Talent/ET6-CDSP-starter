@@ -1,6 +1,6 @@
 # 🛡️ Domain Study: Phishing and Linguistic Influence on User Behavior
 
-Welcome to the `0_domain_research` folder! This section summarizes our team's research into phishing — specifically the linguistic features that affect user click-through behavior. Below you'll find a structured overview of our research domain, background, and actionable insights.
+Welcome to the `0_domain_study` folder! This section summarizes our team's research into phishing — specifically the linguistic features that affect user click-through behavior. Below you'll find a structured overview of our research domain, background, and actionable insights.
 
 ---
 
