@@ -64,4 +64,16 @@ a response to messages or questions should have a reply in a day,
 no more than 2 if the member is busy.
 - Exploding Kittens. We will one day all play a game of Exploding Kittens
 together.
+
+## Research Question
+
+### How effective is Satellite Image Analysis at Predicting Deforestation in Malaysia?
+
+- Research has real world implications for conservation
+efforts not just in Malaysia but globally.
+- Satellite image analysis is closely tied to the field of
+data science and programming.
+- Prediction of deforestation allows for proactive measures
+for conservation rather than reactive measures.
+
 ![Alt text](Exploring_Kittens.png)
