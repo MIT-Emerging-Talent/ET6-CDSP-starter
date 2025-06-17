@@ -1,32 +1,48 @@
-# Domain Research
 # 🎯 Project Overview
 
-This folder contains relevant background information, academic literature, datasets, case studies, our research problem statement, research question, and curated external resources that illuminate the domain of **Entrepreneurship and Crowdfunding**, focusing particularly on **Kickstarter**.
+This folder contains relevant background information, academic literature,
+ datasets, case studies, our research problem statement, research question,
+  and curated external resources that illuminate the domain of **Entrepreneurship
+   and Crowdfunding**, focusing particularly on **Kickstarter**.
 
-Our project investigates the factors contributing to Kickstarter campaign success, aiming to uncover patterns that can support aspiring entrepreneurs, democratize funding, and foster innovation. This documentation provides a springboard for understanding the ecosystem of crowdfunding.
+Our project investigates the factors contributing to Kickstarter campaign success,
+ aiming to uncover patterns that can support aspiring entrepreneurs, democratize
+  funding, and foster innovation. This documentation provides a springboard for understanding the ecosystem of crowdfunding.
 
 ---
 
 ## ❓ Research Question
 
-**How do the funding goal and the length of the campaign jointly influence the probability that a Kickstarter project will succeed, after controlling for project category, launch year, and country?**
+**How do the funding goal and the length of the campaign jointly influence the
+ probability that a Kickstarter project will succeed, after controlling for
+  project category, launch year, and country?**
 
 ---
 
 ## 🧩 Problem Statement
 
-In many communities, people have creative and impactful ideas that could solve real problems or improve lives. However, these ideas often remain unrealized simply because the individuals behind them don’t have the resources or funding to move forward. Platforms like **Kickstarter** exist to help connect these ideas with people who are willing to support them. 
+In many communities, people have creative and impactful ideas that could solve
+ real problems or improve lives. However, these ideas often remain unrealized
+  simply because the individuals behind them don’t have the resources or funding
+   to move forward. Platforms like **Kickstarter** exist to help connect these
+    ideas with people who are willing to support them.
 
 Yet, many campaigns fail because of unclear goals, poor planning, or a lack of understanding of what makes a campaign successful.
 
-This project aims to study real crowdfunding data to identify the key factors that lead to success, so we can help more people bring their ideas to life and create positive change in their communities. We aim to understand how specific variables such as **funding goal** and **campaign length** interact to affect campaign success, while considering other important attributes.
- Problem Statement
-While Kickstarter has enabled $6B+ in pledges since 2009, 62% of campaigns fail due to:
-Unrealistic goal-setting
-Suboptimal campaign durations
-Poor category-specific strategies
-Our Mission: Decode success patterns using 375K+ historical projects to create actionable frameworks.
+This project aims to study real crowdfunding data to identify the key factors
+ that lead to success, so we can help more people bring their ideas to life
+  and create positive change in their communities. We aim to understand how
+   specific variables such as **funding goal** and **campaign length** interact
+    to affect campaign success, while considering other important attributes.
 
+While Kickstarter has enabled $6B+ in pledges since 2009, 62% of campaigns fail
+ due to:
+
+- Unrealistic goal-setting
+- Suboptimal campaign durations
+- Poor category-specific strategies
+
+Our Mission: Decode success patterns using 375K+ historical projects to create actionable frameworks.
 
 ---
 
@@ -37,6 +53,7 @@ Our Mission: Decode success patterns using 375K+ historical projects to create a
 - Investigate common reasons for campaign failure.
 - Analyze patterns across project categories, funding goals, and campaign duration.
 - Provide practical recommendations for entrepreneurs and campaign creators.
+
 # 🧠 Domain Study: Kickstarter & Crowdfunding
 
 ---
@@ -45,8 +62,10 @@ Our Mission: Decode success patterns using 375K+ historical projects to create a
 
 - Crowdfunding democratizes access to early-stage funding, allowing creators to test market demand.
 - Kickstarter's all-or-nothing model motivates creators to plan well and market effectively.
-- Success depends on campaign characteristics, engagement strategies, and external context.
-- There is extensive research on individual factors like project category or goal, but combined effects of goal and duration are less explored.
+- Success depends on campaign characteristics, engagement strategies, and
+ external context.
+- There is extensive research on individual factors like project category or goal,
+ but combined effects of goal and duration are less explored.
 
 ---
 
@@ -69,9 +88,13 @@ Our Mission: Decode success patterns using 375K+ historical projects to create a
 
 ## 📈 Key Research Findings
 
-- Campaigns with lower goals, clear descriptions, early momentum, and engaging videos are more successful.
+- Campaigns with lower goals, clear descriptions, early momentum, and engaging
+ videos are more successful.
 - Updates and community engagement build trust and credibility.
 - Location, social media presence, and timing also influence outcomes.
+
+---
+
 
 ---
 
