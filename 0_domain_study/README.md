@@ -54,3 +54,11 @@ By analyzing job scams between **2015–2025**, our group seeks to:
 - Evaluate whether current detection strategies are sufficient
 - Offer a framework that combines **linguistic features** and **platform
   behaviors**
+  
+---
+
+## 📄 Key Readings & Resources
+
+- [Online Recruitment Fraud (ORF) Detection Using Deep Learning Approaches – ResearchGate (2024)](https://www.researchgate.net/publication/391631961_Online_Recruitment_Fraud_ORF_Detection_Using_Deep_Learning_Approaches)
+- [Paranoia, Social Engineering, and the Real Fake – WIRED (2024)](https://www.wired.com/story/paranoia-social-engineering-real-fake/?)
+- [AI-Driven Fraud Detection in Job Postings – Frontiers in Computer Science (2021)](https://www.frontiersin.org/journals/computer-science/articles/10.3389/fcomp.2021.563060/full)
