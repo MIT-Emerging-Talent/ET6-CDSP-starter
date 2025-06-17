@@ -19,7 +19,7 @@
 | 01/6   |Zoom | Everyone's updates on drafts |
 | 09/6   |Google Meet | Talked about our interests and approaches to find our research question |
 | 13/6   |Zoom | Discussed suggested research questions and ways to link the problems |
-| 16/6   |Zoom | Discussed the refined questions and narrowed it into one question |
+| 16/6   |Zoom | Discussed the refined questions - Narrowed it into one question |
 
 ## Communication Channels
 
