@@ -52,7 +52,7 @@ and update the project board regularly.
 | Mahdia |         |         |         |         | 2–3 PM  | 12–2 PM    |12–2 PM|
 | Meklit | 7–10 PM |         | 7–10 PM | 5–10 PM | 5–10 PM | 9 AM–10 PM |12–5 PM|
 | Musab  | 7–9 PM  | 7–9 PM  |         | 7–9 PM  |         | 12–4 PM    | 2–4 PM|
-| Semira |         |         | 8–9 PM  | 7–9 PM  | 7–9 PM  | 12–2 PM    | 2–4 PM|
+| Semira |         | 8-9 PM  | 7–9 PM  | 7–9 PM  |12-2 PM  | 2–4 PM     | 2–4 PM|
 
 🕒 Note: All times are in Eastern Standard Time (EST).  
 Please adjust to your local time zone if needed.  
