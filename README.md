@@ -17,30 +17,45 @@ This project applies techniques like data exploration, modeling,
 can bring resilience and hope to conflict-affected communities.
 ```
 
-
-# [System Thinking](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/0_domain_study/understanding_of_problem_domain.md)
-
-To ground our data‑driven work in real‑world context, we’ve prepared a detailed
-[systems‑thinking overview](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/dc676e15aa9831b8cd7451ce91443bb873376281/0_domain_study/understanding_of_problem_domain.md)
- of the electrical power challenges in
-conflict‑affected areas. It covers:
-
-* **Patterns & trends** in how and where outages occur  
-* **Underlying structures** that make the grid vulnerable  
-* **Mental models** shaping decision‑making on both sides  
-* **Potential interventions** from distributed solar
-microgrids to local maintenance committees
-
 <!-- markdownlint-disable MD031 MD033 MD004 MD009 MD013 MD045 -->
-# [Problem Statement](0_domain_study/understanding_of_problem_domain.md)
+# [Problem Statement](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/0_domain_study/README.md)
 
-> Citizens in conflict-affected countries require a stable source of electricity, yet ongoing clashes and targeted attacks on power infrastructure have severely disrupted their access to reliable power.
+> Citizens in conflict-affected countries require a stable source of electricity,  
+ yet ongoing clashes and targeted attacks on power infrastructure have severely  
+ disrupted their access to reliable power.
+
+**The Growing Need for Sustainable Energy Solutions:**  
+- Solar energy offers fast, decentralized, and life-saving power in conflict-affected areas—where 733 million people still lack electricity—empowering communities with resilience, dignity, and sustainable solutions in the face of crisis.  
+(Sources: [IRENA](https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2025/Mar/IRENA_DAT_RE_Capacity_Statistics_2025.pdf), [UNHCR](https://www.unhcr.org/renewableenergy4refugees/), [IEA](https://www.iea.org/), [Chatham House](http://chathamhouse.org/))
+- The humanitarian community and affected populations increasingly recognize the need for resilient, sustainable, and decentralized energy solutions in conflicted areas. This is driven by high operational costs, environmental concerns, and the desire for greater energy independence and security.
+
+**Research Focus:**  
+- This review focuses on the integration of renewable energy sources, particularly solar PV and battery storage, and their potential to provide reliable, affordable, and sustainable power in conflict zones. We will also examine the challenges and specific considerations for deployment in such environments.
+- Solving this problem could provide life-saving infrastructure in unstable regions, promote energy equity, and support long-term sustainable development goals.
 
 # [Actionable + Refined Research Question](0_domain_study/progress.md)
 
 > **How have armed conflicts over the past decade influenced the deployment,
 > capacity utilization, and household consumption of solar photovoltaic
 > systems—both environmentally and socially—in conflict-affected communities?**
+
+**Project Scope:**  
+- **Time Period**: 10 years  
+- **Renewable Energy Theme:** Solar Energy  
+- **Regions:** Sudan, Syria, Ukraine, Gaza
+
+# [System Thinking](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/0_domain_study/understanding_of_problem_domain.md)
+
+To ground our data‑driven work in real‑world context:  
+ we’ve prepared a detailed
+[ overview](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/dc676e15aa9831b8cd7451ce91443bb873376281/0_domain_study/understanding_of_problem_domain.md)
+ of the electrical power challenges in
+conflict‑affected areas.  
+* **Patterns & trends** in how and where outrages occur  
+* **Underlying structures** that make the grid vulnerable  
+* **Mental models** shaping decision‑making on both sides  
+* **Potential interventions** from distributed solar
+microgrids to local maintenance committees
 
 ```mermaid
 timeline
