@@ -14,7 +14,7 @@ Phishing is a growing concern globally. Based on personal experiences:
 - **Meklit** (Canada) frequently encounters smishing and phishing at work. One incident involved a fake OneDrive link flagged by IT — highlighting how rushed environments reduce our vigilance.
 - **Mahdia** (Portugal) emphasized how scammers use sophisticated linguistic techniques to appear trustworthy and manipulate users.
 - **Ahmad** often receives fake IT department emails at work and personal prize scams. He noticed a clear difference in language tone: urgent and professional at work vs emotional in personal life.
-- **Semira** initially fell for fake malware alerts and learned over time to spot psychological manipulation such as fake tax threats or UPS warnings. She now verifies and reports these attempts.
+- **Semira** initially was intrigued about fake malware by watching anti-virus software finds. She bolstered her cybersecurity knowledge through research and workshop to spot psychological manipulation such as fake tax threats or UPS warnings. She now verifies and reports these attempts.
 - **Musab** (USA) stressed the emotional toll of constant phishing attempts and how phishing poses both legal and financial risks.
 
 Together, we observed that phishing strategies are becoming more **emotionally manipulative**, **context-aware**, and **linguistically advanced**, requiring in-depth study of their language patterns.
@@ -69,6 +69,8 @@ Given email’s dominant role in phishing, and the centrality of language in dec
 - Smartphones and social platforms open new vectors.
 - Despite evolution, **email remains the most common attack method** (CISA, 2023).
 
+Click here: [Full Background Review](https://docs.google.com/document/d/1at2nE_Ladr2_HlNFqoaHtACwAhOVvcFE6qYVRcrerbg/edit?tab=t.0)
+
 ### Conclusion
 
 Phishing success stems largely from **manipulating language to trigger impulsive reactions**. Understanding this manipulation can help in detection and prevention.
@@ -82,3 +84,4 @@ Phishing success stems largely from **manipulating language to trigger impulsive
 - **Jakobsson & Myers (2006)** – Psychological manipulation in phishing  
 - **Jansson & Von Solms (2013)** – Phishing education effectiveness  
 - **Vishwanath et al. (2011)** – User susceptibility factors
+- **CISA (2023)** – Counter-Phishing Recommendations for Federal Agencies
