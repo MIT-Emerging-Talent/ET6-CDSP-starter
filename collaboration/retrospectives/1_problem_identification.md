@@ -1,11 +1,13 @@
-# 🧭 Milestone 1 Retrospective
+# Retrospective
 
 ## Team Vibe Check 😎
 
-- **Communication status:** Finding our rhythm, slowly but surely.
-- **General mood:** More focused, more alive, slightly overcaffeinated.
-- **Collaboration style:** Respectful, curious, and surprisingly open to
-unexpected ideas.
+- **Communication status:** Finding our rhythm, slowly but surely. Group chat
+buzzing… then sudden radio silence… then a surprise ping!
+- **General mood:** Stuck in the ideas maze, but found a secret door just in
+time.
+- **Collaboration style:** ⚡Lots of sparks, some smoke, a few “hmm, what now?”
+moments.
 
 ---
 
