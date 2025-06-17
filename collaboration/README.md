@@ -53,16 +53,3 @@
 Our team is committed to fostering a respectful, inclusive, and flexible environment where diverse perspectives are welcomed and open communication builds trust. We align on shared goals through discussion, adapt intentionally, and support each other with empathy, clarity, and accountability.
 
 ---
-
-## 🗓️ Team Availability Schedule
-
-> 🕒 **Note:** All times listed in the availability table are in **Eastern Standard Time (EST)**. Please adjust according to your local time zone if needed.  
-> 📌 **Note:** We acknowledge that this is a general availability overview and understand that schedules shift. Therefore, meeting times will always be discussed and agreed upon in advance.
-
-| Team Member | Monday   | Tuesday  | Wednesday | Thursday | Friday    | Saturday  | Sunday    |
-|-------------|----------|----------|-----------|----------|-----------|-----------|-----------|
-| **Mahdia**  |  |   |   |          |   2–3 PM          |       12–2 pm   |    12-2 pm       |
-| **Musab**   | 7–9 PM   | 7–9 PM   |           | 7–9 PM   |           | 12–4 PM   | 2–4 PM    |
-| **Meklit**  | 7–10 PM  |        9–11 PM  |    |    12-1 pm , 6-11 pm      | 12–1 ,6–11 PM  |  7 a.m – 10 PM   | 7 am -5 pm  |
-|             |          |          |           |          |           |           |   |
-|             |          |          |           |          |           | |  |
