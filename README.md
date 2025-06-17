@@ -1,33 +1,24 @@
-# Collaborative Data Science Project (Group 8)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=60&duration=4984&pause=1000&color=6C9C4B&background=B3B3B300&vCenter=true&repeat=false&width=900&height=70&lines=Sustainable+Development)](https://git.io/typing-svg)
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXR6dWU0aWdha2hyOTdjNXY3NWFqb2FsNmxvYmN6bmw0cm5weHozbiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ZCewaVmN4ArYd4Ml0b/giphy.gif" width="90" alt="GIF" style="vertical-align:middle;"/>
 
-Welcome to group 8 repo(><)  
+</div>
 
-This repository serves as a collaborative space for developing, documenting,
-and sharing data-driven solutions. Our goal is to apply data
-science techniques—such as data exploration,
-preprocessing, modeling, and visualization—to gain insights and
-solve real-world problems.  
-As the project progresses, this repository will be updated with relevant datasets,
-source code, results, and documentation.  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=42&duration=4984&pause=1000&color=005CCF&background=B3B3B300&vCenter=true&repeat=false&width=800&height=47&lines=Renewable+Energy+in+Conflict+Zones)](https://git.io/typing-svg)
 
-Stay tuned for more updates!
+**Welcome aboard the CDSP Group 08- Repository!**  
+_Displaced. Determined. Data-Driven._
 
-## Table Of contents
+```text
+ 🌌  Our Quest:
+We are a team united by purpose and shaped by displacement,  
+ using data science to drive real-world impact.
+This project applies techniques like data exploration, modeling,  
+ and visualization to explore how renewable energy especially solar  
+can bring resilience and hope to conflict-affected communities.
+```
 
-* [Project Domain](#project-domain)
-* [Problem Statement](#problem-statement)
-* [Actionable Refined Research question](#actionable--refined-research-question)
-* [Timeline And Milestones](#timeline-and-milestones)
-* [Repository Structure](#repository-structure)
-* [Team Members](#team-members)
-* [Notes](#-notes)
-* [License](#license)
 
-## Project Domain
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=times+new+roman&weight=900&size=40&duration=5015&pause=1000&color=EBC927&repeat=false&width=580&height=60&lines=SUSTAINABLE+DEVELOPMENT)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=times+new+roman&weight=900&size=30&duration=5015&pause=1000&color=3D8CA7&vCenter=true&repeat=false&width=561&height=47&lines=Renewable+Energy+in+Conflict+Zones)](https://git.io/typing-svg)
+# [System Thinking](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/0_domain_study/understanding_of_problem_domain.md)
 
 To ground our data‑driven work in real‑world context, we’ve prepared a detailed
 [systems‑thinking overview](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/dc676e15aa9831b8cd7451ce91443bb873376281/0_domain_study/understanding_of_problem_domain.md)
@@ -41,17 +32,15 @@ conflict‑affected areas. It covers:
 microgrids to local maintenance committees
 
 <!-- markdownlint-disable MD031 MD033 MD004 MD009 MD013 MD045 -->
-## Problem Statement
+# [Problem Statement](0_domain_study/understanding_of_problem_domain.md)
 
 > Citizens in conflict-affected countries require a stable source of electricity, yet ongoing clashes and targeted attacks on power infrastructure have severely disrupted their access to reliable power.
 
-## Actionable + Refined Research Question
+# [Actionable + Refined Research Question](0_domain_study/progress.md)
 
 > **How have armed conflicts over the past decade influenced the deployment,
 > capacity utilization, and household consumption of solar photovoltaic
 > systems—both environmentally and socially—in conflict-affected communities?**
-
-## Timeline And Milestones
 
 ```mermaid
 timeline
@@ -79,30 +68,24 @@ timeline
 ## Repository structure
 
 ```text
-
-project
-│  README.md                   # Project overview and main instructions        
-|   
-└───Collaboration              # Team norms, strategies, and retrospectives
+project/
+│  README.md                  # Start here! Everything important in one file.
 │
-└───Notes                      # Shared resources and learning materials
-|
-|___0_domain_study             # Domain research and background
-|
-|___1_datasets                 # Raw and processed datasets
-|
-|___2_data_preparation         # Scripts for cleaning and processing data
-|
-|___3_data_exploration         # Scripts for initial data understanding
-|
-|___4_data_analysis            # Scripts for in-depth analysis
-|
-|___5_communication_strategy   # Scripts for in-depth analysis
-|
-|___6_final_presentation       # Final presentation materials
+├── 0_domain_study/          #  Problem background & context
+├── 1_datasets/              #  Raw + cleaned data
+├── 2_data_preparation/      #  Scripts for cleaning and prepping data
+├── 3_data_exploration/      #  Visualizations & summaries
+├── 4_data_analysis/         #  Modeling, testing, interpreting
+├── 5_communication_strategy/#  Translation of findings to stakeholders
+├── 6_final_presentation/    #  Final delivery magic
+└── Collaboration/           #  Team norms, syncs, retrospectives
 ```
 
 ## Team Members
+
+<img align="right" width="250" height="auto" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3czk1Mm91em13OGpzbTBxaXhpYTlpbWtyNTR0OWdiY2pwazc3aGNneCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/8CtkDP78zAJ2BTGo2G/giphy.gif">
+
+_Who's behind all this?_
 
 - **ِ[Abdallah Alnajjar](https://github.com/theabdallahnjr)**
 - **[Ahd Basan](https://github.com/ahdbasan)**
@@ -111,7 +94,7 @@ project
 - **[Mohamed Altayeb](https://github.com/Mo-Altayeb)**
 - **[Mohamed Saeed👨‍💻](https://github.com/Tbaosman)**
 
-## 📌 Notes
+##  Notes
 
 This is a work in progress. More updates and details will be added soon to
 this readme. Stay tuned!
@@ -119,4 +102,5 @@ this readme. Stay tuned!
 ## License
 
 This project is licensed under the MIT License -
-see the [LICENSE](https://choosealicense.com/licenses/mit/) file for details.
+see the [LICENSE](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/LICENSE) file for details.
+
