@@ -14,7 +14,7 @@ Welcome to our domain study on Kickstarter success factors!
 * 📄 [Problem Statement](./problem_statement.md)
   Clear definition of the challenge we are investigating.
 
-* 🧠 [Problem Brainstorming](./problem_brainstorming.md)
+* 🧠 [Problem Brainstorming]([./problem_brainstorming.md](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-07-repo/blob/Domainstudy/0_domain_study/problem_brainstorming.md))
   Initial ideas, divergent and convergent thinking used to refine our research direction.
 
 * 📚 [Research Background & Resources](./research_background.md)
