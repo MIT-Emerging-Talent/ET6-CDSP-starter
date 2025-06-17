@@ -57,11 +57,14 @@ and historical injury logs published by reputable analytics blogs.
 
 ## Repository Layout
 
-`/data_raw` holds the unmodified CSV exports or scraped files;
-`/data_processed` contains cleaned versions ready for analysis.
-Each problem statement lives in its own `/projects/<topic>` folder with Jupyter
-notebooks, experiment logs, and interim results. Shared utility code (plotting,
-feature engineering) resides in `/src`.
+`/1_datasets` holds the unmodified CSV exports or scraped files;
+
+`/2_data_preparation` contains cleaned versions ready for analysis.
+
+`/6_final_presentation` will hosts the finding of our research question which
+you can see in `/0_domain_study/summary_of_group_problem_domain`.
+
+`/collaboration` contains the communication and group dynamics information.
 
 ---
 
