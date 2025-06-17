@@ -32,3 +32,10 @@ design appropriate methodologies to address them.
 - Practice building models that help explain or solve real-world issues.
 - Learn to use Jupiter Notebooks effectively for data exploration and modeling.
 - Gain confidence in documenting, sharing, and communicating data science work clearly.
+
+### Zaid
+
+- Refresh my GitHub and Python skills.
+- Learn something new.
+- Improve my teamwork abilities.
+- Gain experience working with vastly different time zones.
