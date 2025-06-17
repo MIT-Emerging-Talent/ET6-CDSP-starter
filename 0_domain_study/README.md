@@ -20,6 +20,13 @@ In many communities, people have creative and impactful ideas that could solve r
 Yet, many campaigns fail because of unclear goals, poor planning, or a lack of understanding of what makes a campaign successful.
 
 This project aims to study real crowdfunding data to identify the key factors that lead to success, so we can help more people bring their ideas to life and create positive change in their communities. We aim to understand how specific variables such as **funding goal** and **campaign length** interact to affect campaign success, while considering other important attributes.
+ Problem Statement
+While Kickstarter has enabled $6B+ in pledges since 2009, 62% of campaigns fail due to:
+Unrealistic goal-setting
+Suboptimal campaign durations
+Poor category-specific strategies
+Our Mission: Decode success patterns using 375K+ historical projects to create actionable frameworks.
+
 
 ---
 
@@ -101,17 +108,4 @@ This project aims to study real crowdfunding data to identify the key factors th
 
 ### 🎥 Oculus Rift (VR Headset)
 - Crowdfunding helped validate demand before acquisition by Facebook.
-
----
-
-## ✅ How to Use This Folder
-
-- Use this README to navigate the folder contents.
-- Refer to summarized research for justification and context.
-- Continue to add new findings, articles, or examples to keep the domain study active and relevant.
-
----
-
-📌 **Updated: June 2025**
-
 
