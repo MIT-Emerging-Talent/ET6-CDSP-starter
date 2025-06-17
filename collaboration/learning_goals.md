@@ -30,5 +30,5 @@ design appropriate methodologies to address them.
 
 - Understand how to use real-world data to define problems and uncover insights.
 - Practice building models that help explain or solve real-world issues.
-- Learn to use Jupyter Notebooks effectively for data exploration and modeling.
+- Learn to use Jupiter Notebooks effectively for data exploration and modeling.
 - Gain confidence in documenting, sharing, and communicating data science work clearly.
