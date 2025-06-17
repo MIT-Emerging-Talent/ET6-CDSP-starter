@@ -11,9 +11,15 @@ Our current research explores the intersection of **healthcare**,
 **data analytics**, and **technology**.
 We are investigating potential topics such as:
 
-- Diabetes-related healthcare gaps
-- Stroke prediction and early intervention
-- Cancer data analysis and diagnostic tools
+- Quantifying the health impacts of attacks on healthcare facilities
+
+- Mapping gaps in humanitarian access due to targeted violence
+
+- Visualizing attack trends using open-source and verified datasets
+
+- Assessing policy response and legal accountability using data
+
+- Exploring data integration models between health, humanitarian, and media systems
 
 > ⚠️ **Note:** The project scope is still evolving as we finalize our research
 question and dataset.
