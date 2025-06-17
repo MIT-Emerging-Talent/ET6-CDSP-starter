@@ -7,29 +7,8 @@ run, and verify your analysis from start to finish.
 
 ---
 
-## Project Overview
-
-The CDSP is a six‐milestone initiative where teams work together to
-identify a research question, collect and analyze data, and communicate
-findings. This repository’s structure follows those milestones and
-encourages best practices in collaboration, version control, and
-documentation.
-
-Use this template to:
-
-- Organize your files and code in a clear, consistent folder structure
-- Maintain reproducibility so others can run your pipeline without issues
-- Document team norms, communication plans, and milestone retrospectives
-- Track tasks, issues, and pull requests through GitHub’s project boards
-
----
-
-## Directory Structure
-
-```text
-/
-├── README.md                   # Project overview and main instructions
-├── guide.md                    # Detailed guide on using this template
+```/
+├── README.md                   # Project overview and main findings
 ├── /collaboration/             # Team norms, strategies, and retrospectives
 ├── /notes/                     # Shared resources and learning materials
 ├── /0_domain_study/            # Domain research and background
