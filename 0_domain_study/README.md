@@ -1,4 +1,4 @@
-# 🎯 Project Overview
+📊 Kickstarter Success Factor Analysis
 
 This folder contains relevant background information, academic literature,
  datasets, case studies, our research problem statement, research question,
