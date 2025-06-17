@@ -60,5 +60,6 @@ meetings and recordings
 - Actively participated in organizing the team’s work and discussing  
   other group members’ questions.  
 - Made progress in convergent thinking.  
-- Still needs to improve the skill of conducting preliminary research before formulating a question.  
+- Still needs to improve the skill of conducting preliminary
+research before formulating a question.  
 - Returned Bernard the cat to its owners
