@@ -7,6 +7,37 @@ is a fun-loving group of researchers who want to explore the world.
 Our goal is to help each other, learn from one another, and grow together
 as we explore the world of Computer and Data science.
 
+## Deforestation Analysis in Malaysia
+
+Nowadays, deforestation in Malaysia has reached an unprecedented level.
+Every day and every year, several more percent of the country's
+area is deforested, affecting millions of people in rural areas.
+
+With our new advances in image analysis, we aim for detailed quantification and
+localization of the deforestation process. We also intend to study
+its correlation with parameters of citizen well-being.
+
+Our group decided to focus on this research domain due to extensive experience.
+In particular, Alona is a life sciences major with several courses in ecology, biology,
+and data processing. Zaid has successfully completed data analysis projects and
+possesses extensive knowledge of deforestation effects on rural communities in Malaysia.
+
+Which particular correlation exists between rural households'
+well-being and the current deforestation status of their
+area (e.g., has it been deforested long ago, recently, or not at all)?
+
+The analysis project should take several weeks. Processing will be executed on personal
+computers or cloud services. Data will be limited to information
+openly available at:
+
+- [Global Forest Watch](https://www.globalforestwatch.org/)
+- [Google Earth Engine](https://earthengine.google.com/)
+
+See more details here:  
+[Project Guide](<https://github.com/MIT-Emerging-Talent>
+/ET6-CDSP-group-27-repo-Exploring_Kittens/  
+blob/main/0_domain_study/guide.md)
+
 ## Group Agreements (Intention-Based)
 
 - Open and respectful communication between members. Voices are not equally
