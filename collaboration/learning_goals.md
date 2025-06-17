@@ -88,7 +88,8 @@ impactful project:
       (Feasible, Relevant, Ethical, Specific, Complex, Original).
 - [ ] Understand how to conduct a preliminary domain study
      (e.g., remote work and job scams).
-- [ ] Develop skills to critically assess project feasibility given data availability, team skills, and timeline.
+- [ ] Develop skills to critically assess project feasibility given data
+- availability, team skills, and timeline.
 
 ### Milestone 2: Data Collection
 
