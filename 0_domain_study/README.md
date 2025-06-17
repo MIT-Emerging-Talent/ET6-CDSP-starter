@@ -54,7 +54,19 @@ By analyzing job scams between **2015–2025**, our group seeks to:
 - Evaluate whether current detection strategies are sufficient
 - Offer a framework that combines **linguistic features** and **platform
   behaviors**
-  
+
+---
+
+## 🧠 brainstorming files
+
+- [group brainstorm](./group_brainstorm.md)  
+  This file includes our team’s collaborative brainstorming session, where
+  we discussed potential problem areas and directions.
+
+- [initial individual brainstorm](./initial_individual_brainstorm.md)  
+  This file contains the initial individual brainstorming inputs from team
+   members, shared at the beginning of the project.
+
 ---
 
 ## 📄 Key Readings & Resources
