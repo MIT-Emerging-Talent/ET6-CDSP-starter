@@ -63,3 +63,11 @@ meetings and recordings
 - Still needs to improve the skill of conducting preliminary
 research before formulating a question.  
 - Returned Bernard the cat to its owners
+
+### Zaid
+
+- Was able to contribute an interesting research question and participated
+in productive discussion.
+- Found lots of good data.
+- Didn't do much divergent thinking as I was too intrigued by one question.
+- Need to improve my GitHub skills and learn how to use the project board properly.
