@@ -89,7 +89,7 @@ Examines the role of online learning in enhancing education in war-affected zone
 
 ---
 
-### 📂 4. Stakeholders / Private Organizations
+### 📂 4. Stakeholders / Private or Non Organizations
 
 **Focus**:  
 Identifies key stakeholders including NGOs, EdTech companies, and humanitarian
