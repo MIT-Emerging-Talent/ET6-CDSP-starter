@@ -45,19 +45,17 @@ sharing, and resolving blockers (only on Saturdays - This can change).
 | Day       |Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday|
 | --------- |:----:|:-----:|:-------:|:------:|:----:|:------:|:----:|
 | Clement   |      |       |         |        |      |    ✓   |   ✓   |
-| Emre      |      |       |         |        |      |        |      |
+| Emre      |   ✓  |   ✓   |    ✓    |   ✓    |   ✓  |   ✓    |   ✓   |
 | Sukhrob   |      |  ✓    |    ✓   |    ✓   |   ✓  |    ✓   |      |
 | Ahmed     |      |       |         |        |   ✓  |    ✓    |  ✓    |
-| Anas      |      |       |         |        |      |        |      |
-| Mustafa   |      |       |         |        |      |    ✓   |   ✓    |
-| Sukhrob   |      |  ✓    |    ✓    |    ✓   |   ✓  |    ✓   |      |
-| Ahmed     |      |       |         |        |   ✓   |    ✓    |  ✓    |
 | Anas      |      |   ✓     |     ✓    |        |  ✓     |    ✓     |      |
+| Mustafa   |      |       |         |        |      |    ✓   |   ✓    |
+
 
 ### How many hours everyone has per day
 
 - Clement: 2h
-- Emre: _to be filled_
+- Emre: 1-2h
 - Sukhrob: 2h
 - Ahmed: _1h_
 - Mustafa 2h
