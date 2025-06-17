@@ -63,3 +63,14 @@ meetings and recordings
 - Still needs to improve the skill of conducting preliminary
 research before formulating a question.  
 - Returned Bernard the cat to its owners
+
+### Cyne
+
+- Due to time zone differences, I was unable to attend most team meetings,
+which limited my ability to participate in synchronous discussions.
+- I am currently managing some personal challenges, which have affected
+my ability to contribute as fully as I intended during this milestone.
+- Despite this, I’ve been keeping up with the project’s progress and am
+looking forward to contributing more consistently in the next phase.
+- I appreciate my team’s flexibility and support, and I plan to better coordinate
+my availability and communication for upcoming milestones.
