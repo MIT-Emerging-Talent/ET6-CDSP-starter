@@ -1,8 +1,13 @@
 
 <!-- markdownlint-disable MD031 MD033 MD004 MD009 MD013 MD045 MD041 MD032 MD039 MD019 MD012-->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=50&duration=4984&pause=1000&color=6C9C4B&background=B3B3B300&vCenter=true&repeat=false&width=900&lines=Sustainable+Development)](https://git.io/typing-svg)
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXR6dWU0aWdha2hyOTdjNXY3NWFqb2FsNmxvYmN6bmw0cm5weHozbiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ZCewaVmN4ArYd4Ml0b/giphy.gif" width="90" alt="GIF" style="vertical-align:middle;"/>
+<div style="display: flex; align-items: center; gap: 15px;">
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=50&duration=4984&pause=1000&color=6C9C4B&background=B3B3B300&vCenter=true&repeat=false&width=900&lines=Sustainable+Development" alt="Typing SVG"/>
+  </a>
+
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXR6dWU0aWdha2hyOTdjNXY3NWFqb2FsNmxvYmN6bmw0cm5weHozbiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ZCewaVmN4ArYd4Ml0b/giphy.gif" width="90" alt="GIF"/>
 
 </div>
 
