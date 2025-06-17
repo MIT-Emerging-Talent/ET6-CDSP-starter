@@ -15,3 +15,4 @@ ignore:
   - __pycache__
   - .ls-lint.yml
   - .markdownlint.yml
+  - "0_domain_study/resources/**"
