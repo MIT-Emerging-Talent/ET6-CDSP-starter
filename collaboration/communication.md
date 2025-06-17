@@ -6,7 +6,7 @@
         so share only what you are comfortable sharing online
         you can share the rest in confidence with you group by another channel
 -->
-
+<!-- markdownlint-disable MD013 -->
 # Communication
 
 ---
