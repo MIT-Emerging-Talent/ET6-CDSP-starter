@@ -35,15 +35,16 @@ can bring resilience and hope to conflict-affected communities.
 (Sources: [IRENA](https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2025/Mar/IRENA_DAT_RE_Capacity_Statistics_2025.pdf), [UNHCR](https://www.unhcr.org/renewableenergy4refugees/), [IEA](https://www.iea.org/), [Chatham House](http://chathamhouse.org/))
 - The humanitarian community and affected populations increasingly recognize the need for resilient, sustainable, and decentralized energy solutions in conflicted areas. This is driven by high operational costs, environmental concerns, and the desire for greater energy independence and security.
 
-**Research Focus:**  
-- This review focuses on the integration of renewable energy sources, particularly solar PV and battery storage, and their potential to provide reliable, affordable, and sustainable power in conflict zones. We will also examine the challenges and specific considerations for deployment in such environments.
-- Solving this problem could provide life-saving infrastructure in unstable regions, promote energy equity, and support long-term sustainable development goals.
 
 # [Actionable + Refined Research Question](0_domain_study/progress.md)
 
 > **How have armed conflicts over the past decade influenced the deployment,
 > capacity utilization, and household consumption of solar photovoltaic
 > systems—both environmentally and socially—in conflict-affected communities?**
+
+**Research Focus:**  
+- This review focuses on the integration of renewable energy sources, particularly solar PV and battery storage, and their potential to provide reliable, affordable, and sustainable power in conflict zones. We will also examine the challenges and specific considerations for deployment in such environments.
+- Solving this problem could provide life-saving infrastructure in unstable regions, promote energy equity, and support long-term sustainable development goals.
 
 **Project Scope:**  
 - **Time Period**: 10 years  
