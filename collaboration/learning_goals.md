@@ -39,3 +39,102 @@ impactful project:
 - Encourage everyone to take initiative and share ideas  
 - Share helpful resources, tools, and learning opportunities  
 - Build a team culture based on respect, growth, and mutual support
+
+## Individual_Learning_Goals
+
+## Alaa
+
+- Navigate every milestone with creativity.
+- Challenge myself to do better for myself and others.
+- Practice my technical skills with both VScode & GitHub.
+- Develop and enhance my data collection, data analysis, and research skills.
+
+---
+
+## Aseel
+
+- I want to build my confidence in research by diving into a real-world problem
+  that impacts people.
+- Better understand how technology can solve issues.
+- Develop my skills.
+
+---
+
+## Geehan
+
+1. Strengthen my practical skills in data science.
+2. Improve my ability to work collaboratively.
+3. Gain hands-on experience using Git and GitHub.
+4. Develop a deeper understanding of the ethical considerations
+   when dealing with sensitive or personal data.
+5. Enhance my English communication skills.
+
+---
+
+## Justina
+
+### Milestone 0: Cross-Cultural Collaboration
+
+- [ ] Understand the fundamentals of effective cross-cultural communication in
+      team-based data science projects.
+- [ ] Learn and apply strategies for inclusive collaboration and decision-making
+      across diverse cultural perspectives.
+- [ ] Set up and manage a collaborative development environment
+      (e.g., GitHub repo) using best practices in version control and documentation.
+
+### Milestone 1: Problem Identification
+
+- [ ] Learn how to frame a data science research question using the FRESCO framework
+      (Feasible, Relevant, Ethical, Specific, Complex, Original).
+- [ ] Understand how to conduct a preliminary domain study
+     (e.g., remote work and job scams).
+- [ ] Develop skills to critically assess project feasibility given data availability, team skills, and timeline.
+
+### Milestone 2: Data Collection
+
+- [ ] Learn to identify reliable data sources and assess their
+      quality for research purposes.
+- [ ] Gain proficiency in data cleaning techniques using tools like
+      Pandas, OpenRefine, or SQL.
+- [ ] Learn how to design a well-documented dataset
+      (including metadata, provenance, and ethics).
+- [ ] Understand the ethics of data collection and usage, especially with
+      sensitive job or fraud data.
+
+### Milestone 3: Data Analysis
+
+- [ ] Learn how to explore datasets using EDA (Exploratory Data Analysis),
+      visualizations, and summary statistics.
+- [ ] Develop foundational skills in applying machine learning models for
+      classification tasks (e.g., logistic regression, decision trees, SVMs).
+- [ ] Understand how to evaluate models using metrics like precision,
+      recall, F1-score, and confusion matrix.
+- [ ] Learn how to interpret ML model outputs in a way that aligns
+       with real-world decision-making.
+
+### Milestone 4: Communicating Results
+
+- [ ] Learn how to synthesize and simplify technical findings for different audiences
+      (e.g., HR teams, job seekers, non-technical stakeholders).
+- [ ] Gain skills in data storytelling using visual tools
+      like Tableau, Power BI, or Streamlet.
+- [ ] Develop an ethical and strategic communication plan that considers societal
+      impact and possible misinterpretations of the model.
+
+### Milestone 5: Final Presentation
+
+- [ ] Practice and refine public speaking and pitching skills tailored to
+      technical and non-technical audiences.
+- [ ] Reflect on the full lifecycle of a data science project and articulate
+      the lessons learned, technical takeaways, and real-world implications.
+- [ ] Publish my writings on Medium and LinkedIn.
+- [ ] Learn how to frame your project as a potential launchpad — whether for
+      a deeper research initiative, social impact solution, or future collaboration.
+
+---
+
+## Roua
+
+- Strengthen my problem-identification and research skills.
+- Improve my ability to collaborate and coordinate tasks across teams.
+- Learn to communicate insights clearly through data and visual storytelling.
