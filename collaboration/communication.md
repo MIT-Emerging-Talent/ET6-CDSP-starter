@@ -51,7 +51,6 @@ sharing, and resolving blockers (only on Saturdays - This can change).
 | Anas      |      |   ✓     |     ✓    |        |  ✓     |    ✓     |      |
 | Mustafa   |      |       |         |        |      |    ✓   |   ✓    |
 
-
 ### How many hours everyone has per day
 
 - Clement: 2h
