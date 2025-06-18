@@ -1,10 +1,9 @@
 ignore:
   - venv
   - .github
-  
-# Relax line‐length (MD013) for links, tables, and code blocks
+
+default : true
+
 MD013:
-  line_length: 120       # raise the max allowed length
-  ignore_code_blocks: true
   ignore_tables: true
   ignore_urls: true
