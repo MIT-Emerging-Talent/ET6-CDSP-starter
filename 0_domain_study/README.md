@@ -1,33 +1,34 @@
 # [Project Name:  "Quantifying Post-Pandemic Math Learning Loss"]  
 
-## Problem Statement
+This folder contains all the research and documentation developed for
+ **Milestone 1** of our Collaborative Data Science Project. The focus
+  of this milestone is to clearly define a real-world, data-driven problem
+   based on our team’s personal experiences and domain understanding.
 
-*"Our team's combined experiences in education, data analysis, and policy
-research reveal a critical challenge: COVID-19 school closures caused Grade 3-5
-students in [Country/Region] to lose 8-12 months of math proficiency,
-disproportionately affecting low-income communities. Through [Teacher Name]'s
-classroom observations, [Analyst Name]'s data work with [Organization], and
-[Researcher Name]'s parent surveys, we identified three compounding factors:*
+## 📌 Project Theme
 
-- **Access Inequality**: 60% of rural students lacked devices for online learning
-- **Pedagogical Gaps**: Teachers received no training for hybrid math instruction
-- **Assessment Blindspots**: Existing data systems failed to capture granular
-learning loss
+**How did students in low- and middle-income countries experience changes
+ in their learning proficiency during the COVID-19 pandemic, and what kind
+  of support systems can address those gaps effectively?**
 
-This created a 40% wider proficiency gap between socioeconomic groups
-post-reopening, rendering traditional one-size-fits-all teaching methods
-ineffective. Our project combines frontline educator insights, policy analysis,
- and data science to identify targeted recovery solutions."
+Our project investigates post-pandemic learning gaps in **mathematics**,
+ especially among **primary school students** in under-resourced contexts
+  where digital remote learning was not available during school closures.
 
-## Research Question  
+---
 
-**"How did the COVID-19 pandemic affect primary math proficiency in
-[Country/Region], and which interventions show the highest potential
-for bridging these gaps?"**  
+## 📂 Contents
 
-## Problem Domain Analysis  
+### `problem-statement`
 
-### Systems Thinking (Iceberg Model)  
+A detailed narrative based on our personal experiences.
+
+---
+
+### `domain-summary`
+
+A summary of our team’s understanding of the problem using systems thinking
+ (**Iceberg Model**). We analyze:
 
 1. **Event:** Declining math test scores post-pandemic.  
 2. **Patterns:**  
@@ -38,3 +39,54 @@ for bridging these gaps?"**
    - Teacher training gaps for remote instruction.  
 4. **Mental Models:**  
    - "Online learning is ineffective for STEM subjects."  
+This helped us identify root causes and shape a more strategic research question.
+
+---
+
+### `literature-review`
+
+A thorough review of the global research landscape on pandemic-era education
+ loss, with a focus on:
+
+- Foundational numeracy decline  
+- Learning poverty in LMICs  
+- Inequity in access to digital learning  
+- Long-term risks if learning gaps are left unaddressed  
+
+This review supports our problem framing with data and literature.
+
+---
+
+### `resources`
+
+A curated list of data sources, articles, and research institutions relevant
+ to our topic. Includes:
+
+- UNESCO, World Bank, PAL Network, ASER, J-PAL, Save the Children  
+- Datasets and dashboards on learning loss, equity, and education recovery
+
+---
+
+### `research-question`
+
+Our final, actionable research question:
+
+**How did students in low- and middle-income countries experience changes in
+ their learning proficiency during the COVID-19 pandemic, and what kind of
+  support systems can address those gaps effectively?**
+
+This question is specific, relevant, and grounded in both personal experience
+ and available data.
+
+---
+
+## 🔜 Next Steps (Milestone 2)
+
+For **Milestone 2**, we will:
+
+- Explore available education data sets (e.g., test scores, dropout rates)  
+- Select a data model appropriate to our question  
+- Begin collecting and documenting relevant data  
+
+We are committed to improving team coordination and building on
+ this foundation with clear, focused analysis.
