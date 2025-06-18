@@ -1,6 +1,7 @@
 # 🚀 Kickstarter & Crowdfunding Analytics
 
 Welcome to our domain study on Kickstarter success factors!
+
 🎯 Research Question
 
 > **How do the funding goal and campaign duration jointly influence the
