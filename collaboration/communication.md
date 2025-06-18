@@ -15,7 +15,6 @@
 
 ## Communication Schedule
 
-
 | Day    | How | The topic of discussion |
 | :----: | :-: | ----------------------: |
 | 30/5   |Zoom | Meet and greet, each one will try writing a draft about one of the 4 collaborations files|
@@ -23,7 +22,6 @@
 | 09/6   |Google Meet | Talked about our interests and approaches to find our research question |
 | 13/6   |Zoom | Discussed suggested research questions and ways to link the problems |
 | 16/6   |Zoom | Discussed the refined questions - Narrowed it into one question |
-
 
 ## Communication Channels
 
@@ -46,7 +44,7 @@ How often we will get in touch on each channel, and what we will discuss there:
 | M.Ziadah | 3pm-4pm,   | 3pm-4pm,   | 3pm-4pm,   | 3pm-4pm,   | 3pm-4pm,   | 3pm-4pm,   | 3pm-4pm,   |
 |          | 10-11am    | 10-11am    | 10-11am    | 10-11am    | 10-11am    | 10-11am    | 10-11am    |
 | Svitlana | 11am-8pm   | 11am-8pm   | 11am-8pm   | 11am-8pm   | 11am-8pm   | 11am-3pm   |            |
-| Hasan    |            |            |            |            |            |            |            |
+| Hasan    | 7pm-11pm   | 7pm-11pm   | 7pm-11pm   | 7pm-11pm   | 7pm-11pm   |            |            |
 
 ### How many hours everyone has per day
 
