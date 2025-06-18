@@ -5,5 +5,19 @@ ignore:
 default : true
 
 MD013:
-  ignore_tables: true
-  ignore_urls: true
+# Number of characters
+  line_length: 80
+  # Number of characters for headings
+  heading_line_length: 80
+  # Number of characters for code blocks
+  code_block_line_length: 80
+  # Include code blocks
+  code_blocks: true
+  # Include tables
+  tables: false
+  # Include headings
+  headings: true
+  # Strict length checking
+  strict: false
+  # Stern length checking
+  stern: false
