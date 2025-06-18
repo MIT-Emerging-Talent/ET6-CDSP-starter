@@ -13,11 +13,11 @@ Welcome to our domain study on Kickstarter success factors!
 
 ## 📂 Project Structure
 
+* 🧠 [Problem Brainstorming](./problem_brainstorming.md)
+  Initial ideas, divergent and convergent thinking used to refine our research direction
+
 * 📄 [Problem Statement](./problem_statement.md)
   Clear definition of the challenge we are investigating.
-
-* 🧠 [Problem Brainstorming](./problem_brainstorming.md)
-  Initial ideas, divergent and convergent thinking used to refine our research direction.
 
 * 📚 [Research Background & Resources](./research_background.md)
   Concepts, academic literature, industry insights, and key case studies.
