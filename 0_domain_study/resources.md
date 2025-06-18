@@ -24,52 +24,52 @@
 
 ## Datasets & Dashboards
 
-- ### **Data Source 1**  
+### **Data Source 1**  
 
   **Name:** World Bank Education Statistics  
   **Link:** [World Bank Data](https://databank.worldbank.org/source/education-statistics)
 
   **Description:**  
 
-  - Global indicators (literacy, completion rates, spending).  
+- Global indicators (literacy, completion rates, spending).  
   **Key Variables:**  
-  - Math test scores (pre/post-COVID).  
-  - Internet access (% of schools).  
+- Math test scores (pre/post-COVID).  
+- Internet access (% of schools).  
   **Geographic Scope:** Global (includes LMICs).  
   **Usefulness:**  
-  - Tracks **long-term trends** in math proficiency.  
+- Tracks **long-term trends** in math proficiency.  
 
-- ### **Data Source 2**  
+### **Data Source 2**  
 
    **Name:** UNICEF COVID-19 Learning Data Hub  
   **Link:** [UNICEF Data](https://data.unicef.org/resources/learning-loss-during-covid-19/)
 
   **Description:**  
 
-  - Surveys on COVID-19 learning loss.  
+- Surveys on COVID-19 learning loss.  
   **Key Variables:**  
-  - Grade-level proficiency.  
-  - Socio-economic status (SES) correlations.  
+- Grade-level proficiency.  
+- Socio-economic status (SES) correlations.  
   **Geographic Scope:** Primarily LMICs.  
   **Usefulness:**  
-  - Focused on **primary education** in our target regions.  
+- Focused on **primary education** in our target regions.  
 
-- ### **Data Source 3**
+### **Data Source 3**
 
-  #### [UNESCO Global Education Monitoring (GEM) Reports](https://www.unesco.org/gem-report)  
+#### [UNESCO Global Education Monitoring (GEM) Reports](https://www.unesco.org/gem-report)  
 
   Tracks global learning outcomes, with specific reports on COVID-19
    recovery and country-level data.
 
-- ### **Data Source 4**  
+### **Data Source 4**  
 
-  #### [Learning Poverty Data by World Bank](https://www.worldbank.org/en/topic/education/brief/learning-poverty)  
+#### [Learning Poverty Data by World Bank](https://www.worldbank.org/en/topic/education/brief/learning-poverty)  
 
   Includes post-pandemic learning estimates and global/regional
    learning loss in foundational skills.
 
-  - [Save the Children](https://www.savethechildren.net/news/learning-losses-during-pandemic)  
-  - [OECD](https://www.oecd.org/education/)  
+- [Save the Children](https://www.savethechildren.net/news/learning-losses-during-pandemic)  
+- [OECD](https://www.oecd.org/education/)  
    Comparative data and recovery policy tracking.
 
 ---
