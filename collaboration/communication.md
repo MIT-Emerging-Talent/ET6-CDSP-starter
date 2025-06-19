@@ -58,7 +58,6 @@ sharing, and resolving blockers (only on Saturdays - This can change).
 - Sukhrob: 2h
 - Ahmed: _1h_
 - Mustafa 2h
-- Anas: _to be filled_
 - Anas: 1h
 
 ---
