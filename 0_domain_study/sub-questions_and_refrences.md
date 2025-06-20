@@ -12,7 +12,7 @@ recognize this as a scam?
 - If a ‘scam percentage score’ appears on the post, what is the impact of it?
 Could it be helpful?
 
-## Refrences
+## References
 
 - [BBC News](https://www.bbc.com/news/business-66592219).
 - [User Cases](https://assets.publishing.service.gov.uk/media/61981a328fa8f5037e8ccacb/Job_Scams_-_Case_Studies.pdf).
