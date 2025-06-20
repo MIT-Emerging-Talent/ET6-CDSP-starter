@@ -1,76 +1,113 @@
 # Domain Research
 
-## Understanding the Problem Domain  
+## Event
 
-### 🧩 The Problem at a Glance
+In the modern time, the evolution of technology has transformed the way people
+navigate their professional lives. Nowadays, online job platforms serve as a
+shared environment between recruiters and job seekers.
+The influence of internet has become central to recruitment strategies, hence, the
+recruitment process has increasingly moved online. This shift has also brought
+new challenges, as although the number of global job postings is increasing
+with this shift, not all of them are legitimate.
 
-In recent years, remote work has become a major part of the job market—but
-alongside it, job scams have surged. With the rise of **AI-generated text**,
-scammers now craft **convincing fraudulent job postings** that easily bypass
-traditional red flags like grammar errors or formatting issues.
+Online job scams surged by 84% in 2023 worldwide. The rise of remote work,
+online recruiting, and AI tools has made it easier for scammers to create
+convincing fake job ads. This concerning trend continues to escalate, blurring
+the line between legitimate opportunities and fraudulent schemes. It has become
+crucial to understand what specific features in job postings and application
+processes influence individuals’ engagement, and more importantly, their ability
+to recognize and avoid scams.
 
-This has created a **trust crisis**, particularly for students and early-career
-professionals navigating digital job platforms. Existing fraud detection
-methods—many of which rely solely on **linguistic analysis**—are no longer
-enough. Our group sees this not just as a technical issue, but as a
-**systemic problem** that spans platforms, tools, and user vulnerability.
+This research aims to explore the role of visual and textual elements,
+application process, along with LLMs in shaping user perceptions and actions
+in the online job-seeking environment.
 
----
+## Pattern
 
-### Applying Systems Thinking
+One emerging pattern is the use of highly attractive job descriptions and offers,
+often mimicking real postings. These ads typically highlight flexible hours,
+remote work, and unusually high salaries, features that immediately catch the
+attention of job seekers, especially those urgently looking for income or remote
+opportunities.
 
-We looked at the different parts of this system and how they interact.
+Simultaneously, scammers have become more sophisticated in how they design and
+execute fake job listings. Leveraging LLMs,
+they craft professional-sounding job descriptions and even imitate the branding
+of real companies. These tools allow scammers to avoid earlier red flags such
+as poor grammar or suspicious formatting, making the scams appear more credible
+and trustworthy.
 
-|   **Actors**         |   **Evolving Dynamics**                             |
-|-----------------------|-------------------------------------------------------|
-| Job Seekers           | Increased exposure to remote listings and online fraud|
-| Scammers              | Using AI tools to produce highly realistic fake jobs  |
-| Job Platforms         | Struggling to verify postings at scale                |
-| Security Experts      | Exploring smarter fraud detection techniques          |
-| Machine Learning Tools| Used for both scam creation and detection             |
+A major red flag in many scams involves the request for upfront payments. Whether
+it's for background checks, training materials, or equipment, fraudulent
+postings often ask for money early in the process with a promise of being paid back.
+Patterns show that the
+decision to proceed or back out often depends on how the request is framed. If the
+request is made after a series of
+seemingly normal interactions, people are more likely to comply, especially if
+they’ve already invested time and emotional energy in the application.
 
----
+## Structure
 
-### Why It Matters
+At a structural level, one of the key reasons online job scams are so effective
+is that fraudulent processes often mimic the legitimate structure of real hiring
+systems. Across industries and regions, job applications tend to follow a
+standardized format. Most job seekers are familiar with being asked for personal
+details such as **_full name_**, **_address, date of birth, contact information_**,
+and even **_bank details_** in some cases. In many cases,
+**_background checks_** and **_document verification_** are also expected steps.
+These practices are so deeply rooted in professional norms that applicants rarely
+question them, which makes it easier for scammers to
+blend in without raising suspicion.
 
-If these scams continue to grow unchecked:
+## Mental Mode
 
-- Platforms may **lose user trust**
-- Vulnerable populations may **face emotional and financial harm**
-- **AI advancements** may be weaponized by bad actors faster than they are
-  countered
+Underlying beliefs and social pressures play a significant role in sustaining
+the system in which online job scams thrive. One core belief is rooted in the
+reality that the global job market is increasingly competitive. With more
+individuals seeking employment than there are available positions, people often
+feel immense pressure to secure a job as quickly as possible. This urgency is
+further amplified by the growing concerns over financial stability and societal
+expectations. Therefore, job seekers may be more willing
+to overlook potential red flags if it means landing a promising opportunity.
 
-### Our Approach
+Additionally, feelings of shame and embarrassment further enforce the system.
+Victims of job scams often blame themselves, fearing judgment if
+they share their experience. This silence prevents others from learning about
+common scam tactics and creates an environment where fraudulent practices can
+continue unchecked.
+Along with the fact that this issue is viewed
+as individual problems, rather than systemic ones. Society often emphasizes
+personal responsibility, encouraging individuals to “try harder” or
+“be more careful”, instead of addressing broader structural issues.
 
-This project aims to address these challenges through a
-**machine learning–driven fraud detection model** focused on **text-based
-indicators**. Additionally, we explore the potential for incorporating
-**technical fraud markers** (like suspicious form behaviors and tracking
-patterns) to build a **hybrid detection system**.
+These internalized beliefs about urgency, personal failure,
+and individual responsibility, act as invisible forces that keep the scam
+ecosystem alive and difficult to disrupt.
 
-By analyzing job scams between **2015–2025**, our group seeks to:
+## Conclusion
 
-- Understand how fraud tactics evolved in the **AI era**
-- Evaluate whether current detection strategies are sufficient
-- Offer a framework that combines **linguistic features** and **platform
-  behaviors**
+By mapping the user journey, we can better understand how people navigate scam
+encounters. When users say, “ _**What would I lose? I’ll apply and see how this
+goes,**_ ” it reflects a sense of low-risk experimentation driven by desperation
+or hope. Internally, they may think,
+“ _**I can’t help but set high hopes incase I get the offer,**_ ”
+revealing the emotional vulnerability that scammers exploit. Behaviorally, users
+often proceed to apply despite some awareness of scams. Emotionally, the journey
+is intense, initial excitement when
+they’re contacted, followed by feelings of disappointment, panic, and
+discouragement once they realize the offer was fake.
 
----
+This research aims to deeply understand the
+online job-seeking experience from the user's perspective, empathizing with their
+motivations, behaviors, and emotional journey. By this research we're planing to
+go beyond just raising awareness, and actually identify patterns to build
+preventative strategies, platform-level solutions, and behavioral cues that
+empower users earlier in the process.
 
-## 🧠 brainstorming files
+## Sub Domains
 
-- [group brainstorm](./group_brainstorm.md)  
-  This file includes our team’s collaborative brainstorming session, where
-  we discussed potential problem areas and directions.
-
-- [initial individual brainstorm](./initial_individual_brainstorm.md)  
-  This file contains the initial individual brainstorming inputs from team
-   members, shared at the beginning of the project.
-
----
-
-## 📄 Key Readings & Resources
-
-- [Online Recruitment Fraud (ORF) Detection Using Deep Learning Approaches – ResearchGate (2024)](https://www.researchgate.net/publication/391631961_Online_Recruitment_Fraud_ORF_Detection_Using_Deep_Learning_Approaches)
-- [Paranoia, Social Engineering, and the Real Fake – WIRED (2024)](https://www.wired.com/story/paranoia-social-engineering-real-fake/?)
-- [AI-Driven Fraud Detection in Job Postings – Frontiers in Computer Science (2021)](https://www.frontiersin.org/journals/computer-science/articles/10.3389/fcomp.2021.563060/full)
+- Feature engineering.
+- NLP ( Natural Language Processing ).
+- Human-Machine interaction.
+- Machine-Machine interaction.
+- LLMs.
