@@ -47,6 +47,15 @@ to build a model that alerts staff before fatigue turns into lost playing time.
 
 ---
 
+## Current Research Focus
+
+From the problem statements above, our group has collectively decided to focus on
+**Problem Statement 2: Success After a League Jump**.
+This will be the primary research question guiding our current efforts and the
+development of this project.
+
+---
+
 ## Data Sources
 
 We rely on publicly available data sets wherever possible, including FBref match
