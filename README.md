@@ -1,69 +1,94 @@
-# Problem Statement
+# Problem Domain
 
-On 6/12/2025, a group of about 100 students from the MIT Emerging Talent Program
-attended a job readiness workshop with program staff, Carlos. One problem quickly
-stood out: almost every student present had encountered a fake job posting.
+Scam detection in digital job markets is a rising problem. It involves
+interactions between humans (job seekers, recruiters),
+systems (job boards, ATS tools), and malicious actors (scammers) who now
+leverage generative AI. Traditionally, detection relied heavily on linguistic
+cues and behavioral red flags like urgency, grammar issues, and fake domains,
+but AI is eroding those signals.
 
-[The Hypatia Circle](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-21-repo/blob/main/collaboration/README.md)
-converged after the meeting to discuss and scope a project based on this.
+Our study sits at the intersection of **cybersecurity, human behavior, and NLP,**
+asking: What happens when scammers have access to the same tools used to detect them.
 
-**Problem Statement: Detecting Fraudulent Remote Job Postings In the AI Era:
-A Machine Learning Approach**
+## Problem Statement
 
-As AI-generated text becomes more sophisticated, scammers can craft **convincing
-fake job postings**, making traditional fraud detection methods, largely reliant
-on linguistic analysis, less effective. Remote job scams are particularly
-concerning, as they **lack physical verification mechanisms**, making deception
-easier to execute.  
+***To What extent can job seekers and existing classifier models accurately
+detect fraudulent job postings crafted by advanced AI, and how does a *"scam
+score marker"* influence job seeker engagement with identified risks?***
 
-This project explores a **groundbreaking hybrid approach**; integrating
-**text-based analysis with technical fraud markers**, such as **website
-behavior, tracking elements, and form submission patterns**, to develop a more
-holistic scam detection framework. By analyzing **job postings from 2015-2025**,
-we aim to assess **how fraud tactics have evolved pre- and post-AI advancements**
-and whether purely text-based classifiers remain sufficient.  
+Despite advanced detection systems and widespread warnings, job scams aren’t
+just surviving, they’re thriving. According to the Federal Trade Commission,
+reported losses from **job opportunity scams totaled $750.6 million in 2024**,
+up nearly **$250 million from 2023**.
 
-While the **primary focus is text-based classification**, this study will
-**consult experts** on the feasibility of incorporating **non-text indicators**
-into scam detection. Should technical fraud markers prove difficult to track due
-to data constraints, the project will **refine its scope to focus solely on
-linguistic fraud detection** while keeping non-text analysis open for future research.
+In a recent job readiness workshop on June 12, 2025, attended by our
+[team](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-21-repo/blob/main/collaboration/README.md)
+and 94+ other students, nearly every attendee had encountered a fake job posting.
+This personal insight reflects a sobering national trend.
 
-**Scope:**
+> “The number of reports for job and employment agency scams tripled from 2020 to
+2024, and consumer losses jumped from $90 million to $501 million.” —
+[*Federal Trade Commission*](https://www.ftc.gov/news-events/news/press-releases/2025/03/new-ftc-data-show-big-jump-reported-losses-fraud-125-billion-2024#:~:text=People%20who%20report%20to%20ReportFraud,state%20broken%20down%20by%20age.)
 
-- **Core Focus:** Text-based scam detection using machine learning models.
-- **Exploratory Area:** Investigating non-text indicators (website behavior,
-tracking patterns, form submissions) with expert consultation.  
-- **Dataset Strategy:** Since no structured dataset exists for 2015-2025, we
-will **scrape and curate our own dataset** from verified job postings.  
-- **Comparative Analysis:** Fraud evolution pre- vs. post-AI advancements.  
+These statistics raise an urgent question: Are AI-generated scam texts becoming
+so convincing that even experts and their tools can no longer reliably detect
+them? If true, this could signal the breakdown of existing scam detection models,
+and the need for a paradigm shift.
 
-**Objectives:**
+## Systems Thinking Perspective
 
-- **Develop a machine learning model** to classify scam vs. legitimate remote
-job listings.  
-- **Analyze linguistic fraud patterns**, focusing on deceptive phrasing and
-urgency indicators.  
-- **Assess feasibility** of non-text-based fraud markers and their integration
-into detection models.  
-- **Evaluate the impact** of AI-generated text on scam effectiveness.  
+We model this as a dynamic arms race involving three actors:
 
-**Expected Outcomes:**
+1. **Scammers**, now equipped with LLMs capable of mimicking legitimate
+corporate language.
+2. **Detection systems**, often trained on outdated fraud signals or
+keyword-based heuristics.
+3. **Human users**, whose trust, judgment, and attention span are increasingly
+stretched thin.
 
-- A fraud detection model that **prioritizes text analysis**, with potential
-expansion into technical fraud markers.  
-- A **structured dataset** capturing 2015-2025 scam trends in remote job
-postings.  
-- Insights into **how scammers have adapted** as AI tools improve text
-generation.  
-- Expert consultation to determine whether non-text indicators can enhance scam detection.
+This system is evolving. As generative AI improves, it may:
 
-[Link to the Background Review of our Problem Domain](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-21-repo/tree/main/0_domain_study)
+- Erase the linguistic telltales traditionally used to flag fraud.
+- Exploit brand tone, corporate jargon, and trust signals with unnerving accuracy.
+- Render traditional classifiers obsolete unless rethought from the ground up.
 
-## Our Reseach Question
+## Background Summary
 
-Informed by the realites of our problem domain, we are setting out to explore:
+Past research in scam detection has leaned heavily on:
 
-***What Identifiable patterns distinguish fraudulent remote job postings from
-legitimate ones in the past decade (2015-2025), and how effectively can a
-machine learning model detect these scams?***
+- Linguistic feature engineering (e.g., urgency cues, poor grammar, spam words).
+- ML classification using bag-of-words, TF-IDF, or shallow embeddings.
+- User training and awareness-based campaigns.
+
+However, these methods rely on the assumption that fraudulent text will deviate
+in detectable ways from legitimate content. That assumption is **under threat**.
+
+## Our Research Question
+
+**Can LLM-generated scam job postings evade both human judgment and machine detection,
+and can real-time risk indicators effectively guide job seekers away from
+deceptive opportunities?**
+
+This leads to sub-questions such as:
+
+- How do real and AI-generated scams compare linguistically?
+
+- Can humans detect LLM-generated scams better than machines—or vice versa?
+
+- Are today’s best detection models still effective against LLM-generated
+scam text?
+
+- How do job seekers react to the presence and prominence of an automated risk
+score on job postings, and how does this influence their likelihood of engaging
+with fraudulent opportunities?
+
+## Conclusion
+
+Scam detection is no longer just about spam filters or “watch for typos.”
+It’s now a battle of AI vs AI, with humans caught in the middle. If current
+detection techniques are failing - because the threat has evolved - then the
+question isn’t just how to detect, but whether detection as we know it still works.
+Our goal is not just to build another model, but to stress-test the foundations
+of how we classify and catch job deceptions in the age of generative AI.
+
+[Link to our Background Research](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-21-repo/tree/main/0_domain_study)
