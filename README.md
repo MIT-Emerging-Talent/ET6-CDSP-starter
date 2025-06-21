@@ -90,3 +90,5 @@ detection techniques are failing - because the threat has evolved - then the
 question isn’t just how to detect, but whether detection as we know it still works.
 Our goal is not just to build another model, but to stress-test the foundations
 of how we classify and catch job deceptions in the age of generative AI.
+
+[Link to our Background Research](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-21-repo/tree/main/0_domain_study)
