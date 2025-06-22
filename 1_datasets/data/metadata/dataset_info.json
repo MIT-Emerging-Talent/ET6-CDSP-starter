@@ -1,0 +1,95 @@
+{
+  "datasets": [
+    {
+      "id": "acled_gaza_war_events",
+      "title": "Gaza War Events",
+      "source": "ACLED (Armed Conflict Location & Event Data Project)",
+      "description": "Event-level conflict data related to the Gaza war.",
+      "format": "CSV",
+      "link": "/1_datasets/data/gaza_war_events.csv",
+      "license": "Unknown",
+      "update_frequency": "Irregular",
+      "tags": [
+        "conflict",
+        "Gaza",
+        "events"
+      ]
+    },
+    {
+      "id": "ocha_idmc_event_data_pse",
+      "title": "IDMC Event Data for Palestine",
+      "source": "OCHA Humanitarian Data Exchange (HDX)",
+      "description": "Displacement event data collected by the Internal Displacement Monitoring Centre.",
+      "format": "CSV",
+      "link": "https://data.humdata.org/dataset/a641dda7-9b19-4103-b811-76a3963d29d2/resource/759900bf-d08a-4523-8e4a-157aa97e3d29",
+      "license": "Open Data Commons Attribution License",
+      "update_frequency": "Unknown",
+      "tags": [
+        "displacement",
+        "IDMC",
+        "Palestine"
+      ]
+    },
+    {
+      "id": "ocha_unrwa_displaced",
+      "title": "Displaced Persons in UNRWA Shelters",
+      "source": "OCHA Humanitarian Data Exchange (HDX)",
+      "description": "Data on displaced persons residing in UNRWA shelters in Gaza.",
+      "format": "CSV",
+      "link": "https://data.humdata.org/dataset/data-on-displaced-persons-in-unrwa-shelters",
+      "license": "Open Data Commons Attribution License",
+      "update_frequency": "Daily",
+      "tags": [
+        "displacement",
+        "UNRWA",
+        "shelters",
+        "Gaza"
+      ]
+    },
+    {
+      "id": "ocha_gaza_prices",
+      "title": "Price of Basic Commodities in Gaza",
+      "source": "OCHA Humanitarian Data Exchange (HDX)",
+      "description": "Prices of essential commodities in Gaza tracked during the conflict.",
+      "format": "CSV",
+      "link": "https://data.humdata.org/dataset/state-of-palestine-price-of-basic-commodities-in-gaza",
+      "license": "Open Data Commons Attribution License",
+      "update_frequency": "Weekly",
+      "tags": [
+        "commodities",
+        "economy",
+        "Gaza"
+      ]
+    },
+    {
+      "id": "gazamaps_displacement_api",
+      "title": "Displacement API",
+      "source": "GazaMaps",
+      "description": "Real-time API providing updates on displacement in Gaza.",
+      "format": "API",
+      "link": "https://gazamaps.com/api/v1/displacement",
+      "license": "Unknown",
+      "update_frequency": "Real-time",
+      "tags": [
+        "API",
+        "displacement",
+        "Gaza"
+      ]
+    },
+    {
+      "id": "gazamaps_api_docs",
+      "title": "GazaMaps API Documentation",
+      "source": "GazaMaps",
+      "description": "Documentation for the GazaMaps API endpoints.",
+      "format": "Documentation",
+      "link": "https://gazamaps.com/api-docs",
+      "license": "Unknown",
+      "update_frequency": "Irregular",
+      "tags": [
+        "API",
+        "documentation",
+        "Gaza"
+      ]
+    }
+  ]
+}
