@@ -17,12 +17,13 @@ Attendees: 4**
 + **ALL GROUP MEMBERS SHOULD DO**
   + Find sources and datasets that can be proxy data or direct
  related to the question
- 
+
 ### Follow up
 
 #### Deliverables
 
-**Task Delegation**: 
+**Task Delegation**:
+
 + Asia : Mohammed Saeed
 + South Sudan: Anyak
 + Ukraine: Mariia
