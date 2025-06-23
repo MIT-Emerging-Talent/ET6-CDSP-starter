@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 # 📂 Domain Study
 
+=======
+ # 📂 Domain Study:
+>>>>>>> a0c3980660100a0be19a1d6e19f2b990b7a8ae47
  **From Idea to Reality — What Sparks Startup Success?**
 
 ---
@@ -7,6 +11,7 @@
 ## 1️⃣ Domain Overview
 
 Every startup begins with an idea — bold, innovative, and full of potential.
+<<<<<<< HEAD
 But the road from idea to reality is paved with uncertainty. Many startups
 fizzle out, while a select few ignite industry transformation. This project
  explores a simple yet powerful question:
@@ -21,11 +26,23 @@ Leveraging **data-driven methodologies** and real-world datasets like
 
 <!-- Consider briefly defining what "startup success" means here to clarify
  early on. -->
+=======
+But the road from idea to reality is paved with uncertainty. Many startups fizzle out, while a select few ignite industry transformation. This project explores a simple yet powerful question:
+
+**“What gives a startup the spark it needs to come alive?”**
+
+Leveraging **data-driven methodologies** and real-world datasets like **AngelList**, we aim to decode the hidden patterns that differentiate thriving startups from those that fail. Our investigation covers how founders’ backgrounds, market dynamics, business strategies, and investor relationships coalesce to ignite the ultimate spark.
+
+<!-- Consider briefly defining what "startup success" means here to clarify early on. -->
+>>>>>>> a0c3980660100a0be19a1d6e19f2b990b7a8ae47
 
 ---
 
 ## 2️⃣ Key Concepts and Terms
+<<<<<<< HEAD
 <!-- markdownlint-disable MD013 -->
+=======
+>>>>>>> a0c3980660100a0be19a1d6e19f2b990b7a8ae47
 
 | 💡 Concept               | 🔎 Description                                                         |
 | ------------------------ | ---------------------------------------------------------------------- |
@@ -37,10 +54,14 @@ Leveraging **data-driven methodologies** and real-world datasets like
 | **Investor Networks**    | Ecosystems of angels, VCs, and syndicates influencing startup growth.  |
 | **Machine Learning**     | Data-driven algorithms uncovering patterns and making predictions.     |
 
+<<<<<<< HEAD
 <!-- markdownlint-enable MD013 -->
 
 <!-- The descriptions here are concise and clear; consider adding examples for
  terms like "Product-Market Fit" for readers unfamiliar with the concept. -->
+=======
+<!-- The descriptions here are concise and clear; consider adding examples for terms like "Product-Market Fit" for readers unfamiliar with the concept. -->
+>>>>>>> a0c3980660100a0be19a1d6e19f2b990b7a8ae47
 
 ---
 
@@ -48,6 +69,7 @@ Leveraging **data-driven methodologies** and real-world datasets like
 
 ### 🔬 Insights from Existing Research
 
+<<<<<<< HEAD
 * **Founding Team**: Diverse skill sets and prior entrepreneurial experience
 significantly elevate survival odds (Wasserman, 2012; Klotz et al., 2014).
 * **Market Timing**: Even superior innovations can falter if launched too early
@@ -56,10 +78,17 @@ significantly elevate survival odds (Wasserman, 2012; Klotz et al., 2014).
  prolonged operational viability (Pohlmann & Thomas, 2015).
 * **Investor Networks**: Strategic investor connections offer not only funding
  but mentorship, credibility, and market access (Huang et al., 2015).
+=======
+* **Founding Team**: Diverse skill sets and prior entrepreneurial experience significantly elevate survival odds (Wasserman, 2012; Klotz et al., 2014).
+* **Market Timing**: Even superior innovations can falter if launched too early or too late (Ries, 2011; CB Insights, 2021).
+* **Funding Access**: Robust early-stage capital infusion correlates with prolonged operational viability (Pohlmann & Thomas, 2015).
+* **Investor Networks**: Strategic investor connections offer not only funding but mentorship, credibility, and market access (Huang et al., 2015).
+>>>>>>> a0c3980660100a0be19a1d6e19f2b990b7a8ae47
 
 ### ❓ Gaps & Unanswered Questions
 
 * How do multiple success factors interplay to create a cumulative effect?
+<<<<<<< HEAD
 * To what extent can predictive models generalize across industries and
  geographic regions?
 * What is the impact of qualitative elements like leadership style, adaptability
@@ -67,6 +96,12 @@ significantly elevate survival odds (Wasserman, 2012; Klotz et al., 2014).
 
 <!-- This section is well-structured; you might consider grouping the "Insights"
  by thematic areas (team, market, finance) for smoother reading. -->
+=======
+* To what extent can predictive models generalize across industries and geographic regions?
+* What is the impact of qualitative elements like leadership style, adaptability, and organizational culture?
+
+<!-- This section is well-structured; you might consider grouping the "Insights" by thematic areas (team, market, finance) for smoother reading. -->
+>>>>>>> a0c3980660100a0be19a1d6e19f2b990b7a8ae47
 
 ---
 
@@ -84,17 +119,23 @@ significantly elevate survival odds (Wasserman, 2012; Klotz et al., 2014).
 * [AngelList Startup Platform](https://angel.co/)
 * [CB Insights Failure Report](https://www.cbinsights.com/research/startup-failure-reasons-top/)
 * [Kaggle Startup Datasets](https://www.kaggle.com/)
+<<<<<<< HEAD
 * [Global Entrepreneurship Monitor (GEM)](<https://www.gemconsortium.org/>)
 * [World Bank Data](<https://data.worldbank.org/>)
 * [OECD Entrepreneurship Data](<https://stats.oecd.org/Index.aspx?DataSetCode=ENTR_IN>)
 
 <!-- Consider including a brief description of why each resource is useful or
  important to the project. -->
+=======
+
+<!-- Consider including a brief description of why each resource is useful or important to the project. -->
+>>>>>>> a0c3980660100a0be19a1d6e19f2b990b7a8ae47
 
 ---
 
 ## 5️⃣ Why Data Analysis Matters in This Domain
 
+<<<<<<< HEAD
 In the ever-evolving world of startups, intuition and anecdotal insights often
  fall short. **Data analysis** empowers researchers to:
 
@@ -106,11 +147,23 @@ In the ever-evolving world of startups, intuition and anecdotal insights often
    how changes in one factor impact overall success probability.
 * **Enhance Decision-Making**: Provide founders, investors, and policymakers
    with evidence-based recommendations, improving resource allocation.
+=======
+In the ever-evolving world of startups, intuition and anecdotal insights often fall short. **Data analysis** empowers researchers to:
+
+* **Quantify Uncertainty**: Assign probability estimates to success factors rather than relying on gut feeling.
+* **Identify Hidden Patterns**: Reveal non-obvious relationships between variables, such as the synergy between team diversity and funding timelines.
+* **Perform Scenario Testing**: Simulate various “what-if” scenarios to gauge how changes in one factor impact overall success probability.
+* **Enhance Decision-Making**: Provide founders, investors, and policymakers with evidence-based recommendations, improving resource allocation.
+>>>>>>> a0c3980660100a0be19a1d6e19f2b990b7a8ae47
 
 ---
 
 *Stay tuned — we continue to refine our analysis and share insights!*
 
+<<<<<<< HEAD
 <!-- This section nicely highlights the importance of your approach;
  consider giving a concrete example or hypothetical case study to illustrate
   these benefits. -->
+=======
+<!-- This section nicely highlights the importance of your approach; consider giving a concrete example or hypothetical case study to illustrate these benefits. -->
+>>>>>>> a0c3980660100a0be19a1d6e19f2b990b7a8ae47
