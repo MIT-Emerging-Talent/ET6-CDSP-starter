@@ -46,6 +46,9 @@ era, making them highly exposed to online content and media-based information.
 Research shows that repeated exposure to violent content can lead to reduced emotional
 responsiveness and empathy. Notable findings include:
 
+The following findings are supported by reputable organizations and
+peer-reviewed studies to ensure the credibility of the research.
+
 - The [APA](https://www.apa.org/topics/video-games/violence-harmful-effects) highlights
 that long-term exposure to violent media can lower emotional sensitivity and
 increase aggression.
@@ -68,6 +71,9 @@ conflicts and injustices, social media, violent entertainment, and gaming.
 To explore our research question, we asked: *If Gen Z has grown up surrounded by
 violent media, how are they responding to it?* Are they becoming more numb, or
 more engaged?
+
+The statistics and reports cited below come from well-established
+institutions and provide a reliable basis for understanding Gen Z's behavior.
 
 We found several studies that show Gen Z is increasingly active in civic and
 political life:
