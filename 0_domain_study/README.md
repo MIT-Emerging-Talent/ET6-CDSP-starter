@@ -72,7 +72,8 @@ more engaged?
 We found several studies that show Gen Z is increasingly active in civic and
 political life:
 
-- **Ipsos Independence Day 2024 Report**: Gen Z is **61% more likely** to attend
+- [**Ipsos Independence Day 2024 Report**](https://www.ipsos.com/sites/default/files/Independence%20Day%20Infographic%20%2724%20v4%20%28Final%29_0.pdf)
+: Gen Z is **61% more likely** to attend
 a protest or rally than older generations.
 - A [PMC study](https://pmc.ncbi.nlm.nih.gov/articles/PMC3158614/) notes lower
 trust in institutions among Gen Z, which may be driving them toward community-based
