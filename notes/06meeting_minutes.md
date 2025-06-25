@@ -9,7 +9,7 @@ Attendees: 3**
 
 ## Agenda
 
-> [here is an issue](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/issues/49)
+> [Here an issue](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/issues/49)
 
 ### **Topics Discussed:**
 
