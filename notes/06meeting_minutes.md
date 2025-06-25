@@ -1,14 +1,15 @@
-<!-- markdownlint-disable MD031 MD022 MD033 MD004 MD009 MD013 MD045 MD041 MD032 MD039 MD019 MD012-->
+<!-- markdownlint-disable MD031 MD022 MD033 MD004 MD009 MD013 MD045 MD041 MD032 MD039 MD019 MD012 MD042 MD036 MD007--> 
+
 # **Meeting 06**
 
-**11/06/2025  
+**23/06/2025  
 12.00 EST - 1.20 EST  
 Google Meet  
 Attendees: 3**
 
 ## Agenda
 
-> [here is an issue]()
+> [here is an issue](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/issues/49)
 
 ### **Topics Discussed:**
 
