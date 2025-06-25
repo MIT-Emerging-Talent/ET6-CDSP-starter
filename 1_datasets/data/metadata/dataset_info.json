@@ -31,37 +31,6 @@
       ]
     },
     {
-      "id": "ocha_unrwa_displaced",
-      "title": "Displaced Persons in UNRWA Shelters",
-      "source": "OCHA Humanitarian Data Exchange (HDX)",
-      "description": "Data on displaced persons residing in UNRWA shelters in Gaza.",
-      "format": "CSV",
-      "link": "https://data.humdata.org/dataset/data-on-displaced-persons-in-unrwa-shelters",
-      "license": "Open Data Commons Attribution License",
-      "update_frequency": "Daily",
-      "tags": [
-        "displacement",
-        "UNRWA",
-        "shelters",
-        "Gaza"
-      ]
-    },
-    {
-      "id": "ocha_gaza_prices",
-      "title": "Price of Basic Commodities in Gaza",
-      "source": "OCHA Humanitarian Data Exchange (HDX)",
-      "description": "Prices of essential commodities in Gaza tracked during the conflict.",
-      "format": "CSV",
-      "link": "https://data.humdata.org/dataset/state-of-palestine-price-of-basic-commodities-in-gaza",
-      "license": "Open Data Commons Attribution License",
-      "update_frequency": "Weekly",
-      "tags": [
-        "commodities",
-        "economy",
-        "Gaza"
-      ]
-    },
-    {
       "id": "gazamaps_displacement_api",
       "title": "Displacement API",
       "source": "GazaMaps",
@@ -73,21 +42,6 @@
       "tags": [
         "API",
         "displacement",
-        "Gaza"
-      ]
-    },
-    {
-      "id": "gazamaps_api_docs",
-      "title": "GazaMaps API Documentation",
-      "source": "GazaMaps",
-      "description": "Documentation for the GazaMaps API endpoints.",
-      "format": "Documentation",
-      "link": "https://gazamaps.com/api-docs",
-      "license": "Unknown",
-      "update_frequency": "Irregular",
-      "tags": [
-        "API",
-        "documentation",
         "Gaza"
       ]
     }
