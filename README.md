@@ -171,6 +171,7 @@ timeline
         Final Presentation:
             Present the full journey and lessons learned : ⏳ Not Started
 ```
+---- 
 
 ## Repository structure
 
@@ -192,7 +193,7 @@ project/
 
 <img align="right" width="250" height="auto" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3czk1Mm91em13OGpzbTBxaXhpYTlpbWtyNTR0OWdiY2pwazc3aGNneCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/8CtkDP78zAJ2BTGo2G/giphy.gif">
 
-_Who's behind all this?Meet the passionate minds driving this project:_
+_Who's behind all this? Meet the passionate minds driving this project:_
 
 - **ِ[Abdallah Alnajjar](https://github.com/theabdallahnjr)**
 - **[Ahd Basan](https://github.com/ahdbasan)**
