@@ -1,27 +1,19 @@
 
 <!-- markdownlint-disable MD031 MD033 MD004 MD009 MD013 MD045 MD041 MD032 MD039 MD019 MD012-->
 
-<div align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=50&duration=4984&pause=1000&color=6C9C4B&background=B3B3B300&vCenter=true&repeat=false&width=700&lines=Sustainable+Development" alt="Typing SVG" />
-  </a>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXR6dWU0aWdha2hyOTdjNXY3NWFqb2FsNmxvYmN6bmw0cm5weHozbiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ZCewaVmN4ArYd4Ml0b/giphy.gif" width="90" alt="GIF" style="vertical-align: middle;" />
-</div>
-
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=42&duration=4984&pause=1000&color=005CCF&background=B3B3B300&vCenter=true&repeat=false&width=800&height=47&lines=Renewable+Energy+in+Conflict+Zones)](https://git.io/typing-svg)
 
 
-**Welcome aboard the CDSP Group 08 Repository!**  
+**Welcome aboard the CDSP Group 08 Repository!**   🌌  
 _Displaced. Determined. Data-Driven._
 
-```text
- 🌌  Our Quest:
+## Project Overview
+
 We are a team united by purpose and shaped by displacement, using data science
  to drive real-world impact. This project applies data exploration, modeling,
  and visualization to explore how renewable energy, specifically solar energy (i.e. PV cells),
  serves as critical survival infrastructure in conflict-affected communities worldwide.
-```
+
 
 <!-- markdownlint-disable MD031 MD033 MD004 MD009 MD013 MD045 -->
 ## [Domain Research & Background](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/0_domain_study/README.md)
@@ -200,7 +192,7 @@ project/
 
 <img align="right" width="250" height="auto" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3czk1Mm91em13OGpzbTBxaXhpYTlpbWtyNTR0OWdiY2pwazc3aGNneCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/8CtkDP78zAJ2BTGo2G/giphy.gif">
 
-_Who's behind all this?_
+_Who's behind all this?Meet the passionate minds driving this project:_
 
 - **ِ[Abdallah Alnajjar](https://github.com/theabdallahnjr)**
 - **[Ahd Basan](https://github.com/ahdbasan)**
@@ -209,12 +201,17 @@ _Who's behind all this?_
 - **[Mohamed Altayeb](https://github.com/Mo-Altayeb)**
 - **[Mohamed Saeed👨‍💻](https://github.com/Tbaosman)**
 
+## [Contributing](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/CONTRIBUTING.md)
+
+Ready to explore or contribute?  
+ To set up the project locally and understand our contribution guidelines, please see our [CONTRIBUTING.md](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/CONTRIBUTING.md) file.
+
 ##  Notes
 
 This is a work in progress. More updates and details will be added soon to
 this readme. Stay tuned!
 
-## License
+## [License](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/LICENSE)
 
 This project is licensed under the MIT License -
 see the [LICENSE](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/LICENSE) file for details.
