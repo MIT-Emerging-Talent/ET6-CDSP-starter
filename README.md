@@ -160,7 +160,7 @@ timeline
             Define the problem & research question : ✅ Completed
     section June 17 - June 30
         Data Collection :
-            Decide how to model our problem domain and collect data : ⏳ Not Started
+            Decide how to model our problem domain and collect data : 🔄 In progress
     section July 1 - July 21
         Data Analysis:
             Analyze data and interpret results : ⏳ Not Started
@@ -215,4 +215,3 @@ this readme. Stay tuned!
 
 This project is licensed under the MIT License -
 see the [LICENSE](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/LICENSE) file for details.
-
