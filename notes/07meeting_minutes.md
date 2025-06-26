@@ -5,7 +5,7 @@
 Google Meet  
 Attendees: 6**
 
-<!-- markdownlint-disable MD031 MD033 MD004 MD009 MD013 MD045 MD041 MD032 MD039 MD019 MD012-->
+<!-- markdownlint-disable MD031 MD028 MD007 MD033 MD004 MD009 MD013 MD045 MD041 MD032 MD039 MD019 MD012-->
 
 
 ## Agenda
