@@ -84,7 +84,6 @@ README.md                     # You're reading it now!
 ├── notes/                    # Learnings and meeting notes
 └── requirements.txt          # Required project dependencies
 </pre>
-
 ---
 
 ## ⭐Meet the Data Strikers⭐
