@@ -1,6 +1,6 @@
 # Raw Data Documentation
 
-This document provides detailed documentation for the raw data files stored in the
+Detailed documentation for the raw data files stored in the
 `1_datasets/raw_data/` directory of the DataCents project. Each entry includes
 information about the file's origin, content, and any known characteristics or
 limitations.
@@ -25,7 +25,7 @@ limitations.
 * **Source:** [BNPL Ethical Risk Synthetic Data (Kaggle)](https://www.kaggle.com/datasets/vangelistsiligiris/bnpl-ethical-risk-synthetic-data)
 * **Description:** This CSV file is a synthetic dataset consisting of 1000 customer
     records of BNPL profiles. It is designed to facilitate analysis around the
-    classification of ethical risk in BNPL. It likely contains demographic and
+    classification of ethical risk in BNPL. It contains demographic and
     financial behavior features of BNPL users.
 * **Relevance:** High. Useful for exploring potential relationships between features
     and risk in the BNPL context and for initial model development and testing.
@@ -36,17 +36,15 @@ limitations.
 
 ## 3. FRBNY-SCE-Credit-Access-Data.xlsx and FRBNY-SCE-Credit-Access-complete_microdata.xlsx
 
-* **Source:** These files likely originate from the Federal Reserve Bank of New York
+* **Source:** These files originate from the Federal Reserve Bank of New York
     (FRBNY) Survey of Consumer Expectations (SCE) Credit Access Survey. The
-    `complete_microdata.xlsx` suggests it contains the full microdata from the survey,
-    while `Data.xlsx` might be a summary or a subset.
-  * **Potential URL:** [https://www.newyorkfed.org/microeconomics/sce/credit-access](https://www.newyorkfed.org/microeconomics/sce/credit-access)
-        (This is a likely source, but needs to be confirmed by the user or by
-        inspecting the file content if possible).
+    `complete_microdata.xlsx` contains the full microdata from the survey,
+    while `Data.xlsx` is a summary/subset.
+  * **Source:** [https://www.newyorkfed.org/microeconomics/sce/credit-access](https://www.newyorkfed.org/microeconomics/sce/credit-access)
 * **Description:** The Survey of Consumer Expectations (SCE) Credit Access Survey
     provides detailed information on consumers' experiences and expectations regarding
     credit access. This includes data on applications for credit, approvals,
-    rejections, and reasons for credit decisions. The microdata would contain
+    rejections, and reasons for credit decisions. The microdata contains
     individual-level responses.
 * **Relevance:** High. This data is highly relevant for understanding consumer credit
     behavior and access to traditional loans, which is crucial for comparing
@@ -60,17 +58,17 @@ limitations.
 
 ## 4. public2024.csv
 
-* **Source:** This file is highly likely to be the public use microdata from the
+* **Source:** This file is the public use microdata from the
     **2024 Survey of Household Economics and Decisionmaking (SHED)**
     conducted by the
     Federal Reserve Board.
-  * **Potential URL:** [https://www.federalreserve.gov/consumerscommunities/shed_data.htm](https://www.federalreserve.gov/consumerscommunities/shed_data.htm)
-        (The SHED data is typically released annually, and `public2024.csv` would
+  * **Source:** [https://www.federalreserve.gov/consumerscommunities/shed_data.htm](https://www.federalreserve.gov/consumerscommunities/shed_data.htm)
+        (The SHED data is typically released annually, and `public2024.csv`
         correspond to the 2024 release).
 * **Description:** The SHED survey provides a comprehensive look at the financial
     lives of U.S. households, covering topics such as financial well-being, income,
-    expenses, savings, debt, and various financial behaviors. This CSV file would
-    contain individual-level responses to the survey questions.
+    expenses, savings, debt, and various financial behaviors. This CSV file
+    contains individual-level responses to the survey questions.
 * **Relevance:** High. This dataset is crucial for understanding the financial
     landscape of U.S. households, identifying factors related to financial distress,
     and potentially constructing a proxy for over-indebtedness. It can also provide
@@ -82,15 +80,13 @@ limitations.
 
 ## 5. afdr_a8.csv and afdr_charts.csv
 
-* **Source:** These files likely originate from the **Federal Reserve Board's
-    Agricultural Finance Databook (AFDR)**. The `afdr_a8.csv` might contain
+* **Source:** These files originates from the **Federal Reserve Board's
+    Agricultural Finance Databook (AFDR)**. The `afdr_a8.csv` contains
     data for a
-    specific table (e.g., Table A.8), and `afdr_charts.csv` could contain
+    specific table (e.g., Table A.8), and `afdr_charts.csv` contains
     data used to
     generate charts in the databook.
-  * **Potential URL:** [https://www.federalreserve.gov/releases/e15/](https://www.federalreserve.gov/releases/e15/)
-        (This is the general page for the E.15 releases, which include the AFDR.
-        Specific links to the data tables would be within the reports).
+  * **Source:** [https://www.federalreserve.gov/releases/e15/](https://www.federalreserve.gov/releases/e15/)
 * **Description:** The Agricultural Finance Databook provides detailed statistics
     on agricultural finance, including farm income, expenses, debt, and credit
     conditions.
@@ -109,10 +105,8 @@ limitations.
 * **Source:** This file likely comes from the Federal Reserve Bank of New York
     (FRBNY) Survey of Consumer Expectations (SCE), specifically data used for charts
     related to household spending.
-  * **Potential URL:** [https://www.newyorkfed.org/microeconomics/sce/](https://www.newyorkfed.org/microeconomics/sce/)
-        (This is the general page for the SCE, where various data and charts are
-        published).
-* **Description:** This Excel file probably contains aggregated data points
+  * **Source:** [https://www.newyorkfed.org/microeconomics/sce/](https://www.newyorkfed.org/microeconomics/sce/)
+* **Description:** This Excel file contains aggregated data points
     used to generate charts on household spending trends, expectations, or
     behaviors. It would
     not contain individual-level microdata but rather summary statistics
@@ -123,6 +117,4 @@ limitations.
     be directly
     usable for predictive modeling at an individual level. It can provide valuable
     contextual information and trends.
-* **Known Limitations:** Aggregated data limits its use for granular analysis. The
-    specific variables and their definitions would need to be confirmed by examining
-    the file content.
+* **Known Limitations:** Aggregated data limits its use for granular analysis.
