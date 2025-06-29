@@ -1,5 +1,20 @@
-<!-- markdownlint-disable MD013 MD033-->
+<!-- markdownlint-disable MD013 MD033 MD032 MD049-->
 # Datasets
+
+we have a **`datasets_raw`** folder that contains the original raw files used in preprocessing.  
+Our data comes from the following sources:
+
+- **IRENA Renewable Energy Statistics** – Published by the *International Renewable Energy Agency (IRENA)*, this dataset provides annual data on renewable energy capacity and generation, including both on-grid and off-grid solar PV deployment across countries and regions.
+
+- **UN Comtrade** – The *United Nations International Trade Statistics Database*, offering detailed trade data on solar-related products (e.g., panels, inverters), helping us understand import/export trends in conflict-affected and stable regions.
+
+1. **[Off-grid Renewable Energy Statistics 2024](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/1_datasets/raw_data/IRENA_OFGStats.raw.xlsx)**
+2. **[On-grid Renewable Energy Statistics 2024](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/1_datasets/raw_data/IRENA_Stats_extract_2025_H1_raw.xlsx)**
+3. **[UN Comtrade data](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/1_datasets/raw_data/UN_Comtrade_imports_dataset_raw.xlsx)**
+  
+Additionally, we have **`non-technical explaination of Domain Modeling** folder
+
+---
 
 ## [Off-grid Renewable Energy Statistics 2024](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/1_datasets/raw_data/IRENA_OFGStats.raw.xlsx)
 
