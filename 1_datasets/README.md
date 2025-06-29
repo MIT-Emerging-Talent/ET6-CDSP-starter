@@ -1,7 +1,7 @@
 <!-- markdownlint-disable MD013 MD033-->
 # Datasets
 
-## [Off-grid Renewable Energy Statistics 2024](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/2_datasets/1_datasets/raw_data/IRENA_OFGStats.raw.xlsx)
+## [Off-grid Renewable Energy Statistics 2024](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/1_datasets/raw_data/IRENA_OFGStats.raw.xlsx)
 
 - This dataset is from the International Renewable Energy Agency, which
 is an intergovernmental organization that promotes the adoption and
@@ -36,3 +36,40 @@ Sub-technology, Technology, Product code, DataType, Value, Unit, Year, Ptype, Pu
   resources to showcase conflicts regions, e.g (ACLED, UDCP)</p>
 
 ---
+
+## [On-Grid  Renewable Energy Statistics 2024](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/1_datasets/raw_data/IRENA_Stats_extract_2025_H1_raw.xlsx)
+
+- This dataset is from the **International Renewable Energy Agency**, which
+is an intergovernmental organization that promotes the adoption and
+sustainable use of renewable energy worldwide.  
+_Showing electricity access by country from 2000 to 2025_
+
+- **Quantitative Data**  
+Format: Excel (.xlsx) file  
+It contains three sheets:  
+  - **Country:**  
+Each row represents a region(continents); Columns include Sub-region, country, ISO3 Code, M49 Code, renewable or nonrenewable, Group Technology, technology, sub-technology, producer type(on-grid and off-grid electricity), year and sum of Electricity Installed Capacity (MW)
+  - **Region:**
+Each row represents a region; Columns include year, renewable or nonrenewable, Group Technology and Sum of Electricity Installed Capacity (MW)
+  - **Global:**
+Columns include year, renewable or nonrenewable, Group Technology and Sum of Electricity Installed Capacity (MW)
+
+- **How it was collected**
+  - According to the [measurement and estimation](https://www.irena.org/publications/2018/Dec/Measurement-and-estimation-of-off-grid-solar-hydro-and-biogas-energy) file of IRENA:
+    - The data was collected from a mix of national databases, international organizations
+    (like GOGLA and SNV), and online sources such as project reports and news articles.
+    Where direct data was unavailable, IRENA used estimation methods (e.g.,
+    trade data, technical assumptions) and peer review to validate and fill gaps.
+
+- **Some Possible flaws are:**
+  - The dataset does not include _conflict status labels,_ so these must be added manually.
+  - Some entries contain _missing or zero values_, which may indicate either a lack of reported data or no deployment during that period.
+
+- **How can someone recreate it?**  
+Go to [IRENA- Renewable Capacity Statistics 2025](https://www.irena.org/Publications/2025/Mar/Renewable-capacity-statistics-2025) , select the latest Renewable Capacity Statistics report, choose format: Excel or CSV and download the full dataset
+
+- **<p>How it is related to our problem?<br>**
+Look at how **reliance on the main power grid (on-grid electricity) drops in conflict-affected countries.**  
+Since the electric grid often _gets damaged or becomes unreliable during conflict,_ we want to **track this decline and show how it affects energy access,** especially how people are forced to **shift** to off-grid solar or other backup sources.
+
+> From the _Country_, _Region_, and _Global_ sheets, we aim to analyze how **armed conflicts influence solar PV deployment over time**. Specifically, we want to **compare conflict-affected versus non-conflict countries** to detect differences in growth, and examine **on-grid versus off-grid trends** to see if _conflicts are driving shifts toward off-grid solutions_ when infrastructure is damaged. _Regional groupings_ will help us identify **clusters or trends tied to specific conflict zones**. Additionally, **increases in solar capacity** can act as a _proxy for cleaner energy adoption_ in place of diesel or coal. The _Region_ and _Global_ sheets will provide **context—allowing us to contrast local deployment patterns in conflict areas with broader global and continental trends**, and assess whether **renewables are prioritized** or if _instability leads to a fallback on non-renewables_.
