@@ -12,7 +12,7 @@ contains the actual data. The data sheet consists of 16 columns, namely:
 Region, UN sub-region, Country, IRENA label, ISO code, Flow, Group technology,
 Sub-technology, Technology, Product code, DataType, Value, Unit, Year, Ptype, Publication.
 - **How it was collected**
-  - According to the [measurement and estimation](https://www.irena.org/publications/2018/Dec/Measurement-and-estimation-of-off-grid-solar-hydro-and-biogas-energy) file of IRENA
+  - According to the [measurement and estimation](https://www.irena.org/publications/2018/Dec/Measurement-and-estimation-of-off-grid-solar-hydro-and-biogas-energy) file of IRENA:
     - The data was collected from a mix of national databases, international organizations
     (like GOGLA and SNV), and online sources such as project reports and news articles.
     Where direct data was unavailable, IRENA used estimation methods (e.g.,
@@ -34,3 +34,5 @@ Sub-technology, Technology, Product code, DataType, Value, Unit, Year, Ptype, Pu
 
   However, alone, it won’t be enough; we’ll need to introduce other
   resources to showcase conflicts regions, e.g (ACLED, UDCP)</p>
+
+---
