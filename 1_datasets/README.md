@@ -2,7 +2,6 @@
 # Datasets
 
 ## Off-grid Renewable Energy Statistics 2024
-
 - This dataset is from the International Renewable Energy Agency, which
 is an intergovernmental organization that promotes the adoption and
 sustainable use of renewable energy worldwide.
@@ -23,7 +22,7 @@ Sub-technology, Technology, Product code, DataType, Value, Unit, Year, Ptype, Pu
   - The dataset has different unit types in the Units column, depending
    on the technology utilized.
   - It has quite a lot of zero values, especially in our targeted countries.
-- <p>**How it is related to our problem?**<br>
+- **<p>How it is related to our problem?<br>**
     This dataset will be a huge asset to our research question, it’s like
     a baseline layer dataset, for example:
   - We can use the “value” column to get a sense of the deployment or
@@ -31,5 +30,6 @@ Sub-technology, Technology, Product code, DataType, Value, Unit, Year, Ptype, Pu
     comparison between conflict and non-conflicts countries.
   - Identify whether conflicts correlate to a slowdown, shift or
     an increase in solar pv utilization.<br>
-  However, this dataset alone won’t be enough; we’ll need to introduce other
+    
+  However, alone, it won’t be enough; we’ll need to introduce other
   resources to showcase conflicts regions, e.g (ACLED, UDCP)</p>
