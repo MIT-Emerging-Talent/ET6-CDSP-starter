@@ -1,8 +1,7 @@
 # 📚 Literature Review – Digital Mental Health Support
 
 This section provides a brief overview of key findings and gaps in
-the research on chatbot, human, and hybrid models in mental health apps,
-with special attention to cultural and emotional dimensions.
+the research on Public Failure Analysis on leading Mental Health chatbots
 
 ---
 

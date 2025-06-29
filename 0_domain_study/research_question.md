@@ -1,27 +1,56 @@
-# 🎯 Main Research Question
+# 🎯 Research Question & Objectives
 
-How effectively do publicly accessible, free mental health chatbots
-(e.g., Wysa, Replika—when used within their terms of service) respond
-to a limited set of pre-scripted, high-risk user inputs
-(such as self-harm, suicidal ideation, or abuse disclosures),
-as evaluated using a structured rubric based on mental health
-professional guidelines, considering technical feasibility,
-limited clinical expertise, and ethical constraints on data access?
+This document outlines the central inquiry and guiding objectives for "The Public
+Failure Analysis" project.
 
 ---
 
-## 🔍 Secondary Research Questions
+## Main Research Question
 
-1. What key components should a professional mental health support
-response include when addressing high-risk situations like suicidal ideation or abuse?
+Our project's primary research question has been refined to focus on analyzing
+real-world user feedback. The central inquiry that guides all our work is:
 
-2. How do different chatbots vary in their tone, response strategy,
-and escalation mechanisms when faced with the same high-risk input?
+**What are the most prevalent themes of user-reported conversational failure in
+leading mental health chatbots, and what do these themes reveal about the gap
+between user expectations for emotional support and current algorithmic capabilities?**
 
-3. To what extent can simple NLP-based techniques (e.g., sentiment or intent analysis)
-help detect response quality or red flags in chatbot replies,
-without relying on deep clinical expertise?
+---
 
-4. What ethical and technical considerations arise when evaluating
-chatbots with simulated high-risk messages, and how can they be addressed
-during testing and reporting?
+## General Objective
+
+To systematically analyze a large corpus of public user feedback
+(from app stores and forums) in order to build an evidence-based taxonomy
+of conversational failures in mental health chatbots.
+
+---
+
+## Specific Objectives
+
+To achieve our general objective and answer the main research question,
+we will pursue the following specific objectives:
+
+1. **To Collect a Representative Dataset:**
+    * Scrape thousands of user reviews for a curated set of three distinct
+    mental health apps (Wysa, Replika, Calm) from the Google Play Store.
+    * Scrape relevant user discussions from targeted subreddits to supplement
+    the app store data with qualitative context.
+
+2. **To Isolate a Corpus of "Failure" Narratives:**
+    * Filter the collected data to create a focused corpus of negative sentiment,
+    specifically by selecting reviews with 1-3 star ratings.
+    * Apply standard Natural Language Processing (NLP) preprocessing techniques
+    to clean and prepare the text data for analysis.
+
+3. **To Identify and Quantify Failure Themes:**
+    * Employ unsupervised topic modeling (Latent Dirichlet Allocation - LDA) to
+    automatically identify the recurring themes and topics within the failure narratives.
+    * Interpret the resulting topics and assign human-readable labels (e.g.,
+    "Repetitive Looping," "Generic Responses," "Pricing Issues").
+    * Quantify the prevalence of each identified failure theme across the dataset.
+
+4. **To Synthesize and Communicate Findings:**
+    * Compare the prevalence of conversational failure themes against
+    non-conversational themes (e.g., technical bugs, cost).
+    * Juxtapose quantitative findings (charts of topic prevalence) with powerful
+    qualitative examples (anonymous user quotes) to create a compelling final
+    report and presentation.
