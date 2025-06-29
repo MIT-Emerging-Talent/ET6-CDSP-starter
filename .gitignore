@@ -5,3 +5,6 @@ venv/
 *.db
 *.idea
 *.ruff_cache
+.env
+.venv_datacleaning/
+*.ipynb_checkpoints
