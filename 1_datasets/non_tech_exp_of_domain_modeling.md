@@ -1,7 +1,7 @@
-<!-- markdownlint-disable MD031 MD033 MD013 MD001 MD04 MD045-->
-# Non- Technical Explanation of Domain Modeling
+<!-- markdownlint-disable MD031 MD033 MD013 MD001 MD04 MD045 MD049 MD041-->
+## Non- Technical Explanation of Domain Modeling
 
-Our "Solar Energy in Conflict Zones" project began with **domain modeling**. This is essentially creating a simplified map of how **solar power** integrates into the complex realities of **conflict**. It helps us visualize the **key players** and **connections** within these challenging environments.
+Our _"Solar Energy in Conflict Zones"_ project began with **domain modeling**. This is essentially creating a simplified map of how **solar power** integrates into the complex realities of **conflict**. It helps us visualize the **key players** and **connections** within these challenging environments.
 
 We're looking at things like:
 <table>
@@ -11,7 +11,7 @@ We're looking at things like:
   </tr>
 </table>
 
-This model is our **plan** for understanding how **conflict**, **urgent needs**, and **solar solutions** work together. We're pointing out the **key issues** – like **destroyed power lines**, **families who've had to leave their homes**, and the **need to stay in touch** – and figuring out how **solar energy** becomes this crucial **"survival infrastructure."**
+This model is our **plan** for understanding how **conflict**, **urgent needs**, and **solar solutions** work together. We're pointing out the **key issues** – like **destroyed power lines**, **families who've had to leave their homes**, and the **need to stay in touch**; and figuring out how **solar energy** becomes this crucial **"survival infrastructure."**
 
 ---
 
