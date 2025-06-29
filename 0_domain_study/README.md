@@ -12,97 +12,97 @@ Check out  [our workflow](/0_domain_study/process/workflow.md)
 ## Problems Pool
 
 >This document compiles a range of problem statements and research questions generated through brainstorming sessions, focusing on education in challenging contexts—particularly war-affected\
-regions and the role of Artificial Intelligence (AI) and online learning platforms.
+The focus is on how **armed conflict affects education**, with particular attention to **student performance and attendance**, and how education systems can adapt under extreme circumstances.
 
 The problems are grouped into several thematic areas:
 
-1. **AI and Student Agency**:
-   * Concerns about students and educators becoming overly reliant on AI tools, which may reduce personal agency, motivation, and cognitive skill development such as critical thinking and creativity.
-2. **AI in Conflict Zones**:
-   * Investigations into how AI can support or hinder students in war-affected areas. Questions include whether AI tools can improve engagement, learning outcomes, or pose new challenges under extreme conditions.
-3. **Behavioral and Interaction Data**:
-   * Exploring how data from digital learning platforms can be used to understand and model the impact of stress (especially due to conflict) on students’ academic performance and engagement.
-4. **Online Learning in War Contexts**:
-   * Assessing the overall effectiveness of online learning as a substitute for traditional schooling during war, including identifying the conditions necessary for its success.
-5. **Platform-Specific Insights**:
-   * Analyzing user behavior data from platforms like Udemy, Coursera, and edX to assess student engagement and retention in conflict settings.
-   * Studying pricing strategies on online learning platforms that balance affordability for students in war-torn regions with economic sustainability.
+1. **Impact of War on Student Performance and Attendance**  
+   * Understanding how violence, displacement, and infrastructure breakdown lead to lower academic achievement and reduced school participation.
+
+2. **Education Infrastructure Breakdown**  
+   * Evaluating how school closures, internet instability, and forced migration disrupt students' ability to maintain consistent learning.
+
+3. **Learning Continuity in Conflict Zones**  
+   * Investigating how students manage to continue learning despite the absence of formal schooling and stable environments.
+
+4. **Data Use in Conflict Zones**  
+   * Exploring how educational data (e.g., attendance records, exam scores) can be used to assess and respond to the impact of conflict on learners.
   
 ## Systems Thinking
 
-* In this file we have applied the iceberg model on our problem statement to better view and understand the constraints and reasons behind the trends and patterns happening in the context of the problem.
+* We applied a **systems thinking** approach to examine the broader environment affecting students in conflict areas. By using the **Iceberg Model**, we visualized how surface-level issues—such as declining attendance or performance—are
+ driven by deeper systemic forces like trauma, displacement, loss of routine, and lack of infrastructure.
+
 * Check it out in [Systems Thinking](/0_domain_study/systems_tkinking.md)
 
 ## Five Ws and One H Framework
 
-* We have used this conceptual framework to better identify key stakeholders, time, and place and reasons behind the problem.
-* Check it out in [Systems Thinking](/0_domain_study/process/five_ws_and_one_h_framework.md)
+*To better understand the scope of our problem, we used the "Five Ws and One H" framework to define the **Who**, **What**, **Where**, **When**, **Why**, and **How** of our research focus.
+
+📄 View the full breakdown in [5Ws & 1H Document](/0_domain_study/process/five_ws_and_one_h_framework.md)
 
 ## 📚 Research Resources Overview
 
-This folder contains structured research materials collected by **DATA ALCHEMISTS** for the MIT Computer and Data Science Certificate Project (2024–2025). The subfolders within the `resources/` directory are organized based on our key
- research domains and include curated content such as PDFs, website links, and reference materials.
+ This folder contains all curated research materials used by **DATA ALCHEMISTS** in the 2024–2025 MIT Computer and Data Science Certificate Project. The `resources/` directory is organized by topic and includes academic papers, reports, website
+  links, and case studies
 
 ---
 
-### 📂 1. AI in Education
+### 📂 1. War and Academic Performance
 
 **Focus**:  
-Explores how Artificial Intelligence can help motivate students in war-affected areas and enhance their academic performance through intelligent tutoring systems, offline learning agents, and adaptive learning platforms.
+Analyzes how war-induced trauma, displacement, and infrastructure breakdown affect students' test scores, classroom participation, and ability to concentrate or retain information.
 
-**Included Resources**:
+**Resources Include**:
 
-* Research papers in PDF format on AI educational interventions
-* Website links to platforms using AI in low-resource settings
-* Articles on trauma-aware chatbots and AI motivation tools
-* All organized and sturcutred links in [one place](/0_domain_study/resources/AI%20in%20Education/links.md)
+* Reports from UNESCO and Save the Children on performance decline in conflict zones  
+* PDF case studies showing pre- and post-conflict grade comparisons  
+* Links to education data in Syria, South Sudan, Ukraine, and Gaza  
+📄 All structured links in [this file](/0_domain_study/resources/Performance%20in%20Conflict/links.md)
 
 ---
 
-### 📂 2. Education in Conflict
+### 📂 2. Attendance and Dropout Trends
 
 **Focus**:  
-Analyzes the overall state of education in conflict-affected areas, covering how war
- impacts educational access, infrastructure, student outcomes, and teacher availability.
+Tracks how conflict impacts student attendance, school dropout rates, and school closures—especially in relation to displacement or infrastructure destruction.
 
-**Included Resources**:
+**Resources Include**:
 
-* Case studies and situation reports from UNESCO, ReliefWeb
-* PDFs outlining challenges and solutions in Syria, Ukraine, Gaza
-* Links to global education in emergency databases
-* All organized and sturcutred links in [one place](/0_domain_study/resources/Education%20in%20Conflict/links.md)
+* Attendance datasets and longitudinal reports  
+* UNHCR and UNICEF data on refugee education access  
+* Articles on school retention strategies in conflict areas  
+📄 See [Attendance Resources](/0_domain_study/resources/Attendance%20in%20Conflict/links.md)
 
 ---
 
-### 📂 3. Online Learning Barriers
+### 📂 3. Learning Continuity and Educational Access
 
 **Focus**:  
-Examines the role of online learning in enhancing education in war-affected zones and
- identifies the barriers such as internet connectivity, device availability, and digital literacy.
+Explores strategies that have been implemented to ensure learning continues during conflict, especially when students lose access to formal schooling or teaching staff.
 
-**Included Resources**:
+**Resources Include**:
 
-* PDFs on low-bandwidth LMS systems
-* Links to EdTech tools like Kolibri and Learning Equality
-* Articles on blended and asynchronous learning in emergencies
-* All organized and sturcutred links in [one place](/0_domain_study/resources/Online%20Learning%20Barriers/links.md)
+* Reports on low-tech and offline learning methods  
+* PDFs on blended learning and alternative delivery models  
+* Articles on education through radio, print packets, or mobile learning initiatives  
+📄 Organized in [this file](/0_domain_study/resources/Learning%20Continuity/links.md)
 
 ---
 
-### 📂 4. Stakeholders / Private or Non Organizations
+### 📂 4. Stakeholders / Private or Non Profit Organizations
 
 **Focus**:  
-Identifies key stakeholders including NGOs, EdTech companies, and humanitarian
- organizations—that support education initiatives in conflict zones.
+Identifies humanitarian organizations, NGOs, educational ministries, and community-based programs that support conflict-zone education and help maintain educational continuity.
 
-**Included Resources**:
+**Resources Include**:
 
-* Reports from Save the Children, UNICEF, and UNHCR
-* PDFs outlining stakeholder education strategies
-* Case studies on EdTech partnerships in war-affected areas
-* All organized and sturcutred links in [one place](/0_domain_study/resources/Stakeholders%20or%20private%20organizations/links.md)
+* Strategy reports from UNICEF, UNHCR, and Save the Children  
+* Case studies of NGO-school partnerships in emergencies  
+* Databases of global education projects in crisis zones  
+📄 See [Stakeholders Directory](/0_domain_study/resources/Stakeholders/links.md)
 
 ---
 
-Each subfolder is actively maintained by our group, and references are selected
- based on credibility, relevance, and potential to inform our final research outcomes.
+All resources are regularly reviewed by our team and chosen based on relevance, credibility, and contribution to our final analysis.
+"""

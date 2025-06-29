@@ -61,7 +61,6 @@ Here we explore the often invisible attitudes, values, and worldviews that keep 
 * “Online learning is inherently ineffective without stability.”
 * “Mental health is secondary to academic performance.”
 * Belief that war-affected students are beyond the reach of innovation.
-* AI is seen as a luxury rather than a necessity in humanitarian education.
 
 ---
 
