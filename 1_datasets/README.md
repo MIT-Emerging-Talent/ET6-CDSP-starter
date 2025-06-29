@@ -12,7 +12,7 @@ Our data comes from the following sources:
 2. **[On-grid Renewable Energy Statistics 2024](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/1_datasets/raw_data/IRENA_Stats_extract_2025_H1_raw.xlsx)**
 3. **[UN Comtrade data](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/1_datasets/raw_data/UN_Comtrade_imports_dataset_raw.xlsx)**
   
-Additionally, we have **`non-technical explaination of Domain Modeling** folder
+Additionally, we have **`non-technical explaination of Domain Modeling`** folder
 
 ---
 
