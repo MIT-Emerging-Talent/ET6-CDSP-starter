@@ -1,7 +1,7 @@
 <!-- markdownlint-disable MD013 MD033 MD032 MD049-->
 # Datasets
 
-we have a **`datasets_raw`** folder that contains the original raw files used in preprocessing.  
+we have a **`raw_data`** folder that contains the original raw datasets used in preprocessing.  
 Our data comes from the following sources:
 
 - **IRENA Renewable Energy Statistics** – Published by the *International Renewable Energy Agency (IRENA)*, this dataset provides annual data on renewable energy capacity and generation, including both on-grid and off-grid solar PV deployment across countries and regions.
