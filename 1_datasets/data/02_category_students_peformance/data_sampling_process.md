@@ -32,24 +32,101 @@ Before sampling, define the exact purpose. Examples might be:
 
 From Moodle logs and university structure,  sampling should reflect diversity in:
 
-* **College** (Medicine, Engineering, IT, others)
-* **Department/Specialization** (e.g., Software Engineering, Civil Engineering, etc.)
-* **Level of Study** (Undergrad, Postgrad)
-* **Year of Study** (1st year, final year, etc.)
-* **Gender** (Male, Female)
-* **Online Course Participation**
-* **Course Load**
-* **Time of Access** (day/night, weekend)
+#### **College**
+
+* Reflects broad academic divisions within the university.
+* Focus on the most active in online learning:
+
+  * *Medicine*: Clinical courses, patient simulation platforms.
+  * *Engineering*: Heavy use of course materials, design software resources.
+  * *Information Technology*: Strong Moodle usage for coding tasks, virtual labs.
+* Include other colleges (e.g., Education, Sharia, Commerce) to maintain university-wide representation.
 
 ---
 
-### 🌐 **Step 3: List of Specializations**
+#### **Department / Specialization**
+
+* Capture differences in online engagement between departments.
+
+  * E.g., *Software Engineering* students may access Moodle differently from *Civil Engineering* or *Electrical Engineering* students due to varying content types and tools used.
+* Important for identifying discipline-specific learning patterns.
+
+---
+
+#### **Level of Study**
+
+* **Undergraduate** students may rely more on structured learning, while
+* **Postgraduate** students may use Moodle for research supervision, seminars, or journal submissions.
+
+---
+
+#### **Year of Study**
+
+* First-year students may be less familiar with Moodle.
+* Final-year students often engage in project-based learning and thesis work, which alters usage behavior.
+* Mid-program students might reflect more consistent usage habits.
+
+---
+
+#### **Gender**
+
+* Include male and female students to ensure gender balance.
+* Useful for analyzing digital equity and differences in engagement trends.
+
+---
+
+#### 💻 **Online Course Participation**
+
+* Students may be:
+
+  * Fully enrolled in online/hybrid courses,
+  * Taking only one or two online-enabled courses, or
+  * Not enrolled in any online courses (to serve as a control group).
+* This variable helps segment users by their exposure to Moodle.
+
+---
+
+#### 📊 **Course Load** *(Detailed Explanation)*
+
+* **Definition**: Number of academic courses or credit hours a student is registered for in a semester.
+* **Data Source**: Moodle course enrollments, university SIS, or learning analytics export.
+* **Why It Matters**:
+
+  * Heavy course load often correlates with higher engagement (e.g., more logins, assignment submissions).
+  * It may also increase student stress or lead to disengagement if not supported properly.
+* **Use in Sampling**:
+
+  * Group students into:
+
+    * *Low load* (1–2 courses)
+    * *Medium load* (3–4 courses)
+    * *High load* (5+ courses)
+  * Ensure all groups are proportionally represented in your sample.
+* **Examples**:
+
+  * A 2nd-year IT student taking 6 courses likely behaves very differently from a 1st-year Education student taking 2.
+
+---
+
+#### 🕒 **Time of Access**
+
+* Capture when students are active on Moodle:
+
+  * *Time of day*: Daytime vs. evening usage.
+  * *Day of week*: Weekdays vs. weekends.
+* Helps identify time-based engagement trends.
+
+---
+
+---
+
+### **Step 3: List of Specializations**
 
 #### 📘 **Medicine (Clinical Medicine only)** [Medicince College](https://medicine.iugaza.edu.ps/)
 
 1. Medicine
 
-#### 🛠 **Engineering** [Engineering College](https://eng.iugaza.edu.ps/)
+#### **Engineering** [Engineering College](https://eng.iugaza.edu.ps/)
 
 1. Civil Engineering
 2. Electrical Engineering
@@ -60,7 +137,7 @@ From Moodle logs and university structure,  sampling should reflect diversity in
 7. Environmental Engineering
 8. Renewable Energy Engineering
 
-#### 💻 **Information Technology** [IT College](https://fit.iugaza.edu.ps/)
+#### **Information Technology** [IT College](https://fit.iugaza.edu.ps/)
 
 1. Computer Science
 2. Information Technology
@@ -70,7 +147,7 @@ From Moodle logs and university structure,  sampling should reflect diversity in
 
 ---
 
-### 📊 **Step 4: Choose a Sampling Strategy**
+### **Step 4: Choose a Sampling Strategy**
 
 #### **Stratified Sampling**
 
@@ -93,7 +170,7 @@ Use Moodle logs to define what "engaged" means (e.g., more than 10 logins/week o
 
 ---
 
-### 📥 **Step 5: Data to Extract from Moodle Logs**
+### **Step 5: Data to Extract from Moodle Logs**
 
 * `user_id`
 * `timestamp`
@@ -107,7 +184,7 @@ Use Moodle logs to define what "engaged" means (e.g., more than 10 logins/week o
 
 ---
 
-### 🧪 **Step 6: Sample Size Determination**
+### **Step 6: Sample Size Determination**
 
 Use statistical tools to compute needed sample size with 95% confidence and 5% margin of error (adjustable).
 
@@ -116,7 +193,7 @@ Use statistical tools to compute needed sample size with 95% confidence and 5% m
 
 ---
 
-### ⚖️ **Step 7: Balance and Bias Checks**
+### **Step 7: Balance and Bias Checks**
 
 * Compare sampled group against total population on key features (gender, college, engagement).
 * Use **Chi-square tests** to test representativeness.
