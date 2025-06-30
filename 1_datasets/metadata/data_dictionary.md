@@ -42,3 +42,7 @@
 ### 1.5. ACLED's Palestine-Israel Conflict Data
 
 [Data Dictionary](/1_datasets/data/01_category_war_events_data/gaza_war_events/palestine_israel_conflict/data_dict.md)
+
+### 1.6. PalestineDatasets' Infrastucture Damage Data
+
+[Data Dictionary](/1_datasets/data/01_category_war_events_data/gaza_war_events/infrastructure-damaged/data_dict.md)

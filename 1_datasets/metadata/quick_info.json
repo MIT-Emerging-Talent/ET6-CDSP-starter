@@ -74,6 +74,21 @@
         "war events",
         "Gaza"
       ]
+    },
+    {
+      "id": "infrastructure_damaged",
+      "title": "Infrastructure Damaged",
+      "source": "Palestine Datasets",
+      "description": "Open source initiative of the Tech For Palestine collective to collect data about Gaza war events.",
+      "format": "JSON",
+      "link": "https://data.techforpalestine.org/docs/infrastructure-damaged/",
+      "license": "Public Domain",
+      "update_frequency": "Daily",
+      "tags": [
+        "Palestine Datasets",
+        "infrastructure",
+        "Gaza"
+      ]
     }
   ]
 }
