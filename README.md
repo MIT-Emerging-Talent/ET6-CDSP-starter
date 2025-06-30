@@ -89,14 +89,18 @@ folder.
 
 For a full list and details, visit: [`/1_datasets/`](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-15-repo/tree/main/1_datasets)
 
-Each dataset was preprocessed in the [`/2_data_preparation/`](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-15-repo/tree/main/2_data_preparation) folder with steps including:
+Each dataset was preprocessed in the
+[`/2_data_preparation/`](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-15-repo/tree/main/2_data_preparation)
+folder with steps including:
 
 - Cleaning missing and anomalous values  
 - Standardizing time formats  
 - Renaming columns for clarity  
 - Merging and aggregating loan segments  
 
-> **Note**: Some datasets such as *FRBNY SCE* were used more for contextual understanding and trend visualization, and not for predictive modeling due to aggregated structure.
+> **Note**: Some datasets such as *FRBNY SCE* were used more for contextual
+>  understanding and trend visualization, and not for predictive modeling
+>  due to aggregated structure.
 
 ## 👥 Meet the Team
 
