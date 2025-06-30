@@ -45,4 +45,4 @@
 
 ### 1.6. PalestineDatasets' Infrastucture Damage Data
 
-[Data Dictionary](/1_datasets/data/01_category_war_events_data/gaza_war_events/infrastructure-damaged/data_dict.md)
+[Data Dictionary](/1_datasets/data/01_category_war_events_data/gaza_war_events/infrastructure_damaged/data_dict.md)
