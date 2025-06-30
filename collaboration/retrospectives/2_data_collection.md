@@ -1,6 +1,9 @@
 # 🔄 Retrospective
 
-This document reflects on our team’s experience during **Milestone 1_datasets (Data Collection)** of CDSP. It outlines what we should stop, continue, and start doing, lessons learned, and a comparison between our planned strategy and actual execution.
+This document reflects on our team’s experience
+during **Milestone 1_datasets (Data Collection)** of CDSP.
+It outlines what we should stop, continue, and start doing, lessons learned,
+and a comparison between our planned strategy and actual execution.
 
 ---
 
@@ -26,7 +29,8 @@ This document reflects on our team’s experience during **Milestone 1_datasets 
 ## 🆕 Start Doing
 
 - Assigning reviewers at the beginning of each task  
-- Taking ownership and actively supporting teammates with research or technical challenges  
+- Taking ownership and actively supporting teammates
+with research or technical challenges  
 - Distributing data analysis responsibilities more evenly  
 
 ---
@@ -42,4 +46,5 @@ This document reflects on our team’s experience during **Milestone 1_datasets 
 
 ### ❌ What didn’t go as planned?
 
-- We innitially approached data collection by focussing on a solution and not the problem, which affected direction and focus  
+- We innitially approached data collection by focussing on a solution
+  and not the problem, which affected direction and focus  
