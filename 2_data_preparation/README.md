@@ -50,7 +50,7 @@ This script processes the **on-grid electricity data** from the IRENA dataset.
    - **Inspect**: prints `.shape`, `.info()`, `.isna().sum()`,
     duplicate counts, and random samples to verify cleaning.
 
-  **Output dataset**  
+3. **Output dataset**  
 
 - **Cleaned data** written to Excel at:  
 
