@@ -14,8 +14,7 @@ of accounts traditionally used to generate credit scores.
 
 ### 📊 Racial Disparity
 
-- **27%** of Black consumers and **26%** of Hispanic consumers are either
-- credit invisible or unscorable.
+- **27%** of Black consumers and **26%** of Hispanic consumers are either credit invisible or unscorable.
 - Only **16%** of white consumers fall into the same category.
 
 ---
@@ -26,6 +25,14 @@ of accounts traditionally used to generate credit scores.
 - Compared to:
   - **26%** of citizens from other EU Member States.
   - **20%** of national citizens.
+
+### 📷 Related Visuals
+
+![Poverty Risk Chart 1](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-12-repo/blob/stats_articles/notes/notes/images/Picture1.jpg?raw=true)
+
+![Poverty Risk Chart 2](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-12-repo/blob/stats_articles/notes/notes/images/Picture2.png?raw=true)
+
+![Poverty Risk Chart 3](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-12-repo/blob/stats_articles/notes/notes/images/Picture3.png?raw=true)
 
 ---
 
@@ -41,6 +48,8 @@ of accounts traditionally used to generate credit scores.
 - **India** expected to see the highest CAGR through 2030.
 - **Outward Digital Remittance**: USD **15.87 billion** in 2024.
 - **Inward Remittance**: Fastest-growing segment.
+
+![Digital Remittance Chart](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-12-repo/blob/stats_articles/notes/notes/images/Picture4.png?raw=true)
 
 ---
 
@@ -60,15 +69,15 @@ of accounts traditionally used to generate credit scores.
 
 ## 🌍 Regional Adoption of Crypto Remittances
 
-| Region         | Adoption Rate | Year | Key Countries        | Notes    |
-|----------------|----------------|------|----------------------|-------------------------------------------|
-| Global         | 23%            | 2024 | Various              | 7% increase from 2022|
-| Asia-Pacific   | 30%            | 2024 | India, Vietnam       | Highest usage in APAC                     |
-| Latin America  | +12%           | 2023 | Mexico, Brazil       | Rapid adoption                            |
-| Africa         | 50% of users   | 2024 | Nigeria, Kenya       | Bypasses banking restrictions             |
-| Central Asia   | 20% adoption   | 2023 | Kazakhstan, Uzbekistan | High inbound crypto transfers             |
-| India          | 15% remittance | 2024 | India                | World's largest remittance recipient      |
-| North America  | 8% market share| 2024 | US, Canada           | Major outbound source                     |
+| Region         | Adoption Rate | Year | Key Countries        | Notes                                      |
+|----------------|----------------|------|----------------------|--------------------------------------------|
+| Global         | 23%            | 2024 | Various              | 7% increase from 2022                      |
+| Asia-Pacific   | 30%            | 2024 | India, Vietnam       | Highest usage in APAC                      |
+| Latin America  | +12%           | 2023 | Mexico, Brazil       | Rapid adoption                             |
+| Africa         | 50% of users   | 2024 | Nigeria, Kenya       | Bypasses banking restrictions              |
+| Central Asia   | 20% adoption   | 2023 | Kazakhstan, Uzbekistan | High inbound crypto transfers            |
+| India          | 15% remittance | 2024 | India                | World's largest remittance recipient       |
+| North America  | 8% market share| 2024 | US, Canada           | Major outbound source                      |
 
 ---
 
