@@ -1,9 +1,5 @@
 
-# 📦 Supply Chain Dataset Documentation
-
-We have worked with this data and discovered that certain key fields —  
-
----
+# Supply Chain Dataset Reference
 
 ## 📌 Dataset Source
 
