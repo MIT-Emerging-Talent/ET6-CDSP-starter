@@ -1,6 +1,6 @@
 # Datasets
 
-## Dataset: Logistics and Supply Chain Dataset
+## Logistics and Supply Chain Dataset
 
 ### Source
 
@@ -28,10 +28,10 @@ Features include:
 - **Traffic Congestion Level**: Traffic intensity on the route (scale 0–10).  
 - **Warehouse Inventory Level**: Number of units currently stored in the warehouse.
 - **Loading/Unloading Time**: Time taken to load or unload cargo (hours).  
-- **Handling Equipment Availability**: Availability of equipment like  
-  forklifts (0 = no, 1 = yes).  
-- **Order Fulfillment Status**: Indicates if an order was fulfilled on time  
-  (0 = no, 1 = yes).
+- **Handling Equipment Availability**: Availability of equipment like
+forklifts (0 = no, 1 = yes).  
+- **Order Fulfillment Status**: Indicates if an order was fulfilled on time
+(0 = no, 1 = yes).
 - **Weather Condition Severity**: Severity of weather impacting operations (0–1 scale).
 - **Port Congestion Level**: Level of congestion at the shipping port (0–10 scale).
 - **Shipping Costs**: Cost of shipping in US dollars.  
@@ -40,7 +40,7 @@ Features include:
 - **Historical Demand**: Past demand volume for logistics services (units).  
 - **IoT Temperature**: Temperature measured by IoT sensors (°C).  
 - **Cargo Condition Status**: Indicates the cargo’s condition as detected by  
-  IoT monitoring (0 = poor, 1 = good).
+IoT monitoring (0 = poor, 1 = good).
 - **Route Risk Level**: Risk score for the logistics route (0–10 scale).  
 - **Customs Clearance Time**: Time required for customs processing (hours).  
 - **Driver Behavior Score**: Driver’s driving pattern rating (0–1 scale).  
