@@ -113,7 +113,7 @@ outputs cleaned versions for use in our modeling and exploration work.
 - `afdr_cleaned.csv` - Traditional loan volume data
 - `BNPL_cleaned.csv` - BNPL user profiles and behavior
 - `FRBNY_SCE_Credit_Access_cleaned.csv` - Credit access survey data
-- `FRBNY_SCE_Credit_Access_complete_columns.csv` - Complete cases subset
+- `FRBNY_SCE_Credit_Access_complete_columns.csv` - Complete cases subsets
 
 ### Reference Datasets (for exploration)
 
