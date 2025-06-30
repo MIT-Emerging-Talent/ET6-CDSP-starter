@@ -11,8 +11,8 @@ Our data comes from the following sources:
 1. **[Off-grid Renewable Energy Statistics 2024](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/1_datasets/raw_data/IRENA_OFGStats.raw.xlsx)**
 2. **[On-grid Renewable Energy Statistics 2024](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/1_datasets/raw_data/IRENA_Stats_extract_2025_H1_raw.xlsx)**
 3. **[UN Comtrade data](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/1_datasets/raw_data/UN_Comtrade_imports_dataset_raw.xlsx)**
-  
-Additionally, we have **`non-technical explaination of domain m"odeling.md`** file
+
+Additionally, we have **`non-technical explaination of domain modeling.md`** file
 
 ---
 
@@ -21,7 +21,7 @@ Additionally, we have **`non-technical explaination of domain m"odeling.md`** fi
 - This dataset is from the International Renewable Energy Agency, which
 is an intergovernmental organization that promotes the adoption and
 sustainable use of renewable energy worldwide.
-- It’s a quantitative dataset. The file consists of two sheets:
+- The file consists of two sheets:
 the first one is an ‘about’ file, and the other is the ‘data’ sheet that
 contains the actual data. The data sheet consists of 16 columns, namely:
 Region, UN sub-region, Country, IRENA label, ISO code, Flow, Group technology,
