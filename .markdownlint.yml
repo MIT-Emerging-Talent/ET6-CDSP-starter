@@ -1,7 +1,4 @@
-MD013:
-  line_length: 80
-  ignore_tables: true
-  
 ignore:
   - venv
   - .github
+MD013: false
