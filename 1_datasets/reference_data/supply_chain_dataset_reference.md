@@ -1,8 +1,6 @@
 
 # 📦 Supply Chain Dataset Documentation
 
-We have worked with this data and discovered that certain key fields —  
-such as the customer city and shipment destination — were unclear or missing.  
 Due to this uncertainty, we may not use this dataset in our final analysis,  
 but we have decided to keep it for reference and potential future use.
 
@@ -115,7 +113,7 @@ df = df.drop(columns=[
     'supplier_reliability_score',
     'historical_demand',
     'cargo_condition_status',
-    'disruption_likelihood_score'
+    'disruption_likelihood_score',
     'risk_classification',
     'product_id',
     'supplier_id',
