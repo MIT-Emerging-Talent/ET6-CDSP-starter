@@ -31,17 +31,47 @@
       ]
     },
     {
-      "id": "gazamaps_displacement_api",
+      "id": "gazamaps_displacement",
       "title": "Displacement API",
-      "source": "GazaMaps",
+      "source": "Databases for Palestine",
       "description": "Real-time API providing updates on displacement in Gaza.",
-      "format": "API",
+      "format": "JSON",
       "link": "https://gazamaps.com/api/v1/displacement",
       "license": "Unknown",
       "update_frequency": "Real-time",
       "tags": [
         "API",
         "displacement",
+        "Gaza"
+      ]
+    },
+    {
+      "id": "casualties_daily",
+      "title": "Casualties Daily",
+      "source": "Palestine Datasets",
+      "description": "Open source initiative of the Tech For Palestine collective to collect data about Gaza war events.",
+      "format": "CSV",
+      "link": "https://data.techforpalestine.org/docs/casualties-daily/",
+      "license": "Public Domain",
+      "update_frequency": "Daily",
+      "tags": [
+        "Palestine Datasets",
+        "casualties",
+        "Gaza"
+      ]
+    },
+    {
+      "id": "palestine_israel_conflict",
+      "title": "Palestine Israel Conflict Event Data",
+      "source": "ACLED (Armed Conflict Location and Event Data)",
+      "description": "Event-level conflict data related to the Palestine war.",
+      "format": "CSV",
+      "link": "https://acleddata.com/gaza-monitor/#Israel_Palestine_Jun20",
+      "license": "Public Domain",
+      "update_frequency": "Unknown",
+      "tags": [
+        "ACLED",
+        "war events",
         "Gaza"
       ]
     }
