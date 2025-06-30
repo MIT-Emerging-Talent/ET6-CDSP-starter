@@ -64,14 +64,16 @@ Team members should **add their dataset summaries here** as they contribute.
 
 ---
 
-### 3. [Placeholder for Contributor]
+### 3. Google Trends Crypto Interest (Anas)
 
-- **Description:** Add a short description of your dataset.
-- **Source:** Where you got it from.
+- **Description:** Google Trends relative search interest for crypto topics
+ including Bitcoin, Cryptocurrency, Markets, and NFTs in Lebanon, Sudan, Nigeria,
+  and Afghanistan (2019–2024).  
+- **Source:** Google Trends
 - **Data Source Notes:**  
-  Link to your Markdown documentation.
+  [active_wallet_counts](data_source_notes/active_wallet_count_notes.md)
 - **Raw Dataset:**  
-  Link to your data file.
+  [active_wallet_counts](raw_datasets/google_trends_crypto_combined_2019_2024.csv)
 
 ---
 
