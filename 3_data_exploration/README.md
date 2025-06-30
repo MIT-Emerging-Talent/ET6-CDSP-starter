@@ -37,5 +37,6 @@ Yes, we require additional data on conflict events such as their dates,
 intensity, and duration to provide a more complete analysis.
 
 - Do you have the right question?
+  
 The research question is well-formulated, but to address it thoroughly, we need
  to collect additional data.
