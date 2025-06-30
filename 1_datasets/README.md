@@ -39,7 +39,7 @@ forklifts (0 = no, 1 = yes).
 - **Lead Time (days)**: Average supplier delivery time.  
 - **Historical Demand**: Past demand volume for logistics services (units).  
 - **IoT Temperature**: Temperature measured by IoT sensors (°C).  
-- **Cargo Condition Status**: Indicates the cargo’s condition as detected by  
+- **Cargo Condition Status**: Indicates the cargo’s condition as detected by
 IoT monitoring (0 = poor, 1 = good).
 - **Route Risk Level**: Risk score for the logistics route (0–10 scale).  
 - **Customs Clearance Time**: Time required for customs processing (hours).  
