@@ -23,6 +23,8 @@ This script processes the **on-grid electricity data** from the IRENA dataset.
   - **Sheet**: `Cleaned_OnGrid_Data`
   - **Path**: `1_datasets/cleaned_data/`
 
+---
+
 ## UN Comtrade data preparation script
 
 1. **Input dataset**  
@@ -57,3 +59,24 @@ This script processes the **on-grid electricity data** from the IRENA dataset.
 `../1_datasets/cleaned_data/UN_comtrade_clean_dataset.xlsx`
 
 - No other files are created or saved under `/1_datasets`.
+
+---
+
+### Off-Grid data preparation script
+
+1. **Input dataset**
+    - **File**: ["IRENA_OFGStats.raw"](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/1_datasets/raw_data/IRENA_OFGStats.raw.xlsx)
+    - **Sheet**: `data`
+    - **Path**: `1_datasets/raw_data/`
+
+2. **Process**
+
+    - Dropped irrelevant columns
+    - Inspected the data to the its shape and whether it has null values or not
+    - Filled the null values
+
+3. **Output datasets**
+
+- **File**: `IRENA_OFGStats.cleaned.xlsx`
+  - **Sheet**: `Cleaned_Data`
+  - **Path**: `1_datasets/cleaned_data/`
