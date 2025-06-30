@@ -1,13 +1,21 @@
 
-# Supply Chain Dataset Reference
+# 📦 Supply Chain Dataset Documentation
+
+We have worked with this data and discovered that certain key fields —  
+such as the customer city and shipment destination — were unclear or missing.  
+Due to this uncertainty, we may not use this dataset in our final analysis,  
+but we have decided to keep it for reference and potential future use.
+
+---
 
 ## 📌 Dataset Source
 
-- **Origin**: [Kaggle - Supply Chain Dataset]  
-[https://www.kaggle.com/datasets/natasha0786/supply-chain-dataset](https://www.kaggle.com/datasets/natasha0786/supply-chain-dataset)  
+- **Origin**: [Kaggle - Supply Chain Dataset][kaggle]  
 - **Curator**: Natasha0786 (Kaggle contributor)  
 - **Type**: Synthetic dataset modeling global supply chain operations  
 - **Format**: CSV file containing structured tabular data  
+  
+[kaggle]: https://www.kaggle.com/datasets/natasha0786/supply-chain-dataset
 
 ---
 
