@@ -69,3 +69,31 @@ scripts.
 help break down tasks so everyone can contribute meaningfully.
 - I’ll keep sharing any blockers or ideas early, and help review each part of the
 work to maintain clean, well-organized outputs.
+
+---
+
+## **Zizi**
+
+### **Individual Retrospective – Milestone 2: Data Collection**
+
+Aziz Azizi
+Date: June 30, 2025
+
+🔹 What Went Well (For Me Personally)
+
+- Skill Growth: I improved my understanding of web scraping and worked hands-on
+with tools like BeautifulSoup or Selenium which was new for me.
+
+- Ownership: I took ownership of Replica and was able to
+gather clean, well-structured data for the team to use **but my teammate did my
+part without discussing it with me.**
+
+- What Could Have Gone Better
+  - Time Management: I underestimated how long some of the manual steps (e.g.,
+  login-based scraping or data cleaning) would take, which delayed my deliverables
+  slightly.
+
+  - Task Clarity: A task I had already taken ownership of was later completed by
+  someone else without team discussion. This led to some redundancy and
+  frustration, and it highlighted the need for better respect for assigned
+  responsibilities and clearer communication within the team.
