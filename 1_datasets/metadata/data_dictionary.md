@@ -21,14 +21,24 @@
 
 ---
 
-## 1. ACLED  Gaza war events data
+## 1.  War Events Data
 
-[Data Dictionary](/1_datasets/data/gaza_war_events/data_dict.md)
+### 1.1. ACLED  Gaza war events data
 
-## 2. OCHA IDMC Data
+[Data Dictionary](/1_datasets/data/01_category_war_events_data/gaza_war_events/data_dict.md)
 
-[Data Dictionary](/1_datasets/data/gaza_diplacement_orders/data_dict.md)
+### 1.2. OCHA IDMC Data
 
-## 3. GazaMaps's Displacmenet Orders Data
+[Data Dictionary](/1_datasets/data/01_category_war_events_data/gaza_diplacement_orders/data_dict.md)
 
-[Data Dictionary](/1_datasets/data/gaza_displacement_orders_gazamaps/data_dictionary.md)
+### 1.3. GazaMaps's Displacmenet Orders Data
+
+[Data Dictionary](/1_datasets/data/01_category_war_events_data/gaza_displacement_orders_gazamaps/data_dictionary.md)
+
+### 1.4. PalestineDatasets' casualites Daily Data
+
+[Data Dictionary](/1_datasets/data/01_category_war_events_data/gaza_war_events/casualties_daily/data_dict.md)
+
+### 1.5. ACLED's Palestine-Israel Conflict Data
+
+[Data Dictionary](/1_datasets/data/01_category_war_events_data/gaza_war_events/palestine_israel_conflict/data_dict.md)
