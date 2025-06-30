@@ -10,16 +10,18 @@
 
 ## 📊 About Our Project
 
-Welcome to **DataCents** - where we decode financial patterns to predict and prevent
-over-indebtedness in the BNPL era! 🎯
+Welcome to **DataCents** - where we decode financial patterns to understand default
+risks in the BNPL and traditional lending systems. 🌟🎯
 
 ## 🔍 What is DataCents?
 
-> **DataCents** is a team of data scientists focused on understanding and predicting
-> financial risk in the Buy Now, Pay Later (BNPL) landscape. We're developing machine
-> learning models to identify early warning signals of over-indebtedness among
-> Gen Z users, helping to create a safer financial ecosystem for young
-> consumers. 💡🌍
+> **DataCents** DataCents is a collaborative data science project investigating
+> how demographic and behavioral features influence the risk of default in Buy Now,
+> Pay Later (BNPL) services and traditional loans.
+>
+> We are analyzing multiple datasets to answer the core question: "How do
+> demographic and financial behavior features influence the likelihood of
+> default across traditional loans and Buy Now, Pay Later (BNPL) services?" 📈🤔
 
 ### 🎯 Our Mission
 
@@ -27,10 +29,12 @@ over-indebtedness in the BNPL era! 🎯
 
 We're on a mission to:
 
-- Predict over-indebtedness risk among Gen Z BNPL users
-- Identify key behavioral and transactional patterns that signal financial stress
-- Develop early warning systems for financial risk assessment
-- Create tools that help young consumers make informed financial decisions
+- Understand key indicators of default across both BNPL and traditional credit ecosystems
+
+- Identify behavioral and demographic factors that shape financial risk
+
+- Build insights that can help inform better policy, financial education, and
+  early interventions for Gen Z consumers
 
 ## 🧠 Problem statement
 
@@ -40,12 +44,63 @@ systems can effectively track, leading to unexpected financial
 stress and over-indebtedness among young adults who believe
 they are managing their finances responsibly.
 
+Traditional loans, while more regulated, are also susceptible to default due to
+poor credit behavior, lack of transparency, or poor access to financial literacy.
+Understanding the interplay between both mechanisms is crucial.
+
 ### Research Question
 
-How accurately can a machine learning model, using behavioral
-and transactional data, predict over-indebtedness risk among
-Gen Z Buy Now, Pay Later (BNPL) users within a 6-month horizon,
-and which features provide the most reliable early-warning signals?
+How do demographic and financial behavior features influence the likelihood
+of default across traditional loans and Buy Now, Pay Later (BNPL) services?
+
+### 🔍 Modeling the Research Question
+
+To model this research question, we collected, cleaned, and integrated diverse data
+sources that include demographic characteristics, credit behavior, and loan
+attributes. Our modeling process involves:
+
+- **Data Integration**: Combining relevant public and survey datasets that cover
+  both BNPL and traditional credit usage.
+- **Feature Engineering**: Creating variables that capture behavioral indicators
+  such as frequency of borrowing, loan size distribution, income-to-debt ratios,
+  and time to repayment.
+- **Exploratory Analysis**: Understanding statistical trends and correlation patterns
+  to inform feature selection.
+- **Modeling Techniques**: Using classification algorithms (*Logistic Regression,
+  Random Forest, XGBoost*) to predict likelihood of default.
+- **Interpretability Tools**: Using SHAP values and feature importance analysis to
+  explain model behavior.
+
+---
+
+## 📁 Datasets Used
+
+We documented and curated all our datasets in the
+[`/1_datasets/`](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-15-repo/tree/main/1_datasets)
+folder of our GitHub repository. This includes both modeling-ready and
+contextual datasets, each with relevant metadata and cleaning scripts in the [`/2_data_preparation/`](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-15-repo/tree/main/2_data_preparation)
+folder.
+
+**Key features include:**
+
+- BNPL usage patterns, credit intention, and financial behavior metrics  
+- Traditional loan characteristics, defaults, and borrower traits  
+- Credit access and maturity structure from macro-level sources  
+
+For a full list and details, visit: [`/1_datasets/`](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-15-repo/tree/main/1_datasets)
+
+Each dataset was preprocessed in the
+[`/2_data_preparation/`](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-15-repo/tree/main/2_data_preparation)
+folder with steps including:
+
+- Cleaning missing and anomalous values  
+- Standardizing time formats  
+- Renaming columns for clarity  
+- Merging and aggregating loan segments  
+
+> **Note**: Some datasets such as *FRBNY SCE* were used more for contextual
+> understanding and trend visualization, and not for predictive modeling
+> due to aggregated structure.
 
 ## 👥 Meet the Team
 
