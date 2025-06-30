@@ -1,35 +1,35 @@
 # Data Dictionary for ACLED's Palestine-Israel conflict Events Data
 
-| **Variable**         | **Name**                     | **Type**    | **Description**                                                    |
-| -------------------- | ---------------------------- | ----------- | ------------------------------------------------------------------ |
-| `event_id_cnty`      | Event ID (Country)           | String      | Unique identifier per event, with country prefix (e.g., ISR46155). |
-| `event_date`         | Event Date                   | Date        | Date the event occurred (YYYY-MM-DD).                              |
-| `year`               | Year                         | Integer     | Year extracted from event\_date.                                   |
-| `time_precision`     | Time Precision               | Integer     | Indicates how accurate the date is (1 = day, 2 = week, etc.).      |
-| `disorder_type`      | Disorder Type                | Categorical | Type of disorder, e.g., "Political violence".                      |
-| `event_type`         | Event Type                   | Categorical | High-level classification, e.g., "Explosions/Remote violence".     |
-| `sub_event_type`     | Sub Event Type               | Categorical | Specific action type, e.g., "Shelling/artillery/missile attack".   |
-| `actor1`             | Primary Actor 1              | Categorical | Actor initiating the action (e.g., "Military Forces of Iran").     |
-| `assoc_actor_1`      | Associated Actor 1           | Categorical | Supporting group for actor1 (if any).                              |
-| `inter1`             | Actor 1 Type Code            | Integer     | Code describing actor1’s type, e.g., "3" for external forces.      |
-| `actor2`             | Target Actor 2               | Categorical | Targeted group or actor.                                           |
-| `assoc_actor_2`      | Associated Actor 2           | Categorical | Supporting group for actor2 (if any).                              |
-| `inter2`             | Actor 2 Type Code            | Integer     | Code describing actor2’s type.                                     |
-| `interaction`        | Actor Interaction Type       | String      | Interaction between actor1 and actor2 types.                       |
-| `civilian_targeting` | Civilian Targeting Indicator | String      | Indicates if civilians were directly targeted.                     |
-| `iso`                | ISO Code                     | Integer     | ISO country numeric code (e.g., 376 = Israel).                     |
-| `region`             | Region Name                  | String      | Name of the larger region (e.g., Middle East).                     |
-| `country`            | Country Name                 | String      | Name of the country where the event occurred.                      |
-| `admin1`             | Admin Level 1                | String      | First-level administrative division (e.g., Haifa).                 |
-| `admin2`             | Admin Level 2                | String      | Second-level administrative division (e.g., Beer Sheva).           |
-| `admin3`             | Admin Level 3                | String      | Third-level administrative division (e.g., Hula Basin).            |
-| `location`           | Location                     | String      | Specific named place where event occurred.                         |
-| `latitude`           | Latitude                     | Float       | Geographic coordinate (decimal degrees).                           |
-| `longitude`          | Longitude                    | Float       | Geographic coordinate (decimal degrees).                           |
-| `geo_precision`      | Location Precision           | Integer     | Precision code: 1 = city, 2 = region, 3 = rough area.              |
-| `source`             | Information Sources          | String      | List of reporting outlets or platforms.                            |
-| `source_scale`       | Source Scale                 | String      | Scope of source (e.g., "National", "Local partner-New media").     |
-| `notes`              | Notes                        | Text        | Detailed textual description of the event.                         |
-| `fatalities`         | Fatalities Count             | Integer     | Number of deaths caused by the event (0+).                         |
-| `tags`               | Tags                         | String      | Optional tags (e.g., classification, theme).                       |
-| `timestamp`          | Data Timestamp               | Integer     | UNIX timestamp of last update (e.g., 1750721820).                  |
+| **Variable**       | **Full Variable Name**        | **Dataset Variable Name** | **Unit/Format**         | **Type**    | **Possible Value Ranges**                 | **Description**       | **Data Origin**     |
+| ------------------ | ----------------------------- | ------------------------- | ----------------------- | ----------- | ----------------------------------------- | ----------------------- | ------------------- |
+| Event ID           | Unique Country Event ID       | `event_id_cnty`           | String (e.g., ISR46155) | Identifier  | Country code + numeric ID     | Unique identifier for each event in the country-specific ACLED dataset. | ACLED-style dataset |
+| Event Date         | Date of Event                 | `event_date`              | Date (YYYY-MM-DD)       | Temporal    | Any valid date                            | Date when the event occurred.         | ACLED-style dataset |
+| Year               | Event Year                    | `year`                    | Integer                 | 2020–2025   | Year when the event took place.           | Derived from event\_date          |                     |
+| Time Precision     | Temporal Accuracy             | `time_precision`          | Integer (0–3)           | Categorical | 1 = exact date, 2 = approx, etc.          | Indicates how precise the date is.             | ACLED specification |
+| Disorder Type      | Conflict Classification       | `disorder_type`           | String                  | Category    | "Political violence", etc.                | Broad conflict classification.         | ACLED               |
+| Event Type         | Event Group                   | `event_type`              | String                  | Category    | "Explosions/Remote violence", etc.        | Primary event type classification.| ACLED               |
+| Sub Event Type     | Specific Event Category       | `sub_event_type`          | String                  | Category    | e.g., "Shelling/artillery/missile attack" | More detailed event classification.       | ACLED               |
+| Actor 1            | Primary Actor                 | `actor1`                  | String                  | Categorical | Various armed/political groups            | Group initiating the action.      | ACLED               |
+| Assoc. Actor 1     | Associated with Actor 1       | `assoc_actor_1`           | String or Null          | Categorical | Optional                                  | Supporting actor for Actor 1.        | ACLED               |
+| Inter 1            | Actor 1 Type Code             | `inter1`                  | String or Integer       | Categorical | e.g., "State forces", "Political militia" | Actor 1 classification code.             | ACLED               |
+| Actor 2            | Targeted Actor                | `actor2`                  | String or Null          | Categorical | Optional                                  | Group being targeted in the event.        | ACLED               |
+| Assoc. Actor 2     | Associated with Actor 2       | `assoc_actor_2`           | String or Null          | Categorical | Optional                                  | Supporting actor for Actor 2.              | ACLED               |
+| Inter 2            | Actor 2 Type Code             | `inter2`                  | String or Integer       | Categorical | Optional                                  | Actor 2 classification code.       | ACLED               |
+| Interaction        | Combined Interaction Code     | `interaction`             | String                  | Categorical | e.g., "State forces-Civilians"            | Combined actor interaction code.           | Derived             |
+| Civilian Targeting | Civilian Involvement          | `civilian_targeting`      | String or Null          | Binary/Cat  | "Civilian targeting", null                | Whether civilians were directly targeted.        | ACLED               |
+| ISO                | ISO Country Code              | `iso`                     | Integer                 | Numeric     | e.g., 376 for Israel                      | Numeric ISO code for the country.      | ACLED               |
+| Region             | Geographic Region             | `region`                  | String                  | Categorical | e.g., "Middle East"                       | Region where the event occurred.        | ACLED               |
+| Country            | Country Name                  | `country`                 | String                  | Categorical | e.g., "Israel"                            | Country where the event took place.       | ACLED               |
+| Admin1             | First Administrative Division | `admin1`                  | String                  | Categorical | e.g., Haifa, HaDarom                      | Governorate or province.             | ACLED               |
+| Admin2             | Second Admin Division         | `admin2`                  | String                  | Categorical | District or municipality                  | Lower-level geographic unit.                | ACLED               |
+| Admin3             | Third Admin Division          | `admin3`                  | String                  | Categorical | e.g., "Hula Basin", "Beer Sheva"          | Smallest admin unit provided.            | ACLED               |
+| Location           | Specific Location Name        | `location`                | String                  | Categorical | e.g., Tel Aviv, Beeri                     | Reported event location.               | ACLED               |
+| Latitude           | Latitude                      | `latitude`                | Float                   | Numeric     | -90 to 90                                 | Geographic latitude.                      | ACLED               |
+| Longitude          | Longitude                     | `longitude`               | Float                   | Numeric     | -180 to 180                               | Geographic longitude.                  | ACLED               |
+| Geo Precision      | Location Accuracy Code        | `geo_precision`           | Integer (1–3)           | Categorical | 1 = city, 2 = district, 3 = broader area  | How accurate the geographic coding is.               | ACLED               |
+| Source             | Reporting Source(s)           | `source`                  | String (multi-source)   | Text        | e.g., Haaretz, N12                        | List of news/report sources used.               | ACLED               |
+| Source Scale       | Scale of Source               | `source_scale`            | String                  | Categorical | "Local partner-New media", etc.           | Granularity or origin level of reporting.      | ACLED               |
+| Notes              | Description/Context           | `notes`                   | Text                    | Free text   | Event summary                             | Detailed description of the event.   | ACLED               |
+| Fatalities         | Death Count                   | `fatalities`              | Integer                 | Numeric     | ≥ 0                                       | Number of people reported killed.        | ACLED               |
+| Tags               | Classification Tags           | `tags`                    | String or Null          | Optional    | e.g., coded violence category             | Tag for post-processing or classification.  | ACLED               |
+| Timestamp          | Data Pull Timestamp           | `timestamp`               | Integer (UNIX time)     | Numeric     | e.g., 1750721820       | When the data was last pulled or updated.                               | System-generated    |
