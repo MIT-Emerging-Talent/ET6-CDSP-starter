@@ -53,7 +53,7 @@ Each notebook includes:
 - Output of a cleaned CSV for downstream analysis
 
 Refer to each notebook for detailed steps and variable descriptions.
-=======
+
 This directory contains scripts and notebooks for cleaning and preparing our
 financial datasets for analysis. Each script processes specific datasets and
 outputs cleaned versions for use in our modeling and exploration work.
