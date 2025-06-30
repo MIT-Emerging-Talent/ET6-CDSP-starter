@@ -1,8 +1,8 @@
 # 🔄 Retrospective
 
-This document reflects on our team’s experience  
-during **Milestone 1_datasets (Data Collection)** of CDSP.  
-It outlines what we should stop, continue, and start doing, lessons learned,  
+This document reflects on our team’s experience
+during **Milestone 1_datasets (Data Collection)** of CDSP.
+It outlines what we should stop, continue, and start doing, lessons learned,
 and a comparison between our planned strategy and actual execution.
 
 ---
