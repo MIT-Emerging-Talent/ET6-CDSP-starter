@@ -49,14 +49,18 @@ Team members should **add their dataset summaries here** as they contribute.
 
 ---
 
-### 2. [Placeholder for Contributor]
+### 2. Crypto Access Barriers – Country × Exchange
 
-- **Description:** Add a short description of your dataset.
-- **Source:** Where you got it from.
+- **Description:** Documents whether individuals in Sudan, Afghanistan,
+  Lebanon, and Nigeria can register accounts on Binance, Coinbase, KuCoin,
+  Bybit, and Crypto.com. Includes KYC requirements and access limitations
+  (fiat, P2P, sanctions).
+- **Source:** Gathered from official exchange websites and help/support
+  pages.
 - **Data Source Notes:**  
-  Link to your Markdown documentation.
+  [crypto_access_country_barriers.md](./data_source_notes/crypto_access_country_barriers.md)
 - **Raw Dataset:**  
-  Link to your data file.
+  [crypto_access_country_barriers.csv](./raw_datasets/crypto_access_country_barriers.csv)
 
 ---
 
