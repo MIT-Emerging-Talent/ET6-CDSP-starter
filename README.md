@@ -36,6 +36,7 @@ ___
 ## 🔍 Explore Our Project
 
    **📄** To read the full background and detailed version, see
+   [Milestone 1: Problem Identification](0_domain_study/README.md)
    [Milestone 2: Data Collection](1_datasets/README.md)
 
 ### 🔹Problem Statement
