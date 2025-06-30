@@ -72,6 +72,7 @@ outputs cleaned versions for use in our modeling and exploration work.
 #### `05_clean_FRBNY-SCE-Credit-Access-complete_microdata.ipynb`
 
 - **Input**: `../1_datasets/raw_data/FRBNY-SCE-Credit-Access-complete_microdata.xlsx`
+  (Federal Reserve Bank of New York SCE Credit Access microdata)
 - **Purpose**: Brief overview notebook for SCE Credit Access microdata cleaning
 - **Use Case**: Introduction to the more comprehensive Python script below
 
@@ -80,6 +81,7 @@ outputs cleaned versions for use in our modeling and exploration work.
 #### `clean_FRBNY_SCE_microdata.py`
 
 - **Input**: `../1_datasets/raw_data/FRBNY-SCE-Credit-Access-complete_microdata.xlsx`
+  (Federal Reserve Bank of New York SCE Credit Access microdata)
 - **Purpose**: Comprehensive cleaning of Federal Reserve Bank of New York
   Survey of Consumer Expectations (SCE) Credit Access microdata (2013-2017)
 - **Processing**:
