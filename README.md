@@ -38,9 +38,9 @@ academic resources can be found in the
 - [Mohammed Elfadil](https://github.com/Moealfadil)
 - [Özgür Özbek](https://github.com/ozgurozbekuk)
 - [Hasan Zemzem](https://github.com/Hasan-Z)
-- [Kerth North](https://github.com/kerthnorth)
+- [Mukuna Kabeya](https://github.com/kerthnorth)
 - [Lana Musienko](https://github.com/lanamusienko)
-- [Mohamad Hasan](https://github.com/mohamad-755)
+- [Mohammad Ziadah](https://github.com/mohamad-755)
 
 ---
 
