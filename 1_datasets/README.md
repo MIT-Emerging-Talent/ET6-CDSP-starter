@@ -21,7 +21,7 @@ Additionally, we have **`non-technical explaination of domain modeling.md`** fil
 - This dataset is from the International Renewable Energy Agency, which
 is an intergovernmental organization that promotes the adoption and
 sustainable use of renewable energy worldwide.
-- It’s a quantitative dataset. The file consists of two sheets:
+- The file consists of two sheets:
 the first one is an ‘about’ file, and the other is the ‘data’ sheet that
 contains the actual data. The data sheet consists of 16 columns, namely:
 Region, UN sub-region, Country, IRENA label, ISO code, Flow, Group technology,
