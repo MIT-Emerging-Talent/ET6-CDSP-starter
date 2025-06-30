@@ -102,15 +102,15 @@ understand how to align data collection tightly with research goals.
 
 ### 🧠 Mohammed Elfadil Rabie Hussien
 
-My contribution was focused on **locating structured datasets** from NGOs, UN
-agencies, and development organizations that addressed financial access
-and refugee identity documentation. I helped compile and document datasets in
-our shared workspace and raised questions about **data coverage and consistency**.
-
-I also helped streamline collaboration by managing the way we labeled and
-categorized sources. This experience highlighted how essential proper
-data organization is for reducing confusion and avoiding duplication
-before we begin analysis.
+During this milestone, I focused on
+**finding statistical data related to migrants and blockchain technologies**.
+My work involved searching for datasets that specifically addressed the
+intersection of migration, and blockchain-based solutions.
+I evaluated the credibility and relevance of each dataset, ensuring they
+could support our research objectives. This process helped me develop a
+deeper understanding of the challenges in locating comprehensive and
+reliable data in this emerging field, and I contributed by sharing my
+findings with the team for further analysis.
 
 ---
 
