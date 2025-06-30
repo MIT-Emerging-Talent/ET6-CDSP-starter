@@ -102,3 +102,12 @@ evolving role of blockchain and remittance technologies.
 - **India**: 20M users; crypto-friendly remittance platforms.
 - **North America**: 16% of outbound remittances via blockchain.
 - **Middle East**: Growth led by the UAE; favorable crypto regulation.
+
+---
+
+## 📚 Sources
+
+- <https://www.experian.com/blogs/insights/the-case-for-financial-inclusion>  
+- <https://ec.europa.eu/eurostat/web/products-eurostat-news/-/ddn-20210202-2>  
+- <https://www.grandviewresearch.com/industry-analysis/digital-remittance-market>  
+- <https://datahorizzonresearch.com/global-remittance-market-48634>
