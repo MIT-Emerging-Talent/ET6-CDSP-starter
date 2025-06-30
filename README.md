@@ -99,8 +99,8 @@ folder with steps including:
 - Merging and aggregating loan segments  
 
 > **Note**: Some datasets such as *FRBNY SCE* were used more for contextual
->  understanding and trend visualization, and not for predictive modeling
->  due to aggregated structure.
+> understanding and trend visualization, and not for predictive modeling
+> due to aggregated structure.
 
 ## 👥 Meet the Team
 
