@@ -1,7 +1,7 @@
 <!-- markdownlint-disable MD013 MD033 MD032 MD049-->
 # Datasets
 
-we have a **`datasets_raw`** folder that contains the original raw files used in preprocessing.  
+we have a **`raw_data`** folder that contains the original raw files used in preprocessing.  
 Our data comes from the following sources:
 
 - **IRENA Renewable Energy Statistics** – Published by the *International Renewable Energy Agency (IRENA)*, this dataset provides annual data on renewable energy capacity and generation, including both on-grid and off-grid solar PV deployment across countries and regions.
@@ -89,3 +89,68 @@ Since the electric grid often _gets damaged or becomes unreliable during conflic
 
 > From the _Country_, _Region_, and _Global_ sheets, we aim to analyze how **armed conflicts influence solar PV deployment over time**. Specifically, we want to **compare conflict-affected versus non-conflict countries** to detect differences in growth, and examine **on-grid versus off-grid trends** to see if _conflicts are driving shifts toward off-grid solutions_ when infrastructure is damaged. _Regional groupings_ will help us identify **clusters or trends tied to specific conflict zones**. Additionally, **increases in solar capacity** can act as a _proxy for cleaner energy adoption_ in place of diesel or coal. The _Region_ and _Global_ sheets will provide **context—allowing us to contrast local deployment patterns in conflict areas with broader global and continental trends**, and assess whether **renewables are prioritized** or if _instability leads to a fallback on non-renewables_.
 ---
+
+## [UN Comtrade Imports Data](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/6f1a08ecd0694b2366bf9896625c5510f18b63b6/1_datasets/raw_data/UN_Comtrade_imports_dataset_raw.xlsx)
+
+- **The world's most comprehensive global trade data platform**
+The United Nations Comtrade database aggregates detailed global annual and monthly trade statistics by product and trading partner for use by governments, academia, research institutes, and enterprises. Data compiled by the United Nations Statistics Division covers approximately 200 countries and represents more than 99% of the world's merchandise trade. Information can be extracted in a variety of formats, including API developer tools for integration into enterprise applications and workflows.
+
+- **Possible flaws:**
+  - The tables have many columns that are irrelevant to our purpose.
+  - Some countries have missing data or no data at all.
+  - The need to be familiar with the HS Commodity code to be comfortable with it.
+
+- **How can someone recreate it?**
+  - _Step 1_: Go to the UN Comtrade Website
+    Navigate to the [modern data portal](https://comtradeplus.un.org/TradeFlow)
+
+  - _Step 2_: Open the Data Query Tool
+    On the homepage, click the large "Data" button in the main navigation menu at the top of the page. This will take you to the query builder.
+
+  - _Step 3_: Configure Your Query Filters
+  This is the most important part. You need to tell the database exactly what you're looking for. Fill out the filters on the left-hand side of the page.  
+    Type of Product: Keep this as Goods.  
+  **Frequency**: Select Annual.  
+  **Period**: Select the range of years you want. Click on the box, select 2012 from the start year dropdown, and 2023 (or the latest available year) from the end year dropdown.  
+  **Reporter**: This is the importing country. Click the box, type Nigeria, and select it from the list. (You can select multiple countries here if you want).  
+  **Partner**: To get total imports from the entire world, select World.  
+  Trade Flows: Select Import.  
+  **HS (as reported) commodity codes**: This is where you enter the product codes.
+
+  - _Step 4_: You can preview the data before downloading it in the preferred format.
+
+- **<p>How it is related to our problem?<br>**
+This data set provides detailed solar energy devices (panels, batteries, inverters) import data for the following countries in the period from 2007 to 2024:
+- Syria
+- Iraq
+- Sudan
+- South Sudan
+- Palestine
+- Mali
+- Ethiopia
+- Ukraine
+- Yemen
+- Libya
+- Afghanistan
+- Nigeria
+- Central African Republic
+- Somalia
+- Pakistan
+- Mozambique
+- Myanmar
+
+By observing this data set one can get valuable insights about the effect of conflicts and events on the overall deployment and use of solar energy. For example in 2013 in Pakistan a single coordinated attack in August  destroyed four 220 kV towers, cutting off some 100 MW to 15 districts and extending daily load‑shedding by several hours. By observing the imports data of solar panels and batteries to Pakistan in 2013 and 2014, one can notice a dramatic surge in the imported amounts of these products, which could indicate a clear shift to off grid solar energy as a result of that event (this is an initial observation that needs to be analyzed further to draw concrete results from it).
+
+- **Here is a table that provides brief descriptions for some of the HS commodity codes used in this data set:**
+
+| Category              | HS Code(s)        | Years      | Research Purpose                                                                 |
+|-----------------------|-------------------|------------|----------------------------------------------------------------------------------|
+| Solar Generation (DC) | 8541.40           | Before 2022 | Main code for all solar panels and semiconductor devices.|
+|                       |                   |            | Was split into 8541.41, 8541.42, 8541.43 after 2022.                             |
+| Solar Generation (DC) | 8541.42, 8541.43  | 2022+      | 8541.42: Bare photovoltaic cells (unassembled).                                  |
+|                       |                   |            | 8541.43: Assembled PV panels ready for mounting.                                |
+| Solar Generation (AC) | 8501.80           | 2022+      | For “AC Modules” – panels with built-in microinverters. Small but important.     |
+| Productive Use        | 8501.71, 8501.72  | 2022+       | Complete generator sets (panel + electronics). Reported as one commodity.        |
+|                       | 851310            | All Years  |Lamps; portable, electric, designed to function by their own source of energy (Solar Lanterns)|
+| Energy Storage        | 8507.60           | All years  | Lithium-ion batteries. Crucial for off-grid systems.                             |
+| Power Conversion      | 8504.40           | All years  | Static converters, including inverters and charge controllers.                  |
