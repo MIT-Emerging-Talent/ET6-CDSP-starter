@@ -1,8 +1,7 @@
 
 # 📦 Supply Chain Dataset Documentation
 
-Due to this uncertainty, we may not use this dataset in our final analysis,  
-but we have decided to keep it for reference and potential future use.
+We have worked with this data and discovered that certain key fields —  
 
 ---
 
