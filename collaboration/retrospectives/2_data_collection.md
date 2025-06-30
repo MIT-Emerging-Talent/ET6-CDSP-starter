@@ -97,3 +97,30 @@ part without discussing it with me.**
   someone else without team discussion. This led to some redundancy and
   frustration, and it highlighted the need for better respect for assigned
   responsibilities and clearer communication within the team.
+
+  ---
+
+## **Huda**
+
+### Contribution
+
+- I scraped raw data from Reddit about mental health apps and saved it as
+`reddit_mental_health_apps_data__by_[HUDA].csv`.
+- I then filtered posts related to Replika and saved them into
+`replika_reddit_data__by_[HUDA].csv` for focused analysis.
+- This work helps us explore how people talk about Replika beyond app reviews
+and ratings.
+
+#### What I Learned (personally)
+
+- This was my first time scraping data from Reddit, so the whole process was
+new to me.
+- I learned how to collect user-generated content and structure it for analysis.
+- I also saw the importance of clean file naming and documentation in teamwork.
+
+#### What I’m Focusing on Next (personally)
+
+- I’m focusing on learning and improving my data analysis skills to help analyze
+the Reddit data more effectively.
+- I plan to support the team by identifying patterns and contributing insights
+during the next milestone.
