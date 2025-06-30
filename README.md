@@ -149,7 +149,7 @@ ___
 |-----------|-------------------------------|--------------|-------------|
 | 0         | Team Setup & Collaboration    | ✅ Complete   | June 2      |
 | 1         | Define Research Question      | ✅ Complete    | June 16     |
-| 2         | Data Collection               | ⏳ Upcoming   | June 30     |
+| 2         | Data Collection               | ✅ Complete    | June 30     |
 | 3         | Analysis & Modeling           | ⏳ Upcoming   | July 21     |
 | 4         | Communication Strategy        | ⏳ Upcoming   | August 11   |
 | 5         | Final Presentation            | ⏳ Upcoming   | August 25   |
