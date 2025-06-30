@@ -88,7 +88,7 @@ for keyword in search_keywords:
                 try:
                     if detect(post_body) != "en":
                         continue
-                except:
+                except:  # noqa: E722
                     continue
 
                 content_hash = hashlib.md5(
