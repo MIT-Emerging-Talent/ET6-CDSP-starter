@@ -1,10 +1,5 @@
 # Data Preparation
 
-Adjusted Project Research Question:  
-**How have armed conflicts over the past 15 years influenced the deployment, capacity utilization, and household consumption of solar photovoltaic systems—both environmentally and socially—in conflict-affected communities?**
-
-These datasets provides a strong foundation for analyzing **solar energy** trends in *conflict-affected* countries. It helps us compare the **deployment** and **utilization** of *renewable sources*—particularly **solar**—between *conflict* and *non-conflict* areas, and track shifts between **on-grid** and **off-grid** solutions. Increased *off-grid* adoption may signal a response to *grid damage* or *instability*. Combined with **UN Comtrade** trade data, we can also observe how *conflicts* influence the **import** of *solar technologies*, offering further insight into how communities *adapt to energy disruptions*.
-
 ## On-Grid Data Preparation Script
 
 This script processes the **on-grid electricity data** from the IRENA dataset.
