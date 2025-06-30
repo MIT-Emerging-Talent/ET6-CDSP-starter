@@ -25,7 +25,8 @@ ___
 
 * **Track:** Collaborative Data Science Project (CDSP)
 * **Team Name:** DataCure 🧬
-* **Title:** Chatbot vs Human vs Hybrid Support in Mental Health Apps
+* **Title:** The Public Failure Analysis: Identifying Conversational Failures in
+Mental Health Chatbots
 * **Domain:** Digital Mental Health & Emotional Support Technologies
 * **Timeline:** May to August 2025
 * **Current Status:** 🛠️ In Progress (Milestone 1)
@@ -36,6 +37,7 @@ ___
 
    **📄** To read the full background and detailed version, see
    [Milestone 1: Problem Identification](0_domain_study/README.md)
+   [Milestone 2: Data Collection](1_datasets/README.md)
 
 ### 🔹Problem Statement
 
@@ -64,12 +66,12 @@ Each model has pros and cons, with success shaped by user context and needs.
 
 * **Goals**
 
-  * Compare emotional support across chatbot, human, and hybrid systems.
-
-  * Understand how culture shapes perceptions of empathy and trust.
-
-  * Deliver insights through data analysis and a final report/dashboard.
-  
+  * Systematically identify and categorize the most common user-reported failures
+   of mental health chatbots.
+  * Quantify the prevalence of these failure themes using public app store and
+  forum data.
+  * Compare failure themes between purely conversational AIs and a baseline
+  wellness app to isolate unique "conversational" failures.
 * **In Summary**
 
 To explores how mental health support—via chat-bots, humans, or hybrid
@@ -103,12 +105,12 @@ We chose to explore chatbot vs human support in mental health apps.
    **📄** To read the full Research Questions, see
  [Research Question](0_domain_study/research_question.md)
 
-To narrow our broad problem, we ask:  
+Our refined research question, which is achievable through public data analysis,
+is:  
 
-How well do free mental health chatbots (e.g., Wysa, Replika)  respond to a  
-set of high-risk user messages (e.g., self-harm, suicide, abuse), based on a  
-rubric aligned with professional guidelines—while accounting for technical and  
-ethical limits?
+**What are the most prevalent themes of user-reported conversational failure in
+leading mental health chatbots, and what do these themes reveal about the gap
+between user expectations for emotional support and current algorithmic capabilities?**
 
 This helps us focus our research on a specific, measurable aspect of the problem.
 
