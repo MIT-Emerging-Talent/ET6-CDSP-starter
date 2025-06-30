@@ -37,7 +37,7 @@ academic resources can be found in the
 
 - [Mohammed Elfadil](https://github.com/Moealfadil)
 - [Özgür Özbek](https://github.com/ozgurozbekuk)
-- [Hasan Zohdy](https://github.com/Hasan-Z)
+- [Hasan Zemzem](https://github.com/Hasan-Z)
 - [Mukuna Kabeya](https://github.com/kerthnorth)
 - [Lana Musienko](https://github.com/lanamusienko)
 - [Mohammad Ziadah](https://github.com/mohamad-755)
