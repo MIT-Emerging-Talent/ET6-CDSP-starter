@@ -102,7 +102,7 @@ affect three critical dimensions of solar deployment:
 ### Actionable Research Question
 
 
-> **How have armed conflicts over the past decade influenced the deployment,
+> **How have armed conflicts over the past 15 years influenced the deployment,
 > capacity utilization, and household consumption of solar photovoltaic
 > systems—both environmentally and socially—in conflict-affected communities?**
 
@@ -134,7 +134,7 @@ security challenges.
 
 ## Project Scope
 
-- **Time Period**: 10 years (2014-2024)
+- **Time Period**: 15 years (2010-2024)
 - **Renewable Energy Focus:** Solar Photovoltaic Systems 
 - **Geographic Regions:** Afghanistan, Sudan, Syria, Ukraine, Gaza
 - **Analysis Dimensions:** Deployment patterns, capacity utilization, household consumption.
@@ -146,9 +146,7 @@ To ground our data‑driven work in real‑world context, we've prepared a detai
 * **Patterns & trends** in how and where outages occur. 
 * **Underlying structures** that make the grid vulnerable. 
 * **Mental models** shaping decision‑making on both sides.  
-* **Potential interventions** from distributed solar microgrids to local maintenance committees.
-  
-
+* **Potential interventions** from distributed solar microgrids to local maintenance committ
 ```mermaid
 timeline
     title Project Timeline
