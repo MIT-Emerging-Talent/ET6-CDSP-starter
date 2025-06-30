@@ -52,7 +52,7 @@ Attendees: 4**
 + Retrsopective: Anyak
 + Background review (study domain): Mariia
 + Read.me : Ahd
-+ Group understanding - System Thinking + Git tag: Mohamed Talal
++ Group understanding - System Thinking + Git tag: Mohamed Altayeb, Abdallah Alnajjar
 
 ### Other notes
 
