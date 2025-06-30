@@ -71,16 +71,17 @@ in prioritizing which datasets are most usable for our analysis.
 
 ### 🧠 Hasan Zemzem
 
-During this milestone, I focused on
-**evaluating the relevance of potential data sources** to our research focus.
-I helped assess whether a dataset could meaningfully contribute to answering
-the question of whether blockchain-based identity and credit systems can
-help address financial exclusion among migrants and refugees.
-
-I also supported the team by reviewing sources to ensure they were credible
-and covered both financial access and identity-related themes.
-This experience taught me the importance of **framing clear criteria** for
-dataset selection early in the process.
+During this milestone, my primary focus was on identifying, evaluating, and meticulously
+documenting raw data sources essential for our research on financial inclusion for
+migrants and refugees. I comprehensively reviewed and assessed the relevance and
+credibility of various UN datasets, including the International Migrant Stock 2024
+and UNHCR Refugee Statistics. My work involved detailing the contents of these datasets,
+listing specific tables available, and ensuring they covered both financial access
+and identity themes. I also structured this information into a clear rawdata.md file,
+which includes details on access and content for datasets like the Refugee Economies
+(Oxford) dataset and the Refugee Financial Inclusion and Financial Health survey.
+This experience highlighted the crucial importance of establishing clear data selection
+criteria and thorough documentation from the outset of a project.
 
 ---
 
