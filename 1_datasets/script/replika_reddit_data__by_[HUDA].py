@@ -105,7 +105,7 @@ for keyword in search_keywords:
                     try:
                         if detect(comment.body) != "en":
                             continue
-                    except:
+                    except Exception:
                         continue
 
                     comment_body = comment.body
