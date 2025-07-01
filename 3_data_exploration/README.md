@@ -1,5 +1,7 @@
 # Data Exploration
 
+<!-- markdownlint-disable MD031 MD033 MD004 MD009 MD013 MD045 -->
+
 ## UN Comtrade data preparation script
 
 ### 1. **Input dataset**  
