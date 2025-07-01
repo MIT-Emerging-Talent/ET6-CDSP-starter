@@ -122,5 +122,10 @@
       "source.fixAll.ruff": "explicit",
       "source.organizeImports.ruff": "explicit"
     }
-  }
+  },
+  "cSpell.words": [
+    "Nazario",
+    "NLTK",
+    "stopwords"
+  ]
 }
