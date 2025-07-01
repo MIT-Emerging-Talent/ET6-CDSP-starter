@@ -132,22 +132,20 @@ during the next milestone.
 ### Contribution (Fevzi)
 
 - I created and maintained a separate repository:  
-  [App Review Scraper](https://github.com/fevziismailsahin/app-review-scraper).
+[App Review Scraper](https://github.com/fevziismailsahin/app-review-scraper).
 
 - Wrote Node.js scripts to scrape user reviews from the  
-  [Apple App Store](https://apps.apple.com) and  
-  [Google Play Store](https://play.google.com) using the RSS feed and  
-  `google-play-scraper`.
+[Apple App Store](https://apps.apple.com) and  
+[Google Play Store](https://play.google.com) using the RSS feed and  
+`google-play-scraper`.
 
 - Merged the reviews from both platforms, removed duplicates by ID, and  
-  exported the results in `.json` and `.csv` formats.
+exported the results in `.json` and `.csv` formats.
 
 - Saved all collected data in the  
-  [`data/`](https://github.com/fevziismailsahin/app-review-scraper/tree/main/data)  
-  folder inside the repo.
+`data/` folder inside the repo.
 
-- Organized the project with folders like  
-  [`/scripts`](https://github.com/fevziismailsahin/app-review-scraper/tree/main/scripts)
+- Organized the project with folders like `/scripts`
 
 ### What I Learned (Fevzi)
 
@@ -162,7 +160,7 @@ during the next milestone.
 ### What’s Next
 
 - Help with analyzing the collected reviews and comparing them with Reddit and  
-  other sources.
+other sources.
 
 - Identify patterns such as rating trends and user sentiment.
 
