@@ -129,27 +129,50 @@ during the next milestone.
 
 ## **Fevzi**
 
-### Contribution
+### Contribution (Fevzi)
 
-- I created and maintained a separate repository: [App Review Scraper](https://github.com/fevziismailsahin/app-review-scraper).
-- Wrote Node.js scripts to scrape user reviews from the [Apple App Store](https://apps.apple.com) and [Google Play Store](https://play.google.com) using the RSS feed and `google-play-scraper`.
-- Merged the reviews from both platforms, removed duplicates by ID, and exported the results in `.json` and `.csv` formats.
-- Saved all collected data in the [`data/`](https://github.com/fevziismailsahin/app-review-scraper/tree/main/data) folder inside the repo.
-- Organized the project with folders like [`/scripts`](https://github.com/fevziismailsahin/app-review-scraper/tree/main/scripts) and [`.github/workflows`](https://github.com/fevziismailsahin/app-review-scraper/tree/main/.github/workflows) to make it clean and reusable.
+- I created and maintained a separate repository:  
+  [App Review Scraper](https://github.com/fevziismailsahin/app-review-scraper).
 
-### What I Learned
+- Wrote Node.js scripts to scrape user reviews from the  
+  [Apple App Store](https://apps.apple.com) and  
+  [Google Play Store](https://play.google.com) using the RSS feed and  
+  `google-play-scraper`.
+
+- Merged the reviews from both platforms, removed duplicates by ID, and  
+  exported the results in `.json` and `.csv` formats.
+
+- Saved all collected data in the  
+  [`data/`](https://github.com/fevziismailsahin/app-review-scraper/tree/main/data)  
+  folder inside the repo.
+
+- Organized the project with folders like  
+  [`/scripts`](https://github.com/fevziismailsahin/app-review-scraper/tree/main/scripts)  
+  and  
+  [`.github/workflows`](https://github.com/fevziismailsahin/app-review-scraper/tree/main/.github/workflows)  
+  to make it clean and reusable.
+
+### What I Learned (Fevzi)
 
 - Improved my skills in scraping, working with large datasets, and deduplication.
+
 - Understood key differences between Apple and Google data formats and limitations.
+
 - Learned to structure a project clearly for both local use and automation.
+
 - Realized the value of consistency when collaborating with others.
 
 ### What’s Next
 
-- Help with analyzing the collected reviews and comparing them with Reddit and other sources.
+- Help with analyzing the collected reviews and comparing them with Reddit and  
+  other sources.
+
 - Identify patterns such as rating trends and user sentiment.
+
 - Make the scraper easier to reuse for different apps and languages.
 
 ### Future Plan for the Repository
 
-I am actively developing this repo into a public tool where **anyone can fetch app review data**, apply **custom filters**, and **download it in various formats (JSON, CSV, etc.)** directly through a **web interface**.
+I am actively developing this repo into a public tool where **anyone can fetch app
+review data**, apply **custom filters**, and **download it in various formats  
+(JSON, CSV, etc.)** directly through a **web interface**.
