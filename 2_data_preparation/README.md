@@ -27,20 +27,11 @@ The Zenodo phishing validation dataset (2024) includes 11 datasets gathered from
 - `Nazario.csv` is a well-known phishing corpus created by Jose Nazario in the mid-2000s using spam traps and public reports, containing phishing emails.
 - `Nazario_5.csv` was curated by combining legitimate messages to create a balanced dataset for classification; it includes both phishing and non-phishing emails.
 
-Our datset contains 1551 phishing and 1497 safe emails.Below we visually summarize the total class phishing and safe emails
-
-![Class Distribution](class_distribution.png)
-
-Other important things we will be looking at in order to better understand our data is the frequency of words
-
-![Frequent Words](top_words.png)
-
-And the existence of URL is another aspect we aim to analyze in phishing vs non phishing emails
-![URL_Existence](url_proportion.png)
+Our datset is composed of 1551 phishing and 1497 safe emails.
 
 ## Limitations of our data
 
-Our dataset is from early 200's, while still widely applicable, phishing emails are evolving significantly.
+Many of our emails are from early and mid 2000's, while still widely applicable, phishing emails are evolving significantly.
 
 Our research may incorporates some artificially constructed data and a few unknown combinations of sources. The Nazario_5 dataset fail to explicitly state where the non phishing originate from but were likely curated
 
@@ -62,8 +53,11 @@ Our final dataset after the cleaning script contains 1551 phishing and 1497 non-
 While our method gives us valuable insights, we’re aware of some limitations:
 
 - **Lack of Regional and Cultural Focus**: Our data is mostly global and not grouped by region or culture. Since writing styles vary across different places, this could limit how well our findings apply to specific populations.
+
 - **English-Only Data**: All of our analysis is based on emails written in English. This means our results may not apply to phishing messages written in other languages.
+
 - **Combining Different Datasets**: Our research brings together emails from different sources, which can sometimes lead to inconsistencies in how messages are labeled or formatted. This might affect the accuracy of our comparisons.
+
 - **Language Is Complex**: While mathematical models are powerful, they don’t always capture the full meaning behind language—like tone, sarcasm, or cultural references—which are often key parts of communication and deception.
 
 Despite these challenges, our goal is to use language-based patterns to better understand phishing techniques and support the development of tools that can detect these threats more effectively. In addition to the research above, we also aim to analyze features like punctuation marks, length, grammatical error rates,
