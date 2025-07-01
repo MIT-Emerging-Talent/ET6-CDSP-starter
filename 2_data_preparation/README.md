@@ -9,6 +9,8 @@ produces a cleaned dataset for further analysis or modeling.
 ### 01_clean_afdr_data.ipynb
 
 - **Purpose:** Cleans and prepares the USDA Agricultural Finance Databook
+  (Table A8) data (`afdr_a8.csv`), which contains quarterly loan volume
+  data for U.S. farms by loan size.
  (Table A8) data (`afdr_a8.csv`), which contains quarterly loan volume
  data for U.S. farms by loan size.
 - **Output:** `afdr_cleaned.csv` in `1_datasets/processed_datasets/`
@@ -16,6 +18,8 @@ produces a cleaned dataset for further analysis or modeling.
 ### 02_clean_afdr_charts.ipynb
 
 - **Purpose:** Cleans the USDA Agricultural Finance Databook (Table A2) data
+  (`afdr_charts.csv`), which provides national-level statistics on
+  non-real-estate farm loans (volume, interest rates, loan sizes, etc.).
  (`afdr_charts.csv`), which provides national-level statistics on
  non-real-estate farm loans (volume, interest rates, loan sizes, etc.).
 - **Note:** This dataset is for historical comparison and not used for modeling.
@@ -24,6 +28,8 @@ produces a cleaned dataset for further analysis or modeling.
 ### 03_clean_BNPL.ipynb
 
 - **Purpose:** Cleans a Kaggle-sourced BNPL dataset (`BNPL.csv`) with 1,000
+  customer records. This includes behavioral, financial, and demographic
+  features relevant to BNPL risk analysis.
  customer records, including behavioral, financial, and demographic
  features relevant to BNPL risk analysis.
 - **Output:** `BNPL_cleaned.csv` in `1_datasets/processed_datasets/`
@@ -31,6 +37,10 @@ produces a cleaned dataset for further analysis or modeling.
 ### 04_clean_BNPL_intention_to_use.ipynb
 
 - **Purpose:** Cleans a survey dataset (`BNPL Intention to use.xlsx`) from
+  IIM Lucknow, measuring young shoppers' intention to adopt BNPL services
+  via Likert-scale responses.
+- **Note:** This dataset is for exploratory analysis of attitudes and
+  intentions, not for modeling default risk.
  IIM Lucknow, measuring young shoppers' intention to adopt BNPL services
  via Likert-scale responses.
 - **Note:** This dataset is for exploratory analysis of attitudes and
@@ -40,6 +50,8 @@ produces a cleaned dataset for further analysis or modeling.
 ### 05_clean_FRBNY-SCE-Credit-Access-complete_microdata.ipynb
 
 - **Purpose:** Cleans the Federal Reserve Bank of New York SCE Credit Access
+  microdata (`FRBNY-SCE-Credit-Access-complete_microdata.xlsx`), covering
+  credit access, usage, and borrowing intentions from 2013–2017.
  microdata (`FRBNY-SCE-Credit-Access-complete_microdata.xlsx`), covering
  credit access, usage, and borrowing intentions from 2013–2017.
 - **Output:** `FRBNY_SCE_Credit_Access_cleaned.csv` in `1_datasets/processed_data/`
