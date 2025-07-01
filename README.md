@@ -246,6 +246,11 @@ _Who's behind all this? Meet the passionate minds driving this project:_
 - **[Mariia Ermishina](https://github.com/ermishina)**
 - **[Mohamed Altayeb](https://github.com/Mo-Altayeb)**
 - **[Mohamed Saeed👨‍💻](https://github.com/Tbaosman)**
+- **[Mohamed Elnajeeb](https://github.com/Mohamed-Elnageeb)**
+- **[Muhannad Assaf](https://github.com/MuhannadGTR)**
+- **[Eman Alfalouji](https://github.com/Emanfalouji)**
+- **[Zeinab Mohammed](https://github.com/Zeinab15)**
+- **[Maria Alejandra Cardeno](https://github.com/mariacommits)**
 
 ## [Contributing](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/CONTRIBUTING.md)
 
