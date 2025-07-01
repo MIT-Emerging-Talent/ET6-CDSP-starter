@@ -63,3 +63,7 @@ is worth being a little late.
 ### Raneem Rami
 
 In this milestone, I tried searching for useful datasets and started learning new things about how to work with data. I aim to keep improving and enhancing my knowledge about working with data.
+
+### Salem Amassi
+
+I have learned to narrow down my search to save time and take the initiative when other members can't be active enough.
