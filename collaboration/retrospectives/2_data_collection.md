@@ -147,10 +147,7 @@ during the next milestone.
   folder inside the repo.
 
 - Organized the project with folders like  
-  [`/scripts`](https://github.com/fevziismailsahin/app-review-scraper/tree/main/scripts)  
-  and  
-  [`.github/workflows`](https://github.com/fevziismailsahin/app-review-scraper/tree/main/.github/workflows)  
-  to make it clean and reusable.
+  [`/scripts`](https://github.com/fevziismailsahin/app-review-scraper/tree/main/scripts)
 
 ### What I Learned (Fevzi)
 
