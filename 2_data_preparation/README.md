@@ -33,7 +33,7 @@ Our datset is composed of 1551 phishing and 1497 safe emails.
 
 Many of our emails are from early and mid 2000's, while still widely applicable, phishing emails are evolving significantly.
 
- The Nazario_5 dataset fails to explicitly state where the non-phishing emails originate from but were likely curated
+The Nazario_5 dataset fails to explicitly state where the non-phishing emails originate from but were likely curated
 
 Since our dataset is partially processed and curated from multiple sources, we cannot fully verify whether label assignment or content preservation was performed without error during cleaning, merging, or formatting.
 
