@@ -9,26 +9,26 @@ _Displaced. Determined. Data-Driven._
 
 ## Project Overview
 
-We are a team united by purpose and shaped by displacement, using data science
- to drive real-world impact. This project applies data exploration, modeling,
+We are a team united by _purpose and shaped by displacement_, using data science
+ to **drive real-world impact.** This project applies data exploration, modeling,
  and visualization to explore how renewable energy, specifically solar energy (i.e. PV cells),
  serves as critical survival infrastructure in conflict-affected communities worldwide.
 
 
-<!-- markdownlint-disable MD031 MD033 MD004 MD009 MD013 MD045 -->
+<!-- markdownlint-disable MD031 MD033 MD004 MD009 MD013 MD045 MD001 -->
 ## [Domain Research & Background](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/0_domain_study/README.md)
 
 > Solar Energy acts as a vital **survival infrastructure** in conflict zones.
 
 Citizens in conflict-affected countries require stable electricity sources,
 yet ongoing clashes and targeted attacks on power infrastructure have
-severely disrupted their access to reliable power. 
+severely disrupted their access to reliable power.   
 This project examines how solar photovoltaic systems function not as 
 environmental solutions, but as **critical survival technology** that 
 enables families to maintain essential services when all
 other energy sources fail.
 
-### The Humanitarian Energy Crisis
+#### The Humanitarian Energy Crisis
 
 Armed conflicts create immediate survival challenges that go 
 far beyond traditional security concerns. As of 2024, over 130 million people
@@ -48,7 +48,7 @@ This energy poverty doesn't just limit comfort, it directly threatens
 survival by compromising medical services, water access, communication
 systems, and basic safety through adequate lighting.
 
-### Solar PV as Critical Survival Technology
+#### Solar PV as Critical Survival Technology
 
 In this context, solar photovoltaic systems have emerged not as environmental
 solutions, **but as survival infrastructure**. Unlike centralized power grids
@@ -101,12 +101,11 @@ affect three critical dimensions of solar deployment:
 
 ### Actionable Research Question
 
-
 > **How have armed conflicts over the past 15 years influenced the deployment,
 > capacity utilization, and household consumption of solar photovoltaic
 > systems—both environmentally and socially—in conflict-affected communities?**
 
-### Research Focus & Significance
+#### Research Focus & Significance
 
 By examining the relationships between conflict intensity,
 solar system adoption rates, capacity factors, and 
@@ -132,14 +131,14 @@ security challenges.
  increasingly recognize the need for resilient, sustainable,
  and decentralized energy solutions in conflicted areas.
 
-## Project Scope
+### Project Scope
 
 - **Time Period**: 15 years (2010-2024)
 - **Renewable Energy Focus:** Solar Photovoltaic Systems 
-- **Geographic Regions:** Afghanistan, Sudan, Syria, Ukraine, Gaza
+- **Geographic Regions:** Syria, Iraq, Sudan, South Sudan, Palestine, Mali, Ethiopia, Ukraine, Yemen, Libya, Afghanistan, Nigeria, Central African Republic, Somalia,Pakistan, Mozambique and Myanmar (17 countries)
 - **Analysis Dimensions:** Deployment patterns, capacity utilization, household consumption.
 
-## [Methodology & System Approach](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/0_domain_study/understanding_of_problem_domain.md)
+### [Methodology & System Approach](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/0_domain_study/understanding_of_problem_domain.md)
 
 To ground our data‑driven work in real‑world context, we've prepared a detailed [systems analysis](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/0_domain_study/understanding_of_problem_domain.md) of the electrical power challenges in conflict‑affected areas:
 
@@ -148,50 +147,21 @@ To ground our data‑driven work in real‑world context, we've prepared a detai
 * **Mental models** shaping decision‑making on both sides.  
 * **Potential interventions** from distributed solar microgrids to local maintenance committ
 
-<!-- markdownlint-disable MD031 MD033 MD013 MD001 MD04 MD045 MD049 MD041-->
-## Non- Technical Explanation of Domain Modeling
+<!-- markdownlint-disable MD031 MD033 MD013 MD001 MD04 MD045 MD049 MD041 MD022 MD042 MD018-->
 
-Our _"Solar Energy in Conflict Zones"_ project began with **domain modeling**. This is essentially creating a simplified map of how **solar power** integrates into the complex realities of **conflict**. It helps us visualize the **key players** and **connections** within these challenging environments.
+## [Data Collection]()
 
-We're looking at things like:
-<table>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/1_datasets/1_datasets/images/1.png" width="650"/></td>
-    <td><img src="https://raw.githubusercontent.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/1_datasets/1_datasets/images/2.png" width="300"/></td>
-  </tr>
-</table>
+### [Domain Modeling]()
 
-This model is our **plan** for understanding how **conflict**, **urgent needs**, and **solar solutions** work together. We're pointing out the **key issues** – like **destroyed power lines**, **families who've had to leave their homes**, and the **need to stay in touch**; and figuring out how **solar energy** becomes this crucial **"survival infrastructure."**
+The model focuses on three key ideas: solar’s evolving role across the **conflict lifecycle** (before and after conflict), its impact through **deployment**, **utilization**, and **household use**, and the reality that in data-scarce zones, we often rely on smart proxies to make sense of what's happening. It helps us answer a critical question: *how does solar energy help people survive when everything else fails?*
 
----
+### [Data Sets](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/1_datasets/README.md)
 
-### **From Concept to Data: The Core Ideas & Why It's Hard**
+1. **[Raw: Off-grid Renewable Energy Statistics 2024](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/1_datasets/raw_data/IRENA_OFGStats.raw.xlsx)** to _[Cleaned: Off-grid](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/2_data_preparation/IRENA_OFG_cleaned.ipynb)_
+2. **[Raw: On-grid Renewable Energy Statistics 2024](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/1_datasets/raw_data/IRENA_Stats_extract_2025_H1_raw.xlsx)** to _[Cleaned: On-grid](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/2_data_preparation/IRENA_ONG_cleaned.ipynb)_
+3. **[Raw: UN Comtrade data](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/1_datasets/raw_data/UN_Comtrade_imports_dataset_raw.xlsx)** to _[Cleaned: UN Comtrade](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/2_data_preparation/UN_comtrade_data_cleaning.ipynb)_
 
-To wrestle this incredibly complex issue into something we can actually analyze *data-wise*, our model focuses on a few **core ideas**:
-
-<table>
-  <tr>
-    <td style="vertical-align: top; width: 70%;">
-      <ul>
-        <li><strong>"Survival Infrastructure"</strong>: We're looking at <em>solar PV</em> as a <em>fundamental tool for human survival</em> - not just another <em>green tech solution</em>.</li>
-        <li><strong>Conflict Lifecycle</strong>: We break down solar's role across the <em>pre-conflict, active conflict, and post-conflict phases</em> – because its utility changes drastically through each.</li>
-        <li><strong>Three Pillars of Impact</strong>: To get measurable, we're zeroing in on <strong>Deployment Patterns, Capacity Utilization, and Household Consumption</strong>. These are our core measurable areas, directly feeding into our main research question.</li>
-      </ul>
-    </td>
-    <td style="vertical-align: top; width: 30%;">
-      <img src="https://raw.githubusercontent.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/1_datasets/1_datasets/images/3.png" width="2000">
-    </td>
-  </tr>
-</table>
-
-Turning this conceptual stuff into actual data means pinning down **measurable entities.** Things like specific conflict events (their intensity, where they happened), details about the solar systems themselves (capacity, installation type), and then using proxies for energy consumption where direct data is elusive
-
-But let’s be real; collecting data in *active conflict zones* presents major challenges:
-
-- **Data Scarcity & Reliability**: Comprehensive, consistent data? *Forget about it.* Ongoing conflict and access issues make it *extremely rare*.
-- **Bias & Underreporting**: Available data is often *incomplete*, *selective*, or *heavily biased*.
-- **Attribution Challenges**: It’s difficult to *isolate the exact impact of conflict* from other influencing factors.
-- **"Dark Data"**: And a ton of vital info, especially about informal energy use, just never gets recorded. It's 'dark data' for a reason.
+For more details refer to [/2_data_preparation](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/2_data_preparation) keeping all our cleaning, transformation, and prep scripts and [/3_data_exploration](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/3_data_exploration) exploring, visualizing, and get a feel for our datasets. 
 
 ---
 ```mermaid
@@ -236,9 +206,9 @@ project/
 
 ## Team Members
 
-<img align="right" width="250" height="auto" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3czk1Mm91em13OGpzbTBxaXhpYTlpbWtyNTR0OWdiY2pwazc3aGNneCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/8CtkDP78zAJ2BTGo2G/giphy.gif">
+<img align="right" width="350" height="auto" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3czk1Mm91em13OGpzbTBxaXhpYTlpbWtyNTR0OWdiY2pwazc3aGNneCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/8CtkDP78zAJ2BTGo2G/giphy.gif">
 
-_Who's behind all this? Meet the passionate minds driving this project:_
+_Who's behind all this? Meet the passionate minds Github driving this project:_
 
 - **ِ[Abdallah Alnajjar](https://github.com/theabdallahnjr)**
 - **[Ahd Basan](https://github.com/ahdbasan)**
@@ -256,7 +226,7 @@ _Who's behind all this? Meet the passionate minds driving this project:_
 
  To set up the project locally and understand our contribution guidelines, please see our [CONTRIBUTING.md](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/CONTRIBUTING.md) file.
 
-##  Notes
+##  [Notes](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/notes)
 
 This is a work in progress. More updates and details will be added soon to
 this readme. Stay tuned!
