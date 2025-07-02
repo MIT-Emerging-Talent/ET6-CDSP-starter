@@ -96,7 +96,13 @@ tasks upfront, and being more time-conscious as a team.
 
 ### Myat Charm
 
-> to be added
+> During this research phase, I realized that I'm still uncertain about where my
+> true interests lie, which made it harder for me to stay focused and motivated.
+> I also struggled with time management and found it challenging to keep up with
+> the pace set by my teammates. This experience showed me the importance of
+> self-direction and better personal planning. Moving forward, I want to spend
+> more time identifying my interests and developing habits that help me stay on
+> track and contribute more consistently to the team.
 
 ### Al-hassen Sabeeh
 
