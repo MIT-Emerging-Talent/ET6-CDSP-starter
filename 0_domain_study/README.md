@@ -2,11 +2,10 @@
 
 ## 📚 Background Review of Domain
 
-Media violence has been widely studied for its impact on emotional and behavioral
-responses. In reviewing the literature, we identified two major patterns worth exploring:
-one focused on **emotional desensitization**, and another centered around the
-**activism and civic engagement of Gen Z** — a generation deeply immersed in
-violent content from a young age.
+Media violence has been extensively studied for its effects on emotional and
+behavioral outcomes. Our literature review highlights two key areas of interest:
+the phenomenon of emotional desensitization, and the increasing engagement in
+activism and civic participation
 
 ---
 
@@ -58,32 +57,24 @@ real-world violence and injustice.
 
 ---
 
-### Our Focus: Gen Z and Activism
+### The Rise of Activism (Digital & Physical)
 
-While we did not find studies that directly connect media violence to activism, we
-chose to focus on **Gen Z** based on our own reasoning: this is the generation most
-exposed to violent content — through history education, real-time news coverage of
-conflicts and injustices, social media, violent entertainment, and gaming.
+While much of the literature has examined emotional desensitization due to media
+violence, we also observed a parallel trend worth exploring: the rise of both
+digital and physical activism.
 
-To explore our research question, we asked: *If Gen Z has grown up surrounded by
-violent media, how are they responding to it?* Are they becoming more numb, or
-more engaged?
+In recent years, large-scale movements have gained momentum through the power of
+social media and repeated exposure to graphic or violent content. From protests
+against racial injustice and police brutality to global campaigns for climate
+action and human rights, people are increasingly mobilizing in response to the
+violence they witness online and through other media.
 
-We found several studies that show Gen Z is increasingly active in civic and
-political life:
-
-- [**Ipsos Independence Day 2024 Report**](https://www.ipsos.com/sites/default/files/Independence%20Day%20Infographic%20%2724%20v4%20%28Final%29_0.pdf)
-: Gen Z is **61% more likely** to attend
-a protest or rally than older generations.
-- A [PMC study](https://pmc.ncbi.nlm.nih.gov/articles/PMC3158614/) notes lower
-trust in institutions among Gen Z, which may be driving them toward community-based
-activism.
-- The [Brennan Center](https://www.brennancenter.org/events/millennials-gen-z-and-civic-engagement)
-emphasizes how Gen Z uses digital tools to organize and engage in civic discourse.
-- The [PPIC](https://www.ppic.org/blog/video-are-younger-generations-committing-less-crime/)
-reports that Gen Z is committing fewer violent crimes, possibly channeling their
-energy into activism instead.
-
-These findings don't make a direct causal connection — but they support our decision
-to study **Gen Z’s civic behavior** as a way to explore the potential social effects
-of growing up with constant exposure to media violence.
+- The [DNI Global Trends report](https://www.dni.gov/index.php/gt2040-home/gt2040-deeper-looks/future-of-public-activism)
+finds that global activism is rising due to increased connectivity, education,
+and public dissatisfaction.
+- The [United Way NCA survey](https://unitedwaynca.org/blog/gen-z-activism-survey/)
+shows that 32% of Gen Z are engaged in social justice efforts, with most
+participating both online and in person.
+- [Pew Research](https://www.pewresearch.org/internet/2023/06/29/americans-views-of-and-experiences-with-activism-on-social-media/)
+reports that nearly half of U.S. social media users have taken part in some form
+of digital activism in the past year.
