@@ -170,7 +170,8 @@ aims to develop meaningful, data-driven solutions to reduce delivery delays and
 improve the efficiency of retail supply chains.*
 
 [def]: image1.png
-# 📦 Data Modeling: Non-technical Explanation
+
+## 📦 Data Modeling: Non-technical Explanation
 
 In this project, we explore what causes delivery delays and operational risks in
 a real-world logistics network operating in Southern California. The dataset includes
@@ -262,4 +263,3 @@ The dataset may not contain many examples of high-impact disruptions such as nat
 disasters, labor strikes, or system-wide breakdowns. As a result, models trained
 on this data may not perform well under rare but critical scenarios that demand
 fast and accurate predictions.
-
