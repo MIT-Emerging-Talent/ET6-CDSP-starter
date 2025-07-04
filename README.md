@@ -232,7 +232,7 @@ are both timely and actionable during live operations.
 
 ## 🔄 Delivery Modeling Flow
 
-![alt text](modeling_flow-2.png)
+![modeling_flow](https://github.com/user-attachments/assets/57e280a4-e092-460e-a8ed-85790c50f8f5)
 
 ## Limitations of the Model
 
@@ -251,17 +251,10 @@ analyze trends regionally or understand how geography affects delivery performan
 
 ### No Product Type Information
 
-All shipments are treated the same, regardless of what’s being delivered. However,
+All shipments are treated thesame, regardless of what’s being delivered. However,
 different types of cargo—such as perishable food, electronics, or industrial
 equipment—may be more or less sensitive to delays or environmental conditions. Without
 this information, the model may overlook key risk differences.
-
-### Simplified Model Assumptions
-
-The modeling approach often assumes that relationships between inputs and outcomes
-are clean and predictable (e.g., more traffic equals more delay). In reality, logistics
-systems are highly interconnected and can exhibit non-linear behaviors that are
-difficult to fully capture using static features alone.
 
 ### Limited Extreme Disruption Data
 
