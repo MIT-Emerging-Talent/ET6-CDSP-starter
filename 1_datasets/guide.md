@@ -177,7 +177,7 @@ Data that describes qualities or characteristics of what you want to study.
 ### Observational Data
 
 - **Definition**: Collected through observation without direct intervention
-- **Examples**: Traffic patterns, wildlife behavior, market trends
+- **Examp les**: Traffic patterns, wildlife behavior, market trends
 - **Characteristics**:
   - Natural setting
   - No manipulation of variables
